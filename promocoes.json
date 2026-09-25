@@ -1,14 +1,14 @@
 [
   {
-    "titulo": "Nova Oferta do WhatsApp",
-    "categoria": "tech",
-    "categoriaNome": "Achadinho",
-    "loja": "Amazon",
+    "titulo": "",
+    "categoria": "",
+    "categoriaNome": "",
+    "loja": "",
     "precoDe": "",
-    "precoPor": "Consulte",
+    "precoPor": "",
     "desconto": "",
-    "detalheExtra": "🔥 Oferta imperdível",
-    "imagem": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
-    "linkWhatsapp": "#"
+    "detalheExtra": "",
+    "imagem": "",
+    "linkWhatsapp": ""
   }
 ]
