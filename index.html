@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JUNÃO PROMOÇÃO - Melhores Ofertas, Achadinhos e Cupons</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        amber: {
+                            400: '#fbbf24',
+                            500: '#f59e0b',
+                            600: '#d97706',
+                        },
+                        gold: {
+                            500: '#d4af37',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        body {
+            background-image: linear-gradient(rgba(9, 9, 11, 0.85), rgba(9, 9, 11, 0.92)), url('logo.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body class="text-zinc-100 min-h-screen flex flex-col font-sans selection:bg-amber-500 selection:text-zinc-950">
+
+    <!-- Header / Barra de Pesquisa e Marca -->
+    <header class="bg-zinc-950/90 backdrop-blur-md sticky top-0 z-50 border-b border-zinc-800/80 px-4 py-4 shadow-2xl">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
+            <div class="flex items-center gap-3">
+                <a href="#" class="flex items-center gap-3">
+                    <img src="logo.jpg" alt="Junão Promoção Logo" class="h-11 w-auto rounded-xl border-2 border-amber-500/50 shadow-lg">
+                    <span class="text-xl font-black tracking-wider text-amber-400 hidden sm:inline">JUNÃO <span class="text-white">PROMOÇÃO</span></span>
+                </a>
+            </div>
+            
+            <!-- Barra de Pesquisa -->
+            <div class="w-full md:w-1/3 relative">
+                <input type="text" id="searchInput" onkeyup="filterProducts()" placeholder="Pesquisar produto, marca ou cupom..." class="w-full bg-zinc-900/90 border border-zinc-700 rounded-xl px-4 py-2.5 pl-10 text-sm text-zinc-100 placeholder-zinc-400 focus:outline-none focus:border-amber-500 transition shadow-inner">
+                <span class="absolute left-3.5 top-3 text-amber-500 text-sm">🔍</span>
+            </div>
+
+            <!-- Botões WhatsApp Topo -->
+            <div class="flex flex-wrap items-center justify-center gap-2">
+                <a href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="nofollow" class="bg-amber-600 hover:bg-amber-500 text-zinc-950 text-xs font-extrabold px-3.5 py-2 rounded-xl flex items-center gap-1.5 transition shadow-md">
+                    <span>💬</span> Grupo VIP
+                </a>
+                <a href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI" target="_blank" rel="nofollow" class="bg-amber-600 hover:bg-amber-500 text-zinc-950 text-xs font-extrabold px-3.5 py-2 rounded-xl flex items-center gap-1.5 transition shadow-md">
+                    <span>🐾</span> Grupo Pets
+                </a>
+                <a href="https://whatsapp.com/channel/0029Vb8CUEd7j6fxBu2iEI2R" target="_blank" rel="nofollow" class="bg-zinc-900 hover:bg-zinc-800 text-zinc-200 text-xs font-bold px-3.5 py-2 rounded-xl flex items-center gap-1.5 transition border border-zinc-700">
+                    <span>📢</span> Canal Oficial
+                </a>
+            </div>
+        </div>
+
+        <!-- Categorias por Tema -->
+        <div class="max-w-7xl mx-auto flex items-center gap-2 overflow-x-auto pt-4 pb-1 no-scrollbar">
+            <button onclick="filterCategory('todos')" class="cat-btn bg-amber-500 text-zinc-950 text-xs px-4 py-1.5 rounded-full font-bold whitespace-nowrap transition shadow-md">Todos</button>
+            <button onclick="filterCategory('casa')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Casa & Eletro</button>
+            <button onclick="filterCategory('tech')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Eletrônicos & Tech</button>
+            <button onclick="filterCategory('beleza')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Beleza & Moda</button>
+            <button onclick="filterCategory('pets')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Pets & Toys</button>
+        </div>
+
+        <!-- Categorias por Lojas -->
+        <div class="max-w-7xl mx-auto flex items-center gap-2 overflow-x-auto pt-2 pb-1 no-scrollbar border-t border-zinc-800/50 mt-2">
+            <span class="text-[11px] font-bold text-amber-400 whitespace-nowrap uppercase tracking-wider">Lojas:</span>
+            <button onclick="filterStore('todos')" class="store-btn bg-zinc-800 text-amber-300 text-[11px] px-3 py-1 rounded-lg font-bold whitespace-nowrap transition border border-amber-500/30">Todas Lojas</button>
+            <button onclick="filterStore('Amazon')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Amazon</button>
+            <button onclick="filterStore('Shopee')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Shopee</button>
+            <button onclick="filterStore('Mercado Livre')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Mercado Livre</button>
+            <button onclick="filterStore('Magazine')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Magazine</button>
+        </div>
+    </header>
+
+    <!-- Grade de Produtos Dinâmica -->
+    <main class="max-w-7xl mx-auto p-4 flex-grow w-full my-6">
+        <div class="mb-6 bg-gradient-to-r from-amber-500/10 via-amber-500/5 to-transparent border-l-4 border-amber-500 p-4 rounded-r-xl">
+            <p class="text-xs text-amber-300 font-medium">⚠️ <strong>Aviso Importante:</strong> Os preços, cupons e disponibilidade dos produtos listados abaixo podem sofrer alterações a qualquer momento pelas lojas parceiras.</p>
+        </div>
+
+        <div id="productGrid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            <div class="col-span-full text-center py-12 text-zinc-400">
+                <p class="text-sm">🔄 Carregando as melhores ofertas atualizadas...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Janela Flutuante do WhatsApp -->
+    <div class="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-2">
+        <div class="bg-zinc-900 text-amber-400 text-xs font-bold py-1.5 px-3 rounded-xl shadow-xl border border-zinc-800 animate-bounce hidden sm:block">
+            💬 Entre nos grupos VIP!
+        </div>
+        <div class="flex items-center gap-2">
+            <a href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI" target="_blank" rel="nofollow" class="bg-amber-600 hover:bg-amber-500 text-zinc-950 p-3.5 rounded-full shadow-2xl transition flex items-center justify-center font-bold text-lg" title="Grupo Pets WhatsApp">
+                🐾
+            </a>
+            <a href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="nofollow" class="bg-amber-500 hover:bg-amber-400 text-zinc-950 p-4 rounded-full shadow-2xl transition flex items-center justify-center font-extrabold text-xl scale-105" title="Grupo Principal WhatsApp">
+                💬
+            </a>
+        </div>
+    </div>
+
+    <!-- Rodapé -->
+    <footer class="bg-zinc-950 backdrop-blur-md border-t border-zinc-800/80 pt-10 pb-8 px-4 mt-auto text-zinc-400 text-xs">
+        <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+            <div class="space-y-3">
+                <div class="flex items-center gap-3">
+                    <img src="logo.jpg" alt="Logo" class="h-9 w-auto rounded-md border border-amber-500/30">
+                    <h4 class="text-white font-black text-sm tracking-wider uppercase">JUNÃO PROMOÇÃO</h4>
+                </div>
+                <p class="text-zinc-400 leading-relaxed text-xs">
+                    Sua central inteligente de achadinhos, cupons de desconto e ofertas imperdíveis verificadas nas maiores plataformas do Brasil.
+                </p>
+            </div>
+
+            <div class="space-y-3 md:col-span-2">
+                <h4 class="text-white font-black text-sm tracking-wider uppercase">Transparência e Divulgação de Afiliados</h4>
+                <div class="text-[11px] text-zinc-400 space-y-2.5 leading-relaxed bg-zinc-900/90 p-4 rounded-xl border border-zinc-800 shadow-inner">
+                    <p>
+                        <strong>Programa de Associados Amazon:</strong> O <strong>JUNÃO PROMOÇÃO</strong> participa do Programa de Associados da Amazon Serviços de Varejo do Brasil Ltda. Como Associado Amazon, ganhamos com qualificações de compras aplicáveis.
+                    </p>
+                    <p>
+                        Este site contém links de afiliados para plataformas parceiras (Shopee, Mercado Livre, Magazine Luiza). Quando você clica em um link de oferta e finaliza uma compra, podemos receber uma comissão sem custo adicional para você.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto pt-6 border-t border-zinc-800/80 text-center text-zinc-500">
+            <p>© 2026 JUNÃO PROMOÇÃO - Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Script com o link corrigido para junao-promo -->
+    <script>
+        let currentCategory = 'todos';
+        let currentStore = 'todos';
+        let produtosGlobais = [];
+
+        async function carregarProdutos() {
+            try {
+                const resposta = await fetch('https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json');
+                if (!resposta.ok) throw new Error('Não foi possível carregar os produtos.');
+                
+                produtosGlobais = await resposta.json();
+                renderizarProdutos(produtosGlobais);
+
+            } catch (erro) {
+                console.error(erro);
+                document.getElementById('productGrid').innerHTML = `
+                    <div class="col-span-full text-center py-12 text-red-400 bg-zinc-900/80 rounded-2xl border border-zinc-800">
+                        <p class="font-bold">Erro ao carregar as ofertas do arquivo JSON.</p>
+                        <p class="text-xs text-zinc-400 mt-1">Verifique se o arquivo promocoes.json está salvo no repositório junao-promo.</p>
+                    </div>`;
+            }
+        }
+
+        function renderizarProdutos(lista) {
+            const container = document.getElementById('productGrid');
+            
+            if (!lista || lista.length === 0) {
+                container.innerHTML = `
+                    <div class="col-span-full text-center py-12 text-zinc-400 bg-zinc-900/80 rounded-2xl border border-zinc-800">
+                        <p>Nenhuma oferta encontrada para esta seleção.</p>
+                    </div>`;
+                return;
+            }
+
+            container.innerHTML = '';
+
+            lista.forEach(produto => {
+                const card = document.createElement('div');
+                card.className = 'product-card bg-zinc-900/95 backdrop-blur-sm border border-zinc-800 rounded-2xl overflow-hidden flex flex-col justify-between hover:border-amber-500/60 transition shadow-xl group';
+                
+                card.setAttribute('data-category', produto.categoria || 'todos');
+                card.setAttribute('data-store', produto.loja || 'Amazon');
+                card.setAttribute('data-name', (produto.titulo || '').toLowerCase());
+
+                card.innerHTML = `
+                    <div>
+                        <div class="relative bg-white p-4 h-52 flex items-center justify-center">
+                            ${produto.desconto ? `<span class="absolute top-2.5 left-2.5 bg-red-600 text-white text-[11px] font-bold px-2 py-0.5 rounded-md shadow">${produto.desconto}</span>` : ''}
+                            <span class="absolute top-2.5 right-2.5 bg-amber-500 text-zinc-950 text-[10px] font-black px-2 py-0.5 rounded-md shadow">${produto.loja || 'Oferta'}</span>
+                            <img src="${produto.imagem}" alt="${produto.titulo}" class="max-h-full max-w-full object-contain group-hover:scale-105 transition duration-300">
+                        </div>
+                        <div class="p-4">
+                            <span class="text-[10px] uppercase font-bold text-amber-400 tracking-wider">${produto.categoriaNome || 'Achadinho'}</span>
+                            <h3 class="text-sm font-bold text-zinc-100 mt-1 line-clamp-2">${produto.titulo}</h3>
+                            ${produto.detalheExtra ? `
+                                <div class="bg-zinc-950/70 p-2 rounded-lg mt-2 border border-zinc-800 text-[11px] text-amber-300">
+                                    ${produto.detalheExtra}
+                                </div>
+                            ` : ''}
+                            <div class="mt-3">
+                                ${produto.precoDe ? `<span class="text-xs text-zinc-500 line-through">${produto.precoDe}</span>` : ''}
+                                <div class="text-lg font-extrabold text-amber-400">${produto.precoPor}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p-4 pt-0">
+                        <a href="${produto.linkWhatsapp || produto.link || '#'}" target="_blank" rel="nofollow" class="block w-full bg-amber-500 hover:bg-amber-400 text-zinc-950 text-center font-extrabold py-3 rounded-xl text-sm transition shadow-md">🛒 Pegar Oferta</a>
+                    </div>
+                `;
+                
+                container.appendChild(card);
+            });
+        }
+
+        function filterCategory(category) {
+            currentCategory = category;
+            const buttons = document.querySelectorAll('.cat-btn');
+
+            buttons.forEach(btn => {
+                btn.classList.remove('bg-amber-500', 'text-zinc-950', 'font-bold');
+                btn.classList.add('bg-zinc-900/80', 'text-zinc-300', 'border', 'border-zinc-800', 'font-medium');
+            });
+            event.target.classList.remove('bg-zinc-900/80', 'text-zinc-300', 'border', 'border-zinc-800', 'font-medium');
+            event.target.classList.add('bg-amber-500', 'text-zinc-950', 'font-bold');
+
+            applyFilters();
+        }
+
+        function filterStore(store) {
+            currentStore = store;
+            const buttons = document.querySelectorAll('.store-btn');
+
+            buttons.forEach(btn => {
+                btn.classList.remove('bg-zinc-800', 'text-amber-300', 'font-bold', 'border-amber-500/30');
+                btn.classList.add('bg-zinc-900/80', 'text-zinc-300', 'border-zinc-800', 'font-medium');
+            });
+            event.target.classList.remove('bg-zinc-900/80', 'text-zinc-300', 'border-zinc-800', 'font-medium');
+            event.target.classList.add('bg-zinc-800', 'text-amber-300', 'font-bold', 'border-amber-500/30');
+
+            applyFilters();
+        }
+
+        function filterProducts() {
+            applyFilters();
+        }
+
+        function applyFilters() {
+            const input = document.getElementById('searchInput').value.toLowerCase();
+            const cards = document.querySelectorAll('.product-card');
+
+            cards.forEach(card => {
+                const categoryMatch = (currentCategory === 'todos' || card.dataset.category === currentCategory);
+                const storeMatch = (currentStore === 'todos' || card.dataset.store === currentStore);
+                const nameMatch = card.dataset.name.includes(input);
+
+                if (categoryMatch && storeMatch && nameMatch) {
+                    card.style.display = 'flex';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        carregarProdutos();
+    </script>
+</body>
+</html>

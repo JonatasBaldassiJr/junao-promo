@@ -1,1 +1,50 @@
-{"key":{"remoteJid":"5516991799825-1530504473@g.us","fromMe":true,"id":"3EB097D74A398A5F5D0F4D","participant":"27943879315662@lid","addressingMode":"lid"},"pushName":"Junão","status":"SERVER_ACK","message":{"senderKeyDistributionMessage":{"groupId":"5516991799825-1530504473@g.us","axolotlSenderKeyDistributionMessage":{"0":51,"1":8,"2":225,"3":197,"4":150,"5":195,"6":2,"7":16,"8":93,"9":26,"10":32,"11":126,"12":246,"13":204,"14":112,"15":14,"16":51,"17":88,"18":109,"19":189,"20":82,"21":182,"22":94,"23":164,"24":7,"25":180,"26":129,"27":192,"28":132,"29":188,"30":184,"31":88,"32":25,"33":67,"34":158,"35":233,"36":108,"37":182,"38":52,"39":236,"40":41,"41":143,"42":108,"43":34,"44":33,"45":5,"46":110,"47":54,"48":136,"49":43,"50":117,"51":240,"52":210,"53":53,"54":245,"55":219,"56":45,"57":209,"58":98,"59":37,"60":91,"61":64,"62":145,"63":246,"64":89,"65":239,"66":51,"67":157,"68":26,"69":221,"70":240,"71":222,"72":221,"73":44,"74":75,"75":145,"76":99,"77":82}},"conversation":"_CHEIRO DE PATRÃO SEM GASTAR UMA FORTUNA CORRA 💸🔥_\n\n🛍️ *Perfume Club De Nuit Intense Da Armaf Edt 105ml Masculino*\n\n💥 *OFERTA ESPECIAL*\n~~R$ 299,00~~ ➜ \n🔥 *R$ 210,50*\n🏷️ *30% OFF*\n\n👇 *APROVEITE ENQUANTO ESTÁ DISPONÍVEL!*\n🛒 https://meli.la/1PBGWvs\n\n⏳ *Preço e estoque podem mudar sem aviso.*"},"contextInfo":null,"messageType":"conversation","messageTimestamp":1790368435,"instanceId":"b91a5e23-763f-43eb-a85f-0f8c98388d10","source":"web"}
+[
+  {
+    "titulo": "Fritadeira Sem Óleo Air Fryer 4L",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Eletro",
+    "loja": "Amazon",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 319,00",
+    "desconto": "36% OFF",
+    "detalheExtra": "⚡ Frete Grátis Prime",
+    "imagem": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "linkWhatsapp": "https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+  },
+  {
+    "titulo": "Smart TV LED 50 polegadas 4K",
+    "categoria": "tech",
+    "categoriaNome": "Eletrônicos & Tech",
+    "loja": "Magazine",
+    "precoDe": "R$ 2.899,00",
+    "precoPor": "R$ 2.199,00",
+    "desconto": "24% OFF",
+    "detalheExtra": "💳 Até 10x sem juros",
+    "imagem": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&q=80",
+    "linkWhatsapp": "https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+  },
+  {
+    "titulo": "Ração Premium para Cães Adultos 15kg",
+    "categoria": "pets",
+    "categoriaNome": "Pets & Toys",
+    "loja": "Shopee",
+    "precoDe": "R$ 149,90",
+    "precoPor": "R$ 99,90",
+    "desconto": "33% OFF",
+    "detalheExtra": "🎟️ Cupom de frete grátis aplicado",
+    "imagem": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?auto=format&fit=crop&w=600&q=80",
+    "linkWhatsapp": "https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI"
+  },
+  {
+    "titulo": "Kit Skincare Ácido Hialurônico",
+    "categoria": "beleza",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 120,00",
+    "precoPor": "R$ 79,90",
+    "desconto": "33% OFF",
+    "detalheExtra": "🚀 Entrega Full (Chega amanhã)",
+    "imagem": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
+    "linkWhatsapp": "https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+  }
+]
