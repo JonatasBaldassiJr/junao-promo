@@ -1,281 +1,1435 @@
+
 <!DOCTYPE html>
-<html lang="pt-BR" class="dark">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JUNÃO PROMOÇÃO - Melhores Ofertas, Achadinhos e Cupons</title>
-    <!-- Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            darkMode: 'class',
-            theme: {
-                extend: {
-                    colors: {
-                        amber: {
-                            400: '#fbbf24',
-                            500: '#f59e0b',
-                            600: '#d97706',
-                        },
-                        gold: {
-                            500: '#d4af37',
-                        }
-                    }
-                }
-            }
-        }
-    </script>
-    <style>
-        .no-scrollbar::-webkit-scrollbar {
-            display: none;
-        }
-        .no-scrollbar {
-            -ms-overflow-style: none;
-            scrollbar-width: none;
-        }
-        body {
-            background-image: linear-gradient(rgba(9, 9, 11, 0.85), rgba(9, 9, 11, 0.92)), url('logo.jpg');
-            background-size: cover;
-            background-position: center;
-            background-attachment: fixed;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#090b10">
+<meta name="description" content="Junão Promoção: ofertas e achadinhos da Amazon, Mercado Livre e Shopee.">
+
+<title>Junão Promoção | Achadinhos de hoje</title>
+
+<style>
+:root {
+  --gold: #ffbd45;
+  --gold2: #f17d18;
+  --blue: #45b8ff;
+  --ink: #090b10;
+  --muted: #a8aebc;
+  --border: rgba(255,255,255,.12);
+  --glass: rgba(18,22,32,.78);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: #f8f9fc;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif;
+  background: var(--ink);
+  min-height: 100vh;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background:
+    radial-gradient(ellipse at 15% 5%, rgba(27,117,207,.16), transparent 36%),
+    radial-gradient(ellipse at 90% 15%, rgba(244,126,21,.13), transparent 34%),
+    repeating-linear-gradient(
+      130deg,
+      rgba(255,255,255,.012) 0 2px,
+      transparent 2px 8px
+    ),
+    #090b10;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: linear-gradient(180deg, transparent, rgba(0,0,0,.15) 70%);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button, input {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.wrap {
+  width: min(1240px, calc(100% - 36px));
+  margin: auto;
+}
+
+.glass {
+  background: var(--glass);
+  border: 1px solid var(--border);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  box-shadow: 0 15px 55px rgba(0,0,0,.22);
+}
+
+/* CABEÇALHO */
+
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(8,10,15,.89);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(18px);
+}
+
+.top-inner {
+  min-height: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 950;
+  letter-spacing: -.5px;
+}
+
+.brand-symbol {
+  font-size: 26px;
+  font-weight: 1000;
+  font-style: italic;
+  background: linear-gradient(130deg, var(--blue), #f8f8fc 50%, var(--gold));
+  color: transparent;
+  background-clip: text;
+}
+
+.brand-name {
+  font-size: 17px;
+}
+
+.brand-name em {
+  font-style: normal;
+  color: var(--gold);
+}
+
+.top-links {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 11px 15px;
+  font-weight: 800;
+  font-size: 13px;
+  background: rgba(255,255,255,.06);
+  transition: .2s;
+}
+
+.btn:hover,
+.chip:hover {
+  border-color: var(--gold);
+  transform: translateY(-1px);
+}
+
+.btn.gold {
+  background: linear-gradient(110deg, var(--gold), var(--gold2));
+  color: #18120b;
+  border: 0;
+}
+
+/* BANNER PRINCIPAL */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  margin: 26px 0 25px;
+  border-radius: 25px;
+  min-height: 320px;
+  display: grid;
+  grid-template-columns: 1.1fr .9fr;
+  align-items: center;
+  padding: 35px 44px;
+  background: linear-gradient(
+    120deg,
+    rgba(11,16,29,.93),
+    rgba(18,20,29,.84)
+  );
+  border: 1px solid rgba(255,190,70,.24);
+  box-shadow: 0 20px 70px rgba(0,0,0,.4);
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 80% 20%, rgba(255,152,39,.14), transparent 48%),
+    radial-gradient(ellipse at 15% 90%, rgba(35,139,255,.14), transparent 45%);
+  pointer-events: none;
+}
+
+.hero > * {
+  position: relative;
+}
+
+.eyebrow {
+  color: var(--gold);
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.hero h1 {
+  font-size: clamp(30px, 4.3vw, 54px);
+  line-height: 1.08;
+  letter-spacing: -2px;
+  margin: 14px 0;
+}
+
+.hero h1 span {
+  background: linear-gradient(90deg, #ffe5a3, var(--gold2));
+  background-clip: text;
+  color: transparent;
+}
+
+.hero p {
+  max-width: 520px;
+  color: #c3c9d4;
+  line-height: 1.7;
+  margin: 0 0 24px;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.logo-frame {
+  justify-self: center;
+  position: relative;
+  width: min(100%, 410px);
+  aspect-ratio: 1.55;
+  display: grid;
+  place-items: center;
+}
+
+.logo-frame::before {
+  content: "";
+  position: absolute;
+  inset: 8%;
+  background: linear-gradient(
+    110deg,
+    rgba(42,144,255,.45),
+    rgba(255,158,24,.4)
+  );
+  filter: blur(55px);
+}
+
+.hero-logo {
+  position: relative;
+  width: 100%;
+  max-height: 300px;
+  object-fit: contain;
+  filter: drop-shadow(0 18px 22px rgba(0,0,0,.5));
+  border-radius: 15px;
+}
+
+.hero-logo-fallback {
+  font-size: clamp(60px, 10vw, 125px);
+  font-weight: 1000;
+  font-style: italic;
+  background: linear-gradient(125deg, var(--blue), white 45%, var(--gold));
+  background-clip: text;
+  color: transparent;
+}
+
+/* INFORMAÇÕES */
+
+.strip {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 0 0 30px;
+}
+
+.strip > div {
+  flex: 1;
+  min-width: 160px;
+  padding: 15px 18px;
+  border-radius: 14px;
+  color: #cbd1dc;
+  font-size: 13px;
+}
+
+.strip strong {
+  display: block;
+  color: white;
+  font-size: 17px;
+  margin-bottom: 4px;
+}
+
+/* OFERTAS */
+
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 17px;
+}
+
+.section-head h2 {
+  margin: 0 0 5px;
+  font-size: 26px;
+  letter-spacing: -.7px;
+}
+
+.section-head p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.search-area {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
+}
+
+.search {
+  flex: 1;
+  min-width: 230px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,.06);
+  border-radius: 12px;
+  padding: 14px 16px;
+  color: white;
+  outline: 0;
+}
+
+.search:focus {
+  border-color: var(--gold);
+}
+
+.filters {
+  display: flex;
+  gap: 9px;
+  overflow: auto;
+  padding: 3px 0 16px;
+  scrollbar-width: thin;
+}
+
+.chip {
+  white-space: nowrap;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,.05);
+  color: #d9deea;
+  border-radius: 99px;
+  padding: 10px 15px;
+  font-weight: 750;
+  font-size: 12px;
+  transition: .2s;
+}
+
+.chip.active {
+  background: linear-gradient(120deg, var(--gold), var(--gold2));
+  color: #1d1408;
+  border-color: transparent;
+}
+
+/* CARDS */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+  min-height: 170px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: 18px;
+  background: rgba(21,24,33,.83);
+  border: 1px solid var(--border);
+  box-shadow: 0 12px 30px rgba(0,0,0,.2);
+  transition: .2s;
+  min-width: 0;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255,189,69,.65);
+  box-shadow: 0 17px 36px rgba(0,0,0,.34);
+}
+
+.photo {
+  height: 205px;
+  background: linear-gradient(145deg, #fff, #e9ebf0);
+  display: grid;
+  place-items: center;
+  position: relative;
+  padding: 16px;
+}
+
+.photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.placeholder {
+  font-size: 65px;
+  color: #424651;
+  text-align: center;
+}
+
+.placeholder small {
+  display: block;
+  font-size: 12px;
+}
+
+.pill {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 6px 9px;
+  background: #1b1e27;
+  color: white;
+  border-radius: 7px;
+  font-size: 10px;
+  font-weight: 900;
+  box-shadow: 0 2px 8px #0004;
+}
+
+.pill.off {
+  left: 10px;
+  right: auto;
+  background: #dc303c;
+}
+
+.details {
+  padding: 17px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.category {
+  color: var(--gold);
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+
+.details h3 {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 10px 0 14px;
+  min-height: 63px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.old {
+  font-size: 12px;
+  color: #8e95a5;
+  text-decoration: line-through;
+  min-height: 17px;
+}
+
+.price {
+  font-size: 24px;
+  color: var(--gold);
+  font-weight: 950;
+  margin: 3px 0 10px;
+}
+
+.note {
+  font-size: 11px;
+  color: #bfc6d2;
+  margin-top: auto;
+}
+
+.buy {
+  display: block;
+  margin: 0 14px 14px;
+  text-align: center;
+  padding: 13px;
+  background: linear-gradient(120deg, var(--gold), var(--gold2));
+  color: #1c150d;
+  font-size: 13px;
+  font-weight: 950;
+  border-radius: 10px;
+}
+
+.buy:hover {
+  filter: brightness(1.09);
+}
+
+.empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  border: 1px dashed rgba(255,189,69,.3);
+  border-radius: 17px;
+  padding: 48px 15px;
+  color: #d5d9e2;
+  background: rgba(255,255,255,.025);
+}
+
+.empty strong {
+  display: block;
+  font-size: 19px;
+  margin-bottom: 8px;
+}
+
+.status {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* RODAPÉ */
+
+.foot {
+  border-top: 1px solid var(--border);
+  margin-top: 60px;
+  padding: 32px 0;
+  color: #aab0bd;
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+.foot strong {
+  color: var(--gold);
+}
+
+.float {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  background: linear-gradient(130deg, #39d578, #168b48);
+  border-radius: 99px;
+  padding: 15px;
+  color: white;
+  font-weight: 900;
+  box-shadow: 0 10px 28px #0009;
+  z-index: 8;
+  font-size: 13px;
+}
+
+/* CELULAR */
+
+@media (max-width: 1050px) {
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 760px) {
+  .hero {
+    grid-template-columns: 1fr;
+    padding: 27px 23px;
+  }
+
+  .logo-frame {
+    grid-row: 1;
+    max-width: 280px;
+    aspect-ratio: 2.4;
+  }
+
+  .hero-logo {
+    max-height: 160px;
+  }
+
+  .hero h1 {
+    letter-spacing: -1px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 11px;
+  }
+
+  .photo {
+    height: 160px;
+  }
+
+  .details {
+    padding: 12px;
+  }
+
+  .price {
+    font-size: 20px;
+  }
+
+  .top-inner {
+    padding: 12px 0;
+  }
+
+  .brand-name {
+    font-size: 14px;
+  }
+
+  .top-links .btn {
+    font-size: 11px;
+    padding: 9px;
+  }
+}
+
+@media (max-width: 390px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .photo {
+    height: 240px;
+  }
+
+  .top-links {
+    width: 100%;
+  }
+}
+</style>
 </head>
-<body class="text-zinc-100 min-h-screen flex flex-col font-sans selection:bg-amber-500 selection:text-zinc-950">
 
-    <!-- Header / Barra de Pesquisa e Marca -->
-    <header class="bg-zinc-950/90 backdrop-blur-md sticky top-0 z-50 border-b border-zinc-800/80 px-4 py-4 shadow-2xl">
-        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-            <div class="flex items-center gap-3">
-                <a href="#" class="flex items-center gap-3">
-                    <img src="logo.jpg" alt="Junão Promoção Logo" class="h-11 w-auto rounded-xl border-2 border-amber-500/50 shadow-lg">
-                    <span class="text-xl font-black tracking-wider text-amber-400 hidden sm:inline">JUNÃO <span class="text-white">PROMOÇÃO</span></span>
-                </a>
-            </div>
-            
-            <!-- Barra de Pesquisa -->
-            <div class="w-full md:w-1/3 relative">
-                <input type="text" id="searchInput" onkeyup="filterProducts()" placeholder="Pesquisar produto, marca ou cupom..." class="w-full bg-zinc-900/90 border border-zinc-700 rounded-xl px-4 py-2.5 pl-10 text-sm text-zinc-100 placeholder-zinc-400 focus:outline-none focus:border-amber-500 transition shadow-inner">
-                <span class="absolute left-3.5 top-3 text-amber-500 text-sm">🔍</span>
-            </div>
+<body>
 
-            <!-- Botões WhatsApp Topo -->
-            <div class="flex flex-wrap items-center justify-center gap-2">
-                <a href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="nofollow" class="bg-amber-600 hover:bg-amber-500 text-zinc-950 text-xs font-extrabold px-3.5 py-2 rounded-xl flex items-center gap-1.5 transition shadow-md">
-                    <span>💬</span> Grupo VIP
-                </a>
-                <a href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI" target="_blank" rel="nofollow" class="bg-amber-600 hover:bg-amber-500 text-zinc-950 text-xs font-extrabold px-3.5 py-2 rounded-xl flex items-center gap-1.5 transition shadow-md">
-                    <span>🐾</span> Grupo Pets
-                </a>
-                <a href="https://whatsapp.com/channel/0029Vb8CUEd7j6fxBu2iEI2R" target="_blank" rel="nofollow" class="bg-zinc-900 hover:bg-zinc-800 text-zinc-200 text-xs font-bold px-3.5 py-2 rounded-xl flex items-center gap-1.5 transition border border-zinc-700">
-                    <span>📢</span> Canal Oficial
-                </a>
-            </div>
-        </div>
+<header class="top">
+  <div class="wrap top-inner">
 
-        <!-- Categorias por Tema -->
-        <div class="max-w-7xl mx-auto flex items-center gap-2 overflow-x-auto pt-4 pb-1 no-scrollbar">
-            <button onclick="filterCategory('todos')" class="cat-btn bg-amber-500 text-zinc-950 text-xs px-4 py-1.5 rounded-full font-bold whitespace-nowrap transition shadow-md">Todos</button>
-            <button onclick="filterCategory('casa')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Casa & Eletro</button>
-            <button onclick="filterCategory('tech')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Eletrônicos & Tech</button>
-            <button onclick="filterCategory('beleza')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Beleza & Moda</button>
-            <button onclick="filterCategory('pets')" class="cat-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-xs px-4 py-1.5 rounded-full font-medium border border-zinc-800 whitespace-nowrap transition">Pets & Toys</button>
-        </div>
+    <a class="brand" href="/">
+      <span class="brand-symbol">JP</span>
+      <span class="brand-name">
+        JUNÃO <em>PROMOÇÃO</em>
+      </span>
+    </a>
 
-        <!-- Categorias por Lojas -->
-        <div class="max-w-7xl mx-auto flex items-center gap-2 overflow-x-auto pt-2 pb-1 no-scrollbar border-t border-zinc-800/50 mt-2">
-            <span class="text-[11px] font-bold text-amber-400 whitespace-nowrap uppercase tracking-wider">Lojas:</span>
-            <button onclick="filterStore('todos')" class="store-btn bg-zinc-800 text-amber-300 text-[11px] px-3 py-1 rounded-lg font-bold whitespace-nowrap transition border border-amber-500/30">Todas Lojas</button>
-            <button onclick="filterStore('Amazon')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Amazon</button>
-            <button onclick="filterStore('Shopee')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Shopee</button>
-            <button onclick="filterStore('Mercado Livre')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Mercado Livre</button>
-            <button onclick="filterStore('Magazine')" class="store-btn bg-zinc-900/80 hover:bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-lg font-medium border border-zinc-800 whitespace-nowrap transition">Magazine</button>
-        </div>
-    </header>
+    <nav class="top-links">
+      <a
+        class="btn"
+        href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+        target="_blank"
+        rel="noopener"
+      >
+        💬 Grupo VIP
+      </a>
 
-    <!-- Grade de Produtos Dinâmica -->
-    <main class="max-w-7xl mx-auto p-4 flex-grow w-full my-6">
-        <div class="mb-6 bg-gradient-to-r from-amber-500/10 via-amber-500/5 to-transparent border-l-4 border-amber-500 p-4 rounded-r-xl">
-            <p class="text-xs text-amber-300 font-medium">⚠️ <strong>Aviso Importante:</strong> Os preços, cupons e disponibilidade dos produtos listados abaixo podem sofrer alterações a qualquer momento pelas lojas parceiras.</p>
-        </div>
+      <a
+        class="btn"
+        href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI"
+        target="_blank"
+        rel="noopener"
+      >
+        🐾 Grupo Pets
+      </a>
 
-        <div id="productGrid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <div class="col-span-full text-center py-12 text-zinc-400">
-                <p class="text-sm">🔄 Carregando as melhores ofertas atualizadas...</p>
-            </div>
-        </div>
-    </main>
+      <a
+        class="btn gold"
+        href="https://whatsapp.com/channel/0029Vb8CUEd7j6fxBu2iEI2R"
+        target="_blank"
+        rel="noopener"
+      >
+        📢 Canal
+      </a>
+    </nav>
 
-    <!-- Janela Flutuante do WhatsApp -->
-    <div class="fixed bottom-6 right-6 z-50 flex flex-col items-end gap-2">
-        <div class="bg-zinc-900 text-amber-400 text-xs font-bold py-1.5 px-3 rounded-xl shadow-xl border border-zinc-800 animate-bounce hidden sm:block">
-            💬 Entre nos grupos VIP!
-        </div>
-        <div class="flex items-center gap-2">
-            <a href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI" target="_blank" rel="nofollow" class="bg-amber-600 hover:bg-amber-500 text-zinc-950 p-3.5 rounded-full shadow-2xl transition flex items-center justify-center font-bold text-lg" title="Grupo Pets WhatsApp">
-                🐾
-            </a>
-            <a href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="nofollow" class="bg-amber-500 hover:bg-amber-400 text-zinc-950 p-4 rounded-full shadow-2xl transition flex items-center justify-center font-extrabold text-xl scale-105" title="Grupo Principal WhatsApp">
-                💬
-            </a>
-        </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="hero">
+
+    <div>
+      <div class="eyebrow">
+        ⚡ Ofertas renovadas diariamente
+      </div>
+
+      <h1>
+        O achadinho certo.<br>
+        <span>Na hora certa.</span>
+      </h1>
+
+      <p>
+        Amazon, Mercado Livre e Shopee em um só lugar.
+        Promoções novas entram automaticamente e ficam
+        na vitrine por até 24 horas.
+      </p>
+
+      <div class="hero-actions">
+        <a class="btn gold" href="#ofertas">
+          🔥 Ver ofertas de hoje
+        </a>
+
+        <a
+          class="btn"
+          href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+          target="_blank"
+          rel="noopener"
+        >
+          Entrar no grupo ↗
+        </a>
+      </div>
     </div>
 
-    <!-- Rodapé -->
-    <footer class="bg-zinc-950 backdrop-blur-md border-t border-zinc-800/80 pt-10 pb-8 px-4 mt-auto text-zinc-400 text-xs">
-        <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-            <div class="space-y-3">
-                <div class="flex items-center gap-3">
-                    <img src="logo.jpg" alt="Logo" class="h-9 w-auto rounded-md border border-amber-500/30">
-                    <h4 class="text-white font-black text-sm tracking-wider uppercase">JUNÃO PROMOÇÃO</h4>
-                </div>
-                <p class="text-zinc-400 leading-relaxed text-xs">
-                    Sua central inteligente de achadinhos, cupons de desconto e ofertas imperdíveis verificadas nas maiores plataformas do Brasil.
-                </p>
-            </div>
+    <div class="logo-frame">
+      <img
+        class="hero-logo"
+        src="/logo.jpg"
+        alt="Logo JP Junão Promoção"
+        onerror="
+          this.style.display='none';
+          this.nextElementSibling.hidden=false;
+        "
+      >
 
-            <div class="space-y-3 md:col-span-2">
-                <h4 class="text-white font-black text-sm tracking-wider uppercase">Transparência e Divulgação de Afiliados</h4>
-                <div class="text-[11px] text-zinc-400 space-y-2.5 leading-relaxed bg-zinc-900/90 p-4 rounded-xl border border-zinc-800 shadow-inner">
-                    <p>
-                        <strong>Programa de Associados Amazon:</strong> O <strong>JUNÃO PROMOÇÃO</strong> participa do Programa de Associados da Amazon Serviços de Varejo do Brasil Ltda. Como Associado Amazon, ganhamos com qualificações de compras aplicáveis.
-                    </p>
-                    <p>
-                        Este site contém links de afiliados para plataformas parceiras (Shopee, Mercado Livre, Magazine Luiza). Quando você clica em um link de oferta e finaliza uma compra, podemos receber uma comissão sem custo adicional para você.
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="max-w-7xl mx-auto pt-6 border-t border-zinc-800/80 text-center text-zinc-500">
-            <p>© 2026 JUNÃO PROMOÇÃO - Todos os direitos reservados.</p>
-        </div>
-    </footer>
+      <span class="hero-logo-fallback" hidden>
+        JP
+      </span>
+    </div>
 
-    <!-- Script com o link corrigido para junao-promo -->
-    <script>
-        let currentCategory = 'todos';
-        let currentStore = 'todos';
-        let produtosGlobais = [];
+  </section>
 
-        async function carregarProdutos() {
-            try {
-                const resposta = await fetch('https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json');
-                if (!resposta.ok) throw new Error('Não foi possível carregar os produtos.');
-                
-                produtosGlobais = await resposta.json();
-                renderizarProdutos(produtosGlobais);
+  <section class="strip">
 
-            } catch (erro) {
-                console.error(erro);
-                document.getElementById('productGrid').innerHTML = `
-                    <div class="col-span-full text-center py-12 text-red-400 bg-zinc-900/80 rounded-2xl border border-zinc-800">
-                        <p class="font-bold">Erro ao carregar as ofertas do arquivo JSON.</p>
-                        <p class="text-xs text-zinc-400 mt-1">Verifique se o arquivo promocoes.json está salvo no repositório junao-promo.</p>
-                    </div>`;
-            }
-        }
+    <div class="glass">
+      <strong>⚡ Atualização automática</strong>
+      Novas ofertas do grupo para o site.
+    </div>
 
-        function renderizarProdutos(lista) {
-            const container = document.getElementById('productGrid');
-            
-            if (!lista || lista.length === 0) {
-                container.innerHTML = `
-                    <div class="col-span-full text-center py-12 text-zinc-400 bg-zinc-900/80 rounded-2xl border border-zinc-800">
-                        <p>Nenhuma oferta encontrada para esta seleção.</p>
-                    </div>`;
-                return;
-            }
+    <div class="glass">
+      <strong>🕒 Vitrine de 24 horas</strong>
+      Promoções antigas saem sozinhas.
+    </div>
 
-            container.innerHTML = '';
+    <div class="glass">
+      <strong>🛒 Links originais</strong>
+      Confira o preço final na loja.
+    </div>
 
-            lista.forEach(produto => {
-                const card = document.createElement('div');
-                card.className = 'product-card bg-zinc-900/95 backdrop-blur-sm border border-zinc-800 rounded-2xl overflow-hidden flex flex-col justify-between hover:border-amber-500/60 transition shadow-xl group';
-                
-                card.setAttribute('data-category', produto.categoria || 'todos');
-                card.setAttribute('data-store', produto.loja || 'Amazon');
-                card.setAttribute('data-name', (produto.titulo || '').toLowerCase());
+  </section>
 
-                card.innerHTML = `
-                    <div>
-                        <div class="relative bg-white p-4 h-52 flex items-center justify-center">
-                            ${produto.desconto ? `<span class="absolute top-2.5 left-2.5 bg-red-600 text-white text-[11px] font-bold px-2 py-0.5 rounded-md shadow">${produto.desconto}</span>` : ''}
-                            <span class="absolute top-2.5 right-2.5 bg-amber-500 text-zinc-950 text-[10px] font-black px-2 py-0.5 rounded-md shadow">${produto.loja || 'Oferta'}</span>
-                            <img src="${produto.imagem}" alt="${produto.titulo}" class="max-h-full max-w-full object-contain group-hover:scale-105 transition duration-300">
-                        </div>
-                        <div class="p-4">
-                            <span class="text-[10px] uppercase font-bold text-amber-400 tracking-wider">${produto.categoriaNome || 'Achadinho'}</span>
-                            <h3 class="text-sm font-bold text-zinc-100 mt-1 line-clamp-2">${produto.titulo}</h3>
-                            ${produto.detalheExtra ? `
-                                <div class="bg-zinc-950/70 p-2 rounded-lg mt-2 border border-zinc-800 text-[11px] text-amber-300">
-                                    ${produto.detalheExtra}
-                                </div>
-                            ` : ''}
-                            <div class="mt-3">
-                                ${produto.precoDe ? `<span class="text-xs text-zinc-500 line-through">${produto.precoDe}</span>` : ''}
-                                <div class="text-lg font-extrabold text-amber-400">${produto.precoPor}</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="p-4 pt-0">
-                        <a href="${produto.linkWhatsapp || produto.link || '#'}" target="_blank" rel="nofollow" class="block w-full bg-amber-500 hover:bg-amber-400 text-zinc-950 text-center font-extrabold py-3 rounded-xl text-sm transition shadow-md">🛒 Pegar Oferta</a>
-                    </div>
-                `;
-                
-                container.appendChild(card);
-            });
-        }
+  <section id="ofertas">
 
-        function filterCategory(category) {
-            currentCategory = category;
-            const buttons = document.querySelectorAll('.cat-btn');
+    <div class="section-head">
+      <div>
+        <h2>🔥 Ofertas de hoje</h2>
+        <p>As mais recentes aparecem primeiro.</p>
+      </div>
 
-            buttons.forEach(btn => {
-                btn.classList.remove('bg-amber-500', 'text-zinc-950', 'font-bold');
-                btn.classList.add('bg-zinc-900/80', 'text-zinc-300', 'border', 'border-zinc-800', 'font-medium');
-            });
-            event.target.classList.remove('bg-zinc-900/80', 'text-zinc-300', 'border', 'border-zinc-800', 'font-medium');
-            event.target.classList.add('bg-amber-500', 'text-zinc-950', 'font-bold');
+      <span
+        class="status"
+        id="status"
+        role="status"
+        aria-live="polite"
+      >
+        Carregando promoções...
+      </span>
+    </div>
 
-            applyFilters();
-        }
+    <div class="search-area">
 
-        function filterStore(store) {
-            currentStore = store;
-            const buttons = document.querySelectorAll('.store-btn');
+      <input
+        class="search"
+        id="search"
+        type="search"
+        placeholder="🔎 Pesquisar produto ou loja..."
+        aria-label="Pesquisar produtos"
+      >
 
-            buttons.forEach(btn => {
-                btn.classList.remove('bg-zinc-800', 'text-amber-300', 'font-bold', 'border-amber-500/30');
-                btn.classList.add('bg-zinc-900/80', 'text-zinc-300', 'border-zinc-800', 'font-medium');
-            });
-            event.target.classList.remove('bg-zinc-900/80', 'text-zinc-300', 'border-zinc-800', 'font-medium');
-            event.target.classList.add('bg-zinc-800', 'text-amber-300', 'font-bold', 'border-amber-500/30');
+      <button class="btn" id="refresh" type="button">
+        ↻ Atualizar
+      </button>
 
-            applyFilters();
-        }
+    </div>
 
-        function filterProducts() {
-            applyFilters();
-        }
+    <div class="filters" id="categories">
 
-        function applyFilters() {
-            const input = document.getElementById('searchInput').value.toLowerCase();
-            const cards = document.querySelectorAll('.product-card');
+      <button class="chip active" data-category="todos">
+        ✨ Todas
+      </button>
 
-            cards.forEach(card => {
-                const categoryMatch = (currentCategory === 'todos' || card.dataset.category === currentCategory);
-                const storeMatch = (currentStore === 'todos' || card.dataset.store === currentStore);
-                const nameMatch = card.dataset.name.includes(input);
+      <button class="chip" data-category="casa">
+        🏠 Casa & Eletro
+      </button>
 
-                if (categoryMatch && storeMatch && nameMatch) {
-                    card.style.display = 'flex';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        }
+      <button class="chip" data-category="tech">
+        💻 Tecnologia
+      </button>
 
-        carregarProdutos();
-    </script>
+      <button class="chip" data-category="moda">
+        👕 Beleza & Moda
+      </button>
+
+      <button class="chip" data-category="mercado">
+        🛒 Mercado
+      </button>
+
+      <button class="chip" data-category="pets">
+        🐾 Pets
+      </button>
+
+    </div>
+
+    <div class="filters" id="stores">
+
+      <button class="chip active" data-store="todos">
+        Todas as lojas
+      </button>
+
+      <button class="chip" data-store="amazon">
+        Amazon
+      </button>
+
+      <button class="chip" data-store="mercado livre">
+        Mercado Livre
+      </button>
+
+      <button class="chip" data-store="shopee">
+        Shopee
+      </button>
+
+    </div>
+
+    <div class="grid" id="grid">
+      <div class="empty">
+        Carregando as ofertas mais recentes...
+      </div>
+    </div>
+
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+
+    <strong>JP • JUNÃO PROMOÇÃO</strong>
+
+    <p>
+      Ofertas sujeitas a alterações de preço e estoque.
+      Confira as condições antes de comprar.
+    </p>
+
+    <p>
+      Participamos de programas de afiliados, incluindo
+      o Programa de Associados da Amazon, e podemos receber
+      comissão por compras qualificadas realizadas pelos
+      nossos links, sem custo adicional para você.
+    </p>
+
+  </div>
+</footer>
+
+<a
+  class="float"
+  href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+  target="_blank"
+  rel="noopener"
+>
+  💬 Grupo VIP
+</a>
+
+<script>
+'use strict';
+
+// ======================================
+// CONFIGURAÇÕES
+// ======================================
+
+const SOURCE =
+  'https://raw.githubusercontent.com/' +
+  'JonatasBaldassiJr/junao-promo/' +
+  'main/promocoes.json';
+
+const DAY = 24 * 60 * 60 * 1000;
+
+const $ = id => document.getElementById(id);
+
+let all = [];
+let category = 'todos';
+let store = 'todos';
+
+// ======================================
+// LINKS SEGUROS
+// ======================================
+
+function safeUrl(value) {
+  try {
+    const url = new URL(String(value || ''));
+
+    if (
+      url.protocol === 'https:' ||
+      url.protocol === 'http:'
+    ) {
+      return url.href;
+    }
+  } catch {
+    return '';
+  }
+
+  return '';
+}
+
+// ======================================
+// IDENTIFICAR CATEGORIA
+// ======================================
+
+function categoryOf(product) {
+  const title = String(
+    product.titulo || ''
+  ).toLowerCase();
+
+  const cat = String(
+    product.categoria || ''
+  ).toLowerCase();
+
+  const name = String(
+    product.categoriaNome || ''
+  ).toLowerCase();
+
+  // Corrige categorias antigas do n8n.
+
+  if (
+    /barraca|camping|panela|furadeira|esteira|adega|sabão|sabao/
+      .test(title)
+  ) {
+    return 'casa';
+  }
+
+  if (
+    /mochila|perfume|relógio|relogio|blazer/
+      .test(title)
+  ) {
+    return 'moda';
+  }
+
+  if (
+    ['moda', 'beleza', 'fashion'].includes(cat) ||
+    /beleza|moda/.test(name)
+  ) {
+    return 'moda';
+  }
+
+  if (
+    ['tech', 'eletronicos', 'eletrônicos'].includes(cat) ||
+    /eletr[oô]nic|tech/.test(name)
+  ) {
+    return 'tech';
+  }
+
+  if (
+    /pet|toy|brinquedo/.test(cat + ' ' + name)
+  ) {
+    return 'pets';
+  }
+
+  if (
+    /casa|eletro|ferramenta/.test(cat + ' ' + name)
+  ) {
+    return 'casa';
+  }
+
+  if (
+    /mercado|alimento/.test(cat + ' ' + name)
+  ) {
+    return 'mercado';
+  }
+
+  return 'mercado';
+}
+
+function categoryName(product) {
+  const names = {
+    casa: 'Casa & Eletro',
+    tech: 'Eletrônicos & Tech',
+    moda: 'Beleza & Moda',
+    mercado: 'Mercado',
+    pets: 'Pets & Toys'
+  };
+
+  return names[categoryOf(product)];
+}
+
+// ======================================
+// CRIAR ELEMENTOS
+// ======================================
+
+function el(tag, className, text) {
+  const node = document.createElement(tag);
+
+  if (className) {
+    node.className = className;
+  }
+
+  if (text !== undefined) {
+    node.textContent = String(text);
+  }
+
+  return node;
+}
+
+// ======================================
+// IMAGENS
+// ======================================
+
+function imageOf(product) {
+  const title = String(
+    product.titulo || ''
+  ).toLowerCase();
+
+  const url = String(
+    product.imagem || ''
+  );
+
+  // A mochila T60 possui uma imagem
+  // incorreta no JSON antigo.
+
+  if (
+    title.includes('mochila t60') &&
+    url.includes('unsplash.com')
+  ) {
+    return '';
+  }
+
+  return safeUrl(url);
+}
+
+function fallback(photo, product) {
+  photo.querySelector('img')?.remove();
+
+  if (photo.querySelector('.placeholder')) {
+    return;
+  }
+
+  const title = String(
+    product.titulo || ''
+  ).toLowerCase();
+
+  const emoji = title.includes('mochila')
+    ? '🎒'
+    : title.includes('barraca')
+      ? '⛺'
+      : '📦';
+
+  const box = el('div', 'placeholder', emoji);
+
+  box.appendChild(
+    el('small', '', 'Imagem indisponível')
+  );
+
+  photo.prepend(box);
+}
+
+// ======================================
+// CARD DO PRODUTO
+// ======================================
+
+function card(product) {
+  const root = el('article', 'card');
+
+  const photo = el('div', 'photo');
+
+  const imageUrl = imageOf(product);
+
+  if (imageUrl) {
+    const img = el('img');
+
+    img.src = imageUrl;
+    img.alt = String(
+      product.titulo || 'Produto'
+    );
+
+    img.loading = 'lazy';
+
+    img.onerror = () => {
+      fallback(photo, product);
+    };
+
+    photo.appendChild(img);
+  } else {
+    fallback(photo, product);
+  }
+
+  photo.appendChild(
+    el(
+      'span',
+      'pill',
+      product.loja || 'Oferta'
+    )
+  );
+
+  if (product.desconto) {
+    photo.appendChild(
+      el(
+        'span',
+        'pill off',
+        product.desconto
+      )
+    );
+  }
+
+  root.appendChild(photo);
+
+  const info = el('div', 'details');
+
+  info.appendChild(
+    el(
+      'span',
+      'category',
+      categoryName(product)
+    )
+  );
+
+  info.appendChild(
+    el(
+      'h3',
+      '',
+      product.titulo || 'Oferta'
+    )
+  );
+
+  info.appendChild(
+    el(
+      'span',
+      'old',
+      product.precoDe || ' '
+    )
+  );
+
+  info.appendChild(
+    el(
+      'div',
+      'price',
+      product.precoPor || 'Consultar preço'
+    )
+  );
+
+  info.appendChild(
+    el(
+      'div',
+      'note',
+      product.detalheExtra ||
+      'Confira as condições na loja'
+    )
+  );
+
+  root.appendChild(info);
+
+  // Preserva o link original de afiliado.
+
+  const link = safeUrl(
+    product.linkWhatsapp || product.link
+  );
+
+  if (link) {
+    const buy = el(
+      'a',
+      'buy',
+      '🛒 Pegar oferta ↗'
+    );
+
+    buy.href = link;
+    buy.target = '_blank';
+
+    buy.rel =
+      'sponsored nofollow noopener noreferrer';
+
+    root.appendChild(buy);
+  }
+
+  return root;
+}
+
+// ======================================
+// FILTRAR E EXIBIR OFERTAS
+// ======================================
+
+function render() {
+  const now = Date.now();
+
+  const term = $('search')
+    .value
+    .trim()
+    .toLocaleLowerCase('pt-BR');
+
+  // Somente ofertas das últimas 24 horas.
+
+  const active = all.filter(product => {
+    const timestamp = Number(
+      product.timestamp
+    );
+
+    return (
+      Number.isFinite(timestamp) &&
+      timestamp > 0 &&
+      timestamp <= now &&
+      now - timestamp < DAY
+    );
+  });
+
+  const shown = active.filter(product => {
+    const matchesCategory =
+      category === 'todos' ||
+      categoryOf(product) === category;
+
+    const matchesStore =
+      store === 'todos' ||
+      String(product.loja || '')
+        .toLowerCase()
+        .includes(store);
+
+    const searchableText = [
+      product.titulo,
+      product.loja,
+      product.categoriaNome
+    ]
+      .join(' ')
+      .toLocaleLowerCase('pt-BR');
+
+    const matchesSearch =
+      !term || searchableText.includes(term);
+
+    return (
+      matchesCategory &&
+      matchesStore &&
+      matchesSearch
+    );
+  });
+
+  const grid = $('grid');
+
+  grid.replaceChildren();
+
+  if (!shown.length) {
+    const message = active.length
+      ? 'Nenhuma oferta encontrada com estes filtros.'
+      : 'Ainda não há ofertas publicadas nas últimas 24 horas.';
+
+    const empty = el('div', 'empty');
+
+    empty.appendChild(
+      el(
+        'strong',
+        '',
+        active.length
+          ? '🔎 Sem resultados'
+          : 'Vitrine em renovação'
+      )
+    );
+
+    empty.appendChild(
+      el('span', '', message)
+    );
+
+    grid.appendChild(empty);
+  } else {
+    const fragment =
+      document.createDocumentFragment();
+
+    shown.forEach(product => {
+      fragment.appendChild(
+        card(product)
+      );
+    });
+
+    grid.appendChild(fragment);
+  }
+
+  $('status').textContent =
+    shown.length +
+    ' oferta(s) na tela · ' +
+    active.length +
+    ' ativa(s) nas últimas 24h';
+}
+
+// ======================================
+// BUSCAR JSON NO GITHUB
+// ======================================
+
+async function load() {
+  const button = $('refresh');
+
+  button.disabled = true;
+
+  $('status').textContent =
+    'Atualizando...';
+
+  try {
+    const response = await fetch(
+      SOURCE + '?t=' + Date.now(),
+      {
+        cache: 'no-store'
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        'HTTP ' + response.status
+      );
+    }
+
+    const data = await response.json();
+
+    if (!Array.isArray(data)) {
+      throw new Error(
+        'O JSON não é uma lista'
+      );
+    }
+
+    all = data
+      .filter(product =>
+        product &&
+        typeof product === 'object'
+      )
+      .sort(
+        (a, b) =>
+          (Number(b.timestamp) || 0) -
+          (Number(a.timestamp) || 0)
+      );
+
+    render();
+
+    $('status').textContent +=
+      ' · ' +
+      new Date().toLocaleTimeString('pt-BR');
+
+  } catch (error) {
+    console.error(
+      'Falha ao buscar ofertas:',
+      error
+    );
+
+    $('status').textContent =
+      'Falha ao atualizar. Tente novamente.';
+
+    if (!all.length) {
+      $('grid').replaceChildren(
+        el(
+          'div',
+          'empty',
+          'Não foi possível carregar as ofertas. ' +
+          'Verifique o promocoes.json no GitHub.'
+        )
+      );
+    } else {
+      render();
+    }
+
+  } finally {
+    button.disabled = false;
+  }
+}
+
+// ======================================
+// PESQUISA
+// ======================================
+
+$('search').addEventListener(
+  'input',
+  render
+);
+
+$('refresh').addEventListener(
+  'click',
+  load
+);
+
+// ======================================
+// FILTROS
+// ======================================
+
+for (
+  const [id, key, update] of [
+    [
+      'categories',
+      'category',
+      value => category = value
+    ],
+    [
+      'stores',
+      'store',
+      value => store = value
+    ]
+  ]
+) {
+  $(id).addEventListener(
+    'click',
+    event => {
+      const button = event.target.closest(
+        'button[data-' + key + ']'
+      );
+
+      if (!button) {
+        return;
+      }
+
+      update(button.dataset[key]);
+
+      $(id)
+        .querySelectorAll('button')
+        .forEach(item => {
+          item.classList.toggle(
+            'active',
+            item === button
+          );
+        });
+
+      render();
+    }
+  );
+}
+
+// ======================================
+// ATUALIZAÇÃO AUTOMÁTICA
+// ======================================
+
+// Busca novas ofertas a cada 5 minutos.
+load();
+
+setInterval(
+  load,
+  5 * 60 * 1000
+);
+
+// Verifica a expiração a cada minuto.
+setInterval(
+  render,
+  60 * 1000
+);
+
+</script>
+
 </body>
 </html>
