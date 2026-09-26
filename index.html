@@ -2,1257 +2,2952 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#080b0e">
-<meta name="description" content="Junão Promoção: ofertas de tecnologia, casa, mercado, moda e muito mais.">
-<title>Junão Promoção | Ofertas em destaque</title>
-<link rel="icon" href="/logo.jpg">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+  <title>Junão Promoção | As melhores ofertas em um só lugar</title>
 
-:root{
-  --bg:#080c0f;
-  --panel:#10171c;
-  --panel2:#172128;
-  --gold:#ffce00;
-  --gold2:#fff071;
-  --line:#34404a;
-  --text:#f8fafc;
-  --muted:#a9b5bf;
-}
+  <meta name="description"
+    content="Encontre ofertas selecionadas de tecnologia, casa, beleza, mercado e muito mais no Junão Promoção. Compare produtos e confira o preço final nas lojas.">
 
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  margin:0;
-  color:var(--text);
-  background:
-    radial-gradient(ellipse at 0 50%,#4a2a0d25,transparent 40%),
-    radial-gradient(ellipse at 100% 60%,#b46b0d18,transparent 40%),
-    var(--bg);
-  font-family:Inter,Arial,sans-serif;
-}
-a{text-decoration:none;color:inherit}
-button,input,select{font:inherit}
-button{cursor:pointer}
-.wrap{max-width:1510px;margin:auto;padding:0 24px}
+  <meta name="theme-color" content="#0b0f12">
 
-/* TOPO */
-header{
-  background:#080c0feb;
-  border-bottom:1px solid #594414;
-  position:sticky;
-  top:0;
-  z-index:30;
-  backdrop-filter:blur(18px);
-}
-.top{
-  min-height:85px;
-  display:flex;
-  align-items:center;
-  gap:28px;
-}
-.brand{
-  display:flex;
-  align-items:center;
-  gap:12px;
-  flex-shrink:0;
-}
-.brand img{
-  width:105px;
-  height:67px;
-  object-fit:contain;
-  filter:drop-shadow(0 0 12px #ffc4003d);
-}
-.brand-name{
-  font-weight:900;
-  font-size:21px;
-  line-height:1;
-}
-.brand-name span{color:var(--gold)}
-.search{
-  flex:1;
-  max-width:620px;
-  display:flex;
-  overflow:hidden;
-  background:#18232b;
-  border:1px solid #43515b;
-  border-radius:12px;
-}
-.search input{
-  flex:1;
-  min-width:0;
-  padding:16px;
-  background:none;
-  border:0;
-  outline:0;
-  color:white;
-}
-.search button{
-  width:54px;
-  border:0;
-  background:linear-gradient(135deg,#fff07b,#ffcc00);
-  font-size:23px;
-  font-weight:900;
-}
-.whatsapp{
-  background:#00b963;
-  padding:14px 23px;
-  border-radius:10px;
-  font-size:14px;
-  font-weight:800;
-  white-space:nowrap;
-  box-shadow:0 0 20px #00bb4d20;
-}
-.top-action{
-  border:0;
-  background:none;
-  color:white;
-  min-width:65px;
-  font-size:12px;
-}
-.top-action b{
-  display:block;
-  font-size:26px;
-  font-weight:400;
-}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Junão Promoção">
+  <meta property="og:description"
+    content="Ofertas selecionadas em um só lugar. Confira as novidades!">
+  <meta property="og:image"
+    content="https://junaopromocao.vercel.app/logo.jpg">
 
-/* NAVEGAÇÃO */
-.nav{
-  border-bottom:1px solid #8b651a;
-  background:linear-gradient(90deg,#131619,#0a0d10,#18140b);
-}
-.nav-inner{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:18px;
-}
-.nav-cats{
-  display:flex;
-  gap:5px;
-  overflow-x:auto;
-  scrollbar-width:none;
-}
-.nav-cats::-webkit-scrollbar{display:none}
-.nav-cat{
-  padding:11px 13px;
-  min-width:100px;
-  background:transparent;
-  border:1px solid transparent;
-  color:#e8edf0;
-  border-radius:10px;
-  white-space:nowrap;
-  font-size:12px;
-}
-.nav-cat i{
-  display:block;
-  font-size:25px;
-  font-style:normal;
-  margin-bottom:3px;
-}
-.nav-cat.active{
-  background:linear-gradient(135deg,#4a3607,#17140b);
-  border-color:var(--gold);
-  color:var(--gold);
-  box-shadow:0 0 18px #ffca0044;
-}
-.nav-benefits{
-  display:flex;
-  gap:20px;
-}
-.nav-benefit{
-  display:flex;
-  align-items:center;
-  gap:8px;
-  font-size:11px;
-  white-space:nowrap;
-}
-.nav-benefit b{
-  display:grid;
-  place-items:center;
-  width:34px;
-  height:34px;
-  border:2px solid var(--gold);
-  border-radius:50%;
-  color:var(--gold);
-  font-size:19px;
-}
+  <link rel="icon" type="image/jpeg" href="/logo.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-/* BANNER CINEMATOGRÁFICO */
-.hero{
-  position:relative;
-  margin:12px 0 11px;
-  min-height:345px;
-  overflow:hidden;
-  border:1px solid #b98512;
-  border-radius:17px;
-  background:
-    radial-gradient(ellipse at 75% 50%,#e5a30065,transparent 45%),
-    linear-gradient(115deg,#07090b 20%,#211404 100%);
-  box-shadow:0 0 40px #f7ad0020;
-}
-.hero::before{
-  content:"";
-  position:absolute;
-  inset:0;
-  background:
-    repeating-linear-gradient(
-      145deg,
-      transparent 0 70px,
-      #ffc90008 71px,
-      transparent 72px 140px
-    );
-  pointer-events:none;
-}
-.hero-art{
-  position:absolute;
-  z-index:1;
-  right:0;
-  top:0;
-  width:65%;
-  height:100%;
-  background-image:
-    linear-gradient(90deg,#090a0c 0%,transparent 28%),
-    url('/banner-jp.jpg');
-  background-repeat:no-repeat;
-  background-position:center,right center;
-  background-size:cover,cover;
-}
-.hero-content{
-  position:relative;
-  z-index:2;
-  padding:29px 4%;
-  width:53%;
-}
-.hero h1{
-  font-size:clamp(30px,3.4vw,56px);
-  line-height:1.03;
-  letter-spacing:-1.5px;
-  font-weight:900;
-  margin:0 0 12px;
-  text-shadow:0 3px 12px #000;
-}
-.hero h1 .gold{
-  display:block;
-  color:var(--gold);
-  text-shadow:0 3px 0 #8c4800,0 0 25px #ffb9004d;
-}
-.hero p{
-  font-size:16px;
-  line-height:1.45;
-  color:#e2e6e8;
-  max-width:455px;
-  margin:0 0 15px;
-  text-shadow:0 2px 8px black;
-}
-.gold-btn{
-  display:inline-flex;
-  justify-content:center;
-  align-items:center;
-  gap:13px;
-  padding:13px 22px;
-  background:linear-gradient(100deg,#ffeb54,#ffca00);
-  border:0;
-  border-radius:25px;
-  color:#151000;
-  font-size:13px;
-  font-weight:900;
-  box-shadow:0 0 20px #ffb9003d;
-}
-.hero-features{
-  display:flex;
-  flex-wrap:wrap;
-  gap:15px;
-  margin-top:22px;
-}
-.hero-feature{
-  display:flex;
-  align-items:center;
-  gap:7px;
-  font-size:10px;
-  line-height:1.4;
-  text-shadow:0 2px 6px black;
-}
-.hero-feature b{
-  display:grid;
-  place-items:center;
-  border:2px solid var(--gold);
-  border-radius:50%;
-  width:31px;
-  height:31px;
-  color:var(--gold);
-  font-size:18px;
-}
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
 
-/* CATEGORIAS GRANDES */
-.category-tiles{
-  display:grid;
-  grid-template-columns:repeat(6,minmax(0,1fr));
-  gap:12px;
-  margin:12px 0 20px;
-}
-.tile{
-  display:flex;
-  align-items:center;
-  justify-content:space-around;
-  gap:8px;
-  padding:12px;
-  min-height:72px;
-  color:white;
-  background:linear-gradient(130deg,#19242d,#0b1014);
-  border:1px solid #3c4852;
-  border-radius:12px;
-  transition:.2s;
-}
-.tile:hover,.tile.active{
-  border-color:var(--gold);
-  box-shadow:0 0 16px #ffc40055,inset 0 0 18px #ffc40013;
-}
-.tile .emoji{font-size:35px}
-.tile .tile-name{font-size:12px;font-weight:600}
-.tile .arrow{font-size:19px}
+  <style>
+    :root {
+      --bg: #0b0f12;
+      --surface: #12181d;
+      --surface-2: #182027;
+      --gold: #ffd43b;
+      --gold-2: #f5a900;
+      --text: #ffffff;
+      --muted: #a5afb9;
+      --border: rgba(255,255,255,.11);
+      --green: #08b96a;
+      --max: 1320px;
+    }
 
-/* TÍTULOS */
-.section-head{
-  display:flex;
-  justify-content:space-between;
-  align-items:end;
-  gap:12px;
-  margin:16px 0 12px;
-}
-.section-head h2{
-  margin:0;
-  font-size:22px;
-  letter-spacing:-.5px;
-}
-.section-head p{
-  margin:4px 0 0;
-  color:#c0cbd2;
-  font-size:12px;
-}
-.section-head a{
-  color:#43c8ff;
-  font-size:12px;
-  white-space:nowrap;
-}
-.filters{
-  display:flex;
-  gap:10px;
-  align-items:center;
-  flex-wrap:wrap;
-  margin:0 0 12px;
-}
-.filters select{
-  background:#17232c;
-  color:white;
-  border:1px solid #3c4b56;
-  border-radius:8px;
-  padding:9px;
-  font-size:12px;
-}
-.count{
-  margin-left:auto;
-  color:#a9b5bf;
-  font-size:12px;
-}
+    * {
+      box-sizing: border-box;
+    }
 
-/* PRODUTOS */
-.products{
-  display:grid;
-  grid-template-columns:repeat(5,minmax(0,1fr));
-  gap:11px;
-}
-.product{
-  display:flex;
-  flex-direction:column;
-  overflow:hidden;
-  min-width:0;
-  background:#fff;
-  color:#101820;
-  border-radius:11px;
-  box-shadow:0 6px 18px #0007;
-  transition:transform .2s,box-shadow .2s;
-}
-.product:hover{
-  transform:translateY(-4px);
-  box-shadow:0 12px 28px #ffc40025;
-}
-.product-image{
-  height:175px;
-  position:relative;
-  display:grid;
-  place-items:center;
-  background:white;
-  padding:10px;
-}
-.product-image img{
-  max-width:100%;
-  max-height:100%;
-  object-fit:contain;
-}
-.product-image .placeholder{font-size:75px}
-.tag{
-  position:absolute;
-  top:8px;
-  left:8px;
-  background:#f21921;
-  color:white;
-  border-radius:5px;
-  padding:5px 7px;
-  font-size:10px;
-  font-weight:800;
-  max-width:75%;
-}
-.heart{
-  position:absolute;
-  top:5px;
-  right:6px;
-  border:0;
-  background:#ffffffed;
-  width:32px;
-  height:32px;
-  border-radius:50%;
-  font-size:23px;
-  color:#26333b;
-}
-.heart.active{color:#e91d32}
-.product-info{
-  padding:11px;
-  flex:1;
-  display:flex;
-  flex-direction:column;
-}
-.product h3{
-  font-size:12px;
-  line-height:1.35;
-  min-height:33px;
-  margin:0 0 4px;
-}
-.product-category{
-  color:#6881a2;
-  font-size:11px;
-  margin-bottom:4px;
-}
-.old-price{
-  font-size:11px;
-  color:#8d969d;
-  text-decoration:line-through;
-  min-height:15px;
-}
-.price{
-  font-size:20px;
-  font-weight:900;
-  margin:2px 0 8px;
-}
-.store{
-  color:#394a56;
-  font-weight:800;
-  font-size:11px;
-  margin-top:auto;
-  margin-bottom:9px;
-}
-.offer-btn{
-  display:block;
-  text-align:center;
-  background:linear-gradient(100deg,#ffd000,#ffe500);
-  color:#111;
-  border-radius:7px;
-  padding:10px 5px;
-  font-size:12px;
-  font-weight:900;
-}
-.compare-item{
-  border:0;
-  background:transparent;
-  color:#65727c;
-  padding:8px 0 0;
-  font-size:10px;
-}
-.empty{
-  grid-column:1/-1;
-  text-align:center;
-  padding:50px 15px;
-  background:#121c24;
-  border:1px dashed #53606a;
-  border-radius:12px;
-  color:#d4dce2;
-}
+    html {
+      scroll-behavior: smooth;
+    }
 
-/* LOJAS */
-.stores{
-  display:flex;
-  gap:10px;
-  align-items:center;
-  overflow-x:auto;
-  margin:17px 0;
-  scrollbar-width:thin;
-}
-.stores-title{
-  min-width:210px;
-}
-.stores-title h2{margin:0;font-size:19px}
-.stores-title p{margin:4px 0 0;color:var(--muted);font-size:11px}
-.store-logo{
-  flex:1;
-  min-width:115px;
-  text-align:center;
-  padding:15px 10px;
-  background:linear-gradient(#18232c,#10161b);
-  border:1px solid #35424c;
-  border-radius:8px;
-  font-weight:900;
-  white-space:nowrap;
-}
-.store-logo.amazon{color:white}
-.store-logo.ml{color:#ffe000}
-.store-logo.magalu{color:#26bfff}
-.store-logo.shopee{color:#ff7547}
-.store-logo.ali{color:#ff9942}
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
 
-/* RODAPÉ */
-.trust{
-  display:grid;
-  grid-template-columns:repeat(4,1fr);
-  gap:11px;
-  margin:17px 0 30px;
-}
-.trust-item{
-  display:flex;
-  align-items:center;
-  gap:13px;
-  padding:14px;
-  border:1px solid #9b721c;
-  border-radius:9px;
-  background:linear-gradient(120deg,#171813,#0b1014);
-}
-.trust-item .symbol{
-  font-size:32px;
-  color:var(--gold);
-}
-.trust-item b{font-size:11px}
-.trust-item p{
-  color:#d1d9dd;
-  font-size:10px;
-  line-height:1.5;
-  margin:5px 0 0;
-}
-footer{
-  border-top:1px solid #3b4245;
-  text-align:center;
-  padding:25px 15px;
-  color:#aeb8bf;
-  font-size:11px;
-  line-height:1.8;
-}
-.toast{
-  position:fixed;
-  z-index:99;
-  bottom:22px;
-  left:50%;
-  transform:translateX(-50%);
-  padding:13px 18px;
-  background:#24333e;
-  color:white;
-  border:1px solid var(--gold);
-  border-radius:9px;
-  display:none;
-  text-align:center;
-}
-.mobile-bar{display:none}
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      pointer-events: none;
+      background:
+        radial-gradient(
+          circle at 85% 5%,
+          rgba(255,194,35,.075),
+          transparent 30%
+        ),
+        radial-gradient(
+          circle at 0% 70%,
+          rgba(255,174,0,.035),
+          transparent 35%
+        );
+    }
 
-/* TABLET */
-@media(max-width:1200px){
-  .nav-benefits{display:none}
-  .products{grid-template-columns:repeat(4,1fr)}
-  .category-tiles{grid-template-columns:repeat(3,1fr)}
-  .trust{grid-template-columns:repeat(2,1fr)}
-  .top{gap:13px}
-  .brand-name{font-size:17px}
-  .brand img{width:75px}
-}
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
 
-/* CELULAR */
-@media(max-width:750px){
-  .wrap{padding:0 12px}
-  .top{
-    min-height:70px;
-    flex-wrap:wrap;
-    gap:9px;
-    padding:8px 0;
-  }
-  .brand{flex:1}
-  .brand img{width:65px;height:50px}
-  .brand-name{font-size:16px}
-  .search{order:3;flex:0 0 100%;max-width:none}
-  .search input{padding:12px}
-  .whatsapp{padding:11px;font-size:0}
-  .whatsapp::after{content:"WhatsApp";font-size:12px}
-  .top-action{display:none}
-  .nav-cats{width:100%}
-  .nav-cat{min-width:83px;padding:9px}
-  .nav-cat i{font-size:21px}
-  .hero{min-height:420px}
-  .hero-art{
-    width:100%;
-    height:58%;
-    top:auto;
-    bottom:0;
-    background-image:
-      linear-gradient(180deg,#090a0c,transparent 55%),
-      url('/banner-jp.jpg');
-    background-size:cover,cover;
-    background-position:center,center;
-  }
-  .hero-content{width:100%;padding:22px}
-  .hero h1{font-size:32px}
-  .hero p{font-size:13px;max-width:340px}
-  .hero-features{position:absolute;top:330px;gap:9px}
-  .hero-feature{font-size:9px}
-  .hero-feature b{width:25px;height:25px;font-size:14px}
-  .category-tiles{grid-template-columns:repeat(3,1fr);gap:7px}
-  .tile{min-height:85px;flex-direction:column;padding:8px}
-  .tile .emoji{font-size:29px}
-  .tile .tile-name{font-size:10px}
-  .tile .arrow{display:none}
-  .products{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
-  .product-image{height:142px}
-  .product h3{font-size:11px}
-  .price{font-size:17px}
-  .section-head h2{font-size:18px}
-  .stores-title{min-width:160px}
-  .store-logo{min-width:100px}
-  .trust{gap:7px}
-  .trust-item{padding:10px;gap:7px}
-  .trust-item .symbol{font-size:25px}
-  .mobile-bar{
-    display:flex;
-    position:sticky;
-    bottom:0;
-    z-index:40;
-    justify-content:space-around;
-    padding:8px 0;
-    background:#0d151df5;
-    border-top:1px solid #745617;
-  }
-  .mobile-bar button{
-    border:0;
-    background:none;
-    color:#e2e8ed;
-    font-size:10px;
-  }
-  .mobile-bar span{display:block;font-size:23px}
-}
-</style>
+    button,
+    input {
+      font: inherit;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    .container {
+      width: min(var(--max), calc(100% - 36px));
+      margin: auto;
+    }
+
+    .top-notice {
+      background: #1c1b14;
+      border-bottom: 1px solid rgba(255,212,59,.17);
+      color: #e7d8a2;
+      text-align: center;
+      padding: 9px 16px;
+      font-size: 11px;
+      line-height: 1.6;
+    }
+
+    .top-notice strong {
+      color: var(--gold);
+    }
+
+    .header {
+      background: rgba(11,15,18,.97);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(20px);
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      gap: 22px;
+      min-height: 88px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+    }
+
+    .brand-logo {
+      width: 76px;
+      height: 64px;
+      object-fit: contain;
+      border-radius: 8px;
+      filter:
+        drop-shadow(0 0 12px rgba(0,123,255,.35))
+        drop-shadow(0 7px 7px rgba(0,0,0,.8));
+      transform: perspective(300px) rotateY(-8deg);
+    }
+
+    .brand-name {
+      display: flex;
+      flex-direction: column;
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: -.9px;
+      line-height: 1.05;
+    }
+
+    .brand-name span:last-child {
+      color: var(--gold);
+    }
+
+    .search {
+      flex: 1;
+      display: flex;
+      min-width: 0;
+      height: 52px;
+      background: #1c252d;
+      border: 1px solid #35414a;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: border-color .2s;
+    }
+
+    .search:focus-within {
+      border-color: var(--gold);
+    }
+
+    .search input {
+      flex: 1;
+      width: 100%;
+      min-width: 0;
+      border: 0;
+      outline: none;
+      background: transparent;
+      color: white;
+      padding: 0 18px;
+      font-size: 13px;
+    }
+
+    .search button {
+      width: 57px;
+      border: 0;
+      background: var(--gold);
+      font-size: 20px;
+      font-weight: 900;
+    }
+
+    .whatsapp {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: var(--green);
+      color: white;
+      padding: 17px 19px;
+      border-radius: 11px;
+      font-weight: 800;
+      font-size: 13px;
+      white-space: nowrap;
+      transition: .2s;
+    }
+
+    .whatsapp:hover {
+      background: #079e5b;
+      transform: translateY(-2px);
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 17px;
+    }
+
+    .header-action {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      border: 0;
+      background: transparent;
+      color: white;
+      font-size: 11px;
+      min-width: 53px;
+    }
+
+    .header-action .symbol {
+      font-size: 23px;
+      line-height: 1;
+    }
+
+    .header-action:hover {
+      color: var(--gold);
+    }
+
+    .nav {
+      background: #12181d;
+      border-bottom: 1px solid rgba(255,212,59,.24);
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      min-height: 72px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .nav-inner::-webkit-scrollbar {
+      display: none;
+    }
+
+    .nav-button {
+      border: 1px solid transparent;
+      background: transparent;
+      color: #e8edf0;
+      border-radius: 11px;
+      padding: 12px 15px;
+      min-width: 93px;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 5px;
+      white-space: nowrap;
+      font-size: 11px;
+      transition: .2s;
+    }
+
+    .nav-button .emoji {
+      font-size: 22px;
+    }
+
+    .nav-button:hover,
+    .nav-button.active {
+      color: var(--gold);
+      background: rgba(255,212,59,.12);
+      border-color: rgba(255,212,59,.65);
+    }
+
+    .nav-spacer {
+      flex: 1;
+      min-width: 15px;
+    }
+
+    .nav-benefits {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      color: #e5e7eb;
+      font-size: 10px;
+      white-space: nowrap;
+    }
+
+    .nav-benefits span {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .nav-benefits b {
+      color: var(--gold);
+      font-size: 20px;
+    }
+
+    .hero {
+      margin-top: 23px;
+      min-height: 440px;
+      border: 1px solid rgba(255,191,0,.44);
+      border-radius: 19px;
+      overflow: hidden;
+      position: relative;
+      display: grid;
+      grid-template-columns: 1.15fr .85fr;
+      align-items: center;
+      padding: 45px 65px;
+      background:
+        radial-gradient(
+          ellipse at 78% 52%,
+          rgba(255,183,0,.31),
+          transparent 42%
+        ),
+        repeating-linear-gradient(
+          145deg,
+          transparent 0,
+          transparent 105px,
+          rgba(255,194,35,.035) 106px,
+          transparent 107px
+        ),
+        linear-gradient(
+          115deg,
+          #111313 0%,
+          #1c170d 53%,
+          #302007 100%
+        );
+      box-shadow:
+        inset 0 0 70px rgba(0,0,0,.32),
+        0 15px 60px rgba(0,0,0,.2);
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto 0 0;
+      height: 2px;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        var(--gold),
+        transparent
+      );
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+    }
+
+    .hero h1 {
+      font-size: clamp(35px, 4.3vw, 65px);
+      line-height: 1.05;
+      font-weight: 900;
+      letter-spacing: -3px;
+      margin: 0 0 21px;
+    }
+
+    .hero h1 em {
+      display: block;
+      font-style: normal;
+      color: var(--gold);
+      text-shadow: 0 5px 25px rgba(255,179,0,.15);
+    }
+
+    .hero p {
+      color: #e1e3e6;
+      max-width: 510px;
+      line-height: 1.65;
+      font-size: 15px;
+      margin-bottom: 25px;
+    }
+
+    .gold-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      background: linear-gradient(
+        110deg,
+        #ffe66c,
+        #ffd02a
+      );
+      color: #111;
+      border: 0;
+      padding: 16px 24px;
+      border-radius: 11px;
+      font-weight: 900;
+      font-size: 13px;
+      box-shadow: 0 6px 22px rgba(255,199,0,.13);
+      transition: .2s;
+    }
+
+    .gold-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 27px rgba(255,199,0,.25);
+    }
+
+    .hero-benefits {
+      display: flex;
+      gap: 19px;
+      flex-wrap: wrap;
+      margin-top: 29px;
+    }
+
+    .hero-benefit {
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      max-width: 155px;
+      font-size: 10px;
+      line-height: 1.5;
+    }
+
+    .hero-benefit b {
+      width: 32px;
+      height: 32px;
+      border: 1px solid var(--gold);
+      color: var(--gold);
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      flex-shrink: 0;
+      font-size: 17px;
+    }
+
+    .hero-art {
+      position: relative;
+      display: grid;
+      place-items: center;
+      min-height: 300px;
+    }
+
+    .hero-art::before {
+      content: "";
+      position: absolute;
+      width: 85%;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background: radial-gradient(
+        circle,
+        rgba(255,183,0,.25),
+        transparent 65%
+      );
+      filter: blur(15px);
+    }
+
+    .hero-logo {
+      position: relative;
+      width: min(100%, 400px);
+      max-height: 300px;
+      object-fit: contain;
+      border-radius: 14px;
+      filter:
+        drop-shadow(0 0 18px rgba(0,140,255,.28))
+        drop-shadow(0 18px 18px rgba(0,0,0,.75));
+      transform:
+        perspective(850px)
+        rotateY(-8deg)
+        rotateX(3deg);
+      animation: logoFloat 5s ease-in-out infinite;
+    }
+
+    @keyframes logoFloat {
+      0%, 100% {
+        translate: 0 0;
+      }
+
+      50% {
+        translate: 0 -10px;
+      }
+    }
+
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 11px;
+      margin-top: 19px;
+    }
+
+    .category-card {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      min-height: 79px;
+      padding: 15px;
+      border: 1px solid #36414a;
+      background: linear-gradient(
+        135deg,
+        #1a232a,
+        #101519
+      );
+      border-radius: 13px;
+      color: white;
+      font-size: 12px;
+      font-weight: 600;
+      text-align: left;
+      transition: .2s;
+    }
+
+    .category-card:hover {
+      border-color: var(--gold);
+      transform: translateY(-3px);
+    }
+
+    .category-card .emoji {
+      font-size: 29px;
+    }
+
+    .category-card .arrow {
+      margin-left: auto;
+      color: var(--gold);
+    }
+
+    .section {
+      margin-top: 35px;
+    }
+
+    .section-heading {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 17px;
+    }
+
+    .section-heading h2 {
+      font-size: 23px;
+      letter-spacing: -.7px;
+      margin: 0 0 5px;
+    }
+
+    .section-heading p {
+      margin: 0;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .section-heading a {
+      color: var(--gold);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .disclosure {
+      background: #1a1a13;
+      border: 1px solid rgba(255,212,59,.27);
+      border-radius: 11px;
+      padding: 13px 16px;
+      color: #e3d9b4;
+      font-size: 12px;
+      line-height: 1.7;
+      margin-bottom: 18px;
+    }
+
+    .disclosure strong {
+      color: var(--gold);
+    }
+
+    .products {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 13px;
+    }
+
+    .product {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+      background: white;
+      color: #17202a;
+      border: 1px solid #e7e7e7;
+      border-radius: 13px;
+      overflow: hidden;
+      transition: .2s;
+    }
+
+    .product:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 35px rgba(255,193,0,.14);
+    }
+
+    .product-image-wrap {
+      position: relative;
+      height: 185px;
+      padding: 14px;
+      display: grid;
+      place-items: center;
+      background: #fff;
+    }
+
+    .product-image {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+
+    .image-placeholder {
+      display: grid;
+      place-items: center;
+      gap: 7px;
+      width: 100%;
+      height: 100%;
+      color: #77808a;
+      text-align: center;
+      background: #f5f6f8;
+      border-radius: 8px;
+      font-size: 12px;
+      padding: 14px;
+    }
+
+    .image-placeholder .emoji {
+      font-size: 44px;
+    }
+
+    .ad-badge {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: #ffcf33;
+      color: #1c1c1c;
+      font-size: 9px;
+      font-weight: 800;
+      padding: 6px 9px;
+      border-radius: 6px;
+      z-index: 2;
+    }
+
+    .favorite {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      z-index: 2;
+      background: rgba(255,255,255,.95);
+      color: #20242b;
+      border: 0;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      font-size: 22px;
+      display: grid;
+      place-items: center;
+    }
+
+    .favorite.selected {
+      color: #e73352;
+    }
+
+    .product-body {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+      padding: 12px;
+      gap: 7px;
+    }
+
+    .product-title {
+      font-size: 12px;
+      font-weight: 800;
+      line-height: 1.45;
+      min-height: 35px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .product-category {
+      font-size: 10px;
+      color: #7d52aa;
+    }
+
+    .product-price {
+      font-size: 21px;
+      font-weight: 900;
+      color: #111827;
+      letter-spacing: -.7px;
+    }
+
+    .product-price.unavailable {
+      font-size: 14px;
+      letter-spacing: 0;
+      color: #273544;
+      padding: 5px 0;
+    }
+
+    .price-note {
+      font-size: 9px;
+      color: #68727e;
+      line-height: 1.5;
+      min-height: 27px;
+    }
+
+    .store {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 10px;
+      font-weight: 800;
+      min-height: 18px;
+    }
+
+    .store-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #ffd000;
+    }
+
+    .product-button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 7px;
+      background: var(--gold);
+      color: #111;
+      padding: 12px 8px;
+      border-radius: 8px;
+      font-size: 12px;
+      font-weight: 900;
+      margin-top: auto;
+      transition: .2s;
+    }
+
+    .product-button:hover {
+      background: #ffc400;
+    }
+
+    .empty {
+      grid-column: 1 / -1;
+      background: var(--surface);
+      border: 1px dashed #45515a;
+      border-radius: 14px;
+      text-align: center;
+      padding: 55px 20px;
+    }
+
+    .empty .emoji {
+      font-size: 45px;
+    }
+
+    .empty h3 {
+      margin: 14px 0 8px;
+    }
+
+    .empty p {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .status {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 14px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background: #20d37b;
+      border-radius: 50%;
+      box-shadow: 0 0 10px #20d37b;
+    }
+
+    .stores-section {
+      margin-top: 40px;
+    }
+
+    .store-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .store-card {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 76px;
+      padding: 16px;
+      border: 1px solid #39434b;
+      border-radius: 12px;
+      background: #151b20;
+      font-size: 18px;
+      font-weight: 900;
+      letter-spacing: -.5px;
+    }
+
+    .store-card small {
+      font-size: 10px;
+      font-weight: 500;
+      color: var(--muted);
+      margin-left: 7px;
+    }
+
+    .store-card:hover {
+      border-color: var(--gold);
+    }
+
+    .trust-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      margin: 32px 0 42px;
+    }
+
+    .trust-card {
+      display: flex;
+      align-items: center;
+      gap: 13px;
+      padding: 19px;
+      background: linear-gradient(
+        135deg,
+        #1d1c14,
+        #11161a
+      );
+      border: 1px solid rgba(255,212,59,.25);
+      border-radius: 12px;
+    }
+
+    .trust-icon {
+      font-size: 29px;
+      color: var(--gold);
+    }
+
+    .trust-card strong {
+      display: block;
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+
+    .trust-card p {
+      font-size: 10px;
+      color: var(--muted);
+      line-height: 1.6;
+      margin: 0;
+    }
+
+    .footer {
+      background: #080b0e;
+      border-top: 1px solid rgba(255,212,59,.28);
+      margin-top: 50px;
+    }
+
+    .footer-inner {
+      padding: 43px 0 24px;
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1.5fr 1fr 1.3fr;
+      gap: 40px;
+    }
+
+    .footer-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .footer-brand img {
+      width: 67px;
+      height: 57px;
+      object-fit: contain;
+    }
+
+    .footer-brand strong {
+      font-size: 20px;
+      line-height: 1.1;
+    }
+
+    .footer-brand span {
+      color: var(--gold);
+    }
+
+    .footer h3 {
+      color: var(--gold);
+      font-size: 14px;
+      margin: 0 0 16px;
+    }
+
+    .footer p,
+    .footer a,
+    .footer li {
+      font-size: 12px;
+      color: #aeb7c0;
+      line-height: 1.9;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .footer-links a:hover {
+      color: var(--gold);
+    }
+
+    .amazon-disclosure {
+      border: 1px solid rgba(255,212,59,.3);
+      background: #1c1a10;
+      color: #f0e1ae;
+      padding: 13px;
+      border-radius: 9px;
+      margin-top: 14px;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .footer-bottom {
+      border-top: 1px solid var(--border);
+      margin-top: 30px;
+      padding-top: 20px;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 11px;
+      color: #87919a;
+      line-height: 1.7;
+    }
+
+    .footer-bottom a {
+      color: var(--gold);
+    }
+
+    .modal {
+      position: fixed;
+      inset: 0;
+      z-index: 500;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background: rgba(0,0,0,.83);
+      backdrop-filter: blur(8px);
+    }
+
+    .modal.open {
+      display: flex;
+    }
+
+    .modal-box {
+      width: min(650px, 100%);
+      max-height: 85vh;
+      overflow-y: auto;
+      background: #151c22;
+      border: 1px solid rgba(255,212,59,.35);
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 30px 90px #000;
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 15px;
+      margin-bottom: 20px;
+    }
+
+    .modal-header h2 {
+      color: var(--gold);
+      margin: 0;
+      font-size: 21px;
+    }
+
+    .close-modal {
+      background: #29343d;
+      color: white;
+      border: 0;
+      border-radius: 8px;
+      width: 36px;
+      height: 36px;
+      font-size: 23px;
+    }
+
+    .modal-content {
+      font-size: 13px;
+      color: #cbd3d9;
+      line-height: 1.9;
+    }
+
+    .modal-content h3 {
+      color: white;
+      margin-top: 22px;
+    }
+
+    .modal-content a {
+      color: var(--gold);
+      text-decoration: underline;
+    }
+
+    .modal-content ul {
+      padding-left: 20px;
+    }
+
+    .menu-panel {
+      display: none;
+      position: absolute;
+      right: 18px;
+      top: 85px;
+      width: 245px;
+      padding: 12px;
+      background: #192128;
+      border: 1px solid #3c4650;
+      border-radius: 12px;
+      box-shadow: 0 20px 50px #0009;
+      z-index: 110;
+    }
+
+    .menu-panel.open {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .menu-panel button,
+    .menu-panel a {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 13px;
+      background: transparent;
+      color: white;
+      border: 0;
+      border-radius: 8px;
+      font-size: 12px;
+    }
+
+    .menu-panel button:hover,
+    .menu-panel a:hover {
+      background: #303a43;
+      color: var(--gold);
+    }
+
+    @media (max-width: 1150px) {
+      .nav-benefits {
+        display: none;
+      }
+
+      .products {
+        grid-template-columns: repeat(4, 1fr);
+      }
+
+      .category-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .hero {
+        padding: 40px;
+      }
+    }
+
+    @media (max-width: 850px) {
+      .header-inner {
+        flex-wrap: wrap;
+        padding: 13px 0;
+        gap: 13px;
+      }
+
+      .brand {
+        flex: 1;
+      }
+
+      .brand-logo {
+        width: 55px;
+        height: 50px;
+      }
+
+      .brand-name {
+        font-size: 18px;
+      }
+
+      .search {
+        order: 5;
+        flex-basis: 100%;
+      }
+
+      .whatsapp {
+        padding: 13px;
+        font-size: 11px;
+      }
+
+      .header-actions {
+        gap: 6px;
+      }
+
+      .header-action {
+        min-width: 40px;
+        font-size: 9px;
+      }
+
+      .hero {
+        grid-template-columns: 1fr;
+        padding: 34px 27px;
+      }
+
+      .hero h1 {
+        letter-spacing: -1.5px;
+      }
+
+      .hero-art {
+        min-height: 210px;
+      }
+
+      .hero-logo {
+        max-height: 220px;
+      }
+
+      .products {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .trust-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media (max-width: 580px) {
+      .container {
+        width: min(100% - 24px, var(--max));
+      }
+
+      .header-inner {
+        gap: 9px;
+      }
+
+      .whatsapp {
+        order: 4;
+        width: 100%;
+      }
+
+      .search {
+        order: 5;
+        height: 46px;
+      }
+
+      .hero {
+        margin-top: 14px;
+        padding: 28px 22px;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero p {
+        font-size: 13px;
+      }
+
+      .hero-benefits {
+        gap: 12px;
+      }
+
+      .hero-art {
+        min-height: 180px;
+      }
+
+      .hero-logo {
+        max-height: 180px;
+      }
+
+      .category-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+      }
+
+      .category-card {
+        padding: 12px;
+        min-height: 65px;
+        font-size: 11px;
+      }
+
+      .category-card .emoji {
+        font-size: 23px;
+      }
+
+      .products {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 9px;
+      }
+
+      .product-image-wrap {
+        height: 145px;
+        padding: 10px;
+      }
+
+      .product-body {
+        padding: 10px;
+      }
+
+      .product-title {
+        font-size: 11px;
+      }
+
+      .product-price {
+        font-size: 18px;
+      }
+
+      .store-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .trust-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
+      }
+
+      .trust-card {
+        padding: 13px;
+      }
+
+      .trust-icon {
+        font-size: 22px;
+      }
+
+      .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 27px;
+      }
+
+      .modal-box {
+        padding: 20px;
+      }
+    }
+  </style>
 </head>
 
 <body>
 
-<header>
-  <div class="wrap top">
+  <!-- IDENTIFICAÇÃO PUBLICITÁRIA -->
 
-    <a href="#inicio" class="brand">
-      <img src="/logo.jpg" alt="Logo oficial JP Junão Promoção">
-      <div class="brand-name">
-        JUNÃO<br>
-        <span>PROMOÇÃO</span>
-      </div>
-    </a>
-
-    <form class="search" id="searchForm">
-      <input
-        id="searchInput"
-        type="search"
-        placeholder="Buscar promoções, produtos ou marcas..."
-        aria-label="Buscar produtos"
-      >
-      <button type="submit" aria-label="Pesquisar">⌕</button>
-    </form>
-
-    <a
-      class="whatsapp"
-      href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
-      target="_blank"
-      rel="noopener noreferrer"
-    >◉ Entrar no WhatsApp</a>
-
-    <button class="top-action" id="favoritesBtn" type="button">
-      <b>♡</b>Favoritos
-    </button>
-
-    <button class="top-action" id="compareBtn" type="button">
-      <b>⇄</b>Comparar
-    </button>
-
-    <button class="top-action" id="menuBtn" type="button">
-      <b>☰</b>Menu
-    </button>
-
+  <div class="top-notice">
+    <strong>PUBLICIDADE:</strong>
+    este site contém links de afiliados.
+    Podemos receber comissões por compras qualificadas,
+    sem custo adicional para você.
   </div>
-</header>
 
-<nav class="nav">
-  <div class="wrap nav-inner">
-    <div class="nav-cats" id="navCats"></div>
+  <!-- CABEÇALHO -->
 
-    <div class="nav-benefits">
-      <div class="nav-benefit"><b>ϟ</b>Ofertas reais<br>e atualizadas</div>
-      <div class="nav-benefit"><b>⬡</b>Links diretos<br>das lojas</div>
-      <div class="nav-benefit"><b>◷</b>Novas promoções<br>todos os dias</div>
-      <div class="nav-benefit"><b>★</b>Tudo em um<br>só lugar</div>
-    </div>
-  </div>
-</nav>
+  <header class="header">
+    <div class="container header-inner">
 
-<main class="wrap" id="inicio">
+      <a class="brand" href="/" aria-label="Página inicial do Junão Promoção">
+        <img
+          src="/logo.jpg"
+          class="brand-logo"
+          alt="Logo JP Junão Promoção"
+        >
 
-  <section class="hero">
-    <div class="hero-art" aria-hidden="true"></div>
-
-    <div class="hero-content">
-      <h1>
-        AS MELHORES
-        <span class="gold">PROMOÇÕES</span>
-        EM UM SÓ LUGAR!
-      </h1>
-
-      <p>
-        Casa, tecnologia, moda, mercado e muito mais,
-        com ofertas atualizadas todos os dias.
-      </p>
-
-      <a class="gold-btn" href="#ofertas">
-        Ver todas as promoções &nbsp; ➜
+        <div class="brand-name">
+          <span>JUNÃO</span>
+          <span>PROMOÇÃO</span>
+        </div>
       </a>
 
-      <div class="hero-features">
-        <div class="hero-feature"><b>◇</b>Ofertas reais<br>e atualizadas</div>
-        <div class="hero-feature"><b>⬡</b>Links diretos<br>das lojas</div>
-        <div class="hero-feature"><b>◷</b>Novas promoções<br>todos os dias</div>
-        <div class="hero-feature"><b>★</b>Tudo em um<br>só lugar</div>
-      </div>
-    </div>
-  </section>
+      <form class="search" id="searchForm">
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Buscar promoções, produtos ou marcas..."
+          aria-label="Buscar promoções"
+        >
+        <button type="submit" aria-label="Buscar">⌕</button>
+      </form>
 
-  <section class="category-tiles" id="categoryTiles"></section>
-
-  <section id="ofertas">
-    <div class="section-head">
-      <div>
-        <h2>🔥 Ofertas em destaque</h2>
-        <p>Produtos selecionados especialmente para você.</p>
-      </div>
-      <a href="#ofertas" id="showAll">Ver todas as ofertas →</a>
-    </div>
-
-    <div class="filters">
-      <select id="storeFilter">
-        <option value="">Todas as lojas</option>
-      </select>
-
-      <select id="sortFilter">
-        <option value="recent">Mais recentes</option>
-        <option value="low">Menor preço</option>
-        <option value="high">Maior preço</option>
-      </select>
-
-      <span class="count" id="count"></span>
-    </div>
-
-    <div class="products" id="products">
-      <div class="empty">Carregando promoções...</div>
-    </div>
-  </section>
-
-  <section class="stores">
-    <div class="stores-title">
-      <h2>🏬 Lojas parceiras</h2>
-      <p>Ofertas selecionadas de grandes lojas.</p>
-    </div>
-
-    <div class="store-logo amazon">amazon</div>
-    <div class="store-logo ml">mercado livre</div>
-    <div class="store-logo magalu">magalu</div>
-    <div class="store-logo shopee">Shopee</div>
-    <div class="store-logo ali">AliExpress</div>
-    <div class="store-logo">CASAS BAHIA</div>
-    <div class="store-logo">americanas</div>
-    <div class="store-logo">pontofrio</div>
-  </section>
-
-  <section class="trust">
-    <div class="trust-item">
-      <span class="symbol">♛</span>
-      <div>
-        <b>SUA LOGO EM DESTAQUE</b>
-        <p>Junão Promoção, sua referência em ofertas e economia.</p>
-      </div>
-    </div>
-
-    <div class="trust-item">
-      <span class="symbol">ϟ</span>
-      <div>
-        <b>PROMOÇÕES ATUALIZADAS</b>
-        <p>Novas ofertas publicadas automaticamente pelo nosso sistema.</p>
-      </div>
-    </div>
-
-    <div class="trust-item">
-      <span class="symbol">⬡</span>
-      <div>
-        <b>LINKS DIRETOS</b>
-        <p>Confira os detalhes diretamente no site de cada loja.</p>
-      </div>
-    </div>
-
-    <div class="trust-item">
-      <span class="symbol">★</span>
-      <div>
-        <b>TUDO EM UM SÓ LUGAR</b>
-        <p>Casa, tecnologia, moda, mercado, esportes e muito mais.</p>
-      </div>
-    </div>
-  </section>
-
-</main>
-
-<footer>
-  © <span id="year"></span> Junão Promoção.<br>
-  Preços, fretes e disponibilidade estão sujeitos a alterações.<br>
-  Podemos receber comissões pelas compras realizadas através dos nossos links.
-</footer>
-
-<div class="toast" id="toast"></div>
-
-<nav class="mobile-bar">
-  <button onclick="location.hash='inicio'"><span>⌂</span>Início</button>
-  <button onclick="document.getElementById('categoryTiles').scrollIntoView()"><span>▦</span>Categorias</button>
-  <button onclick="location.hash='ofertas'"><span>🔥</span>Ofertas</button>
-  <button onclick="showFavorites()"><span>♡</span>Favoritos</button>
-</nav>
-
-<script>
-const JSON_URL =
-  "https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json";
-
-const HOURS_24 = 24 * 60 * 60 * 1000;
-
-const categories = [
-  {id:"all",name:"Todas",icon:"▦"},
-  {id:"casa",name:"Casa & Lazer",icon:"⛺"},
-  {id:"eletronicos",name:"Eletrônicos",icon:"🎧"},
-  {id:"moda",name:"Beleza & Moda",icon:"🛍️"},
-  {id:"mercado",name:"Mercado",icon:"🛒"},
-  {id:"esportes",name:"Esportes",icon:"🎮"},
-  {id:"automotivo",name:"Automotivo",icon:"🚗"}
-];
-
-let allProducts = [];
-let activeCategory = "all";
-let onlyFavorites = false;
-
-const compared = new Set();
-
-let favorites;
-try {
-  favorites = new Set(
-    JSON.parse(localStorage.getItem("junao_favorites") || "[]")
-  );
-} catch {
-  favorites = new Set();
-}
-
-const $ = id => document.getElementById(id);
-
-function escapeHTML(value) {
-  return String(value ?? "").replace(/[&<>"']/g, char => ({
-    "&":"&amp;",
-    "<":"&lt;",
-    ">":"&gt;",
-    '"':"&quot;",
-    "'":"&#39;"
-  })[char]);
-}
-
-function safeURL(value) {
-  try {
-    const url = new URL(value);
-    return ["https:","http:"].includes(url.protocol) ? url.href : "#";
-  } catch {
-    return "#";
-  }
-}
-
-function priceNumber(value) {
-  if(typeof value === "number") return value;
-  const raw = String(value || "").replace(/[^\d,.-]/g,"");
-  if(!raw) return Infinity;
-  return Number(
-    raw.includes(",")
-      ? raw.replace(/\./g,"").replace(",",".")
-      : raw
-  );
-}
-
-function categoryOf(product) {
-  const text = (
-    String(product.categoria || "") + " " +
-    String(product.categoriaNome || "")
-  ).toLowerCase();
-
-  if(/casa|lazer|jardim|ferrament/.test(text)) return "casa";
-  if(/eletr|tecno|inform|celular/.test(text)) return "eletronicos";
-  if(/moda|beleza|roupa|vestu/.test(text)) return "moda";
-  if(/mercado|alimento|bebida/.test(text)) return "mercado";
-  if(/esport|fitness|game/.test(text)) return "esportes";
-  if(/auto|carro|moto/.test(text)) return "automotivo";
-  return "outros";
-}
-
-function fresh(product) {
-  const time = Number(product.timestamp);
-  const now = Date.now();
-
-  return Number.isFinite(time)
-    && time > 0
-    && time <= now + 300000
-    && now - time < HOURS_24;
-}
-
-function productLink(product) {
-  return product.linkWhatsapp || product.link || "";
-}
-
-function notify(message) {
-  $("toast").textContent = message;
-  $("toast").style.display = "block";
-  clearTimeout(window.toastTimer);
-  window.toastTimer = setTimeout(
-    () => $("toast").style.display = "none",
-    3000
-  );
-}
-
-function selectCategory(id) {
-  activeCategory = id;
-  onlyFavorites = false;
-
-  document.querySelectorAll("[data-category]").forEach(el => {
-    el.classList.toggle("active",el.dataset.category === id);
-  });
-
-  render();
-  location.hash = "ofertas";
-}
-
-function buildCategories() {
-  $("navCats").innerHTML = categories.map(c => `
-    <button
-      class="nav-cat ${c.id === "all" ? "active" : ""}"
-      data-category="${c.id}"
-      type="button"
-    >
-      <i>${c.icon}</i>${c.name}
-    </button>
-  `).join("");
-
-  $("categoryTiles").innerHTML = categories
-    .filter(c => c.id !== "all")
-    .map(c => `
-      <button
-        class="tile"
-        data-category="${c.id}"
-        type="button"
+      <a
+        class="whatsapp"
+        href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+        target="_blank"
+        rel="noopener noreferrer"
       >
-        <span class="emoji">${c.icon}</span>
-        <span class="tile-name">${c.name}</span>
+        ☎ Entrar no WhatsApp
+      </a>
+
+      <div class="header-actions">
+
+        <button
+          class="header-action"
+          id="favoritesButton"
+          type="button"
+          aria-label="Ver favoritos"
+        >
+          <span class="symbol">♡</span>
+          <span>Favoritos</span>
+        </button>
+
+        <button
+          class="header-action"
+          id="compareButton"
+          type="button"
+          aria-label="Informações para comparar preços"
+        >
+          <span class="symbol">⇄</span>
+          <span>Comparar</span>
+        </button>
+
+        <button
+          class="header-action"
+          id="menuButton"
+          type="button"
+          aria-label="Abrir menu"
+          aria-expanded="false"
+        >
+          <span class="symbol">☰</span>
+          <span>Menu</span>
+        </button>
+
+      </div>
+
+    </div>
+
+    <div class="menu-panel" id="menuPanel">
+      <a href="#ofertas">Todas as ofertas</a>
+      <a href="#lojas">Lojas parceiras</a>
+      <button type="button" data-modal="sobre">Sobre nós</button>
+      <button type="button" data-modal="afiliados">Aviso de afiliados</button>
+      <button type="button" data-modal="privacidade">Privacidade</button>
+      <button type="button" data-modal="contato">Contato</button>
+    </div>
+
+  </header>
+
+  <!-- NAVEGAÇÃO -->
+
+  <nav class="nav" aria-label="Categorias">
+    <div class="container nav-inner">
+
+      <button class="nav-button active" data-category="todas">
+        <span class="emoji">▦</span>
+        Todas
+      </button>
+
+      <button class="nav-button" data-category="casa">
+        <span class="emoji">🏡</span>
+        Casa & Lazer
+      </button>
+
+      <button class="nav-button" data-category="eletronicos">
+        <span class="emoji">🎧</span>
+        Eletrônicos
+      </button>
+
+      <button class="nav-button" data-category="moda">
+        <span class="emoji">🛍️</span>
+        Beleza & Moda
+      </button>
+
+      <button class="nav-button" data-category="mercado">
+        <span class="emoji">🛒</span>
+        Mercado
+      </button>
+
+      <button class="nav-button" data-category="esportes">
+        <span class="emoji">🎮</span>
+        Esportes
+      </button>
+
+      <button class="nav-button" data-category="automotivo">
+        <span class="emoji">🚘</span>
+        Automotivo
+      </button>
+
+      <div class="nav-spacer"></div>
+
+      <div class="nav-benefits">
+        <span><b>ϟ</b> Ofertas publicadas</span>
+        <span><b>⬡</b> Links diretos</span>
+        <span><b>◷</b> Atualização automática</span>
+      </div>
+
+    </div>
+  </nav>
+
+  <main class="container">
+
+    <!-- BANNER PRINCIPAL -->
+
+    <section class="hero">
+
+      <div class="hero-content">
+
+        <h1>
+          AS MELHORES
+          <em>PROMOÇÕES</em>
+          EM UM SÓ LUGAR!
+        </h1>
+
+        <p>
+          Casa, tecnologia, moda, mercado e muito mais.
+          Encontre ofertas selecionadas e confira
+          o preço final diretamente nas lojas.
+        </p>
+
+        <a href="#ofertas" class="gold-button">
+          Ver todas as promoções
+          <span>➜</span>
+        </a>
+
+        <div class="hero-benefits">
+
+          <div class="hero-benefit">
+            <b>◇</b>
+            <span>Ofertas publicadas recentemente</span>
+          </div>
+
+          <div class="hero-benefit">
+            <b>⬡</b>
+            <span>Links para as lojas</span>
+          </div>
+
+          <div class="hero-benefit">
+            <b>◷</b>
+            <span>Novidades todos os dias</span>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="hero-art">
+        <img
+          class="hero-logo"
+          src="/logo.jpg"
+          alt="JP Junão Promoção em destaque"
+        >
+      </div>
+
+    </section>
+
+    <!-- CATEGORIAS -->
+
+    <section class="category-grid" aria-label="Explorar categorias">
+
+      <button class="category-card" data-category="casa">
+        <span class="emoji">🏕️</span>
+        Casa & Lazer
         <span class="arrow">›</span>
       </button>
-    `).join("");
 
-  document.querySelectorAll("[data-category]").forEach(el => {
-    el.addEventListener("click",() => selectCategory(el.dataset.category));
-  });
-}
+      <button class="category-card" data-category="eletronicos">
+        <span class="emoji">🎧</span>
+        Eletrônicos
+        <span class="arrow">›</span>
+      </button>
 
-function render() {
-  const query = $("searchInput").value.trim().toLowerCase();
-  const store = $("storeFilter").value;
-  const sort = $("sortFilter").value;
+      <button class="category-card" data-category="moda">
+        <span class="emoji">🛍️</span>
+        Beleza & Moda
+        <span class="arrow">›</span>
+      </button>
 
-  let products = allProducts.filter(fresh);
+      <button class="category-card" data-category="mercado">
+        <span class="emoji">🛒</span>
+        Mercado
+        <span class="arrow">›</span>
+      </button>
 
-  if(activeCategory !== "all") {
-    products = products.filter(
-      p => categoryOf(p) === activeCategory
-    );
-  }
+      <button class="category-card" data-category="esportes">
+        <span class="emoji">🎮</span>
+        Esportes
+        <span class="arrow">›</span>
+      </button>
 
-  if(query) {
-    products = products.filter(p => [
-      p.titulo,p.loja,p.categoriaNome
-    ].join(" ").toLowerCase().includes(query));
-  }
+      <button class="category-card" data-category="automotivo">
+        <span class="emoji">🚘</span>
+        Automotivo
+        <span class="arrow">›</span>
+      </button>
 
-  if(store) {
-    products = products.filter(p => p.loja === store);
-  }
+    </section>
 
-  if(onlyFavorites) {
-    products = products.filter(
-      p => favorites.has(productLink(p))
-    );
-  }
+    <!-- OFERTAS -->
 
-  if(sort === "low") {
-    products.sort(
-      (a,b) => priceNumber(a.precoPor) - priceNumber(b.precoPor)
-    );
-  } else if(sort === "high") {
-    products.sort(
-      (a,b) => priceNumber(b.precoPor) - priceNumber(a.precoPor)
-    );
-  } else {
-    products.sort(
-      (a,b) => Number(b.timestamp) - Number(a.timestamp)
-    );
-  }
+    <section class="section" id="ofertas">
 
-  $("count").textContent = products.length + " oferta(s)";
+      <div class="section-heading">
 
-  if(!products.length) {
-    $("products").innerHTML = `
-      <div class="empty">
-        <div style="font-size:38px;margin-bottom:12px">🔥</div>
-        Nenhuma oferta disponível neste filtro nas últimas 24 horas.
-        <br><br>
-        Volte em breve para conferir novas promoções!
+        <div>
+          <h2>🔥 Ofertas em destaque</h2>
+          <p>Produtos selecionados para você.</p>
+        </div>
+
+        <a href="#ofertas" id="showAll">
+          Ver todas as ofertas →
+        </a>
+
       </div>
-    `;
-    return;
-  }
 
-  $("products").innerHTML = products.map((p,index) => {
-    const link = productLink(p);
-    const category = categoryOf(p);
-    const emoji = {
-      casa:"⛺",
-      eletronicos:"🎧",
-      moda:"🛍️",
-      mercado:"🛒",
-      esportes:"🎮",
-      automotivo:"🚗"
-    }[category] || "🛍️";
+      <div class="disclosure">
+        <strong>Publicidade • Links de afiliado.</strong>
+        Podemos receber comissões pelas compras feitas
+        através dos links deste site. Os preços informados
+        podem mudar; confira sempre o valor e a
+        disponibilidade diretamente na loja.
+      </div>
 
-    const imageURL = safeURL(p.imagem);
-    const image = imageURL !== "#"
-      ? `<img
-          src="${escapeHTML(imageURL)}"
-          alt="${escapeHTML(p.titulo)}"
-          loading="lazy"
-          onerror="this.style.display='none';this.nextElementSibling.style.display='block'"
-        ><span class="placeholder" style="display:none">${emoji}</span>`
-      : `<span class="placeholder">${emoji}</span>`;
+      <div
+        class="products"
+        id="products"
+        aria-live="polite"
+      >
+        <div class="empty">
+          <div class="emoji">⏳</div>
+          <h3>Carregando promoções...</h3>
+          <p>Estamos buscando as ofertas mais recentes.</p>
+        </div>
+      </div>
 
-    const saved = favorites.has(link);
+      <div class="status" id="status">
+        <span class="status-dot"></span>
+        <span>Carregando ofertas...</span>
+      </div>
 
-    return `
-      <article class="product">
-        <div class="product-image">
-          ${image}
-          <span class="tag">${escapeHTML(p.desconto || "Oferta Imperdível!")}</span>
-          <button
-            class="heart ${saved ? "active" : ""}"
-            data-favorite="${index}"
-            aria-label="Favoritar"
-            type="button"
-          >${saved ? "♥" : "♡"}</button>
+    </section>
+
+    <!-- LOJAS -->
+
+    <section class="stores-section" id="lojas">
+
+      <div class="section-heading">
+        <div>
+          <h2>🏬 Lojas parceiras</h2>
+          <p>Ofertas divulgadas através dos programas de afiliados.</p>
+        </div>
+      </div>
+
+      <div class="store-grid">
+
+        <div class="store-card" style="color:#fff">
+          amazon
+          <small>Associados</small>
         </div>
 
-        <div class="product-info">
-          <h3>${escapeHTML(p.titulo || "Oferta")}</h3>
-          <div class="product-category">
-            ${escapeHTML(p.categoriaNome || "Ofertas")}
-          </div>
-
-          <div class="old-price">
-            ${escapeHTML(p.precoDe || "")}
-          </div>
-
-          <div class="price">
-            ${escapeHTML(p.precoPor || "Consultar preço")}
-          </div>
-
-          <div class="store">
-            ${escapeHTML(p.loja || "Loja")}
-          </div>
-
-          <a
-            class="offer-btn"
-            href="${escapeHTML(safeURL(link))}"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-          >Ver oferta ↗</a>
-
-          <button
-            class="compare-item"
-            data-compare="${index}"
-            type="button"
-          >${compared.has(link) ? "✓ Selecionado" : "+ Comparar"}</button>
+        <div class="store-card" style="color:#ffe600">
+          mercado livre
         </div>
-      </article>
-    `;
-  }).join("");
 
-  document.querySelectorAll("[data-favorite]").forEach(button => {
-    button.addEventListener("click",() => {
-      const p = products[Number(button.dataset.favorite)];
-      const link = productLink(p);
+        <div class="store-card" style="color:#ff7135">
+          Shopee
+        </div>
 
-      if(favorites.has(link)) favorites.delete(link);
-      else favorites.add(link);
+        <div class="store-card" style="color:#28a7ed">
+          Magalu
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- DIFERENCIAIS -->
+
+    <section class="trust-grid" aria-label="Informações importantes">
+
+      <div class="trust-card">
+        <div class="trust-icon">♛</div>
+        <div>
+          <strong>Identidade própria</strong>
+          <p>Junão Promoção: ofertas selecionadas em um só lugar.</p>
+        </div>
+      </div>
+
+      <div class="trust-card">
+        <div class="trust-icon">ϟ</div>
+        <div>
+          <strong>Ofertas recentes</strong>
+          <p>As publicações ficam visíveis por até 24 horas.</p>
+        </div>
+      </div>
+
+      <div class="trust-card">
+        <div class="trust-icon">⬡</div>
+        <div>
+          <strong>Compra na loja</strong>
+          <p>Você finaliza a compra no site da loja anunciante.</p>
+        </div>
+      </div>
+
+      <div class="trust-card">
+        <div class="trust-icon">★</div>
+        <div>
+          <strong>Transparência</strong>
+          <p>Identificamos os links publicitários e as condições das ofertas.</p>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- RODAPÉ -->
+
+  <footer class="footer">
+
+    <div class="container footer-inner">
+
+      <div class="footer-grid">
+
+        <div>
+
+          <div class="footer-brand">
+            <img src="/logo.jpg" alt="JP Junão Promoção">
+
+            <strong>
+              JUNÃO<br>
+              <span>PROMOÇÃO</span>
+            </strong>
+          </div>
+
+          <p>
+            Sua vitrine de ofertas em tecnologia,
+            casa, beleza, mercado e muito mais.
+            Encontre produtos e confira as condições
+            diretamente nas lojas.
+          </p>
+
+          <div class="amazon-disclosure">
+            Como associado da Amazon, eu ganho
+            com compras qualificadas.
+          </div>
+
+        </div>
+
+        <div>
+
+          <h3>Informações</h3>
+
+          <div class="footer-links">
+            <a href="#ofertas">Ofertas</a>
+            <a href="#lojas">Lojas</a>
+
+            <a href="#sobre" data-modal="sobre">
+              Sobre nós
+            </a>
+
+            <a href="#afiliados" data-modal="afiliados">
+              Aviso de afiliados
+            </a>
+
+            <a href="#privacidade" data-modal="privacidade">
+              Política de privacidade
+            </a>
+
+            <a href="#contato" data-modal="contato">
+              Contato
+            </a>
+          </div>
+
+        </div>
+
+        <div>
+
+          <h3>Transparência</h3>
+
+          <p>
+            Este site contém publicidade e links de afiliados.
+            O Junão Promoção pode receber comissões
+            por compras qualificadas.
+          </p>
+
+          <p>
+            Preços, cupons, fretes e estoques são definidos
+            pelas lojas e podem mudar sem aviso.
+            Confira as condições antes de concluir a compra.
+          </p>
+
+          <p>
+            O Junão Promoção é um site independente
+            e não é o atendimento oficial das lojas divulgadas.
+          </p>
+
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+
+        <span>
+          © <span id="year"></span>
+          Junão Promoção. Todos os direitos reservados.
+        </span>
+
+        <span>
+          Publicidade e links de afiliados •
+          <a href="#afiliados" data-modal="afiliados">
+            Saiba mais
+          </a>
+        </span>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+  <!-- JANELA DE INFORMAÇÕES -->
+
+  <div
+    class="modal"
+    id="modal"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="modalTitle"
+  >
+
+    <div class="modal-box">
+
+      <div class="modal-header">
+        <h2 id="modalTitle"></h2>
+
+        <button
+          class="close-modal"
+          id="closeModal"
+          aria-label="Fechar"
+        >
+          ×
+        </button>
+      </div>
+
+      <div class="modal-content" id="modalContent"></div>
+
+    </div>
+
+  </div>
+
+  <script>
+
+    // ==========================================
+    // 1. CONFIGURAÇÕES
+    // ==========================================
+
+    const GITHUB_JSON =
+      'https://raw.githubusercontent.com/' +
+      'JonatasBaldassiJr/junao-promo/' +
+      'main/promocoes.json';
+
+    const TEMPO_OFERTA =
+      24 * 60 * 60 * 1000;
+
+    const ATUALIZACAO =
+      5 * 60 * 1000;
+
+    const produtosEl =
+      document.getElementById('products');
+
+    const statusEl =
+      document.getElementById('status');
+
+    const buscaEl =
+      document.getElementById('searchInput');
+
+    let todasPromocoes = [];
+
+    let categoriaAtual = 'todas';
+
+    let somenteFavoritos = false;
+
+    let favoritos = new Set();
+
+    try {
+      favoritos = new Set(
+        JSON.parse(
+          localStorage.getItem('junao_favoritos') || '[]'
+        )
+      );
+    } catch (erro) {
+      favoritos = new Set();
+    }
+
+    // ==========================================
+    // 2. FUNÇÕES AUXILIARES
+    // ==========================================
+
+    function textoSeguro(valor) {
+      return String(valor ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function linkSeguro(valor) {
 
       try {
-        localStorage.setItem(
-          "junao_favorites",
-          JSON.stringify([...favorites])
+
+        const url = new URL(
+          String(valor || '')
         );
-      } catch {}
 
-      render();
-    });
-  });
+        if (
+          url.protocol !== 'https:' &&
+          url.protocol !== 'http:'
+        ) {
+          return null;
+        }
 
-  document.querySelectorAll("[data-compare]").forEach(button => {
-    button.addEventListener("click",() => {
-      const p = products[Number(button.dataset.compare)];
-      const link = productLink(p);
+        return url.href;
 
-      if(compared.has(link)) compared.delete(link);
-      else compared.add(link);
+      } catch (erro) {
 
-      notify(compared.size + " produto(s) selecionado(s)");
-      render();
-    });
-  });
-}
+        return null;
 
-async function loadProducts() {
-  try {
-    const response = await fetch(
-      JSON_URL + "?t=" + Date.now(),
-      {cache:"no-store"}
-    );
-
-    if(!response.ok) throw new Error("HTTP " + response.status);
-
-    let data = await response.json();
-
-    if(typeof data === "string") data = JSON.parse(data);
-    if(!Array.isArray(data)) data = data.promocoes || [];
-    if(!Array.isArray(data)) throw new Error("Formato JSON inválido");
-
-    allProducts = data.filter(
-      item => item && typeof item === "object"
-    );
-
-    const filter = $("storeFilter");
-    const previous = filter.value;
-
-    const stores = [...new Set(
-      allProducts.map(p => p.loja).filter(Boolean)
-    )].sort();
-
-    filter.innerHTML =
-      `<option value="">Todas as lojas</option>` +
-      stores.map(s =>
-        `<option value="${escapeHTML(s)}">${escapeHTML(s)}</option>`
-      ).join("");
-
-    filter.value = stores.includes(previous) ? previous : "";
-
-    render();
-  } catch(error) {
-    console.error("Erro ao carregar promoções:",error);
-
-    if(!allProducts.length) {
-      $("products").innerHTML = `
-        <div class="empty">
-          Não foi possível carregar as promoções agora.
-          <br><br>
-          Tente novamente em alguns minutos.
-        </div>
-      `;
+      }
     }
-  }
-}
 
-function showFavorites() {
-  onlyFavorites = !onlyFavorites;
-  activeCategory = "all";
-  render();
-  location.hash = "ofertas";
-}
+    function ehAmazon(produto) {
 
-$("year").textContent = new Date().getFullYear();
+      const loja =
+        String(produto.loja || '').toLowerCase();
 
-buildCategories();
+      const link =
+        String(
+          produto.linkWhatsapp ||
+          produto.link ||
+          ''
+        ).toLowerCase();
 
-$("searchForm").addEventListener("submit",e => {
-  e.preventDefault();
-  render();
-  location.hash = "ofertas";
-});
+      return (
+        loja.includes('amazon') ||
+        /amazon\.com|amzn\.to/.test(link)
+      );
 
-$("searchInput").addEventListener("input",render);
-$("storeFilter").addEventListener("change",render);
-$("sortFilter").addEventListener("change",render);
+    }
 
-$("showAll").addEventListener("click",() => {
-  onlyFavorites = false;
-  activeCategory = "all";
-  $("searchInput").value = "";
-  $("storeFilter").value = "";
-  $("sortFilter").value = "recent";
+    function categoriaNormalizada(produto) {
 
-  document.querySelectorAll("[data-category]").forEach(el => {
-    el.classList.toggle("active",el.dataset.category === "all");
-  });
+      const categoria =
+        String(produto.categoria || '')
+          .toLowerCase();
 
-  render();
-});
+      const nome =
+        String(produto.categoriaNome || '')
+          .toLowerCase();
 
-$("favoritesBtn").addEventListener("click",showFavorites);
+      if (
+        categoria === 'casa' ||
+        categoria.includes('casa') ||
+        nome.includes('casa')
+      ) {
+        return 'casa';
+      }
 
-$("compareBtn").addEventListener("click",() => {
-  const selected = allProducts.filter(
-    p => compared.has(productLink(p))
-  );
+      if (
+        categoria.includes('eletron') ||
+        nome.includes('eletrôn')
+      ) {
+        return 'eletronicos';
+      }
 
-  if(!selected.length) {
-    notify("Selecione produtos para comparar.");
-    return;
-  }
+      if (
+        categoria === 'moda' ||
+        categoria.includes('beleza') ||
+        nome.includes('moda') ||
+        nome.includes('beleza')
+      ) {
+        return 'moda';
+      }
 
-  alert(selected.map(p =>
-    `${p.titulo}\n${p.precoPor} — ${p.loja}`
-  ).join("\n\n"));
-});
+      if (
+        categoria.includes('esporte') ||
+        nome.includes('esporte')
+      ) {
+        return 'esportes';
+      }
 
-$("menuBtn").addEventListener("click",() => {
-  notify("Use as categorias para explorar as ofertas.");
-});
+      if (
+        categoria.includes('automot') ||
+        nome.includes('automot')
+      ) {
+        return 'automotivo';
+      }
 
-loadProducts();
+      return 'mercado';
 
-/* Atualiza os dados a cada 5 minutos */
-setInterval(loadProducts,5 * 60 * 1000);
+    }
 
-/* Remove da tela as ofertas que completaram 24 horas */
-setInterval(render,60 * 1000);
-</script>
+    function nomeCategoria(categoria) {
+
+      const nomes = {
+        casa: 'Casa & Lazer',
+        eletronicos: 'Eletrônicos',
+        moda: 'Beleza & Moda',
+        mercado: 'Mercado',
+        esportes: 'Esportes',
+        automotivo: 'Automotivo'
+      };
+
+      return nomes[categoria] || 'Ofertas';
+
+    }
+
+    function emojiCategoria(categoria) {
+
+      const emojis = {
+        casa: '🏠',
+        eletronicos: '🎧',
+        moda: '🛍️',
+        mercado: '🛒',
+        esportes: '🎮',
+        automotivo: '🚘'
+      };
+
+      return emojis[categoria] || '🛍️';
+
+    }
+
+    function identificador(produto) {
+
+      return (
+        produto.linkWhatsapp ||
+        produto.link ||
+        produto.titulo ||
+        ''
+      );
+
+    }
+
+    // ==========================================
+    // 3. CARREGAR OFERTAS DO GITHUB
+    // ==========================================
+
+    async function carregarPromocoes() {
+
+      try {
+
+        const resposta = await fetch(
+          GITHUB_JSON + '?atualizacao=' + Date.now(),
+          {
+            cache: 'no-store'
+          }
+        );
+
+        if (!resposta.ok) {
+
+          throw new Error(
+            'Não foi possível carregar o JSON: ' +
+            resposta.status
+          );
+
+        }
+
+        const dados = await resposta.json();
+
+        let lista = [];
+
+        if (Array.isArray(dados)) {
+
+          lista = dados;
+
+        } else if (
+          dados &&
+          Array.isArray(dados.promocoes)
+        ) {
+
+          lista = dados.promocoes;
+
+        } else {
+
+          throw new Error(
+            'O promocoes.json precisa conter uma lista.'
+          );
+
+        }
+
+        todasPromocoes = lista.filter(
+          promocao => {
+
+            if (
+              !promocao ||
+              typeof promocao !== 'object'
+            ) {
+              return false;
+            }
+
+            const timestamp =
+              Number(promocao.timestamp);
+
+            if (
+              !Number.isFinite(timestamp) ||
+              timestamp <= 0
+            ) {
+              return false;
+            }
+
+            const idade =
+              Date.now() - timestamp;
+
+            return (
+              idade >= 0 &&
+              idade < TEMPO_OFERTA
+            );
+
+          }
+        );
+
+        todasPromocoes.sort(
+          (a, b) =>
+            Number(b.timestamp) -
+            Number(a.timestamp)
+        );
+
+        renderizarPromocoes();
+
+        statusEl.innerHTML =
+          '<span class="status-dot"></span>' +
+          '<span>' +
+          todasPromocoes.length +
+          ' oferta(s) recente(s) • ' +
+          'Última consulta: ' +
+          new Date().toLocaleTimeString('pt-BR') +
+          '</span>';
+
+      } catch (erro) {
+
+        console.error(
+          'Erro ao carregar promoções:',
+          erro
+        );
+
+        statusEl.textContent =
+          'Não foi possível atualizar as ofertas.';
+
+        if (todasPromocoes.length === 0) {
+
+          produtosEl.innerHTML = `
+            <div class="empty">
+              <div class="emoji">⚠️</div>
+              <h3>Não conseguimos carregar as ofertas</h3>
+              <p>
+                Tente atualizar a página em alguns instantes.
+              </p>
+            </div>
+          `;
+
+        }
+
+      }
+
+    }
+
+    // ==========================================
+    // 4. RENDERIZAR PRODUTOS
+    // ==========================================
+
+    function renderizarPromocoes() {
+
+      const termo =
+        buscaEl.value
+          .toLowerCase()
+          .trim();
+
+      const lista =
+        todasPromocoes.filter(
+          produto => {
+
+            const categoria =
+              categoriaNormalizada(produto);
+
+            const correspondeCategoria =
+              categoriaAtual === 'todas' ||
+              categoria === categoriaAtual;
+
+            const texto =
+              (
+                String(produto.titulo || '') +
+                ' ' +
+                String(produto.loja || '') +
+                ' ' +
+                String(produto.categoriaNome || '')
+              ).toLowerCase();
+
+            const correspondeBusca =
+              texto.includes(termo);
+
+            const correspondeFavoritos =
+              !somenteFavoritos ||
+              favoritos.has(
+                identificador(produto)
+              );
+
+            return (
+              correspondeCategoria &&
+              correspondeBusca &&
+              correspondeFavoritos
+            );
+
+          }
+        );
+
+      if (lista.length === 0) {
+
+        produtosEl.innerHTML = `
+          <div class="empty">
+            <div class="emoji">🛍️</div>
+            <h3>Nenhuma oferta encontrada</h3>
+            <p>
+              Experimente outra categoria ou busca.
+              As ofertas são exibidas por até 24 horas.
+            </p>
+          </div>
+        `;
+
+        return;
+
+      }
+
+      produtosEl.innerHTML =
+        lista.map(
+          produto => criarCard(produto)
+        ).join('');
+
+      configurarBotoesFavoritos();
+
+      configurarFallbackImagens();
+
+    }
+
+    function criarCard(produto) {
+
+      const categoria =
+        categoriaNormalizada(produto);
+
+      const amazon =
+        ehAmazon(produto);
+
+      const titulo =
+        textoSeguro(
+          produto.titulo || 'Produto em oferta'
+        );
+
+      const loja =
+        textoSeguro(
+          produto.loja || 'Loja parceira'
+        );
+
+      const link =
+        linkSeguro(
+          produto.linkWhatsapp ||
+          produto.link
+        );
+
+      const id =
+        identificador(produto);
+
+      const favorito =
+        favoritos.has(id);
+
+      // Amazon:
+      // Não usar imagens ou preços extraídos
+      // automaticamente de páginas ou mensagens.
+      // Somente integrar dados autorizados depois.
+
+      const imagem =
+        amazon
+          ? null
+          : linkSeguro(produto.imagem);
+
+      const imagemHtml =
+        imagem
+          ? `
+            <img
+              class="product-image"
+              src="${textoSeguro(imagem)}"
+              alt="${titulo}"
+              loading="lazy"
+              referrerpolicy="no-referrer"
+            >
+          `
+          : `
+            <div class="image-placeholder">
+              <span class="emoji">
+                ${emojiCategoria(categoria)}
+              </span>
+              <span>
+                Consulte o produto na loja
+              </span>
+            </div>
+          `;
+
+      const preco =
+        String(produto.precoPor || '')
+          .trim();
+
+      const precoHtml =
+        amazon
+          ? `
+            <div class="product-price unavailable">
+              Confira o preço na Amazon
+            </div>
+
+            <div class="price-note">
+              Preço e disponibilidade
+              diretamente na loja.
+            </div>
+          `
+          : preco
+            ? `
+              <div class="product-price">
+                ${textoSeguro(preco)}
+              </div>
+
+              <div class="price-note">
+                Preço informado na publicação.
+                Confirme o valor final na loja.
+              </div>
+            `
+            : `
+              <div class="product-price unavailable">
+                Consulte o preço
+              </div>
+
+              <div class="price-note">
+                Confira as condições na loja.
+              </div>
+            `;
+
+      const botao =
+        link
+          ? `
+            <a
+              class="product-button"
+              href="${textoSeguro(link)}"
+              target="_blank"
+              rel="sponsored noopener noreferrer"
+              aria-label="Ver ${titulo} na loja"
+            >
+              Ver oferta ↗
+            </a>
+          `
+          : `
+            <span
+              class="product-button"
+              style="background:#d1d5db"
+            >
+              Link indisponível
+            </span>
+          `;
+
+      return `
+        <article class="product">
+
+          <div class="product-image-wrap">
+
+            <span class="ad-badge">
+              PUBLICIDADE
+            </span>
+
+            <button
+              class="favorite ${favorito ? 'selected' : ''}"
+              type="button"
+              data-id="${textoSeguro(id)}"
+              aria-label="Adicionar ou remover favorito"
+              aria-pressed="${favorito}"
+            >
+              ${favorito ? '♥' : '♡'}
+            </button>
+
+            ${imagemHtml}
+
+          </div>
+
+          <div class="product-body">
+
+            <div class="product-title">
+              ${titulo}
+            </div>
+
+            <div class="product-category">
+              ${nomeCategoria(categoria)}
+            </div>
+
+            ${precoHtml}
+
+            <div class="store">
+              <span class="store-dot"></span>
+              ${loja}
+            </div>
+
+            ${botao}
+
+          </div>
+
+        </article>
+      `;
+
+    }
+
+    // ==========================================
+    // 5. IMAGENS E FAVORITOS
+    // ==========================================
+
+    function configurarFallbackImagens() {
+
+      document.querySelectorAll(
+        '.product-image'
+      ).forEach(
+        imagem => {
+
+          imagem.addEventListener(
+            'error',
+            () => {
+
+              const caixa =
+                imagem.parentElement;
+
+              imagem.remove();
+
+              const placeholder =
+                document.createElement('div');
+
+              placeholder.className =
+                'image-placeholder';
+
+              placeholder.innerHTML = `
+                <span class="emoji">🛍️</span>
+                <span>Imagem indisponível</span>
+              `;
+
+              caixa.appendChild(
+                placeholder
+              );
+
+            },
+            { once: true }
+          );
+
+        }
+      );
+
+    }
+
+    function configurarBotoesFavoritos() {
+
+      document.querySelectorAll(
+        '.favorite'
+      ).forEach(
+        botao => {
+
+          botao.addEventListener(
+            'click',
+            () => {
+
+              const id =
+                botao.dataset.id;
+
+              if (
+                favoritos.has(id)
+              ) {
+
+                favoritos.delete(id);
+
+              } else {
+
+                favoritos.add(id);
+
+              }
+
+              try {
+
+                localStorage.setItem(
+                  'junao_favoritos',
+                  JSON.stringify(
+                    [...favoritos]
+                  )
+                );
+
+              } catch (erro) {
+
+                console.warn(
+                  'Favoritos não puderam ser salvos.',
+                  erro
+                );
+
+              }
+
+              renderizarPromocoes();
+
+            }
+          );
+
+        }
+      );
+
+    }
+
+    // ==========================================
+    // 6. BUSCA E CATEGORIAS
+    // ==========================================
+
+    function selecionarCategoria(categoria) {
+
+      categoriaAtual =
+        categoria;
+
+      somenteFavoritos =
+        false;
+
+      document.querySelectorAll(
+        '.nav-button'
+      ).forEach(
+        botao => {
+
+          botao.classList.toggle(
+            'active',
+            botao.dataset.category === categoria
+          );
+
+        }
+      );
+
+      renderizarPromocoes();
+
+      document.getElementById(
+        'ofertas'
+      ).scrollIntoView({
+        behavior: 'smooth'
+      });
+
+    }
+
+    document.querySelectorAll(
+      '[data-category]'
+    ).forEach(
+      botao => {
+
+        botao.addEventListener(
+          'click',
+          () => selecionarCategoria(
+            botao.dataset.category
+          )
+        );
+
+      }
+    );
+
+    document.getElementById(
+      'searchForm'
+    ).addEventListener(
+      'submit',
+      evento => {
+
+        evento.preventDefault();
+
+        renderizarPromocoes();
+
+        document.getElementById(
+          'ofertas'
+        ).scrollIntoView({
+          behavior: 'smooth'
+        });
+
+      }
+    );
+
+    buscaEl.addEventListener(
+      'input',
+      renderizarPromocoes
+    );
+
+    document.getElementById(
+      'showAll'
+    ).addEventListener(
+      'click',
+      () => {
+
+        categoriaAtual = 'todas';
+        somenteFavoritos = false;
+        buscaEl.value = '';
+
+        document.querySelectorAll(
+          '.nav-button'
+        ).forEach(
+          botao => {
+
+            botao.classList.toggle(
+              'active',
+              botao.dataset.category === 'todas'
+            );
+
+          }
+        );
+
+        renderizarPromocoes();
+
+      }
+    );
+
+    document.getElementById(
+      'favoritesButton'
+    ).addEventListener(
+      'click',
+      () => {
+
+        somenteFavoritos =
+          !somenteFavoritos;
+
+        categoriaAtual =
+          'todas';
+
+        buscaEl.value = '';
+
+        renderizarPromocoes();
+
+        document.getElementById(
+          'ofertas'
+        ).scrollIntoView({
+          behavior: 'smooth'
+        });
+
+      }
+    );
+
+    // ==========================================
+    // 7. PÁGINAS INFORMATIVAS
+    // ==========================================
+
+    const paginas = {
+
+      sobre: {
+        titulo: 'Sobre o Junão Promoção',
+
+        conteudo: `
+          <p>
+            O Junão Promoção é uma vitrine independente
+            de ofertas e produtos divulgados através
+            de programas de afiliados.
+          </p>
+
+          <p>
+            Nosso objetivo é reunir publicações
+            de diferentes categorias em um só lugar,
+            facilitando a descoberta de produtos.
+          </p>
+
+          <p>
+            Não vendemos diretamente os produtos
+            apresentados. Ao clicar em uma oferta,
+            você será direcionado à loja responsável
+            pela venda, pelo pagamento, pela entrega
+            e pelo atendimento pós-venda.
+          </p>
+        `
+      },
+
+      afiliados: {
+        titulo: 'Aviso de afiliados',
+
+        conteudo: `
+          <p>
+            <strong>Publicidade:</strong>
+            este site contém links de afiliados.
+          </p>
+
+          <p>
+            Quando você realiza uma compra através
+            de determinados links, o Junão Promoção
+            pode receber uma comissão, sem custo
+            adicional para você.
+          </p>
+
+          <h3>Amazon</h3>
+
+          <p>
+            Como associado da Amazon, eu ganho
+            com compras qualificadas.
+          </p>
+
+          <h3>Outras lojas</h3>
+
+          <p>
+            Também divulgamos produtos por meio
+            de programas de afiliados de outras
+            lojas, incluindo Mercado Livre,
+            Shopee e Magalu.
+          </p>
+
+          <h3>Preços e disponibilidade</h3>
+
+          <p>
+            Os preços informados podem ter sido
+            recebidos nas mensagens de divulgação
+            e não representam garantia de preço
+            em tempo real.
+          </p>
+
+          <p>
+            Preços, descontos, cupons, fretes
+            e estoques podem mudar sem aviso.
+            Confira sempre o valor final e as
+            condições diretamente na loja.
+          </p>
+
+          <h3>Independência</h3>
+
+          <p>
+            O Junão Promoção não é o site oficial
+            nem o atendimento oficial das lojas
+            cujos produtos são divulgados.
+          </p>
+        `
+      },
+
+      privacidade: {
+        titulo: 'Política de privacidade',
+
+        conteudo: `
+          <p>
+            Esta página explica como o Junão Promoção
+            trata as informações relacionadas
+            à navegação no site.
+          </p>
+
+          <h3>Busca e favoritos</h3>
+
+          <p>
+            A busca funciona diretamente no navegador.
+            Os favoritos são armazenados localmente
+            no seu dispositivo, quando o navegador
+            permite esse armazenamento.
+          </p>
+
+          <p>
+            O Junão Promoção não exige cadastro
+            para visualizar as ofertas.
+          </p>
+
+          <h3>Links externos</h3>
+
+          <p>
+            Ao clicar em um produto, você poderá
+            acessar o site de uma loja parceira.
+            Essa loja poderá tratar seus dados
+            conforme a própria política de
+            privacidade e utilizar tecnologias
+            relacionadas ao programa de afiliados.
+          </p>
+
+          <h3>Recursos externos</h3>
+
+          <p>
+            Este site utiliza fontes do Google Fonts
+            e carrega as ofertas a partir de
+            um arquivo público no GitHub.
+            Esses serviços podem receber informações
+            técnicas da conexão, como endereço IP,
+            de acordo com suas próprias políticas.
+          </p>
+
+          <h3>Hospedagem</h3>
+
+          <p>
+            O site é hospedado na Vercel.
+            A infraestrutura de hospedagem
+            poderá processar dados técnicos
+            necessários para disponibilizar
+            e proteger o serviço.
+          </p>
+
+          <h3>Contato</h3>
+
+          <p>
+            Para assuntos relacionados à privacidade,
+            utilize nossos canais de contato
+            informados nesta página.
+          </p>
+        `
+      },
+
+      contato: {
+        titulo: 'Contato',
+
+        conteudo: `
+          <p>
+            Quer falar com o Junão Promoção?
+            Entre em contato através dos nossos
+            canais de WhatsApp.
+          </p>
+
+          <p>
+            <a
+              href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Acessar o grupo de ofertas
+            </a>
+          </p>
+
+          <p>
+            Para problemas relacionados a pedidos,
+            pagamentos, trocas, devoluções
+            ou entregas, procure diretamente
+            a loja onde a compra foi realizada.
+          </p>
+        `
+      },
+
+      comparar: {
+        titulo: 'Como comparar ofertas',
+
+        conteudo: `
+          <p>
+            O Junão Promoção reúne produtos
+            de diferentes lojas, mas ainda
+            não oferece comparação automática
+            de preços em tempo real.
+          </p>
+
+          <p>
+            Para comparar, abra as ofertas
+            desejadas e confira diretamente
+            em cada loja:
+          </p>
+
+          <ul>
+            <li>Preço final do produto;</li>
+            <li>Frete para sua região;</li>
+            <li>Cupons disponíveis;</li>
+            <li>Prazo de entrega;</li>
+            <li>Condições de pagamento.</li>
+          </ul>
+        `
+      }
+
+    };
+
+    const modal =
+      document.getElementById('modal');
+
+    const modalTitle =
+      document.getElementById('modalTitle');
+
+    const modalContent =
+      document.getElementById('modalContent');
+
+    function abrirModal(nome) {
+
+      const pagina =
+        paginas[nome];
+
+      if (!pagina) {
+        return;
+      }
+
+      modalTitle.textContent =
+        pagina.titulo;
+
+      modalContent.innerHTML =
+        pagina.conteudo;
+
+      modal.classList.add('open');
+
+      document.body.style.overflow =
+        'hidden';
+
+    }
+
+    function fecharModal() {
+
+      modal.classList.remove('open');
+
+      document.body.style.overflow =
+        '';
+
+    }
+
+    document.querySelectorAll(
+      '[data-modal]'
+    ).forEach(
+      elemento => {
+
+        elemento.addEventListener(
+          'click',
+          evento => {
+
+            evento.preventDefault();
+
+            abrirModal(
+              elemento.dataset.modal
+            );
+
+          }
+        );
+
+      }
+    );
+
+    document.getElementById(
+      'compareButton'
+    ).addEventListener(
+      'click',
+      () => abrirModal('comparar')
+    );
+
+    document.getElementById(
+      'closeModal'
+    ).addEventListener(
+      'click',
+      fecharModal
+    );
+
+    modal.addEventListener(
+      'click',
+      evento => {
+
+        if (
+          evento.target === modal
+        ) {
+          fecharModal();
+        }
+
+      }
+    );
+
+    document.addEventListener(
+      'keydown',
+      evento => {
+
+        if (
+          evento.key === 'Escape'
+        ) {
+          fecharModal();
+        }
+
+      }
+    );
+
+    // ==========================================
+    // 8. MENU
+    // ==========================================
+
+    const menuButton =
+      document.getElementById('menuButton');
+
+    const menuPanel =
+      document.getElementById('menuPanel');
+
+    menuButton.addEventListener(
+      'click',
+      () => {
+
+        const aberto =
+          menuPanel.classList.toggle('open');
+
+        menuButton.setAttribute(
+          'aria-expanded',
+          String(aberto)
+        );
+
+      }
+    );
+
+    document.addEventListener(
+      'click',
+      evento => {
+
+        if (
+          !menuPanel.contains(evento.target) &&
+          !menuButton.contains(evento.target)
+        ) {
+
+          menuPanel.classList.remove('open');
+
+          menuButton.setAttribute(
+            'aria-expanded',
+            'false'
+          );
+
+        }
+
+      }
+    );
+
+    // ==========================================
+    // 9. INICIALIZAÇÃO
+    // ==========================================
+
+    document.getElementById(
+      'year'
+    ).textContent =
+      new Date().getFullYear();
+
+    carregarPromocoes();
+
+    // Consultar o GitHub a cada 5 minutos.
+
+    setInterval(
+      carregarPromocoes,
+      ATUALIZACAO
+    );
+
+    // Retirar da tela ofertas vencidas
+    // sem depender de nova consulta.
+
+    setInterval(
+      () => {
+
+        todasPromocoes =
+          todasPromocoes.filter(
+            promocao => {
+
+              const timestamp =
+                Number(promocao.timestamp);
+
+              return (
+                Number.isFinite(timestamp) &&
+                Date.now() - timestamp <
+                  TEMPO_OFERTA
+              );
+
+            }
+          );
+
+        renderizarPromocoes();
+
+      },
+      60 * 1000
+    );
+
+  </script>
 
 </body>
 </html>
