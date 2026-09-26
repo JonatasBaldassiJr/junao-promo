@@ -2,1435 +2,2701 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#090b10">
-<meta name="description" content="Junão Promoção: ofertas e achadinhos da Amazon, Mercado Livre e Shopee.">
-
-<title>Junão Promoção | Achadinhos de hoje</title>
-
-<style>
-:root {
-  --gold: #ffbd45;
-  --gold2: #f17d18;
-  --blue: #45b8ff;
-  --ink: #090b10;
-  --muted: #a8aebc;
-  --border: rgba(255,255,255,.12);
-  --glass: rgba(18,22,32,.78);
-}
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  margin: 0;
-  color: #f8f9fc;
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Arial, sans-serif;
-  background: var(--ink);
-  min-height: 100vh;
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: -2;
-  background:
-    radial-gradient(ellipse at 15% 5%, rgba(27,117,207,.16), transparent 36%),
-    radial-gradient(ellipse at 90% 15%, rgba(244,126,21,.13), transparent 34%),
-    repeating-linear-gradient(
-      130deg,
-      rgba(255,255,255,.012) 0 2px,
-      transparent 2px 8px
-    ),
-    #090b10;
-}
-
-body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  pointer-events: none;
-  background: linear-gradient(180deg, transparent, rgba(0,0,0,.15) 70%);
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-button, input {
-  font: inherit;
-}
-
-button {
-  cursor: pointer;
-}
-
-.wrap {
-  width: min(1240px, calc(100% - 36px));
-  margin: auto;
-}
-
-.glass {
-  background: var(--glass);
-  border: 1px solid var(--border);
-  backdrop-filter: blur(18px);
-  -webkit-backdrop-filter: blur(18px);
-  box-shadow: 0 15px 55px rgba(0,0,0,.22);
-}
-
-/* CABEÇALHO */
-
-.top {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  background: rgba(8,10,15,.89);
-  border-bottom: 1px solid var(--border);
-  backdrop-filter: blur(18px);
-}
-
-.top-inner {
-  min-height: 76px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 20px;
-}
-
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-weight: 950;
-  letter-spacing: -.5px;
-}
-
-.brand-symbol {
-  font-size: 26px;
-  font-weight: 1000;
-  font-style: italic;
-  background: linear-gradient(130deg, var(--blue), #f8f8fc 50%, var(--gold));
-  color: transparent;
-  background-clip: text;
-}
-
-.brand-name {
-  font-size: 17px;
-}
-
-.brand-name em {
-  font-style: normal;
-  color: var(--gold);
-}
-
-.top-links {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.btn {
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 11px 15px;
-  font-weight: 800;
-  font-size: 13px;
-  background: rgba(255,255,255,.06);
-  transition: .2s;
-}
-
-.btn:hover,
-.chip:hover {
-  border-color: var(--gold);
-  transform: translateY(-1px);
-}
-
-.btn.gold {
-  background: linear-gradient(110deg, var(--gold), var(--gold2));
-  color: #18120b;
-  border: 0;
-}
-
-/* BANNER PRINCIPAL */
-
-.hero {
-  position: relative;
-  overflow: hidden;
-  margin: 26px 0 25px;
-  border-radius: 25px;
-  min-height: 320px;
-  display: grid;
-  grid-template-columns: 1.1fr .9fr;
-  align-items: center;
-  padding: 35px 44px;
-  background: linear-gradient(
-    120deg,
-    rgba(11,16,29,.93),
-    rgba(18,20,29,.84)
-  );
-  border: 1px solid rgba(255,190,70,.24);
-  box-shadow: 0 20px 70px rgba(0,0,0,.4);
-}
-
-.hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background:
-    radial-gradient(ellipse at 80% 20%, rgba(255,152,39,.14), transparent 48%),
-    radial-gradient(ellipse at 15% 90%, rgba(35,139,255,.14), transparent 45%);
-  pointer-events: none;
-}
-
-.hero > * {
-  position: relative;
-}
-
-.eyebrow {
-  color: var(--gold);
-  font-size: 12px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  font-weight: 900;
-}
-
-.hero h1 {
-  font-size: clamp(30px, 4.3vw, 54px);
-  line-height: 1.08;
-  letter-spacing: -2px;
-  margin: 14px 0;
-}
-
-.hero h1 span {
-  background: linear-gradient(90deg, #ffe5a3, var(--gold2));
-  background-clip: text;
-  color: transparent;
-}
-
-.hero p {
-  max-width: 520px;
-  color: #c3c9d4;
-  line-height: 1.7;
-  margin: 0 0 24px;
-}
-
-.hero-actions {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.logo-frame {
-  justify-self: center;
-  position: relative;
-  width: min(100%, 410px);
-  aspect-ratio: 1.55;
-  display: grid;
-  place-items: center;
-}
-
-.logo-frame::before {
-  content: "";
-  position: absolute;
-  inset: 8%;
-  background: linear-gradient(
-    110deg,
-    rgba(42,144,255,.45),
-    rgba(255,158,24,.4)
-  );
-  filter: blur(55px);
-}
-
-.hero-logo {
-  position: relative;
-  width: 100%;
-  max-height: 300px;
-  object-fit: contain;
-  filter: drop-shadow(0 18px 22px rgba(0,0,0,.5));
-  border-radius: 15px;
-}
-
-.hero-logo-fallback {
-  font-size: clamp(60px, 10vw, 125px);
-  font-weight: 1000;
-  font-style: italic;
-  background: linear-gradient(125deg, var(--blue), white 45%, var(--gold));
-  background-clip: text;
-  color: transparent;
-}
-
-/* INFORMAÇÕES */
-
-.strip {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin: 0 0 30px;
-}
-
-.strip > div {
-  flex: 1;
-  min-width: 160px;
-  padding: 15px 18px;
-  border-radius: 14px;
-  color: #cbd1dc;
-  font-size: 13px;
-}
-
-.strip strong {
-  display: block;
-  color: white;
-  font-size: 17px;
-  margin-bottom: 4px;
-}
-
-/* OFERTAS */
-
-.section-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: end;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-bottom: 17px;
-}
-
-.section-head h2 {
-  margin: 0 0 5px;
-  font-size: 26px;
-  letter-spacing: -.7px;
-}
-
-.section-head p {
-  margin: 0;
-  color: var(--muted);
-  font-size: 13px;
-}
-
-.search-area {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin-bottom: 16px;
-}
-
-.search {
-  flex: 1;
-  min-width: 230px;
-  border: 1px solid var(--border);
-  background: rgba(255,255,255,.06);
-  border-radius: 12px;
-  padding: 14px 16px;
-  color: white;
-  outline: 0;
-}
-
-.search:focus {
-  border-color: var(--gold);
-}
-
-.filters {
-  display: flex;
-  gap: 9px;
-  overflow: auto;
-  padding: 3px 0 16px;
-  scrollbar-width: thin;
-}
-
-.chip {
-  white-space: nowrap;
-  border: 1px solid var(--border);
-  background: rgba(255,255,255,.05);
-  color: #d9deea;
-  border-radius: 99px;
-  padding: 10px 15px;
-  font-weight: 750;
-  font-size: 12px;
-  transition: .2s;
-}
-
-.chip.active {
-  background: linear-gradient(120deg, var(--gold), var(--gold2));
-  color: #1d1408;
-  border-color: transparent;
-}
-
-/* CARDS */
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 18px;
-  min-height: 170px;
-}
-
-.card {
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  border-radius: 18px;
-  background: rgba(21,24,33,.83);
-  border: 1px solid var(--border);
-  box-shadow: 0 12px 30px rgba(0,0,0,.2);
-  transition: .2s;
-  min-width: 0;
-}
-
-.card:hover {
-  transform: translateY(-4px);
-  border-color: rgba(255,189,69,.65);
-  box-shadow: 0 17px 36px rgba(0,0,0,.34);
-}
-
-.photo {
-  height: 205px;
-  background: linear-gradient(145deg, #fff, #e9ebf0);
-  display: grid;
-  place-items: center;
-  position: relative;
-  padding: 16px;
-}
-
-.photo img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
-
-.placeholder {
-  font-size: 65px;
-  color: #424651;
-  text-align: center;
-}
-
-.placeholder small {
-  display: block;
-  font-size: 12px;
-}
-
-.pill {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  padding: 6px 9px;
-  background: #1b1e27;
-  color: white;
-  border-radius: 7px;
-  font-size: 10px;
-  font-weight: 900;
-  box-shadow: 0 2px 8px #0004;
-}
-
-.pill.off {
-  left: 10px;
-  right: auto;
-  background: #dc303c;
-}
-
-.details {
-  padding: 17px;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-}
-
-.category {
-  color: var(--gold);
-  text-transform: uppercase;
-  font-size: 10px;
-  font-weight: 900;
-  letter-spacing: 1px;
-}
-
-.details h3 {
-  font-size: 14px;
-  line-height: 1.5;
-  margin: 10px 0 14px;
-  min-height: 63px;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.old {
-  font-size: 12px;
-  color: #8e95a5;
-  text-decoration: line-through;
-  min-height: 17px;
-}
-
-.price {
-  font-size: 24px;
-  color: var(--gold);
-  font-weight: 950;
-  margin: 3px 0 10px;
-}
-
-.note {
-  font-size: 11px;
-  color: #bfc6d2;
-  margin-top: auto;
-}
-
-.buy {
-  display: block;
-  margin: 0 14px 14px;
-  text-align: center;
-  padding: 13px;
-  background: linear-gradient(120deg, var(--gold), var(--gold2));
-  color: #1c150d;
-  font-size: 13px;
-  font-weight: 950;
-  border-radius: 10px;
-}
-
-.buy:hover {
-  filter: brightness(1.09);
-}
-
-.empty {
-  grid-column: 1 / -1;
-  text-align: center;
-  border: 1px dashed rgba(255,189,69,.3);
-  border-radius: 17px;
-  padding: 48px 15px;
-  color: #d5d9e2;
-  background: rgba(255,255,255,.025);
-}
-
-.empty strong {
-  display: block;
-  font-size: 19px;
-  margin-bottom: 8px;
-}
-
-.status {
-  color: var(--muted);
-  font-size: 12px;
-}
-
-/* RODAPÉ */
-
-.foot {
-  border-top: 1px solid var(--border);
-  margin-top: 60px;
-  padding: 32px 0;
-  color: #aab0bd;
-  font-size: 12px;
-  line-height: 1.8;
-}
-
-.foot strong {
-  color: var(--gold);
-}
-
-.float {
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
-  background: linear-gradient(130deg, #39d578, #168b48);
-  border-radius: 99px;
-  padding: 15px;
-  color: white;
-  font-weight: 900;
-  box-shadow: 0 10px 28px #0009;
-  z-index: 8;
-  font-size: 13px;
-}
-
-/* CELULAR */
-
-@media (max-width: 1050px) {
-  .grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-@media (max-width: 760px) {
-  .hero {
-    grid-template-columns: 1fr;
-    padding: 27px 23px;
-  }
-
-  .logo-frame {
-    grid-row: 1;
-    max-width: 280px;
-    aspect-ratio: 2.4;
-  }
-
-  .hero-logo {
-    max-height: 160px;
-  }
-
-  .hero h1 {
-    letter-spacing: -1px;
-  }
-
-  .grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 11px;
-  }
-
-  .photo {
-    height: 160px;
-  }
-
-  .details {
-    padding: 12px;
-  }
-
-  .price {
-    font-size: 20px;
-  }
-
-  .top-inner {
-    padding: 12px 0;
-  }
-
-  .brand-name {
-    font-size: 14px;
-  }
-
-  .top-links .btn {
-    font-size: 11px;
-    padding: 9px;
-  }
-}
-
-@media (max-width: 390px) {
-  .grid {
-    grid-template-columns: 1fr;
-  }
-
-  .photo {
-    height: 240px;
-  }
-
-  .top-links {
-    width: 100%;
-  }
-}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#080d11">
+
+  <title>Junão Promoção | As melhores ofertas</title>
+
+  <meta
+    name="description"
+    content="Encontre promoções de diversas lojas em um só lugar. Confira as ofertas do Junão Promoção."
+  >
+
+  <link rel="icon" href="logo.jpg">
+
+  <style>
+    :root {
+      --fundo: #080d11;
+      --painel: #111920;
+      --painel-claro: #19232b;
+      --borda: #303b43;
+      --dourado: #ffcf19;
+      --dourado-claro: #ffe765;
+      --azul: #38bdf8;
+      --texto: #ffffff;
+      --cinza: #aab7c2;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background:
+        radial-gradient(
+          ellipse at 75% 0%,
+          rgba(121, 77, 5, 0.18),
+          transparent 35%
+        ),
+        var(--fundo);
+
+      color: var(--texto);
+
+      font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Arial,
+        sans-serif;
+    }
+
+    button,
+    input,
+    select {
+      font: inherit;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      max-width: 1480px;
+      margin: auto;
+      padding: 0 24px;
+    }
+
+    /* CABEÇALHO */
+
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+
+      background: rgba(8, 13, 17, 0.96);
+      backdrop-filter: blur(18px);
+
+      border-bottom: 1px solid var(--borda);
+    }
+
+    .header-content {
+      min-height: 86px;
+
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+
+      min-width: 215px;
+    }
+
+    .logo img {
+      width: 76px;
+      height: 68px;
+
+      object-fit: contain;
+
+      filter:
+        drop-shadow(0 0 12px rgba(255, 207, 25, 0.25));
+    }
+
+    .logo-text {
+      display: flex;
+      flex-direction: column;
+
+      font-size: 22px;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .logo-text span:last-child {
+      color: var(--dourado);
+    }
+
+    .search {
+      display: flex;
+      flex: 1;
+
+      max-width: 600px;
+
+      background: var(--painel-claro);
+
+      border: 1px solid #35434d;
+      border-radius: 12px;
+
+      overflow: hidden;
+    }
+
+    .search input {
+      width: 100%;
+      min-width: 0;
+
+      padding: 16px;
+
+      background: transparent;
+      border: none;
+      outline: none;
+
+      color: white;
+    }
+
+    .search button {
+      padding: 0 23px;
+
+      background: linear-gradient(
+        120deg,
+        var(--dourado-claro),
+        var(--dourado)
+      );
+
+      border: none;
+
+      font-size: 21px;
+      font-weight: bold;
+    }
+
+    .whatsapp {
+      padding: 13px 19px;
+
+      background: #08bd5b;
+
+      border-radius: 10px;
+
+      font-weight: 800;
+      white-space: nowrap;
+    }
+
+    .header-button {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      gap: 2px;
+
+      background: transparent;
+      border: none;
+
+      color: white;
+
+      font-size: 12px;
+    }
+
+    .header-button span {
+      font-size: 25px;
+    }
+
+    /* MENU DE CATEGORIAS */
+
+    .navigation {
+      background: #0d1318;
+      border-bottom: 1px solid #4a3917;
+    }
+
+    .navigation-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 20px;
+    }
+
+    .category-navigation {
+      display: flex;
+      gap: 5px;
+
+      overflow-x: auto;
+    }
+
+    .category-navigation button {
+      min-width: 105px;
+
+      padding: 13px 10px;
+
+      color: #e0e7ec;
+      background: transparent;
+
+      border: 1px solid transparent;
+      border-radius: 11px;
+
+      white-space: nowrap;
+    }
+
+    .category-navigation button span {
+      display: block;
+
+      font-size: 25px;
+      margin-bottom: 3px;
+    }
+
+    .category-navigation button.active {
+      color: var(--dourado);
+
+      background: #30270e;
+
+      border-color: var(--dourado);
+    }
+
+    .navigation-benefits {
+      display: flex;
+      gap: 20px;
+
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .navigation-benefits div {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .navigation-benefits strong {
+      color: var(--dourado);
+      font-size: 24px;
+    }
+
+    /* BANNER PRINCIPAL */
+
+    .hero {
+      position: relative;
+
+      min-height: 390px;
+
+      margin-top: 22px;
+
+      overflow: hidden;
+
+      border: 1px solid #71541a;
+      border-radius: 18px;
+
+      background:
+        radial-gradient(
+          ellipse at 76% 50%,
+          rgba(226, 150, 12, 0.6),
+          rgba(94, 59, 8, 0.4) 30%,
+          transparent 65%
+        ),
+        linear-gradient(
+          120deg,
+          #090c0e,
+          #211805
+        );
+
+      box-shadow:
+        0 0 60px rgba(255, 191, 0, 0.08);
+    }
+
+    .hero::before {
+      content: "";
+
+      position: absolute;
+      inset: 0;
+
+      background:
+        repeating-linear-gradient(
+          145deg,
+          transparent 0 38px,
+          rgba(255, 210, 42, 0.035) 39px,
+          transparent 40px 80px
+        );
+
+      pointer-events: none;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 30px;
+
+      min-height: 390px;
+
+      padding: 40px 5%;
+    }
+
+    .hero-copy {
+      max-width: 720px;
+    }
+
+    .hero h1 {
+      margin: 0 0 16px;
+
+      font-size: clamp(34px, 4.7vw, 70px);
+      font-weight: 950;
+
+      line-height: 1.03;
+      letter-spacing: -2px;
+    }
+
+    .hero h1 span {
+      color: var(--dourado);
+    }
+
+    .hero p {
+      max-width: 580px;
+
+      margin-bottom: 26px;
+
+      color: #e3e7e9;
+
+      font-size: 20px;
+    }
+
+    .gold-button {
+      display: inline-block;
+
+      padding: 14px 25px;
+
+      color: #16140a;
+
+      background: linear-gradient(
+        120deg,
+        #ffe96a,
+        #ffc400
+      );
+
+      border: none;
+      border-radius: 10px;
+
+      font-weight: 850;
+    }
+
+    .hero-logo {
+      position: relative;
+
+      flex: 0 0 38%;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .hero-logo img {
+      position: relative;
+      z-index: 2;
+
+      width: 100%;
+      max-width: 390px;
+      max-height: 310px;
+
+      object-fit: contain;
+
+      filter:
+        drop-shadow(0 12px 32px rgba(0, 0, 0, 0.8));
+    }
+
+    .hero-logo::before {
+      content: "";
+
+      position: absolute;
+
+      width: 280px;
+      height: 280px;
+
+      border-radius: 50%;
+
+      background: rgba(255, 196, 0, 0.32);
+
+      filter: blur(75px);
+    }
+
+    .hero-benefits {
+      display: flex;
+      flex-wrap: wrap;
+
+      gap: 20px;
+
+      margin-top: 28px;
+    }
+
+    .hero-benefits div {
+      display: flex;
+      align-items: center;
+
+      gap: 9px;
+
+      font-size: 12px;
+    }
+
+    .hero-benefits strong {
+      display: grid;
+      place-items: center;
+
+      width: 36px;
+      height: 36px;
+
+      color: var(--dourado);
+
+      border: 1px solid var(--dourado);
+      border-radius: 50%;
+
+      font-size: 19px;
+    }
+
+    /* CATEGORIAS ILUSTRADAS */
+
+    .category-grid {
+      display: grid;
+
+      grid-template-columns:
+        repeat(6, minmax(0, 1fr));
+
+      gap: 12px;
+
+      margin: 20px 0 28px;
+    }
+
+    .category-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+
+      gap: 8px;
+
+      min-height: 92px;
+
+      padding: 15px 10px;
+
+      color: white;
+
+      background:
+        linear-gradient(
+          135deg,
+          #17212a,
+          #0c1115
+        );
+
+      border: 1px solid #35414b;
+      border-radius: 12px;
+
+      transition: 0.2s;
+    }
+
+    .category-card:hover,
+    .category-card.active {
+      border-color: var(--dourado);
+
+      box-shadow:
+        inset 0 0 20px rgba(255, 207, 25, 0.08);
+    }
+
+    .category-card .emoji {
+      font-size: 36px;
+    }
+
+    /* OFERTAS */
+
+    .section-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 15px;
+
+      margin: 18px 0;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+
+      font-size: 25px;
+    }
+
+    .section-heading p {
+      margin: 2px 0 0;
+
+      color: var(--cinza);
+
+      font-size: 13px;
+    }
+
+    .section-heading button {
+      color: var(--azul);
+
+      background: transparent;
+      border: none;
+    }
+
+    .filters {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+
+      gap: 12px;
+
+      margin-bottom: 17px;
+    }
+
+    .filters select {
+      padding: 10px 13px;
+
+      color: white;
+      background: #16212a;
+
+      border: 1px solid #36444e;
+      border-radius: 9px;
+    }
+
+    .offer-count {
+      margin-left: auto;
+
+      color: var(--cinza);
+
+      font-size: 13px;
+    }
+
+    .products {
+      display: grid;
+
+      grid-template-columns:
+        repeat(5, minmax(0, 1fr));
+
+      gap: 13px;
+    }
+
+    .product {
+      display: flex;
+      flex-direction: column;
+
+      min-width: 0;
+
+      overflow: hidden;
+
+      color: #131c25;
+      background: white;
+
+      border-radius: 12px;
+
+      box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.3);
+    }
+
+    .product-image {
+      position: relative;
+
+      display: grid;
+      place-items: center;
+
+      height: 190px;
+
+      padding: 14px;
+
+      background: white;
+    }
+
+    .product-image img {
+      max-width: 100%;
+      max-height: 100%;
+
+      object-fit: contain;
+    }
+
+    .image-placeholder {
+      font-size: 65px;
+    }
+
+    .discount {
+      position: absolute;
+
+      top: 9px;
+      left: 9px;
+
+      padding: 4px 8px;
+
+      color: white;
+      background: #f01824;
+
+      border-radius: 6px;
+
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .favorite {
+      position: absolute;
+
+      top: 8px;
+      right: 8px;
+
+      width: 36px;
+      height: 36px;
+
+      background: rgba(255, 255, 255, 0.95);
+
+      border: none;
+      border-radius: 50%;
+
+      font-size: 24px;
+    }
+
+    .favorite.saved {
+      color: #f01824;
+    }
+
+    .product-content {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+
+      padding: 12px 13px 14px;
+    }
+
+    .product-content h3 {
+      min-height: 40px;
+
+      margin: 0 0 4px;
+
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    .product-category {
+      color: #657e9e;
+
+      font-size: 12px;
+    }
+
+    .old-price {
+      min-height: 19px;
+
+      color: #89949e;
+
+      font-size: 12px;
+      text-decoration: line-through;
+    }
+
+    .price {
+      margin: 2px 0 10px;
+
+      font-size: 22px;
+      font-weight: 900;
+    }
+
+    .product-bottom {
+      margin-top: auto;
+    }
+
+    .store {
+      margin-bottom: 9px;
+
+      color: #45535f;
+
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .offer-button {
+      display: block;
+
+      padding: 11px;
+
+      color: #161616;
+
+      background:
+        linear-gradient(
+          120deg,
+          #ffeb62,
+          #ffc900
+        );
+
+      border-radius: 8px;
+
+      text-align: center;
+      font-weight: 850;
+    }
+
+    .compare-button {
+      margin-top: 8px;
+
+      color: #52616e;
+      background: transparent;
+
+      border: none;
+
+      font-size: 12px;
+    }
+
+    /* LOJAS */
+
+    .partners {
+      display: flex;
+      align-items: center;
+
+      gap: 12px;
+
+      margin: 28px 0;
+
+      overflow-x: auto;
+    }
+
+    .partners-heading {
+      min-width: 200px;
+    }
+
+    .partners-heading h2 {
+      margin: 0;
+
+      font-size: 20px;
+    }
+
+    .partners-heading p {
+      margin: 3px 0 0;
+
+      color: var(--cinza);
+
+      font-size: 12px;
+    }
+
+    .partner {
+      padding: 16px 18px;
+
+      background: #131b22;
+
+      border: 1px solid #2c3841;
+      border-radius: 9px;
+
+      font-size: 17px;
+      font-weight: 900;
+
+      white-space: nowrap;
+    }
+
+    .partner.amazon {
+      color: white;
+    }
+
+    .partner.mercadolivre {
+      color: #ffe000;
+    }
+
+    .partner.magalu {
+      color: #38bdf8;
+    }
+
+    .partner.shopee {
+      color: #ff794a;
+    }
+
+    /* INFORMAÇÕES */
+
+    .features {
+      display: grid;
+
+      grid-template-columns: repeat(4, 1fr);
+
+      gap: 12px;
+
+      margin: 28px 0 45px;
+    }
+
+    .feature {
+      display: flex;
+      gap: 13px;
+
+      padding: 19px;
+
+      background: #12191d;
+
+      border: 1px solid #59451b;
+      border-radius: 12px;
+    }
+
+    .feature-icon {
+      color: var(--dourado);
+
+      font-size: 32px;
+    }
+
+    .feature strong {
+      font-size: 13px;
+    }
+
+    .feature p {
+      margin: 5px 0 0;
+
+      color: var(--cinza);
+
+      font-size: 12px;
+    }
+
+    /* ESTADOS E MENU */
+
+    .empty {
+      grid-column: 1 / -1;
+
+      padding: 50px 20px;
+
+      color: #d8e0e5;
+      background: #111a21;
+
+      border: 1px dashed #48545d;
+      border-radius: 12px;
+
+      text-align: center;
+    }
+
+    .drawer {
+      display: none;
+    }
+
+    .drawer.open {
+      position: fixed;
+
+      top: 82px;
+      right: 20px;
+
+      z-index: 150;
+
+      display: block;
+
+      width: 240px;
+
+      padding: 15px;
+
+      background: #111b24;
+
+      border: 1px solid #53616b;
+      border-radius: 12px;
+
+      box-shadow: 0 20px 50px #000a;
+    }
+
+    .drawer button {
+      display: block;
+
+      width: 100%;
+
+      padding: 12px;
+
+      color: white;
+      background: transparent;
+
+      border: none;
+
+      text-align: left;
+    }
+
+    .toast {
+      position: fixed;
+
+      bottom: 25px;
+      left: 50%;
+
+      z-index: 200;
+
+      display: none;
+
+      padding: 13px 20px;
+
+      color: white;
+      background: #25343f;
+
+      border-radius: 10px;
+
+      transform: translateX(-50%);
+    }
+
+    .footer {
+      padding: 28px 15px;
+
+      color: var(--cinza);
+
+      border-top: 1px solid #29343d;
+
+      text-align: center;
+      font-size: 12px;
+    }
+
+    .mobile-navigation {
+      display: none;
+    }
+
+    /* TABLET */
+
+    @media (max-width: 1150px) {
+      .navigation-benefits {
+        display: none;
+      }
+
+      .products {
+        grid-template-columns:
+          repeat(4, minmax(0, 1fr));
+      }
+
+      .category-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+      .features {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .header-content {
+        gap: 12px;
+      }
+
+      .logo {
+        min-width: 160px;
+      }
+
+      .logo-text {
+        font-size: 18px;
+      }
+    }
+
+    /* CELULAR */
+
+    @media (max-width: 720px) {
+      .container {
+        padding: 0 13px;
+      }
+
+      .header-content {
+        min-height: 72px;
+
+        flex-wrap: wrap;
+
+        padding: 9px 0;
+      }
+
+      .logo {
+        min-width: 0;
+        flex: 1;
+      }
+
+      .logo img {
+        width: 54px;
+        height: 50px;
+      }
+
+      .logo-text {
+        font-size: 17px;
+      }
+
+      .search {
+        order: 3;
+
+        flex: 0 0 100%;
+
+        max-width: none;
+      }
+
+      .search input {
+        padding: 12px;
+      }
+
+      .whatsapp {
+        padding: 10px 12px;
+
+        font-size: 0;
+      }
+
+      .whatsapp::after {
+        content: "☎";
+
+        font-size: 24px;
+      }
+
+      .header-button {
+        display: none;
+      }
+
+      #menuBtn {
+        display: flex;
+
+        font-size: 0;
+      }
+
+      #menuBtn span {
+        font-size: 26px;
+      }
+
+      .navigation {
+        display: none;
+      }
+
+      .hero {
+        min-height: 345px;
+
+        margin-top: 14px;
+      }
+
+      .hero-content {
+        min-height: 345px;
+
+        padding: 25px 20px;
+
+        align-items: flex-start;
+      }
+
+      .hero h1 {
+        font-size: 35px;
+
+        letter-spacing: -1px;
+      }
+
+      .hero p {
+        max-width: 270px;
+
+        font-size: 14px;
+      }
+
+      .hero-logo {
+        position: absolute;
+
+        right: -40px;
+        bottom: 0;
+
+        width: 230px;
+
+        opacity: 0.32;
+      }
+
+      .hero-benefits {
+        max-width: 290px;
+
+        gap: 10px;
+      }
+
+      .hero-benefits div {
+        font-size: 10px;
+      }
+
+      .hero-benefits strong {
+        width: 27px;
+        height: 27px;
+
+        font-size: 14px;
+      }
+
+      .category-grid {
+        grid-template-columns: repeat(3, 1fr);
+
+        gap: 8px;
+      }
+
+      .category-card {
+        min-height: 85px;
+
+        flex-direction: column;
+
+        font-size: 11px;
+      }
+
+      .category-card .emoji {
+        font-size: 28px;
+      }
+
+      .products {
+        grid-template-columns:
+          repeat(2, minmax(0, 1fr));
+
+        gap: 9px;
+      }
+
+      .product-image {
+        height: 145px;
+
+        padding: 10px;
+      }
+
+      .product-content {
+        padding: 9px;
+      }
+
+      .product-content h3 {
+        font-size: 12px;
+      }
+
+      .price {
+        font-size: 18px;
+      }
+
+      .section-heading h2 {
+        font-size: 20px;
+      }
+
+      .partners-heading {
+        min-width: 150px;
+      }
+
+      .features {
+        grid-template-columns: repeat(2, 1fr);
+
+        gap: 8px;
+      }
+
+      .feature {
+        display: block;
+
+        padding: 12px;
+      }
+
+      .feature-icon {
+        font-size: 25px;
+      }
+
+      .mobile-navigation {
+        position: sticky;
+
+        bottom: 0;
+
+        z-index: 90;
+
+        display: flex;
+        justify-content: space-around;
+
+        padding: 8px 0;
+
+        background: #101820f5;
+
+        border-top: 1px solid #3a4650;
+      }
+
+      .mobile-navigation button {
+        color: #cbd3da;
+        background: transparent;
+
+        border: none;
+
+        font-size: 11px;
+      }
+
+      .mobile-navigation button span {
+        display: block;
+
+        font-size: 23px;
+      }
+
+      .mobile-navigation button.active {
+        color: var(--dourado);
+      }
+    }
+  </style>
 </head>
 
 <body>
 
-<header class="top">
-  <div class="wrap top-inner">
+  <!-- CABEÇALHO -->
 
-    <a class="brand" href="/">
-      <span class="brand-symbol">JP</span>
-      <span class="brand-name">
-        JUNÃO <em>PROMOÇÃO</em>
-      </span>
-    </a>
+  <header class="header">
+    <div class="container header-content">
 
-    <nav class="top-links">
+      <a class="logo" href="#inicio">
+        <img
+          src="logo.jpg"
+          alt="Logo oficial Junão Promoção"
+        >
+
+        <div class="logo-text">
+          <span>JUNÃO</span>
+          <span>PROMOÇÃO</span>
+        </div>
+      </a>
+
+      <form class="search" id="searchForm">
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Buscar promoções, produtos ou marcas..."
+          aria-label="Buscar promoções"
+        >
+
+        <button type="submit" aria-label="Buscar">
+          ⌕
+        </button>
+      </form>
+
       <a
-        class="btn"
+        class="whatsapp"
         href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
         target="_blank"
-        rel="noopener"
+        rel="noopener noreferrer"
       >
-        💬 Grupo VIP
+        ☎ Entrar no WhatsApp
       </a>
 
-      <a
-        class="btn"
-        href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI"
-        target="_blank"
-        rel="noopener"
+      <button
+        class="header-button"
+        id="favoritesBtn"
+        type="button"
       >
-        🐾 Grupo Pets
-      </a>
+        <span>♡</span>
+        Favoritos
+      </button>
 
-      <a
-        class="btn gold"
-        href="https://whatsapp.com/channel/0029Vb8CUEd7j6fxBu2iEI2R"
-        target="_blank"
-        rel="noopener"
+      <button
+        class="header-button"
+        id="compareBtn"
+        type="button"
       >
-        📢 Canal
-      </a>
-    </nav>
+        <span>⇄</span>
+        Comparar
+      </button>
 
-  </div>
-</header>
+      <button
+        class="header-button"
+        id="menuBtn"
+        type="button"
+      >
+        <span>☰</span>
+        Menu
+      </button>
 
-<main class="wrap">
+    </div>
+  </header>
 
-  <section class="hero">
+  <!-- NAVEGAÇÃO -->
 
-    <div>
-      <div class="eyebrow">
-        ⚡ Ofertas renovadas diariamente
+  <nav class="navigation">
+    <div class="container navigation-content">
+
+      <div
+        class="category-navigation"
+        id="categoryNavigation"
+      ></div>
+
+      <div class="navigation-benefits">
+        <div>
+          <strong>ϟ</strong>
+          Ofertas publicadas
+        </div>
+
+        <div>
+          <strong>⬡</strong>
+          Links diretos das lojas
+        </div>
+
+        <div>
+          <strong>◷</strong>
+          Atualização automática
+        </div>
       </div>
 
-      <h1>
-        O achadinho certo.<br>
-        <span>Na hora certa.</span>
-      </h1>
+    </div>
+  </nav>
 
-      <p>
-        Amazon, Mercado Livre e Shopee em um só lugar.
-        Promoções novas entram automaticamente e ficam
-        na vitrine por até 24 horas.
-      </p>
+  <main class="container" id="inicio">
 
-      <div class="hero-actions">
-        <a class="btn gold" href="#ofertas">
-          🔥 Ver ofertas de hoje
-        </a>
+    <!-- BANNER PRINCIPAL -->
 
-        <a
-          class="btn"
-          href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
-          target="_blank"
-          rel="noopener"
-        >
-          Entrar no grupo ↗
-        </a>
+    <section class="hero">
+      <div class="hero-content">
+
+        <div class="hero-copy">
+
+          <h1>
+            AS MELHORES<br>
+            <span>PROMOÇÕES</span><br>
+            EM UM SÓ LUGAR!
+          </h1>
+
+          <p>
+            Casa, tecnologia, moda, mercado e muito mais,
+            com ofertas selecionadas para você.
+          </p>
+
+          <a class="gold-button" href="#ofertas">
+            Ver todas as promoções →
+          </a>
+
+          <div class="hero-benefits">
+
+            <div>
+              <strong>◇</strong>
+              Ofertas publicadas<br>
+              recentemente
+            </div>
+
+            <div>
+              <strong>⬡</strong>
+              Links diretos<br>
+              das lojas
+            </div>
+
+            <div>
+              <strong>◷</strong>
+              Novas ofertas<br>
+              todos os dias
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="hero-logo">
+          <img
+            src="logo.jpg"
+            alt="Junão Promoção"
+          >
+        </div>
+
       </div>
-    </div>
+    </section>
 
-    <div class="logo-frame">
-      <img
-        class="hero-logo"
-        src="/logo.jpg"
-        alt="Logo JP Junão Promoção"
-        onerror="
-          this.style.display='none';
-          this.nextElementSibling.hidden=false;
-        "
-      >
+    <!-- CATEGORIAS -->
 
-      <span class="hero-logo-fallback" hidden>
-        JP
-      </span>
-    </div>
+    <section
+      class="category-grid"
+      id="categoryGrid"
+      aria-label="Categorias de produtos"
+    ></section>
 
-  </section>
+    <!-- OFERTAS -->
 
-  <section class="strip">
+    <section id="ofertas">
 
-    <div class="glass">
-      <strong>⚡ Atualização automática</strong>
-      Novas ofertas do grupo para o site.
-    </div>
+      <div class="section-heading">
 
-    <div class="glass">
-      <strong>🕒 Vitrine de 24 horas</strong>
-      Promoções antigas saem sozinhas.
-    </div>
+        <div>
+          <h2>🔥 Ofertas em destaque</h2>
 
-    <div class="glass">
-      <strong>🛒 Links originais</strong>
-      Confira o preço final na loja.
-    </div>
+          <p>
+            Produtos selecionados especialmente para você.
+          </p>
+        </div>
 
-  </section>
+        <button id="allOffers" type="button">
+          Ver todas as ofertas →
+        </button>
 
-  <section id="ofertas">
-
-    <div class="section-head">
-      <div>
-        <h2>🔥 Ofertas de hoje</h2>
-        <p>As mais recentes aparecem primeiro.</p>
       </div>
 
-      <span
-        class="status"
-        id="status"
-        role="status"
-        aria-live="polite"
-      >
-        Carregando promoções...
-      </span>
-    </div>
+      <div class="filters">
 
-    <div class="search-area">
+        <select id="storeFilter">
+          <option value="">Todas as lojas</option>
+        </select>
 
-      <input
-        class="search"
-        id="search"
-        type="search"
-        placeholder="🔎 Pesquisar produto ou loja..."
-        aria-label="Pesquisar produtos"
-      >
+        <select id="sortFilter">
+          <option value="recent">
+            Mais recentes
+          </option>
 
-      <button class="btn" id="refresh" type="button">
-        ↻ Atualizar
-      </button>
+          <option value="low">
+            Menor preço
+          </option>
 
-    </div>
+          <option value="high">
+            Maior preço
+          </option>
+        </select>
 
-    <div class="filters" id="categories">
+        <span
+          class="offer-count"
+          id="offerCount"
+        ></span>
 
-      <button class="chip active" data-category="todos">
-        ✨ Todas
-      </button>
+      </div>
 
-      <button class="chip" data-category="casa">
-        🏠 Casa & Eletro
-      </button>
+      <div class="products" id="products">
+        <div class="empty">
+          Carregando promoções...
+        </div>
+      </div>
 
-      <button class="chip" data-category="tech">
-        💻 Tecnologia
-      </button>
+    </section>
 
-      <button class="chip" data-category="moda">
-        👕 Beleza & Moda
-      </button>
+    <!-- LOJAS -->
 
-      <button class="chip" data-category="mercado">
-        🛒 Mercado
-      </button>
+    <section class="partners">
 
-      <button class="chip" data-category="pets">
-        🐾 Pets
-      </button>
+      <div class="partners-heading">
+        <h2>🏬 Lojas das ofertas</h2>
 
-    </div>
+        <p>
+          Confira promoções de diferentes lojas.
+        </p>
+      </div>
 
-    <div class="filters" id="stores">
+      <div class="partner amazon">
+        amazon
+      </div>
 
-      <button class="chip active" data-store="todos">
-        Todas as lojas
-      </button>
+      <div class="partner mercadolivre">
+        mercado livre
+      </div>
 
-      <button class="chip" data-store="amazon">
-        Amazon
-      </button>
+      <div class="partner magalu">
+        magalu
+      </div>
 
-      <button class="chip" data-store="mercado livre">
-        Mercado Livre
-      </button>
-
-      <button class="chip" data-store="shopee">
+      <div class="partner shopee">
         Shopee
-      </button>
-
-    </div>
-
-    <div class="grid" id="grid">
-      <div class="empty">
-        Carregando as ofertas mais recentes...
       </div>
-    </div>
 
-  </section>
+      <div class="partner">
+        AliExpress
+      </div>
 
-</main>
+      <div class="partner">
+        CASAS BAHIA
+      </div>
 
-<footer class="foot">
-  <div class="wrap">
+    </section>
 
-    <strong>JP • JUNÃO PROMOÇÃO</strong>
+    <!-- BENEFÍCIOS -->
 
-    <p>
-      Ofertas sujeitas a alterações de preço e estoque.
-      Confira as condições antes de comprar.
-    </p>
+    <section class="features">
 
-    <p>
-      Participamos de programas de afiliados, incluindo
-      o Programa de Associados da Amazon, e podemos receber
-      comissão por compras qualificadas realizadas pelos
-      nossos links, sem custo adicional para você.
-    </p>
+      <div class="feature">
+        <div class="feature-icon">♛</div>
+
+        <div>
+          <strong>SUA LOGO EM DESTAQUE</strong>
+
+          <p>
+            A identidade do Junão Promoção
+            em cada oferta.
+          </p>
+        </div>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon">ϟ</div>
+
+        <div>
+          <strong>PROMOÇÕES ATUALIZADAS</strong>
+
+          <p>
+            Nosso catálogo consulta novas
+            ofertas automaticamente.
+          </p>
+        </div>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon">⬡</div>
+
+        <div>
+          <strong>LINKS DIRETOS</strong>
+
+          <p>
+            Confira preço, frete e disponibilidade
+            diretamente na loja.
+          </p>
+        </div>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon">★</div>
+
+        <div>
+          <strong>TUDO EM UM SÓ LUGAR</strong>
+
+          <p>
+            Ofertas de casa, tecnologia,
+            moda e muito mais.
+          </p>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- RODAPÉ -->
+
+  <footer class="footer">
+
+    © <span id="year"></span> Junão Promoção.
+
+    <br>
+
+    Os preços, fretes e estoques podem mudar
+    sem aviso prévio.
+
+    <br>
+
+    Podemos receber comissão pelas compras
+    realizadas através dos nossos links.
+
+  </footer>
+
+  <!-- MENU DO CELULAR -->
+
+  <nav class="mobile-navigation">
+
+    <button
+      class="active"
+      onclick="location.hash='inicio'"
+    >
+      <span>⌂</span>
+      Início
+    </button>
+
+    <button
+      onclick="document.getElementById('categoryGrid').scrollIntoView()"
+    >
+      <span>▦</span>
+      Categorias
+    </button>
+
+    <button
+      onclick="location.hash='ofertas'"
+    >
+      <span>◇</span>
+      Ofertas
+    </button>
+
+    <button
+      onclick="document.querySelector('.partners').scrollIntoView()"
+    >
+      <span>▣</span>
+      Lojas
+    </button>
+
+    <button
+      onclick="document.getElementById('favoritesBtn').click()"
+    >
+      <span>♡</span>
+      Favoritos
+    </button>
+
+  </nav>
+
+  <!-- MENU SUSPENSO -->
+
+  <div class="drawer" id="drawer">
+
+    <button
+      onclick="document.getElementById('favoritesBtn').click()"
+    >
+      ♡ Favoritos
+    </button>
+
+    <button
+      onclick="document.getElementById('compareBtn').click()"
+    >
+      ⇄ Comparar produtos
+    </button>
+
+    <button onclick="location.hash='ofertas'">
+      🔥 Todas as ofertas
+    </button>
 
   </div>
-</footer>
 
-<a
-  class="float"
-  href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
-  target="_blank"
-  rel="noopener"
->
-  💬 Grupo VIP
-</a>
+  <div class="toast" id="toast"></div>
 
-<script>
-'use strict';
+  <!-- JAVASCRIPT -->
 
-// ======================================
-// CONFIGURAÇÕES
-// ======================================
+  <script>
 
-const SOURCE =
-  'https://raw.githubusercontent.com/' +
-  'JonatasBaldassiJr/junao-promo/' +
-  'main/promocoes.json';
+    /*
+      CONFIGURAÇÕES
+    */
 
-const DAY = 24 * 60 * 60 * 1000;
+    const JSON_URL =
+      "https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json";
 
-const $ = id => document.getElementById(id);
+    const TEMPO_OFERTA =
+      24 * 60 * 60 * 1000;
 
-let all = [];
-let category = 'todos';
-let store = 'todos';
+    const TEMPO_ATUALIZACAO =
+      5 * 60 * 1000;
 
-// ======================================
-// LINKS SEGUROS
-// ======================================
 
-function safeUrl(value) {
-  try {
-    const url = new URL(String(value || ''));
+    /*
+      CATEGORIAS
+    */
 
-    if (
-      url.protocol === 'https:' ||
-      url.protocol === 'http:'
-    ) {
-      return url.href;
-    }
-  } catch {
-    return '';
-  }
-
-  return '';
-}
-
-// ======================================
-// IDENTIFICAR CATEGORIA
-// ======================================
-
-function categoryOf(product) {
-  const title = String(
-    product.titulo || ''
-  ).toLowerCase();
-
-  const cat = String(
-    product.categoria || ''
-  ).toLowerCase();
-
-  const name = String(
-    product.categoriaNome || ''
-  ).toLowerCase();
-
-  // Corrige categorias antigas do n8n.
-
-  if (
-    /barraca|camping|panela|furadeira|esteira|adega|sabão|sabao/
-      .test(title)
-  ) {
-    return 'casa';
-  }
-
-  if (
-    /mochila|perfume|relógio|relogio|blazer/
-      .test(title)
-  ) {
-    return 'moda';
-  }
-
-  if (
-    ['moda', 'beleza', 'fashion'].includes(cat) ||
-    /beleza|moda/.test(name)
-  ) {
-    return 'moda';
-  }
-
-  if (
-    ['tech', 'eletronicos', 'eletrônicos'].includes(cat) ||
-    /eletr[oô]nic|tech/.test(name)
-  ) {
-    return 'tech';
-  }
-
-  if (
-    /pet|toy|brinquedo/.test(cat + ' ' + name)
-  ) {
-    return 'pets';
-  }
-
-  if (
-    /casa|eletro|ferramenta/.test(cat + ' ' + name)
-  ) {
-    return 'casa';
-  }
-
-  if (
-    /mercado|alimento/.test(cat + ' ' + name)
-  ) {
-    return 'mercado';
-  }
-
-  return 'mercado';
-}
-
-function categoryName(product) {
-  const names = {
-    casa: 'Casa & Eletro',
-    tech: 'Eletrônicos & Tech',
-    moda: 'Beleza & Moda',
-    mercado: 'Mercado',
-    pets: 'Pets & Toys'
-  };
-
-  return names[categoryOf(product)];
-}
-
-// ======================================
-// CRIAR ELEMENTOS
-// ======================================
-
-function el(tag, className, text) {
-  const node = document.createElement(tag);
-
-  if (className) {
-    node.className = className;
-  }
-
-  if (text !== undefined) {
-    node.textContent = String(text);
-  }
-
-  return node;
-}
-
-// ======================================
-// IMAGENS
-// ======================================
-
-function imageOf(product) {
-  const title = String(
-    product.titulo || ''
-  ).toLowerCase();
-
-  const url = String(
-    product.imagem || ''
-  );
-
-  // A mochila T60 possui uma imagem
-  // incorreta no JSON antigo.
-
-  if (
-    title.includes('mochila t60') &&
-    url.includes('unsplash.com')
-  ) {
-    return '';
-  }
-
-  return safeUrl(url);
-}
-
-function fallback(photo, product) {
-  photo.querySelector('img')?.remove();
-
-  if (photo.querySelector('.placeholder')) {
-    return;
-  }
-
-  const title = String(
-    product.titulo || ''
-  ).toLowerCase();
-
-  const emoji = title.includes('mochila')
-    ? '🎒'
-    : title.includes('barraca')
-      ? '⛺'
-      : '📦';
-
-  const box = el('div', 'placeholder', emoji);
-
-  box.appendChild(
-    el('small', '', 'Imagem indisponível')
-  );
-
-  photo.prepend(box);
-}
-
-// ======================================
-// CARD DO PRODUTO
-// ======================================
-
-function card(product) {
-  const root = el('article', 'card');
-
-  const photo = el('div', 'photo');
-
-  const imageUrl = imageOf(product);
-
-  if (imageUrl) {
-    const img = el('img');
-
-    img.src = imageUrl;
-    img.alt = String(
-      product.titulo || 'Produto'
-    );
-
-    img.loading = 'lazy';
-
-    img.onerror = () => {
-      fallback(photo, product);
-    };
-
-    photo.appendChild(img);
-  } else {
-    fallback(photo, product);
-  }
-
-  photo.appendChild(
-    el(
-      'span',
-      'pill',
-      product.loja || 'Oferta'
-    )
-  );
-
-  if (product.desconto) {
-    photo.appendChild(
-      el(
-        'span',
-        'pill off',
-        product.desconto
-      )
-    );
-  }
-
-  root.appendChild(photo);
-
-  const info = el('div', 'details');
-
-  info.appendChild(
-    el(
-      'span',
-      'category',
-      categoryName(product)
-    )
-  );
-
-  info.appendChild(
-    el(
-      'h3',
-      '',
-      product.titulo || 'Oferta'
-    )
-  );
-
-  info.appendChild(
-    el(
-      'span',
-      'old',
-      product.precoDe || ' '
-    )
-  );
-
-  info.appendChild(
-    el(
-      'div',
-      'price',
-      product.precoPor || 'Consultar preço'
-    )
-  );
-
-  info.appendChild(
-    el(
-      'div',
-      'note',
-      product.detalheExtra ||
-      'Confira as condições na loja'
-    )
-  );
-
-  root.appendChild(info);
-
-  // Preserva o link original de afiliado.
-
-  const link = safeUrl(
-    product.linkWhatsapp || product.link
-  );
-
-  if (link) {
-    const buy = el(
-      'a',
-      'buy',
-      '🛒 Pegar oferta ↗'
-    );
-
-    buy.href = link;
-    buy.target = '_blank';
-
-    buy.rel =
-      'sponsored nofollow noopener noreferrer';
-
-    root.appendChild(buy);
-  }
-
-  return root;
-}
-
-// ======================================
-// FILTRAR E EXIBIR OFERTAS
-// ======================================
-
-function render() {
-  const now = Date.now();
-
-  const term = $('search')
-    .value
-    .trim()
-    .toLocaleLowerCase('pt-BR');
-
-  // Somente ofertas das últimas 24 horas.
-
-  const active = all.filter(product => {
-    const timestamp = Number(
-      product.timestamp
-    );
-
-    return (
-      Number.isFinite(timestamp) &&
-      timestamp > 0 &&
-      timestamp <= now &&
-      now - timestamp < DAY
-    );
-  });
-
-  const shown = active.filter(product => {
-    const matchesCategory =
-      category === 'todos' ||
-      categoryOf(product) === category;
-
-    const matchesStore =
-      store === 'todos' ||
-      String(product.loja || '')
-        .toLowerCase()
-        .includes(store);
-
-    const searchableText = [
-      product.titulo,
-      product.loja,
-      product.categoriaNome
-    ]
-      .join(' ')
-      .toLocaleLowerCase('pt-BR');
-
-    const matchesSearch =
-      !term || searchableText.includes(term);
-
-    return (
-      matchesCategory &&
-      matchesStore &&
-      matchesSearch
-    );
-  });
-
-  const grid = $('grid');
-
-  grid.replaceChildren();
-
-  if (!shown.length) {
-    const message = active.length
-      ? 'Nenhuma oferta encontrada com estes filtros.'
-      : 'Ainda não há ofertas publicadas nas últimas 24 horas.';
-
-    const empty = el('div', 'empty');
-
-    empty.appendChild(
-      el(
-        'strong',
-        '',
-        active.length
-          ? '🔎 Sem resultados'
-          : 'Vitrine em renovação'
-      )
-    );
-
-    empty.appendChild(
-      el('span', '', message)
-    );
-
-    grid.appendChild(empty);
-  } else {
-    const fragment =
-      document.createDocumentFragment();
-
-    shown.forEach(product => {
-      fragment.appendChild(
-        card(product)
-      );
-    });
-
-    grid.appendChild(fragment);
-  }
-
-  $('status').textContent =
-    shown.length +
-    ' oferta(s) na tela · ' +
-    active.length +
-    ' ativa(s) nas últimas 24h';
-}
-
-// ======================================
-// BUSCAR JSON NO GITHUB
-// ======================================
-
-async function load() {
-  const button = $('refresh');
-
-  button.disabled = true;
-
-  $('status').textContent =
-    'Atualizando...';
-
-  try {
-    const response = await fetch(
-      SOURCE + '?t=' + Date.now(),
+    const categorias = [
       {
-        cache: 'no-store'
+        id: "todas",
+        nome: "Todas",
+        icone: "▦"
+      },
+      {
+        id: "casa",
+        nome: "Casa & Lazer",
+        icone: "⛺"
+      },
+      {
+        id: "eletronicos",
+        nome: "Eletrônicos",
+        icone: "🎧"
+      },
+      {
+        id: "moda",
+        nome: "Beleza & Moda",
+        icone: "🛍️"
+      },
+      {
+        id: "mercado",
+        nome: "Mercado",
+        icone: "🛒"
+      },
+      {
+        id: "esportes",
+        nome: "Esportes",
+        icone: "🎮"
+      },
+      {
+        id: "automotivo",
+        nome: "Automotivo",
+        icone: "🚗"
       }
-    );
+    ];
 
-    if (!response.ok) {
-      throw new Error(
-        'HTTP ' + response.status
-      );
-    }
 
-    const data = await response.json();
+    /*
+      ESTADO DO SITE
+    */
 
-    if (!Array.isArray(data)) {
-      throw new Error(
-        'O JSON não é uma lista'
-      );
-    }
+    let todasPromocoes = [];
 
-    all = data
-      .filter(product =>
-        product &&
-        typeof product === 'object'
+    let categoriaAtual = "todas";
+
+    let somenteFavoritos = false;
+
+    const comparacao = new Set();
+
+    const favoritos = new Set(
+      JSON.parse(
+        localStorage.getItem("junao_favoritos") || "[]"
       )
-      .sort(
-        (a, b) =>
-          (Number(b.timestamp) || 0) -
-          (Number(a.timestamp) || 0)
-      );
-
-    render();
-
-    $('status').textContent +=
-      ' · ' +
-      new Date().toLocaleTimeString('pt-BR');
-
-  } catch (error) {
-    console.error(
-      'Falha ao buscar ofertas:',
-      error
     );
 
-    $('status').textContent =
-      'Falha ao atualizar. Tente novamente.';
 
-    if (!all.length) {
-      $('grid').replaceChildren(
-        el(
-          'div',
-          'empty',
-          'Não foi possível carregar as ofertas. ' +
-          'Verifique o promocoes.json no GitHub.'
-        )
-      );
-    } else {
-      render();
+    /*
+      FUNÇÕES AUXILIARES
+    */
+
+    function elemento(id) {
+      return document.getElementById(id);
     }
 
-  } finally {
-    button.disabled = false;
-  }
-}
 
-// ======================================
-// PESQUISA
-// ======================================
+    function escapar(texto) {
+      return String(texto ?? "").replace(
+        /[&<>"']/g,
+        caractere => ({
+          "&": "&amp;",
+          "<": "&lt;",
+          ">": "&gt;",
+          '"': "&quot;",
+          "'": "&#39;"
+        })[caractere]
+      );
+    }
 
-$('search').addEventListener(
-  'input',
-  render
-);
 
-$('refresh').addEventListener(
-  'click',
-  load
-);
+    function converterPreco(valor) {
 
-// ======================================
-// FILTROS
-// ======================================
+      if (typeof valor === "number") {
+        return valor;
+      }
 
-for (
-  const [id, key, update] of [
-    [
-      'categories',
-      'category',
-      value => category = value
-    ],
-    [
-      'stores',
-      'store',
-      value => store = value
-    ]
-  ]
-) {
-  $(id).addEventListener(
-    'click',
-    event => {
-      const button = event.target.closest(
-        'button[data-' + key + ']'
+      const texto = String(valor || "")
+        .replace(/[^\d,.-]/g, "");
+
+      if (!texto) {
+        return Infinity;
+      }
+
+      if (texto.includes(",")) {
+        return Number(
+          texto.replace(/\./g, "").replace(",", ".")
+        );
+      }
+
+      return Number(texto);
+    }
+
+
+    function linkSeguro(link) {
+
+      try {
+
+        const url = new URL(link);
+
+        if (
+          url.protocol === "https:" ||
+          url.protocol === "http:"
+        ) {
+          return url.href;
+        }
+
+      } catch (erro) {
+        console.warn("Link inválido:", link);
+      }
+
+      return "#";
+    }
+
+
+    /*
+      IDENTIFICAR CATEGORIA
+    */
+
+    function identificarCategoria(produto) {
+
+      const texto = (
+        String(produto.categoria || "") +
+        " " +
+        String(produto.categoriaNome || "")
+      ).toLowerCase();
+
+
+      if (
+        /casa|lazer|jardim|ferrament/.test(texto)
+      ) {
+        return "casa";
+      }
+
+
+      if (
+        /eletr|tecno|inform|celular/.test(texto)
+      ) {
+        return "eletronicos";
+      }
+
+
+      if (
+        /moda|beleza|vestu|roupa/.test(texto)
+      ) {
+        return "moda";
+      }
+
+
+      if (
+        /mercado|alimento|bebida/.test(texto)
+      ) {
+        return "mercado";
+      }
+
+
+      if (
+        /esport|fitness/.test(texto)
+      ) {
+        return "esportes";
+      }
+
+
+      if (
+        /auto|carro|moto/.test(texto)
+      ) {
+        return "automotivo";
+      }
+
+
+      return "outros";
+    }
+
+
+    /*
+      REGRA DAS 24 HORAS
+
+      Ofertas sem timestamp válido
+      não são exibidas.
+    */
+
+    function ofertaValida(produto) {
+
+      const data = Number(produto.timestamp);
+
+      const agora = Date.now();
+
+      return (
+        Number.isFinite(data) &&
+        data > 0 &&
+        data <= agora + 300000 &&
+        agora - data < TEMPO_OFERTA
+      );
+    }
+
+
+    /*
+      CRIAR CATEGORIAS
+    */
+
+    function criarCategorias() {
+
+      const navegacao =
+        elemento("categoryNavigation");
+
+      const grade =
+        elemento("categoryGrid");
+
+
+      navegacao.innerHTML = categorias.map(
+        categoria => `
+
+          <button
+            type="button"
+            data-categoria="${categoria.id}"
+            class="${
+              categoria.id === "todas"
+                ? "active"
+                : ""
+            }"
+          >
+            <span>${categoria.icone}</span>
+            ${categoria.nome}
+          </button>
+
+        `
+      ).join("");
+
+
+      grade.innerHTML = categorias
+        .filter(categoria => categoria.id !== "todas")
+        .map(
+          categoria => `
+
+            <button
+              type="button"
+              class="category-card"
+              data-categoria="${categoria.id}"
+            >
+              <span class="emoji">
+                ${categoria.icone}
+              </span>
+
+              <span>
+                ${categoria.nome}
+              </span>
+
+              <span>›</span>
+            </button>
+
+          `
+        ).join("");
+
+
+      document
+        .querySelectorAll("[data-categoria]")
+        .forEach(botao => {
+
+          botao.addEventListener("click", () => {
+
+            selecionarCategoria(
+              botao.dataset.categoria
+            );
+
+          });
+
+        });
+
+    }
+
+
+    /*
+      SELECIONAR CATEGORIA
+    */
+
+    function selecionarCategoria(categoria) {
+
+      categoriaAtual = categoria;
+
+      somenteFavoritos = false;
+
+
+      document
+        .querySelectorAll("[data-categoria]")
+        .forEach(botao => {
+
+          botao.classList.toggle(
+            "active",
+            botao.dataset.categoria === categoria
+          );
+
+        });
+
+
+      renderizarProdutos();
+
+      location.hash = "ofertas";
+    }
+
+
+    /*
+      MOSTRAR NOTIFICAÇÕES
+    */
+
+    function mostrarAviso(mensagem) {
+
+      const aviso = elemento("toast");
+
+      aviso.textContent = mensagem;
+
+      aviso.style.display = "block";
+
+
+      setTimeout(() => {
+        aviso.style.display = "none";
+      }, 3200);
+
+    }
+
+
+    /*
+      RENDERIZAR PRODUTOS
+    */
+
+    function renderizarProdutos() {
+
+      let produtos = todasPromocoes.filter(
+        ofertaValida
       );
 
-      if (!button) {
+
+      const busca = elemento("searchInput")
+        .value
+        .trim()
+        .toLowerCase();
+
+
+      if (categoriaAtual !== "todas") {
+
+        produtos = produtos.filter(
+          produto =>
+            identificarCategoria(produto) ===
+            categoriaAtual
+        );
+
+      }
+
+
+      if (busca) {
+
+        produtos = produtos.filter(produto => {
+
+          const texto = [
+            produto.titulo,
+            produto.loja,
+            produto.categoriaNome
+          ].join(" ").toLowerCase();
+
+
+          return texto.includes(busca);
+
+        });
+
+      }
+
+
+      if (somenteFavoritos) {
+
+        produtos = produtos.filter(produto => {
+
+          const link =
+            produto.linkWhatsapp || produto.link;
+
+
+          return favoritos.has(link);
+
+        });
+
+      }
+
+
+      const lojaSelecionada =
+        elemento("storeFilter").value;
+
+
+      if (lojaSelecionada) {
+
+        produtos = produtos.filter(
+          produto =>
+            produto.loja === lojaSelecionada
+        );
+
+      }
+
+
+      const ordenacao =
+        elemento("sortFilter").value;
+
+
+      if (ordenacao === "low") {
+
+        produtos.sort(
+          (a, b) =>
+            converterPreco(a.precoPor) -
+            converterPreco(b.precoPor)
+        );
+
+      }
+
+
+      if (ordenacao === "high") {
+
+        produtos.sort(
+          (a, b) =>
+            converterPreco(b.precoPor) -
+            converterPreco(a.precoPor)
+        );
+
+      }
+
+
+      if (ordenacao === "recent") {
+
+        produtos.sort(
+          (a, b) =>
+            Number(b.timestamp) -
+            Number(a.timestamp)
+        );
+
+      }
+
+
+      elemento("offerCount").textContent =
+        `${produtos.length} oferta(s)`;
+
+
+      /*
+        NENHUMA OFERTA
+      */
+
+      if (produtos.length === 0) {
+
+        elemento("products").innerHTML = `
+
+          <div class="empty">
+
+            Nenhuma oferta disponível neste filtro
+            nas últimas 24 horas.
+
+            <br><br>
+
+            Volte em breve para conferir novidades!
+
+          </div>
+
+        `;
+
         return;
       }
 
-      update(button.dataset[key]);
 
-      $(id)
-        .querySelectorAll('button')
-        .forEach(item => {
-          item.classList.toggle(
-            'active',
-            item === button
-          );
+      /*
+        CRIAR CARDS
+      */
+
+      elemento("products").innerHTML =
+        produtos.map((produto, indice) => {
+
+          const link =
+            produto.linkWhatsapp || produto.link;
+
+
+          const categoria =
+            identificarCategoria(produto);
+
+
+          let emoji = "🛍️";
+
+
+          if (categoria === "casa") {
+            emoji = "⛺";
+          }
+
+
+          if (categoria === "mercado") {
+            emoji = "🛒";
+          }
+
+
+          if (categoria === "eletronicos") {
+            emoji = "🎧";
+          }
+
+
+          if (categoria === "automotivo") {
+            emoji = "🚗";
+          }
+
+
+          const imagem =
+            produto.imagem &&
+            /^https?:\/\//.test(produto.imagem)
+
+              ? `
+
+                <img
+                  loading="lazy"
+                  src="${escapar(produto.imagem)}"
+                  alt="${escapar(produto.titulo)}"
+
+                  onerror="
+                    this.style.display='none';
+                    this.nextElementSibling.style.display='block';
+                  "
+                >
+
+                <span
+                  class="image-placeholder"
+                  style="display:none"
+                >
+                  ${emoji}
+                </span>
+
+              `
+
+              : `
+
+                <span class="image-placeholder">
+                  ${emoji}
+                </span>
+
+              `;
+
+
+          const desconto =
+            String(produto.desconto || "").trim();
+
+
+          const favoritado =
+            favoritos.has(link);
+
+
+          const comparado =
+            comparacao.has(link);
+
+
+          return `
+
+            <article class="product">
+
+              <div class="product-image">
+
+                ${imagem}
+
+                <span class="discount">
+                  ${
+                    desconto ||
+                    "Oferta disponível"
+                  }
+                </span>
+
+                <button
+                  class="favorite ${
+                    favoritado ? "saved" : ""
+                  }"
+
+                  type="button"
+
+                  data-favorito="${indice}"
+
+                  aria-label="Adicionar aos favoritos"
+                >
+                  ${
+                    favoritado ? "♥" : "♡"
+                  }
+                </button>
+
+              </div>
+
+
+              <div class="product-content">
+
+                <h3>
+                  ${escapar(
+                    produto.titulo || "Oferta"
+                  )}
+                </h3>
+
+
+                <span class="product-category">
+
+                  ${escapar(
+                    produto.categoriaNome ||
+                    "Ofertas"
+                  )}
+
+                </span>
+
+
+                <div class="old-price">
+
+                  ${escapar(
+                    produto.precoDe || ""
+                  )}
+
+                </div>
+
+
+                <div class="price">
+
+                  ${escapar(
+                    produto.precoPor ||
+                    "Consultar preço"
+                  )}
+
+                </div>
+
+
+                <div class="product-bottom">
+
+                  <div class="store">
+
+                    ${escapar(
+                      produto.loja || "Loja"
+                    )}
+
+                  </div>
+
+
+                  <a
+                    class="offer-button"
+
+                    href="${escapar(
+                      linkSeguro(link)
+                    )}"
+
+                    target="_blank"
+
+                    rel="noopener noreferrer sponsored"
+                  >
+
+                    Ver oferta ↗
+
+                  </a>
+
+
+                  <button
+                    class="compare-button"
+
+                    type="button"
+
+                    data-comparar="${indice}"
+                  >
+
+                    ${
+                      comparado
+                        ? "✓ Adicionado à comparação"
+                        : "+ Comparar"
+                    }
+
+                  </button>
+
+                </div>
+
+              </div>
+
+            </article>
+
+          `;
+
+        }).join("");
+
+
+      /*
+        FAVORITOS
+      */
+
+      document
+        .querySelectorAll("[data-favorito]")
+        .forEach(botao => {
+
+          botao.addEventListener("click", () => {
+
+            const produto =
+              produtos[
+                Number(botao.dataset.favorito)
+              ];
+
+
+            const link =
+              produto.linkWhatsapp || produto.link;
+
+
+            if (favoritos.has(link)) {
+
+              favoritos.delete(link);
+
+            } else {
+
+              favoritos.add(link);
+
+            }
+
+
+            localStorage.setItem(
+              "junao_favoritos",
+              JSON.stringify([...favoritos])
+            );
+
+
+            renderizarProdutos();
+
+          });
+
         });
 
-      render();
+
+      /*
+        COMPARAÇÃO
+      */
+
+      document
+        .querySelectorAll("[data-comparar]")
+        .forEach(botao => {
+
+          botao.addEventListener("click", () => {
+
+            const produto =
+              produtos[
+                Number(botao.dataset.comparar)
+              ];
+
+
+            const link =
+              produto.linkWhatsapp || produto.link;
+
+
+            if (comparacao.has(link)) {
+
+              comparacao.delete(link);
+
+            } else {
+
+              comparacao.add(link);
+
+            }
+
+
+            mostrarAviso(
+              `${comparacao.size} produto(s) selecionado(s)`
+            );
+
+
+            renderizarProdutos();
+
+          });
+
+        });
+
     }
-  );
-}
 
-// ======================================
-// ATUALIZAÇÃO AUTOMÁTICA
-// ======================================
 
-// Busca novas ofertas a cada 5 minutos.
-load();
+    /*
+      CARREGAR JSON DO GITHUB
+    */
 
-setInterval(
-  load,
-  5 * 60 * 1000
-);
+    async function carregarPromocoes() {
 
-// Verifica a expiração a cada minuto.
-setInterval(
-  render,
-  60 * 1000
-);
+      try {
 
-</script>
+        const resposta = await fetch(
+          JSON_URL + "?t=" + Date.now(),
+          {
+            cache: "no-store"
+          }
+        );
+
+
+        if (!resposta.ok) {
+
+          throw new Error(
+            "Erro HTTP " + resposta.status
+          );
+
+        }
+
+
+        let dados = await resposta.json();
+
+
+        if (typeof dados === "string") {
+
+          dados = JSON.parse(dados);
+
+        }
+
+
+        if (!Array.isArray(dados)) {
+
+          dados = Array.isArray(dados.promocoes)
+            ? dados.promocoes
+            : [];
+
+        }
+
+
+        todasPromocoes = dados.filter(
+          produto =>
+            produto &&
+            typeof produto === "object"
+        );
+
+
+        /*
+          ATUALIZAR FILTRO DE LOJAS
+        */
+
+        const filtro =
+          elemento("storeFilter");
+
+
+        const lojaAnterior =
+          filtro.value;
+
+
+        const lojas = [
+          ...new Set(
+            todasPromocoes
+              .map(produto => produto.loja)
+              .filter(Boolean)
+          )
+        ].sort();
+
+
+        filtro.innerHTML = `
+
+          <option value="">
+            Todas as lojas
+          </option>
+
+          ${lojas.map(loja => `
+
+            <option value="${escapar(loja)}">
+              ${escapar(loja)}
+            </option>
+
+          `).join("")}
+
+        `;
+
+
+        filtro.value =
+          lojas.includes(lojaAnterior)
+            ? lojaAnterior
+            : "";
+
+
+        renderizarProdutos();
+
+
+      } catch (erro) {
+
+        console.error(
+          "Erro ao carregar promoções:",
+          erro
+        );
+
+
+        elemento("products").innerHTML = `
+
+          <div class="empty">
+
+            Não foi possível carregar as ofertas
+            neste momento.
+
+            <br><br>
+
+            Tente novamente em alguns minutos.
+
+          </div>
+
+        `;
+
+      }
+
+    }
+
+
+    /*
+      EVENTOS
+    */
+
+    elemento("year").textContent =
+      new Date().getFullYear();
+
+
+    criarCategorias();
+
+
+    elemento("searchInput").addEventListener(
+      "input",
+      renderizarProdutos
+    );
+
+
+    elemento("searchForm").addEventListener(
+      "submit",
+      evento => {
+
+        evento.preventDefault();
+
+        location.hash = "ofertas";
+
+        renderizarProdutos();
+
+      }
+    );
+
+
+    elemento("storeFilter").addEventListener(
+      "change",
+      renderizarProdutos
+    );
+
+
+    elemento("sortFilter").addEventListener(
+      "change",
+      renderizarProdutos
+    );
+
+
+    elemento("allOffers").addEventListener(
+      "click",
+      () => {
+
+        categoriaAtual = "todas";
+
+        somenteFavoritos = false;
+
+        elemento("searchInput").value = "";
+
+        elemento("storeFilter").value = "";
+
+        document
+          .querySelectorAll("[data-categoria]")
+          .forEach(botao => {
+
+            botao.classList.toggle(
+              "active",
+              botao.dataset.categoria === "todas"
+            );
+
+          });
+
+
+        renderizarProdutos();
+
+      }
+    );
+
+
+    elemento("favoritesBtn").addEventListener(
+      "click",
+      () => {
+
+        somenteFavoritos = !somenteFavoritos;
+
+        categoriaAtual = "todas";
+
+        renderizarProdutos();
+
+        location.hash = "ofertas";
+
+      }
+    );
+
+
+    elemento("compareBtn").addEventListener(
+      "click",
+      () => {
+
+        const selecionados =
+          todasPromocoes.filter(produto => {
+
+            const link =
+              produto.linkWhatsapp || produto.link;
+
+
+            return comparacao.has(link);
+
+          });
+
+
+        if (selecionados.length === 0) {
+
+          mostrarAviso(
+            "Selecione produtos para comparar."
+          );
+
+          return;
+
+        }
+
+
+        const resumo =
+          selecionados.map(produto => {
+
+            return (
+              produto.titulo +
+              ": " +
+              produto.precoPor +
+              " — " +
+              produto.loja
+            );
+
+          }).join("\n");
+
+
+        alert(resumo);
+
+      }
+    );
+
+
+    elemento("menuBtn").addEventListener(
+      "click",
+      () => {
+
+        elemento("drawer").classList.toggle(
+          "open"
+        );
+
+      }
+    );
+
+
+    /*
+      INICIAR SITE
+    */
+
+    carregarPromocoes();
+
+
+    /*
+      CONSULTAR NOVAS OFERTAS
+      A CADA 5 MINUTOS
+    */
+
+    setInterval(
+      carregarPromocoes,
+      TEMPO_ATUALIZACAO
+    );
+
+
+    /*
+      ATUALIZAR A EXIBIÇÃO
+      A CADA MINUTO
+    */
+
+    setInterval(
+      renderizarProdutos,
+      60000
+    );
+
+  </script>
 
 </body>
 </html>
-<!-- Atualização para publicar na Vercel -->
