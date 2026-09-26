@@ -1,20 +1,20 @@
-
 [
   {
-    "titulo": "Mochila T60 Multiuso Impermeável Esportiva com Compartimentos",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 77,80",
-    "precoPor": "R$ 61,19",
-    "desconto": "-21%",
-    "detalheExtra": "🔥 Imperdível",
-    "imagem": "",
-    "link": "https://meli.la/1CAWird",
-    "linkWhatsapp": "https://meli.la/1CAWird"
+    "titulo": "Mor Life - Barraca Luna 5 Pessoas",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 169,90",
+    "desconto": "Oferta Imperdível!",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51VdCLaIWCL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B076PM3J79?tag=junaopromoc03-20&linkCode=ll1&language=pt_BR",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B076PM3J79?tag=junaopromoc03-20&linkCode=ll1&language=pt_BR",
+    "timestamp": 1790398470456
   },
   {
-    "titulo": "Nescau Bebida Láctea 180ml - Caixa com 27 Unidades",
+    "titulo": "Nescau Bebida Láctea 180ml caixa com 27 unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
     "loja": "Amazon",
@@ -26,19 +26,5 @@
     "link": "https://amzn.to/4AryVeF",
     "linkWhatsapp": "https://amzn.to/4AryVeF",
     "timestamp": 1790391794615
-  },
-  {
-    "titulo": "Mor Life - Barraca Luna 5 Pessoas",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 169,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51VdCLaIWCL._AC_SL1000_.jpg",
-    "link": "https://www.amazon.com.br/dp/B076PM3J79?tag=junaopromoc03-20&linkCode=ll1&language=pt_BR",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B076PM3J79?tag=junaopromoc03-20&linkCode=ll1&language=pt_BR",
-    "timestamp": 1790393227338
   }
 ]
