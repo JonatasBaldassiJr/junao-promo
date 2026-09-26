@@ -5,2669 +5,1216 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#080b0d">
+  <meta name="description" content="Junão Promoção: ofertas de Amazon, Mercado Livre, Shopee e Magalu em um só lugar.">
+  <title>Junão Promoção | As melhores promoções</title>
 
-  <title>Junão Promoção | As melhores promoções em um só lugar</title>
-  <meta name="description" content="Ofertas de Amazon, Mercado Livre, Shopee, Magalu e outras lojas. Encontre promoções de casa, eletrônicos, beleza, mercado e muito mais.">
-  <meta name="robots" content="index, follow">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
-
     :root {
       --bg: #080b0d;
-      --panel: #10161a;
-      --panel2: #151d23;
-      --gold: #ffcf17;
-      --gold2: #ff9d00;
-      --green: #00b86b;
-      --white: #ffffff;
-      --muted: #a7afb9;
-      --line: rgba(255, 207, 23, .24);
-      --max: 1450px;
+      --panel: #11191e;
+      --panel2: #172128;
+      --gold: #ffd32a;
+      --gold2: #ffad00;
+      --border: rgba(255, 202, 30, .28);
+      --muted: #9aa6b4;
+      --green: #08b96d;
     }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
     body {
-      font-family: Inter, Arial, sans-serif;
+      margin: 0;
       background:
-        radial-gradient(ellipse at 0% 37%, rgba(255, 166, 0, .12), transparent 23%),
-        radial-gradient(ellipse at 100% 47%, rgba(255, 166, 0, .11), transparent 24%),
+        radial-gradient(ellipse at 0 35%, rgba(255,170,0,.13), transparent 26%),
+        radial-gradient(ellipse at 100% 57%, rgba(255,170,0,.10), transparent 24%),
         var(--bg);
       color: white;
-      min-height: 100vh;
+      font-family: Inter, Arial, sans-serif;
     }
-
-    button, input {
-      font: inherit;
-    }
-
-    button {
-      cursor: pointer;
-    }
-
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-
-    img {
-      max-width: 100%;
-    }
-
-    .container {
-      width: min(var(--max), calc(100% - 36px));
-      margin: auto;
-    }
+    button, input { font: inherit; }
+    button { cursor: pointer; }
+    a { color: inherit; text-decoration: none; }
+    .container { max-width: 1440px; margin: auto; padding: 0 22px; }
+    .gold { color: var(--gold); }
 
     /* CABEÇALHO */
-
     .topbar {
-      background: rgba(7, 11, 14, .97);
-      border-bottom: 1px solid rgba(255, 205, 0, .45);
-      position: relative;
-      z-index: 20;
+      background: rgba(7,11,13,.97);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      backdrop-filter: blur(18px);
     }
-
     .header {
-      min-height: 92px;
+      min-height: 88px;
       display: flex;
       align-items: center;
-      gap: 27px;
+      gap: 24px;
     }
-
     .brand {
       display: flex;
       align-items: center;
       gap: 12px;
-      flex-shrink: 0;
+      min-width: 220px;
     }
-
     .brand img {
-      width: 92px;
-      height: 68px;
+      width: 83px;
+      height: 63px;
       object-fit: contain;
-      filter: drop-shadow(0 0 11px rgba(0, 148, 255, .35));
+      filter: drop-shadow(0 0 11px rgba(0,150,255,.32));
     }
-
     .brand-name {
       font-weight: 900;
       font-size: 22px;
-      line-height: .99;
-      letter-spacing: -.7px;
+      line-height: 1;
+      letter-spacing: -.8px;
     }
-
-    .brand-name span {
-      display: block;
-      color: var(--gold);
-    }
+    .brand-name span { display: block; color: var(--gold); }
 
     .search {
       display: flex;
       flex: 1;
-      max-width: 610px;
-      height: 52px;
-      border: 1px solid #394752;
-      background: linear-gradient(120deg, #19252e, #101820);
-      border-radius: 12px;
+      height: 51px;
+      background: #1a252d;
+      border: 1px solid #36434c;
+      border-radius: 11px;
       overflow: hidden;
-      margin-left: auto;
+      min-width: 100px;
     }
-
     .search input {
       flex: 1;
-      width: 0;
+      min-width: 0;
       border: 0;
-      outline: none;
+      outline: 0;
       background: transparent;
+      padding: 0 17px;
       color: white;
-      padding: 0 18px;
-      font-size: 13px;
+      font-size: 14px;
     }
-
     .search button {
-      width: 58px;
       border: 0;
-      background: linear-gradient(135deg, #ffe765, #ffc400);
-      font-size: 22px;
-      color: #111;
+      width: 55px;
+      background: linear-gradient(135deg, #ffe764, #ffcb00);
+      font-size: 23px;
+      font-weight: 900;
     }
-
     .whatsapp {
-      background: linear-gradient(135deg, #00c978, #00a65c);
-      padding: 16px 23px;
-      border-radius: 10px;
-      font-size: 13px;
-      font-weight: 800;
-      white-space: nowrap;
-      box-shadow: 0 0 24px rgba(0, 184, 107, .12);
-    }
-
-    .header-action {
-      background: transparent;
-      border: 0;
-      color: white;
-      min-width: 60px;
-      display: flex;
+      display: inline-flex;
+      justify-content: center;
       align-items: center;
-      flex-direction: column;
-      gap: 5px;
+      background: #07b967;
+      border-radius: 9px;
+      padding: 16px 20px;
+      font-size: 13px;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+    .header-actions { display: flex; gap: 18px; }
+    .header-action {
+      background: none;
+      border: none;
+      color: white;
+      display: grid;
+      justify-items: center;
+      gap: 4px;
       font-size: 11px;
+      min-width: 50px;
     }
+    .header-action b { font-size: 25px; font-weight: 400; }
 
-    .header-action .symbol {
-      font-size: 25px;
+    /* MENU */
+    .navwrap {
+      border-bottom: 1px solid #ae7a00;
+      background: linear-gradient(90deg,#100d06,#0b1013 20%,#0b1013 80%,#100d06);
+      box-shadow: 0 5px 24px rgba(255,160,0,.08);
     }
-
-    .header-action.active {
-      color: var(--gold);
-    }
-
-    /* NAVEGAÇÃO */
-
-    .nav-wrap {
-      background: linear-gradient(180deg, #0b1115, #080b0d);
-      border-bottom: 1px solid rgba(255, 187, 0, .35);
-      box-shadow: 0 8px 24px rgba(255, 160, 0, .08);
-    }
-
     .nav {
       display: flex;
-      align-items: stretch;
+      align-items: center;
       justify-content: space-between;
-      gap: 6px;
-      min-height: 82px;
+      gap: 10px;
+      min-height: 79px;
     }
-
-    .nav-categories {
-      display: flex;
-      align-items: stretch;
-      gap: 5px;
-    }
-
-    .nav-category {
-      min-width: 100px;
-      padding: 11px 12px;
+    .navcats, .trust-mini { display: flex; align-items: center; gap: 6px; }
+    .navcat {
       border: 1px solid transparent;
       background: transparent;
-      color: #eee;
+      color: white;
+      padding: 10px 13px;
+      min-width: 88px;
+      border-radius: 10px;
       font-size: 11px;
       font-weight: 700;
-      border-radius: 9px;
+      display: grid;
+      justify-items: center;
+      gap: 4px;
     }
-
-    .nav-category .emoji {
-      display: block;
-      font-size: 26px;
-      margin-bottom: 4px;
-    }
-
-    .nav-category.active,
-    .nav-category:hover {
-      background: linear-gradient(140deg, #3b2b02, #1c1609);
+    .navcat .emoji { font-size: 25px; }
+    .navcat.active {
       border-color: var(--gold);
       color: var(--gold);
-      box-shadow: 0 0 18px rgba(255, 185, 0, .22);
+      background: linear-gradient(135deg,#3b2900,#130f06);
+      box-shadow: 0 0 18px rgba(255,193,0,.18);
     }
-
-    .nav-benefits {
-      display: flex;
-      align-items: center;
-      gap: 18px;
-    }
-
-    .nav-benefit {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      max-width: 130px;
-      font-size: 10px;
-      line-height: 1.45;
-    }
-
-    .nav-benefit strong {
-      color: var(--gold);
-      font-size: 25px;
+    .trust-mini { gap: 20px; }
+    .trust-mini div { display: flex; align-items: center; gap: 8px; font-size: 10px; line-height: 1.4; }
+    .trust-mini strong {
       border: 2px solid var(--gold);
-      width: 42px;
-      height: 42px;
+      color: var(--gold);
       border-radius: 50%;
+      width: 35px;
+      height: 35px;
       display: grid;
       place-items: center;
-      flex-shrink: 0;
+      font-size: 20px;
     }
 
-    /* HERO */
-
+    /* BANNER CINEMATOGRÁFICO */
     .hero {
-      margin-top: 9px;
-      min-height: 350px;
-      border: 1px solid #d59d00;
-      border-radius: 16px;
       position: relative;
+      margin-top: 12px;
+      min-height: 350px;
+      border: 1px solid #d59a00;
+      border-radius: 14px;
       overflow: hidden;
-      isolation: isolate;
-      background:
-        radial-gradient(ellipse at 74% 43%, rgba(255, 181, 0, .55), transparent 33%),
-        radial-gradient(ellipse at 90% 94%, rgba(255, 149, 0, .27), transparent 40%),
-        repeating-linear-gradient(150deg, transparent 0 85px, rgba(255, 196, 0, .045) 86px 87px),
-        linear-gradient(115deg, #080808 20%, #211402 68%, #080808);
-      box-shadow: 0 0 42px rgba(255, 169, 0, .1);
+      background: #100c05;
+      box-shadow: 0 0 32px rgba(255,166,0,.12);
     }
-
-    .hero::before {
-      content: "";
+    .hero-bg {
       position: absolute;
       inset: 0;
-      z-index: -1;
       background:
-        linear-gradient(90deg, rgba(0,0,0,.3), transparent 65%),
+        linear-gradient(90deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.77) 31%,rgba(0,0,0,.08) 61%),
         url("banner.jpg") center center / cover no-repeat;
-      opacity: 0;
     }
-
-    .hero.has-banner::before {
-      opacity: 1;
-      z-index: 0;
-    }
-
-    .hero.has-banner {
-      background: #080808;
-    }
-
-    .hero.has-banner .hero-fallback {
-      display: none;
-    }
-
-    .hero.has-banner .hero-copy {
-      opacity: 0;
-      pointer-events: none;
-    }
-
-    .hero-copy {
+    .hero-content {
       position: relative;
-      z-index: 2;
-      width: 53%;
-      padding: 34px 0 28px 45px;
+      z-index: 1;
+      width: min(600px, 57%);
+      padding: 27px 34px 24px;
     }
-
     .hero h1 {
-      font-size: clamp(30px, 3.7vw, 59px);
+      font-size: clamp(31px,3.7vw,57px);
+      line-height: .98;
       font-weight: 900;
       letter-spacing: -2.5px;
-      line-height: 1.03;
-      text-shadow: 0 3px 8px rgba(0,0,0,.65);
+      margin: 0 0 10px;
+      text-shadow: 0 3px 12px #000;
     }
-
     .hero h1 span {
+      display: block;
       color: var(--gold);
-      background: linear-gradient(180deg, #fff18d, #ffcf00 52%, #ff9100);
-      -webkit-background-clip: text;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-      filter: drop-shadow(0 3px 0 rgba(113, 61, 0, .6));
+      font-size: 1.08em;
+      text-shadow: 0 3px 0 #b87900,0 9px 15px rgba(0,0,0,.7);
     }
-
-    .hero-copy > p {
-      color: #f0f0f0;
-      font-size: 14px;
-      line-height: 1.6;
-      margin: 14px 0 18px;
-      max-width: 460px;
+    .hero p {
+      font-size: 15px;
+      line-height: 1.45;
+      max-width: 440px;
+      margin: 10px 0 18px;
+      text-shadow: 0 2px 6px #000;
     }
-
     .gold-button {
+      background: linear-gradient(180deg,#ffe86d,#ffca08);
+      border: 0;
+      color: #111;
+      border-radius: 12px;
+      padding: 13px 22px;
+      font-size: 13px;
+      font-weight: 900;
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 10px;
-      background: linear-gradient(180deg, #ffec61, #ffcb00);
-      color: #171100;
-      font-size: 13px;
-      font-weight: 900;
-      border: 0;
-      border-radius: 30px;
-      padding: 13px 25px;
-      box-shadow: 0 4px 0 #a56e00, 0 0 18px rgba(255, 198, 0, .3);
+      gap: 14px;
+      box-shadow: 0 5px 0 rgba(140,92,0,.7),0 0 18px rgba(255,207,0,.25);
     }
-
-    .hero-highlights {
+    .hero-perks {
       display: flex;
-      gap: 23px;
-      margin-top: 25px;
+      flex-wrap: wrap;
+      gap: 17px;
+      margin-top: 24px;
     }
-
-    .hero-highlight {
+    .hero-perks div {
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 7px;
       font-size: 10px;
-      line-height: 1.35;
+      line-height: 1.4;
+      text-shadow: 0 2px 5px #000;
     }
-
-    .hero-highlight b {
-      width: 32px;
-      height: 32px;
+    .hero-perks b {
       border: 2px solid var(--gold);
       color: var(--gold);
       border-radius: 50%;
+      width: 29px;
+      height: 29px;
       display: grid;
       place-items: center;
-      font-size: 18px;
-      flex-shrink: 0;
+      font-size: 15px;
     }
-
-    .hero-fallback {
-      position: absolute;
-      right: 3%;
-      top: 0;
-      bottom: 0;
-      width: 50%;
-      display: grid;
-      place-items: center;
-      pointer-events: none;
-    }
-
-    .hero-fallback::before {
-      content: "";
-      width: 85%;
-      height: 65%;
-      position: absolute;
-      background: #ffc400;
-      border-radius: 50%;
-      filter: blur(85px);
-      opacity: .42;
-    }
-
-    .hero-fallback::after {
-      content: "";
-      position: absolute;
-      width: 88%;
-      height: 12px;
-      bottom: 30px;
-      border-radius: 50%;
-      background: #ffd400;
-      filter: blur(11px);
-      opacity: .75;
-    }
-
-    .hero-logo {
-      position: relative;
-      z-index: 2;
-      width: min(90%, 480px);
-      max-height: 280px;
-      object-fit: contain;
-      transform: perspective(900px) rotateY(-8deg);
-      filter:
-        drop-shadow(0 0 12px rgba(0, 132, 255, .8))
-        drop-shadow(10px 12px 2px rgba(15, 8, 0, .85))
-        drop-shadow(0 0 35px rgba(255, 169, 0, .75));
-    }
-
-    .floating {
-      position: absolute;
-      z-index: 1;
-      color: var(--gold);
-      font-size: 47px;
-      font-weight: 900;
-      text-shadow: 0 0 20px #ffb400;
-      transform: rotate(-18deg);
-    }
-
-    .float-one { top: 15%; left: 7%; }
-    .float-two { top: 18%; right: 4%; transform: rotate(20deg); }
-    .float-three { bottom: 13%; right: 8%; }
-    .float-four { bottom: 12%; left: 4%; font-size: 55px; }
 
     /* CATEGORIAS */
-
-    .category-tiles {
+    .categories {
       display: grid;
-      grid-template-columns: repeat(6, 1fr);
+      grid-template-columns: repeat(6,minmax(0,1fr));
       gap: 10px;
-      margin-top: 10px;
+      margin: 12px 0;
     }
-
-    .category-tile {
+    .category {
+      border: 1px solid #3c4b56;
+      background: linear-gradient(145deg,#1b252c,#0e1519);
+      border-radius: 11px;
+      min-height: 65px;
+      padding: 8px 12px;
+      color: white;
       display: flex;
       align-items: center;
-      gap: 12px;
-      min-height: 67px;
-      padding: 10px 15px;
-      background: linear-gradient(135deg, #18232a, #0d1216);
-      border: 1px solid #3c4a51;
-      border-radius: 10px;
-      color: white;
-      font-size: 12px;
-      font-weight: 700;
+      gap: 10px;
+      font-size: 11px;
+      font-weight: 800;
       text-align: left;
-      transition: .2s;
     }
-
-    .category-tile:hover,
-    .category-tile.active {
+    .category.active {
       border-color: var(--gold);
-      background: linear-gradient(135deg, #342708, #101519);
-      box-shadow: 0 0 15px rgba(255, 198, 0, .15);
+      background: linear-gradient(135deg,#382300,#13191d);
+      box-shadow: inset 0 0 15px rgba(255,193,0,.12);
     }
-
-    .category-tile .tile-emoji {
-      font-size: 32px;
-    }
-
-    .category-tile .arrow {
-      margin-left: auto;
-      color: var(--gold);
-      font-size: 19px;
-    }
+    .category .emoji { font-size: 31px; }
+    .category .arrow { margin-left: auto; color: var(--gold); font-size: 19px; }
 
     /* OFERTAS */
-
-    .offers-section {
-      padding-top: 20px;
-      scroll-margin-top: 20px;
-    }
-
     .section-heading {
       display: flex;
+      align-items: end;
       justify-content: space-between;
-      align-items: flex-end;
-      gap: 20px;
-      margin-bottom: 13px;
+      gap: 15px;
+      margin: 14px 0 10px;
     }
-
-    .section-heading h2 {
-      font-size: 23px;
-      font-weight: 900;
-      letter-spacing: -.8px;
-    }
-
-    .section-heading p {
-      color: var(--muted);
-      font-size: 12px;
-      margin-top: 4px;
-    }
-
-    .section-heading a,
-    .section-heading button {
-      background: transparent;
-      border: 0;
-      color: var(--gold);
-      font-size: 12px;
-      font-weight: 800;
-    }
+    .section-heading h2 { font-size: 23px; margin: 0 0 3px; font-weight: 900; }
+    .section-heading p { margin: 0; color: #b6c0c9; font-size: 12px; }
+    .section-heading a { color: var(--gold); font-size: 12px; font-weight: 800; }
 
     .disclosure {
-      padding: 12px 15px;
-      border: 1px solid rgba(255, 205, 0, .35);
+      padding: 11px 14px;
+      border: 1px solid rgba(255,211,42,.35);
+      background: rgba(255,200,0,.06);
       border-radius: 9px;
-      background: rgba(255, 190, 0, .055);
       font-size: 11px;
       line-height: 1.6;
-      color: #e2e0d7;
-      margin-bottom: 15px;
+      color: #d9d3be;
+      margin-bottom: 12px;
     }
+    .disclosure strong { color: var(--gold); }
 
-    .disclosure strong {
-      color: var(--gold);
-    }
-
-    .store-filters {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 16px;
-    }
-
-    .store-filter {
-      padding: 9px 13px;
-      background: #151d22;
-      border: 1px solid #354149;
-      border-radius: 8px;
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 12px; }
+    .filter {
+      background: #18232a;
+      border: 1px solid #35434c;
       color: white;
+      border-radius: 8px;
+      padding: 9px 13px;
       font-size: 11px;
-      font-weight: 700;
+      font-weight: 800;
     }
+    .filter.active { color: var(--gold); border-color: var(--gold); background: #302305; }
 
-    .store-filter.active {
-      background: #392c07;
-      color: var(--gold);
-      border-color: var(--gold);
-    }
-
-    .offers-grid {
+    .products {
       display: grid;
-      grid-template-columns: repeat(5, minmax(0, 1fr));
-      gap: 12px;
+      grid-template-columns: repeat(5,minmax(0,1fr));
+      gap: 10px;
     }
-
     .product {
-      background: #fff;
-      border-radius: 11px;
-      color: #111827;
-      overflow: hidden;
-      border: 1px solid #dce1e6;
       min-width: 0;
+      background: white;
+      color: #17212c;
+      border-radius: 11px;
+      padding: 9px;
+      position: relative;
       display: flex;
       flex-direction: column;
-      box-shadow: 0 7px 22px rgba(0,0,0,.25);
-      transition: transform .2s, box-shadow .2s;
+      box-shadow: 0 5px 16px rgba(0,0,0,.22);
+      overflow: hidden;
     }
-
-    .product:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 25px rgba(255, 191, 0, .16);
-    }
-
     .product-image {
-      height: 205px;
-      background: #f7f8fa;
       position: relative;
+      height: 172px;
+      background: #f6f8fb;
+      border-radius: 7px;
       display: grid;
       place-items: center;
-      padding: 10px;
+      overflow: hidden;
     }
-
-    .product-image > img {
+    .product-image img {
+      display: block;
+      max-width: 100%;
+      max-height: 100%;
       width: 100%;
       height: 100%;
       object-fit: contain;
-      mix-blend-mode: multiply;
     }
-
-    .image-placeholder {
-      text-align: center;
-      color: #88919d;
-      font-size: 11px;
-      line-height: 1.5;
-    }
-
-    .image-placeholder span {
-      display: block;
-      font-size: 53px;
-      margin-bottom: 10px;
-    }
-
-    .product-badge {
+    .product-placeholder { text-align: center; color: #7b8794; font-size: 11px; }
+    .product-placeholder span { display: block; font-size: 46px; margin-bottom: 12px; }
+    .ad-badge {
       position: absolute;
-      top: 9px;
-      left: 9px;
-      background: #ff1834;
+      z-index: 2;
+      top: 7px;
+      left: 7px;
+      padding: 5px 7px;
+      background: #f3152c;
       color: white;
       font-size: 10px;
       font-weight: 900;
-      padding: 6px 9px;
       border-radius: 5px;
-      z-index: 2;
     }
-
-    .favorite {
+    .heart {
       position: absolute;
-      top: 7px;
-      right: 8px;
-      z-index: 3;
+      z-index: 2;
+      top: 6px;
+      right: 6px;
+      width: 29px;
+      height: 29px;
       border: 0;
-      background: white;
-      color: #28323e;
       border-radius: 50%;
-      width: 32px;
-      height: 32px;
-      font-size: 23px;
+      background: white;
+      font-size: 22px;
+      color: #344251;
     }
-
-    .favorite.active {
-      color: #ed174c;
-    }
-
-    .product-body {
-      padding: 11px 12px 13px;
-      display: flex;
-      flex-direction: column;
-      flex: 1;
-    }
-
-    .product-title {
+    .heart.saved { color: #e9003d; }
+    .product h3 {
       font-size: 12px;
-      font-weight: 800;
       line-height: 1.4;
-      min-height: 34px;
+      min-height: 35px;
+      margin: 11px 2px 4px;
+      font-weight: 800;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
       overflow: hidden;
     }
-
-    .product-category {
-      color: #7d5ba2;
-      font-size: 10px;
-      margin: 5px 0 7px;
-    }
-
-    .old-price {
-      color: #818b98;
-      text-decoration: line-through;
-      font-size: 11px;
-      min-height: 14px;
-    }
-
-    .price {
-      font-size: 22px;
+    .product-category { color: #7d66a6; font-size: 10px; margin: 0 2px 5px; }
+    .price { font-size: 20px; font-weight: 900; margin: 0 2px 5px; }
+    .price small { font-size: 12px; font-weight: 800; }
+    .price-note { color: #667483; font-size: 10px; line-height: 1.45; margin: 0 2px 8px; }
+    .store { margin: auto 2px 10px; font-size: 11px; font-weight: 900; }
+    .store::before { content: "●"; color: #ffc400; margin-right: 5px; }
+    .offer-button {
+      background: linear-gradient(180deg,#ffe25b,#ffcc12);
+      color: #121212;
+      text-align: center;
+      font-size: 12px;
       font-weight: 900;
-      letter-spacing: -.7px;
-      margin-top: 2px;
+      padding: 11px 5px;
+      border-radius: 7px;
+      display: block;
     }
+    .status { font-size: 11px; color: #a9b4bf; margin-top: 13px; }
+    .status::before { content: "●"; color: #04cf82; margin-right: 7px; }
 
-    .price-unconfirmed {
-      font-size: 14px;
-      letter-spacing: 0;
-    }
-
-    .product-note {
-      color: #727c89;
-      font-size: 10px;
-      line-height: 1.45;
-      margin-top: 5px;
-      min-height: 28px;
-    }
-
-    .product-store {
-      font-size: 11px;
-      font-weight: 800;
-      margin: 8px 0;
+    /* LOJAS */
+    .stores {
       display: flex;
       align-items: center;
-      gap: 5px;
+      gap: 10px;
+      margin: 27px 0 13px;
+      padding: 12px;
+      border: 1px solid #34424b;
+      border-radius: 12px;
+      background: linear-gradient(135deg,#131d22,#080d0f);
     }
-
-    .product-store::before {
-      content: "";
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-      background: var(--gold);
-    }
-
-    .product-actions {
-      display: flex;
-      gap: 6px;
-      margin-top: auto;
-    }
-
-    .offer-button {
+    .stores-title { min-width: 200px; }
+    .stores-title h2 { margin: 0 0 4px; font-size: 17px; }
+    .stores-title p { margin: 0; font-size: 10px; color: #aeb7c1; }
+    .store-links { display: flex; flex: 1; gap: 8px; }
+    .store-link {
+      flex: 1;
+      min-height: 48px;
+      border: 1px solid #35434c;
+      border-radius: 8px;
       display: grid;
       place-items: center;
-      flex: 1;
-      min-height: 38px;
-      background: linear-gradient(180deg, #ffe45d, #ffcb00);
-      border-radius: 7px;
-      color: #15110a;
-      font-weight: 900;
-      font-size: 12px;
-    }
-
-    .compare-button {
-      border: 1px solid #d9dce2;
-      background: white;
-      border-radius: 7px;
-      padding: 0 10px;
-      font-size: 18px;
-      color: #26313c;
-    }
-
-    .compare-button.active {
-      background: #fff0b3;
-      border-color: #e5b400;
-    }
-
-    .offer-status {
-      font-size: 11px;
-      color: #aeb8c1;
-      margin: 15px 0 4px;
-    }
-
-    .live-dot {
-      display: inline-block;
-      width: 7px;
-      height: 7px;
-      background: #16dc83;
-      border-radius: 50%;
-      margin-right: 5px;
-      box-shadow: 0 0 10px #16dc83;
-    }
-
-    .empty-state {
-      grid-column: 1 / -1;
-      border: 1px dashed #5d4b1b;
-      border-radius: 12px;
-      background: #131716;
-      padding: 45px 20px;
-      text-align: center;
-      color: #d8dce0;
-      line-height: 1.7;
-    }
-
-    .empty-state h3 {
-      color: white;
-      margin-bottom: 8px;
-    }
-
-    /* LOJAS PARCEIRAS */
-
-    .partners {
-      padding-top: 24px;
-    }
-
-    .partner-strip {
-      display: grid;
-      grid-template-columns: 1.7fr repeat(4, 1fr);
-      gap: 9px;
-      margin-top: 12px;
-    }
-
-    .partner-intro,
-    .partner {
-      min-height: 57px;
-      background: #10161a;
-      border: 1px solid #3b454a;
-      border-radius: 9px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      padding: 9px;
-    }
-
-    .partner-intro {
-      justify-content: flex-start;
-      text-align: left;
-      gap: 12px;
-    }
-
-    .partner-intro > span {
-      font-size: 28px;
-    }
-
-    .partner-intro strong {
       font-size: 15px;
-    }
-
-    .partner-intro p {
-      font-size: 10px;
-      color: #b7bfc5;
-      margin-top: 4px;
-    }
-
-    .partner {
-      font-size: 17px;
       font-weight: 900;
+      background: #101920;
+      text-align: center;
+      padding: 5px;
     }
-
-    .partner.amazon {
-      color: white;
-      text-decoration: underline;
-      text-decoration-color: #ff9900;
-      text-underline-offset: 5px;
-    }
-
-    .partner.mercadolivre {
-      color: #ffe000;
-      font-size: 14px;
-    }
-
-    .partner.shopee {
-      color: #ff6d37;
-    }
-
-    .partner.magalu {
-      color: #25b5ef;
-    }
-
-    /* INFORMAÇÕES INFERIORES */
-
-    .feature-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 11px;
-      margin-top: 12px;
-    }
-
-    .feature {
-      min-height: 65px;
-      border: 1px solid #86620c;
-      border-radius: 9px;
-      background: linear-gradient(110deg, #171408, #0c1012);
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      padding: 12px 16px;
-    }
-
-    .feature > span {
-      color: var(--gold);
-      font-size: 33px;
-      flex-shrink: 0;
-    }
-
-    .feature h3 {
-      font-size: 12px;
-      margin-bottom: 4px;
-    }
-
-    .feature p {
-      font-size: 10px;
-      color: #bdc2c6;
-      line-height: 1.5;
-    }
+    .amazon { color: white; }
+    .amazon::after { content: "⌣"; color: #ff9c00; margin-left: 3px; }
+    .meli { color: #ffe000; font-size: 13px; }
+    .shopee { color: #ff672f; }
+    .magalu { color: #28a8ff; }
 
     /* RODAPÉ */
-
-    footer {
-      margin-top: 35px;
-      border-top: 1px solid rgba(255, 203, 0, .25);
-      background: #070a0c;
-      padding: 32px 0 20px;
-    }
-
-    .footer-grid {
+    .benefits {
       display: grid;
-      grid-template-columns: 1.4fr 1fr 1fr;
-      gap: 30px;
+      grid-template-columns: repeat(4,1fr);
+      gap: 10px;
+      margin-bottom: 24px;
     }
-
-    footer h3 {
-      font-size: 13px;
-      margin-bottom: 13px;
-      color: var(--gold);
-    }
-
-    footer p,
-    footer a {
-      font-size: 11px;
-      line-height: 1.9;
-      color: #b0b8c1;
-    }
-
-    footer a {
-      display: block;
-    }
-
-    footer a:hover {
-      color: var(--gold);
-    }
-
-    .footer-bottom {
-      margin-top: 26px;
-      padding-top: 16px;
-      border-top: 1px solid #263039;
-      color: #9ba5ae;
-      font-size: 10px;
-      line-height: 1.8;
-    }
-
-    /* MENU E MODAL */
-
-    .overlay {
-      display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 50;
-      background: rgba(0,0,0,.76);
-      backdrop-filter: blur(5px);
-      padding: 20px;
-      overflow: auto;
-    }
-
-    .overlay.open {
-      display: grid;
-      place-items: center;
-    }
-
-    .modal {
-      background: #121a20;
-      border: 1px solid #b68b10;
-      border-radius: 15px;
-      padding: 25px;
-      width: min(100%, 620px);
-      max-height: 90vh;
-      overflow: auto;
-    }
-
-    .modal-top {
+    .benefit {
       display: flex;
       align-items: center;
-      justify-content: space-between;
-      margin-bottom: 18px;
-      gap: 12px;
+      gap: 13px;
+      border: 1px solid #9b6900;
+      background: linear-gradient(145deg,#271a03,#0a0d0e 70%);
+      border-radius: 10px;
+      padding: 16px;
+      min-height: 80px;
     }
-
-    .modal-top h2 {
-      font-size: 21px;
+    .benefit .symbol { color: var(--gold); font-size: 36px; }
+    .benefit strong { display: block; font-size: 11px; margin-bottom: 5px; }
+    .benefit span { font-size: 10px; color: #d3d9df; line-height: 1.4; }
+    footer {
+      border-top: 1px solid #29343b;
+      padding: 25px 0 40px;
+      color: #aeb8c1;
+      font-size: 11px;
+      line-height: 1.8;
     }
-
-    .modal-close {
-      border: 0;
-      color: white;
-      background: #2c353d;
-      width: 35px;
-      height: 35px;
-      border-radius: 8px;
-      font-size: 21px;
+    footer strong { color: white; }
+    footer a { color: var(--gold); }
+    .empty {
+      grid-column: 1/-1;
+      text-align: center;
+      border: 1px dashed #47545e;
+      padding: 45px 15px;
+      border-radius: 12px;
+      color: #b5bec7;
     }
+    .empty h3 { color: white; }
+    .hidden { display: none !important; }
 
-    .modal-link {
-      display: block;
-      padding: 13px 15px;
-      margin: 8px 0;
-      border-radius: 9px;
-      background: #1b252d;
-      font-size: 13px;
-      font-weight: 700;
+    @media(max-width:1150px) {
+      .trust-mini { display: none; }
+      .products { grid-template-columns: repeat(4,minmax(0,1fr)); }
+      .brand { min-width: auto; }
+      .brand-name { font-size: 17px; }
     }
-
-    .modal-link:hover {
-      color: var(--gold);
+    @media(max-width:850px) {
+      .header { flex-wrap: wrap; padding-top: 10px; padding-bottom: 10px; gap: 10px; }
+      .brand { flex: 1; }
+      .search { order: 3; flex-basis: 100%; }
+      .whatsapp { padding: 12px; font-size: 11px; }
+      .header-actions { gap: 5px; }
+      .header-action { min-width: 38px; font-size: 9px; }
+      .nav { overflow-x: auto; }
+      .navcat { min-width: 80px; }
+      .hero { min-height: 315px; }
+      .hero-content { width: 68%; padding: 25px; }
+      .categories { grid-template-columns: repeat(3,1fr); }
+      .products { grid-template-columns: repeat(3,minmax(0,1fr)); }
+      .stores { display: block; }
+      .store-links { margin-top: 12px; flex-wrap: wrap; }
+      .store-link { min-width: 110px; }
+      .benefits { grid-template-columns: repeat(2,1fr); }
     }
-
-    .compare-list {
-      display: grid;
-      gap: 10px;
-    }
-
-    .compare-item {
-      background: #1b252d;
-      border: 1px solid #39434b;
-      padding: 12px;
-      border-radius: 9px;
-      font-size: 12px;
-      line-height: 1.7;
-    }
-
-    .compare-item strong {
-      display: block;
-    }
-
-    .compare-item a {
-      color: var(--gold);
-      font-weight: 800;
-    }
-
-    .compare-item button {
-      background: transparent;
-      border: 0;
-      color: #ff9090;
-      margin-left: 15px;
-    }
-
-    /* RESPONSIVIDADE */
-
-    @media (max-width: 1250px) {
-      .nav-benefits {
-        display: none;
+    @media(max-width:560px) {
+      .container { padding: 0 12px; }
+      .brand img { width: 57px; height: 45px; }
+      .brand-name { font-size: 14px; }
+      .whatsapp { padding: 11px 9px; }
+      .header-actions { gap: 0; }
+      .header-action { min-width: 33px; }
+      .header-action b { font-size: 20px; }
+      .navcat { min-width: 73px; padding: 8px 6px; }
+      .hero { min-height: 330px; }
+      .hero-bg {
+        background:
+          linear-gradient(90deg,rgba(0,0,0,.93),rgba(0,0,0,.45)),
+          url("banner.jpg") 62% center / cover no-repeat;
       }
-
-      .nav-categories {
-        width: 100%;
-        justify-content: space-between;
-      }
-
-      .offers-grid {
-        grid-template-columns: repeat(4, minmax(0, 1fr));
-      }
-
-      .header {
-        gap: 15px;
-      }
-    }
-
-    @media (max-width: 950px) {
-      .header {
-        flex-wrap: wrap;
-        padding: 12px 0;
-      }
-
-      .search {
-        order: 2;
-        max-width: none;
-        flex-basis: 100%;
-      }
-
-      .whatsapp {
-        margin-left: auto;
-      }
-
-      .nav {
-        overflow-x: auto;
-      }
-
-      .nav-category {
-        min-width: 95px;
-      }
-
-      .hero-copy {
-        width: 58%;
-        padding-left: 25px;
-      }
-
-      .hero-highlights {
-        flex-wrap: wrap;
-        gap: 10px;
-      }
-
-      .category-tiles {
-        grid-template-columns: repeat(3, 1fr);
-      }
-
-      .offers-grid {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-      }
-
-      .partner-strip {
-        grid-template-columns: repeat(4, 1fr);
-      }
-
-      .partner-intro {
-        grid-column: 1 / -1;
-      }
-
-      .feature-grid {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-
-    @media (max-width: 620px) {
-      .container {
-        width: calc(100% - 22px);
-      }
-
-      .header {
-        gap: 9px;
-      }
-
-      .brand img {
-        width: 62px;
-        height: 48px;
-      }
-
-      .brand-name {
-        font-size: 15px;
-      }
-
-      .whatsapp {
-        padding: 12px;
-        font-size: 10px;
-      }
-
-      .header-action {
-        min-width: 35px;
-        font-size: 9px;
-      }
-
-      .header-action .symbol {
-        font-size: 20px;
-      }
-
-      .nav {
-        min-height: 68px;
-      }
-
-      .nav-category {
-        min-width: 78px;
-        font-size: 10px;
-      }
-
-      .nav-category .emoji {
-        font-size: 21px;
-      }
-
-      .hero {
-        min-height: 470px;
-        margin-top: 7px;
-      }
-
-      .hero-copy {
-        width: 100%;
-        padding: 23px 20px;
-      }
-
-      .hero h1 {
-        font-size: 37px;
-        letter-spacing: -1.5px;
-      }
-
-      .hero-copy > p {
-        max-width: 310px;
-        font-size: 12px;
-      }
-
-      .hero-highlights {
-        display: none;
-      }
-
-      .hero-fallback {
-        width: 100%;
-        height: 200px;
-        top: auto;
-        bottom: 0;
-        right: 0;
-      }
-
-      .hero-logo {
-        max-height: 175px;
-      }
-
-      .floating {
-        font-size: 29px;
-      }
-
-      .hero.has-banner {
-        min-height: 200px;
-        aspect-ratio: 1.8;
-      }
-
-      .category-tiles {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 7px;
-      }
-
-      .category-tile {
-        min-height: 58px;
-        padding: 8px;
-        gap: 7px;
-        font-size: 10px;
-      }
-
-      .category-tile .tile-emoji {
-        font-size: 24px;
-      }
-
-      .offers-grid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 8px;
-      }
-
-      .product-image {
-        height: 155px;
-      }
-
-      .product-body {
-        padding: 9px;
-      }
-
-      .product-title {
-        font-size: 11px;
-      }
-
-      .price {
-        font-size: 18px;
-      }
-
-      .product-note {
-        font-size: 9px;
-      }
-
-      .compare-button {
-        padding: 0 6px;
-      }
-
-      .partner-strip {
-        grid-template-columns: repeat(2, 1fr);
-      }
-
-      .feature-grid {
-        grid-template-columns: 1fr 1fr;
-        gap: 7px;
-      }
-
-      .feature {
-        padding: 9px;
-        gap: 8px;
-      }
-
-      .feature > span {
-        font-size: 23px;
-      }
-
-      .feature h3 {
-        font-size: 10px;
-      }
-
-      .feature p {
-        font-size: 9px;
-      }
-
-      .footer-grid {
-        grid-template-columns: 1fr;
-        gap: 20px;
-      }
-
-      .section-heading h2 {
-        font-size: 19px;
-      }
+      .hero-content { width: 100%; padding: 22px 17px; }
+      .hero h1 { font-size: 37px; letter-spacing: -1.8px; }
+      .hero p { font-size: 12px; max-width: 260px; }
+      .hero-perks { gap: 9px; margin-top: 19px; }
+      .hero-perks div { font-size: 9px; }
+      .categories { gap: 6px; grid-template-columns: repeat(2,1fr); }
+      .category { min-height: 59px; padding: 7px; }
+      .category .emoji { font-size: 25px; }
+      .products { grid-template-columns: repeat(2,minmax(0,1fr)); gap: 7px; }
+      .product { padding: 7px; }
+      .product-image { height: 140px; }
+      .product h3 { font-size: 11px; }
+      .price { font-size: 17px; }
+      .section-heading h2 { font-size: 19px; }
+      .benefits { gap: 7px; }
+      .benefit { padding: 9px; }
+      .benefit .symbol { font-size: 26px; }
+      .benefit strong { font-size: 9px; }
+      .benefit span { font-size: 9px; }
     }
   </style>
 </head>
 
 <body>
 
-  <!-- CABEÇALHO -->
-
   <header class="topbar">
     <div class="container header">
-
-      <a class="brand" href="#" aria-label="Junão Promoção - início">
+      <a href="#" class="brand">
         <img src="logo.jpg" alt="Logo JP Junão Promoção">
-        <div class="brand-name">
-          JUNÃO
-          <span>PROMOÇÃO</span>
-        </div>
+        <div class="brand-name">JUNÃO <span>PROMOÇÃO</span></div>
       </a>
 
       <form class="search" id="searchForm">
-        <input
-          id="searchInput"
-          type="search"
-          placeholder="Buscar promoções, produtos ou marcas..."
-          aria-label="Buscar promoções"
-        >
-        <button type="submit" aria-label="Pesquisar">⌕</button>
+        <input id="searchInput" type="search" placeholder="Buscar promoções, produtos ou marcas..." aria-label="Buscar ofertas">
+        <button type="submit" aria-label="Buscar">⌕</button>
       </form>
 
-      <a
-        class="whatsapp"
-        href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+      <a class="whatsapp" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer">
         ☎ Entrar no WhatsApp
       </a>
 
-      <button class="header-action" id="favoritesButton" type="button">
-        <span class="symbol">♡</span>
-        Favoritos
-      </button>
-
-      <button class="header-action" id="compareButton" type="button">
-        <span class="symbol">⇄</span>
-        Comparar
-      </button>
-
-      <button class="header-action" id="menuButton" type="button">
-        <span class="symbol">☰</span>
-        Menu
-      </button>
-
+      <div class="header-actions">
+        <button class="header-action" id="favoritesButton" title="Ver favoritos">
+          <b>♡</b><span>Favoritos</span>
+        </button>
+        <button class="header-action" id="compareButton" title="Comparar favoritos">
+          <b>⇄</b><span>Comparar</span>
+        </button>
+        <button class="header-action" id="menuButton" title="Abrir menu">
+          <b>☰</b><span>Menu</span>
+        </button>
+      </div>
     </div>
   </header>
 
-  <!-- NAVEGAÇÃO -->
-
-  <div class="nav-wrap">
+  <div class="navwrap">
     <nav class="container nav" aria-label="Categorias">
-
-      <div class="nav-categories">
-
-        <button class="nav-category active" data-category="todas">
-          <span class="emoji">▦</span>
-          Todas
-        </button>
-
-        <button class="nav-category" data-category="casa">
-          <span class="emoji">🏕️</span>
-          Casa & Lazer
-        </button>
-
-        <button class="nav-category" data-category="eletronicos">
-          <span class="emoji">🎧</span>
-          Eletrônicos
-        </button>
-
-        <button class="nav-category" data-category="moda">
-          <span class="emoji">🛍️</span>
-          Beleza & Moda
-        </button>
-
-        <button class="nav-category" data-category="mercado">
-          <span class="emoji">🛒</span>
-          Mercado
-        </button>
-
-        <button class="nav-category" data-category="esportes">
-          <span class="emoji">🎮</span>
-          Esportes
-        </button>
-
-        <button class="nav-category" data-category="automotivo">
-          <span class="emoji">🚘</span>
-          Automotivo
-        </button>
-
+      <div class="navcats" id="navCategories">
+        <button class="navcat active" data-category="todas"><span class="emoji">▦</span>Todas</button>
+        <button class="navcat" data-category="casa"><span class="emoji">🏕️</span>Casa & Lazer</button>
+        <button class="navcat" data-category="eletronicos"><span class="emoji">🎧</span>Eletrônicos</button>
+        <button class="navcat" data-category="moda"><span class="emoji">🛍️</span>Beleza & Moda</button>
+        <button class="navcat" data-category="mercado"><span class="emoji">🛒</span>Mercado</button>
+        <button class="navcat" data-category="esportes"><span class="emoji">🎮</span>Esportes</button>
+        <button class="navcat" data-category="automotivo"><span class="emoji">🚘</span>Automotivo</button>
       </div>
-
-      <div class="nav-benefits">
-        <div class="nav-benefit">
-          <strong>ϟ</strong>
-          <span>Ofertas<br>atualizadas</span>
-        </div>
-
-        <div class="nav-benefit">
-          <strong>♢</strong>
-          <span>Compra nas<br>lojas oficiais</span>
-        </div>
-
-        <div class="nav-benefit">
-          <strong>%</strong>
-          <span>Novas promoções<br>todos os dias</span>
-        </div>
-
-        <div class="nav-benefit">
-          <strong>★</strong>
-          <span>Tudo em um<br>só lugar</span>
-        </div>
+      <div class="trust-mini">
+        <div><strong>ϟ</strong> Ofertas<br>atualizadas</div>
+        <div><strong>♢</strong> Compra nas<br>lojas oficiais</div>
+        <div><strong>%</strong> Novas promoções<br>todos os dias</div>
+        <div><strong>★</strong> Tudo em um<br>só lugar</div>
       </div>
-
     </nav>
   </div>
 
   <main class="container">
 
-    <!-- BANNER PRINCIPAL -->
-
-    <section class="hero" id="hero">
-
-      <div class="hero-copy">
-
+    <section class="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-content">
         <h1>
-          AS MELHORES<br>
-          <span>PROMOÇÕES</span><br>
+          AS MELHORES
+          <span>PROMOÇÕES</span>
           EM UM SÓ LUGAR!
         </h1>
-
-        <p>
-          Casa, tecnologia, moda, mercado e muito mais,
-          com ofertas selecionadas todos os dias.
-        </p>
-
-        <a href="#ofertas" class="gold-button">
-          Ver todas as promoções
-          <span>➜</span>
-        </a>
-
-        <div class="hero-highlights">
-          <div class="hero-highlight">
-            <b>✓</b>
-            <span>Ofertas<br>selecionadas</span>
-          </div>
-
-          <div class="hero-highlight">
-            <b>♢</b>
-            <span>Links diretos<br>das lojas</span>
-          </div>
-
-          <div class="hero-highlight">
-            <b>↻</b>
-            <span>Novas ofertas<br>todos os dias</span>
-          </div>
-
-          <div class="hero-highlight">
-            <b>★</b>
-            <span>Tudo em<br>um só lugar</span>
-          </div>
+        <p>Casa, tecnologia, moda, mercado e muito mais, com ofertas selecionadas todos os dias.</p>
+        <a class="gold-button" href="#ofertas">Ver todas as promoções <span>➜</span></a>
+        <div class="hero-perks">
+          <div><b>✓</b> Ofertas<br>selecionadas</div>
+          <div><b>♢</b> Links diretos<br>das lojas</div>
+          <div><b>↻</b> Novas ofertas<br>todos os dias</div>
+          <div><b>★</b> Tudo em<br>um só lugar</div>
         </div>
-
       </div>
-
-      <div class="hero-fallback">
-        <span class="floating float-one">%</span>
-        <span class="floating float-two">🛍</span>
-        <span class="floating float-three">%</span>
-        <span class="floating float-four">🛒</span>
-
-        <img
-          class="hero-logo"
-          src="logo.jpg"
-          alt="JP Junão Promoção em destaque"
-        >
-      </div>
-
     </section>
 
-    <!-- CATEGORIAS GRANDES -->
-
-    <section class="category-tiles" aria-label="Escolha uma categoria">
-
-      <button class="category-tile active" data-category="casa">
-        <span class="tile-emoji">🏕️</span>
-        Casa & Lazer
-        <span class="arrow">›</span>
-      </button>
-
-      <button class="category-tile" data-category="eletronicos">
-        <span class="tile-emoji">🎧</span>
-        Eletrônicos
-        <span class="arrow">›</span>
-      </button>
-
-      <button class="category-tile" data-category="moda">
-        <span class="tile-emoji">🛍️</span>
-        Beleza & Moda
-        <span class="arrow">›</span>
-      </button>
-
-      <button class="category-tile" data-category="mercado">
-        <span class="tile-emoji">🛒</span>
-        Mercado
-        <span class="arrow">›</span>
-      </button>
-
-      <button class="category-tile" data-category="esportes">
-        <span class="tile-emoji">🎮</span>
-        Esportes
-        <span class="arrow">›</span>
-      </button>
-
-      <button class="category-tile" data-category="automotivo">
-        <span class="tile-emoji">🏎️</span>
-        Automotivo
-        <span class="arrow">›</span>
-      </button>
-
+    <section class="categories" id="categoryCards" aria-label="Navegar por categoria">
+      <button class="category active" data-category="casa"><span class="emoji">🏕️</span> Casa & Lazer <span class="arrow">›</span></button>
+      <button class="category" data-category="eletronicos"><span class="emoji">🎧</span> Eletrônicos <span class="arrow">›</span></button>
+      <button class="category" data-category="moda"><span class="emoji">🛍️</span> Beleza & Moda <span class="arrow">›</span></button>
+      <button class="category" data-category="mercado"><span class="emoji">🛒</span> Mercado <span class="arrow">›</span></button>
+      <button class="category" data-category="esportes"><span class="emoji">🎮</span> Esportes <span class="arrow">›</span></button>
+      <button class="category" data-category="automotivo"><span class="emoji">🛞</span> Automotivo <span class="arrow">›</span></button>
     </section>
 
-    <!-- OFERTAS -->
-
-    <section class="offers-section" id="ofertas">
-
+    <section id="ofertas">
       <div class="section-heading">
         <div>
           <h2>🔥 Ofertas em destaque</h2>
           <p>Produtos selecionados especialmente para você.</p>
         </div>
-
-        <button id="showAllButton" type="button">
-          Ver todas as ofertas →
-        </button>
+        <a href="#ofertas" id="allOffersLink">Ver todas as ofertas ➜</a>
       </div>
 
       <div class="disclosure">
         <strong>PUBLICIDADE • LINKS DE AFILIADO.</strong>
-        Podemos receber comissões pelas compras realizadas através
-        dos links deste site, sem custo adicional para você.
-        Os preços e a disponibilidade podem mudar.
+        Podemos receber comissões pelas compras realizadas através dos links deste site,
+        sem custo adicional para você. Os preços e a disponibilidade podem mudar.
         Confira sempre as informações diretamente na loja antes de comprar.
       </div>
 
-      <div class="store-filters" id="storeFilters">
-
-        <button class="store-filter active" data-store="todas">
-          Todas as lojas
-        </button>
-
-        <button class="store-filter" data-store="Amazon">
-          Amazon
-        </button>
-
-        <button class="store-filter" data-store="Mercado Livre">
-          Mercado Livre
-        </button>
-
-        <button class="store-filter" data-store="Shopee">
-          Shopee
-        </button>
-
-        <button class="store-filter" data-store="Magalu">
-          Magalu
-        </button>
-
+      <div class="filters" id="storeFilters">
+        <button class="filter active" data-store="todas">Todas as lojas</button>
+        <button class="filter" data-store="amazon">Amazon</button>
+        <button class="filter" data-store="mercado livre">Mercado Livre</button>
+        <button class="filter" data-store="shopee">Shopee</button>
+        <button class="filter" data-store="magalu">Magalu</button>
       </div>
 
-      <div class="offers-grid" id="offersGrid">
-        <div class="empty-state">
+      <div class="products" id="products">
+        <div class="empty">
           <h3>Carregando promoções...</h3>
-          <p>Estamos buscando as ofertas mais recentes.</p>
+          <p>Buscando as ofertas mais recentes.</p>
         </div>
       </div>
 
-      <p class="offer-status" id="offerStatus">
-        Consultando as promoções...
-      </p>
-
+      <p class="status" id="updateStatus">Conectando às ofertas...</p>
     </section>
 
-    <!-- LOJAS PARCEIRAS -->
-
-    <section class="partners">
-
-      <div class="section-heading">
-        <div>
-          <h2>🏪 Lojas parceiras</h2>
-          <p>Ofertas divulgadas através dos programas de afiliados.</p>
-        </div>
+    <section class="stores" id="lojas">
+      <div class="stores-title">
+        <h2>🏬 Lojas parceiras</h2>
+        <p>Ofertas de diferentes lojas em um só lugar.</p>
       </div>
-
-      <div class="partner-strip">
-
-        <div class="partner-intro">
-          <span>🏬</span>
-          <div>
-            <strong>Lojas parceiras</strong>
-            <p>Ofertas das maiores lojas do Brasil.</p>
-          </div>
-        </div>
-
-        <div class="partner amazon">amazon</div>
-
-        <div class="partner mercadolivre">
-          🤝 mercado livre
-        </div>
-
-        <div class="partner magalu">
-          magalu
-        </div>
-
-        <div class="partner shopee">
-          🛍 Shopee
-        </div>
-
+      <div class="store-links">
+        <button class="store-link amazon" data-store="amazon">amazon</button>
+        <button class="store-link meli" data-store="mercado livre">🤝 mercado livre</button>
+        <button class="store-link magalu" data-store="magalu">magalu</button>
+        <button class="store-link shopee" data-store="shopee">▣ Shopee</button>
       </div>
-
-      <!-- Mantemos os avisos de afiliados também nesta área -->
-
-      <div class="disclosure" style="margin-top:12px">
-        <strong>Transparência:</strong>
-        Junão Promoção é um site independente de divulgação de ofertas.
-        Participamos de programas de afiliados, incluindo o Programa
-        de Associados da Amazon. Como associado da Amazon, podemos
-        receber comissões por compras qualificadas. Também podemos
-        receber comissões de outros programas, como Mercado Livre,
-        Shopee e Magalu. Não somos a loja vendedora dos produtos.
-      </div>
-
     </section>
 
-    <!-- QUATRO BLOCOS INFERIORES -->
-
-    <section class="feature-grid">
-
-      <div class="feature">
-        <span>✹</span>
-        <div>
-          <h3>OFERTAS SELECIONADAS</h3>
-          <p>Promoções reunidas em um só lugar.</p>
-        </div>
+    <section class="benefits">
+      <div class="benefit">
+        <div class="symbol">✹</div>
+        <div><strong>PRODUTOS SELECIONADOS</strong><span>Ofertas publicadas para você.</span></div>
       </div>
-
-      <div class="feature">
-        <span>ϟ</span>
-        <div>
-          <h3>PROMOÇÕES ATUALIZADAS</h3>
-          <p>Novas ofertas publicadas todos os dias.</p>
-        </div>
+      <div class="benefit">
+        <div class="symbol">ϟ</div>
+        <div><strong>PROMOÇÕES ATUALIZADAS</strong><span>Novas ofertas adicionadas ao longo do dia.</span></div>
       </div>
-
-      <div class="feature">
-        <span>⬡</span>
-        <div>
-          <h3>COMPRA DIRETO NA LOJA</h3>
-          <p>Você finaliza seu pedido no site do vendedor.</p>
-        </div>
+      <div class="benefit">
+        <div class="symbol">⬡</div>
+        <div><strong>COMPRA NAS LOJAS</strong><span>Você finaliza a compra diretamente no site da loja.</span></div>
       </div>
-
-      <div class="feature">
-        <span>★</span>
-        <div>
-          <h3>TUDO EM UM SÓ LUGAR</h3>
-          <p>Casa, tecnologia, moda, mercado e muito mais.</p>
-        </div>
+      <div class="benefit">
+        <div class="symbol">★</div>
+        <div><strong>TUDO EM UM SÓ LUGAR</strong><span>Casa, tecnologia, moda, mercado e muito mais.</span></div>
       </div>
-
     </section>
 
   </main>
 
-  <!-- RODAPÉ -->
-
   <footer>
     <div class="container">
-
-      <div class="footer-grid">
-
-        <div>
-          <h3>JP • JUNÃO PROMOÇÃO</h3>
-          <p>
-            Reunimos ofertas e promoções para facilitar
-            sua busca por produtos em diferentes lojas.
-          </p>
-          <p>
-            Site independente de divulgação de ofertas
-            e links de afiliados.
-          </p>
-        </div>
-
-        <div>
-          <h3>EXPLORE</h3>
-          <a href="#ofertas">Todas as promoções</a>
-          <a href="#ofertas" onclick="selecionarCategoria('casa')">Casa & Lazer</a>
-          <a href="#ofertas" onclick="selecionarCategoria('eletronicos')">Eletrônicos</a>
-          <a href="#ofertas" onclick="selecionarCategoria('moda')">Beleza & Moda</a>
-          <a href="#ofertas" onclick="selecionarCategoria('mercado')">Mercado</a>
-        </div>
-
-        <div>
-          <h3>COMUNIDADE</h3>
-
-          <a
-            href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Grupo VIP no WhatsApp
-          </a>
-
-          <a
-            href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Grupo de ofertas PET
-          </a>
-
-          <a
-            href="https://whatsapp.com/channel/0029Vb8CUEd7j6fxBu2iEI2R"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Canal do WhatsApp
-          </a>
-        </div>
-
-      </div>
-
-      <div class="footer-bottom">
-
-        <p>
-          <strong>AVISO DE PUBLICIDADE:</strong>
-          Este site utiliza links de afiliados e pode receber
-          comissões por compras qualificadas.
-        </p>
-
-        <p>
-          Os preços exibidos são informativos e podem estar desatualizados.
-          O preço final, o estoque, o frete, as condições de pagamento
-          e as políticas de devolução são definidos pela loja vendedora.
-        </p>
-
-        <p>
-          As marcas Amazon, Mercado Livre, Shopee e Magalu
-          pertencem aos respectivos titulares.
-          A divulgação de ofertas não significa que essas empresas
-          administram ou patrocinam este site.
-        </p>
-
-        <p style="margin-top:12px">
-          © <span id="year"></span> Junão Promoção.
-          Todos os direitos reservados.
-        </p>
-
-      </div>
-
+      <p><strong>JP • Junão Promoção</strong> — Seu espaço de achadinhos e ofertas.</p>
+      <p>
+        Aviso de transparência: este site participa de programas de afiliados.
+        Como associado da Amazon, podemos receber comissões por compras qualificadas.
+        Também podemos receber comissões de Mercado Livre, Shopee e Magalu quando
+        aplicável. Não somos responsáveis pela venda, entrega, estoque ou garantia
+        dos produtos anunciados.
+      </p>
+      <p>
+        As marcas e logotipos citados pertencem aos seus respectivos titulares.
+        Preços publicados podem estar desatualizados. Confirme o preço final na loja.
+      </p>
+      <p>© <span id="year"></span> Junão Promoção.</p>
     </div>
   </footer>
 
-  <!-- JANELA DO MENU, FAVORITOS E COMPARAÇÃO -->
-
-  <div class="overlay" id="overlay">
-    <div class="modal">
-
-      <div class="modal-top">
-        <h2 id="modalTitle">Menu</h2>
-        <button class="modal-close" id="closeModal" aria-label="Fechar">
-          ×
-        </button>
-      </div>
-
-      <div id="modalContent"></div>
-
-    </div>
-  </div>
-
   <script>
-
-    // ============================================
-    // 1. CONFIGURAÇÃO
-    // ============================================
+    // ==========================================
+    // CONFIGURAÇÃO
+    // ==========================================
 
     const JSON_URL =
       "https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json";
 
     const TEMPO_OFERTA = 24 * 60 * 60 * 1000;
-
     const ATUALIZACAO = 60 * 1000;
 
     let todasPromocoes = [];
-
     let categoriaAtual = "todas";
-
     let lojaAtual = "todas";
-
     let buscaAtual = "";
-
     let somenteFavoritos = false;
 
-    let ultimoCarregamento = null;
+    const productsElement = document.getElementById("products");
+    const statusElement = document.getElementById("updateStatus");
 
-    let favoritos = carregarSalvos("jp_favoritos");
+    document.getElementById("year").textContent = new Date().getFullYear();
 
-    let comparacao = carregarSalvos("jp_comparacao");
+    // ==========================================
+    // NORMALIZAÇÃO
+    // ==========================================
 
-    const grid = document.getElementById("offersGrid");
-
-    // ============================================
-    // 2. DADOS SALVOS NO NAVEGADOR
-    // ============================================
-
-    function carregarSalvos(chave) {
-      try {
-        const dados = JSON.parse(localStorage.getItem(chave) || "[]");
-        return Array.isArray(dados) ? dados : [];
-      } catch {
-        return [];
-      }
+    function texto(valor) {
+      return String(valor ?? "").trim();
     }
 
-    function salvarDados() {
-      localStorage.setItem(
-        "jp_favoritos",
-        JSON.stringify(favoritos)
-      );
-
-      localStorage.setItem(
-        "jp_comparacao",
-        JSON.stringify(comparacao)
-      );
-    }
-
-    // ============================================
-    // 3. SEGURANÇA E FORMATAÇÃO
-    // ============================================
-
-    function escapar(valor) {
-      return String(valor ?? "")
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#39;");
-    }
-
-    function urlSegura(valor) {
-      try {
-        const url = new URL(String(valor || ""));
-
-        if (
-          url.protocol !== "https:" &&
-          url.protocol !== "http:"
-        ) {
-          return "";
-        }
-
-        return url.href;
-      } catch {
-        return "";
-      }
-    }
-
-    function normalizarTexto(valor) {
-      return String(valor || "")
+    function normalizar(valor) {
+      return texto(valor)
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
-        .toLowerCase()
-        .trim();
+        .toLowerCase();
     }
 
-    function identificarLoja(promocao) {
-      const nome = normalizarTexto(promocao.loja);
+    function categoriaProduto(produto) {
+      const categoria = normalizar(produto.categoria);
+      const nome = normalizar(produto.categoriaNome);
 
-      if (nome.includes("amazon")) return "Amazon";
-
-      if (
-        nome.includes("mercado livre") ||
-        nome.includes("mercadolivre")
-      ) {
-        return "Mercado Livre";
-      }
-
-      if (nome.includes("shopee")) return "Shopee";
-
-      if (
-        nome.includes("magalu") ||
-        nome.includes("magazine luiza")
-      ) {
-        return "Magalu";
-      }
-
-      return promocao.loja || "Loja parceira";
-    }
-
-    function identificarCategoria(promocao) {
-      const categoria = normalizarTexto(
-        promocao.categoria || promocao.categoriaNome
-      );
-
-      const titulo = normalizarTexto(promocao.titulo);
-
-      if (
-        categoria.includes("casa") ||
-        categoria.includes("lazer")
-      ) return "casa";
-
-      if (
-        categoria.includes("eletron") ||
-        categoria.includes("tecnologia")
-      ) return "eletronicos";
-
-      if (
-        categoria.includes("moda") ||
-        categoria.includes("beleza")
-      ) return "moda";
-
-      if (categoria.includes("mercado")) return "mercado";
-
-      if (
-        categoria.includes("esporte") ||
-        categoria.includes("game")
-      ) return "esportes";
-
-      if (
-        categoria.includes("auto") ||
-        categoria.includes("moto")
-      ) return "automotivo";
-
-      if (
-        /barraca|cozinha|panela|casa|ferramenta|lavadora/.test(titulo)
-      ) return "casa";
-
-      if (
-        /celular|fone|smartwatch|notebook|monitor|computador/.test(titulo)
-      ) return "eletronicos";
-
-      if (
-        /creme|perfume|roupa|tenis|depilat/.test(titulo)
-      ) return "moda";
-
-      if (
-        /nescau|alimento|bebida|cafe|arroz|leite/.test(titulo)
-      ) return "mercado";
+      if (categoria.includes("casa") || nome.includes("casa")) return "casa";
+      if (categoria.includes("eletron") || nome.includes("eletron")) return "eletronicos";
+      if (categoria.includes("moda") || categoria.includes("beleza") ||
+          nome.includes("moda") || nome.includes("beleza")) return "moda";
+      if (categoria.includes("esport") || nome.includes("esport")) return "esportes";
+      if (categoria.includes("auto") || nome.includes("auto")) return "automotivo";
 
       return "mercado";
     }
 
     function nomeCategoria(categoria) {
-      const nomes = {
+      return ({
         casa: "Casa & Lazer",
         eletronicos: "Eletrônicos",
         moda: "Beleza & Moda",
         mercado: "Mercado",
         esportes: "Esportes",
         automotivo: "Automotivo"
-      };
-
-      return nomes[categoria] || "Ofertas";
+      })[categoria] || "Ofertas";
     }
 
     function emojiCategoria(categoria) {
-      const emojis = {
-        casa: "🏕️",
+      return ({
+        casa: "🏠",
         eletronicos: "🎧",
         moda: "🛍️",
         mercado: "🛒",
         esportes: "🎮",
         automotivo: "🚘"
-      };
-
-      return emojis[categoria] || "🛍️";
+      })[categoria] || "🛍️";
     }
 
-    function chaveProduto(produto) {
-      return String(
-        produto.linkWhatsapp ||
-        produto.link ||
-        produto.titulo ||
-        ""
-      );
+    function nomeLoja(valor) {
+      const loja = normalizar(valor);
+
+      if (loja.includes("amazon")) return "Amazon";
+      if (loja.includes("mercado") || loja.includes("meli")) return "Mercado Livre";
+      if (loja.includes("shopee")) return "Shopee";
+      if (loja.includes("magalu") || loja.includes("magazine")) return "Magalu";
+
+      return texto(valor) || "Loja";
     }
 
-    // ============================================
-    // 4. CARREGAR O JSON DO GITHUB
-    // ============================================
+    function precoValido(valor) {
+      const preco = texto(valor);
+      return /^R\$\s*[\d.,]+$/.test(preco) ? preco : "";
+    }
 
-    async function carregarPromocoes() {
-      const status = document.getElementById("offerStatus");
-
+    function urlSegura(valor) {
       try {
-        const resposta = await fetch(
-          JSON_URL + "?t=" + Date.now(),
-          {
-            cache: "no-store"
-          }
-        );
-
-        if (!resposta.ok) {
-          throw new Error(
-            "Não foi possível consultar o arquivo de promoções."
-          );
-        }
-
-        const dados = await resposta.json();
-
-        if (!Array.isArray(dados)) {
-          throw new Error(
-            "O promocoes.json precisa conter uma lista de produtos."
-          );
-        }
-
-        todasPromocoes = dados.filter(
-          produto =>
-            produto &&
-            typeof produto === "object" &&
-            produto.titulo &&
-            (produto.link || produto.linkWhatsapp)
-        );
-
-        ultimoCarregamento = new Date();
-
-        renderizarPromocoes();
-
-      } catch (erro) {
-
-        console.error("Erro ao carregar promoções:", erro);
-
-        if (!todasPromocoes.length) {
-          grid.innerHTML = `
-            <div class="empty-state">
-              <h3>Não foi possível carregar as ofertas</h3>
-              <p>
-                Tente atualizar a página em alguns instantes.
-              </p>
-            </div>
-          `;
-        }
-
-        status.textContent =
-          "Não foi possível consultar novas ofertas neste momento.";
+        const url = new URL(texto(valor));
+        return ["https:", "http:"].includes(url.protocol) ? url.href : "";
+      } catch {
+        return "";
       }
     }
 
-    // ============================================
-    // 5. FILTRAR OFERTAS DAS ÚLTIMAS 24 HORAS
-    // ============================================
+    function linkProduto(produto) {
+      return urlSegura(produto.linkWhatsapp || produto.link);
+    }
 
-    function promocoesRecentes() {
+    function imagemProduto(produto) {
+      const imagem = urlSegura(produto.imagem);
+      if (!imagem) return "";
+
+      // Não altera o link da imagem recebido do n8n.
+      return imagem;
+    }
+
+    function escapar(valor) {
+      return texto(valor).replace(/[&<>"']/g, caractere => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;"
+      })[caractere]);
+    }
+
+    // ==========================================
+    // FAVORITOS
+    // ==========================================
+
+    function recuperarFavoritos() {
+      try {
+        return JSON.parse(localStorage.getItem("junaoFavoritos") || "[]");
+      } catch {
+        return [];
+      }
+    }
+
+    let favoritos = recuperarFavoritos();
+
+    function chaveProduto(produto) {
+      return linkProduto(produto) || texto(produto.titulo);
+    }
+
+    function alternarFavorito(chave) {
+      if (favoritos.includes(chave)) {
+        favoritos = favoritos.filter(item => item !== chave);
+      } else {
+        favoritos.push(chave);
+      }
+
+      localStorage.setItem("junaoFavoritos", JSON.stringify(favoritos));
+      renderizar();
+    }
+
+    // ==========================================
+    // RENDERIZAÇÃO
+    // ==========================================
+
+    function promocoesFiltradas() {
       const agora = Date.now();
 
       return todasPromocoes
         .filter(produto => {
           const timestamp = Number(produto.timestamp);
 
-          if (!Number.isFinite(timestamp) || timestamp <= 0) {
+          return Number.isFinite(timestamp) &&
+            timestamp > 0 &&
+            timestamp <= agora + 60000 &&
+            agora - timestamp < TEMPO_OFERTA;
+        })
+        .filter(produto => {
+          if (categoriaAtual !== "todas" &&
+              categoriaProduto(produto) !== categoriaAtual) {
             return false;
           }
 
-          const idade = agora - timestamp;
+          if (lojaAtual !== "todas" &&
+              normalizar(nomeLoja(produto.loja)) !== lojaAtual) {
+            return false;
+          }
 
-          return idade >= 0 && idade < TEMPO_OFERTA;
-        })
-        .sort(
-          (a, b) =>
-            Number(b.timestamp) - Number(a.timestamp)
-        );
-    }
+          if (somenteFavoritos &&
+              !favoritos.includes(chaveProduto(produto))) {
+            return false;
+          }
 
-    // ============================================
-    // 6. MONTAR CARDS
-    // ============================================
+          if (buscaAtual) {
+            const conteudo = normalizar(
+              [
+                produto.titulo,
+                produto.loja,
+                produto.categoriaNome,
+                produto.detalheExtra
+              ].join(" ")
+            );
 
-    function montarCard(produto) {
-
-      const chave = chaveProduto(produto);
-
-      const categoria = identificarCategoria(produto);
-
-      const loja = identificarLoja(produto);
-
-      const link = urlSegura(
-        produto.linkWhatsapp || produto.link
-      );
-
-      const imagem = urlSegura(produto.imagem);
-
-      const favorito = favoritos.includes(chave);
-
-      const comparado = comparacao.includes(chave);
-
-      const preco = String(produto.precoPor || "").trim();
-
-      const precoValido =
-        /^R\$\s*[\d.,]+$/.test(preco);
-
-      const precoHtml = precoValido
-        ? escapar(preco)
-        : "Confira o preço na loja";
-
-      const precoClasse = precoValido
-        ? "price"
-        : "price price-unconfirmed";
-
-      const precoDe =
-        /^R\$\s*[\d.,]+$/.test(
-          String(produto.precoDe || "").trim()
-        )
-          ? escapar(produto.precoDe)
-          : "";
-
-      const indice = todasPromocoes.indexOf(produto);
-
-      return `
-        <article class="product">
-
-          <div class="product-image">
-
-            <span class="product-badge">
-              PUBLICIDADE
-            </span>
-
-            <button
-              class="favorite ${favorito ? "active" : ""}"
-              type="button"
-              data-favorite="${indice}"
-              aria-label="Adicionar ou remover dos favoritos"
-              title="Favoritos"
-            >
-              ${favorito ? "♥" : "♡"}
-            </button>
-
-            ${
-              imagem
-                ? `
-                  <img
-                    src="${escapar(imagem)}"
-                    alt="${escapar(produto.titulo)}"
-                    loading="lazy"
-                    referrerpolicy="no-referrer"
-                    onerror="this.style.display='none';this.nextElementSibling.style.display='block'"
-                  >
-                  <div
-                    class="image-placeholder"
-                    style="display:none"
-                  >
-                    <span>${emojiCategoria(categoria)}</span>
-                    Consulte o produto na loja
-                  </div>
-                `
-                : `
-                  <div class="image-placeholder">
-                    <span>${emojiCategoria(categoria)}</span>
-                    Consulte o produto na loja
-                  </div>
-                `
+            if (!conteudo.includes(normalizar(buscaAtual))) {
+              return false;
             }
+          }
 
-          </div>
-
-          <div class="product-body">
-
-            <h3 class="product-title">
-              ${escapar(produto.titulo)}
-            </h3>
-
-            <div class="product-category">
-              ${nomeCategoria(categoria)}
-            </div>
-
-            <div class="old-price">
-              ${precoDe}
-            </div>
-
-            <div class="${precoClasse}">
-              ${precoHtml}
-            </div>
-
-            <p class="product-note">
-              Preço informado na publicação.
-              Confirme o valor final na loja.
-            </p>
-
-            <div class="product-store">
-              ${escapar(loja)}
-            </div>
-
-            <div class="product-actions">
-
-              <a
-                class="offer-button"
-                href="${escapar(link)}"
-                target="_blank"
-                rel="nofollow sponsored noopener noreferrer"
-              >
-                Ver oferta ↗
-              </a>
-
-              <button
-                class="compare-button ${comparado ? "active" : ""}"
-                type="button"
-                data-compare="${indice}"
-                title="Adicionar ou remover da comparação"
-                aria-label="Comparar produto"
-              >
-                ⇄
-              </button>
-
-            </div>
-
-          </div>
-
-        </article>
-      `;
+          return true;
+        })
+        .sort((a, b) => Number(b.timestamp) - Number(a.timestamp));
     }
 
-    // ============================================
-    // 7. EXIBIR PROMOÇÕES
-    // ============================================
+    function criarCard(produto) {
+      const categoria = categoriaProduto(produto);
+      const imagem = imagemProduto(produto);
+      const link = linkProduto(produto);
+      const chave = chaveProduto(produto);
+      const favorito = favoritos.includes(chave);
+      const loja = nomeLoja(produto.loja);
+      const preco = precoValido(produto.precoPor);
 
-    function renderizarPromocoes() {
+      const card = document.createElement("article");
+      card.className = "product";
 
-      let lista = promocoesRecentes();
+      const areaImagem = document.createElement("div");
+      areaImagem.className = "product-image";
 
-      if (categoriaAtual !== "todas") {
-        lista = lista.filter(
-          produto =>
-            identificarCategoria(produto) === categoriaAtual
-        );
+      const badge = document.createElement("span");
+      badge.className = "ad-badge";
+      badge.textContent = "PUBLICIDADE";
+      areaImagem.appendChild(badge);
+
+      const botaoFavorito = document.createElement("button");
+      botaoFavorito.className = "heart" + (favorito ? " saved" : "");
+      botaoFavorito.textContent = favorito ? "♥" : "♡";
+      botaoFavorito.setAttribute(
+        "aria-label",
+        favorito ? "Remover dos favoritos" : "Adicionar aos favoritos"
+      );
+      botaoFavorito.addEventListener("click", () => alternarFavorito(chave));
+      areaImagem.appendChild(botaoFavorito);
+
+      const placeholder = document.createElement("div");
+      placeholder.className = "product-placeholder";
+      placeholder.innerHTML =
+        "<span>" + emojiCategoria(categoria) + "</span>Consulte o produto na loja";
+
+      if (imagem) {
+        const img = document.createElement("img");
+        img.src = imagem;
+        img.alt = texto(produto.titulo);
+        img.loading = "lazy";
+        img.referrerPolicy = "no-referrer";
+        img.onerror = () => {
+          img.remove();
+          areaImagem.appendChild(placeholder);
+        };
+        areaImagem.appendChild(img);
+      } else {
+        areaImagem.appendChild(placeholder);
       }
 
-      if (lojaAtual !== "todas") {
-        lista = lista.filter(
-          produto =>
-            identificarLoja(produto) === lojaAtual
-        );
+      card.appendChild(areaImagem);
+
+      const titulo = document.createElement("h3");
+      titulo.textContent = texto(produto.titulo) || "Oferta especial";
+      card.appendChild(titulo);
+
+      const categoriaElemento = document.createElement("div");
+      categoriaElemento.className = "product-category";
+      categoriaElemento.textContent =
+        texto(produto.categoriaNome) || nomeCategoria(categoria);
+      card.appendChild(categoriaElemento);
+
+      const precoElemento = document.createElement("div");
+      precoElemento.className = "price";
+
+      if (loja === "Amazon") {
+        // Não exibir preço da Amazon sem integração que valide
+        // as condições atuais de uso dos dados de preço.
+        precoElemento.innerHTML =
+          "<small>Confira o preço na Amazon</small>";
+      } else {
+        precoElemento.textContent = preco || "Confira o preço na loja";
       }
 
-      if (buscaAtual) {
-        const busca = normalizarTexto(buscaAtual);
+      card.appendChild(precoElemento);
 
-        lista = lista.filter(produto => {
-          const texto = normalizarTexto(
-            [
-              produto.titulo,
-              produto.categoriaNome,
-              produto.loja
-            ].join(" ")
-          );
+      const nota = document.createElement("p");
+      nota.className = "price-note";
+      nota.textContent = loja === "Amazon"
+        ? "Preço e disponibilidade diretamente na loja."
+        : "Preço informado na publicação. Confirme o valor final na loja.";
+      card.appendChild(nota);
 
-          return texto.includes(busca);
+      const lojaElemento = document.createElement("div");
+      lojaElemento.className = "store";
+      lojaElemento.textContent = loja;
+      card.appendChild(lojaElemento);
+
+      const botaoOferta = document.createElement("a");
+      botaoOferta.className = "offer-button";
+      botaoOferta.textContent = "Ver oferta ↗";
+
+      if (link) {
+        botaoOferta.href = link;
+        botaoOferta.target = "_blank";
+        botaoOferta.rel = "sponsored noopener noreferrer";
+      } else {
+        botaoOferta.href = "#";
+        botaoOferta.addEventListener("click", evento => {
+          evento.preventDefault();
+          alert("O link desta oferta está indisponível.");
         });
       }
 
-      if (somenteFavoritos) {
-        lista = lista.filter(
-          produto =>
-            favoritos.includes(chaveProduto(produto))
-        );
-      }
+      card.appendChild(botaoOferta);
+
+      return card;
+    }
+
+    function renderizar() {
+      const lista = promocoesFiltradas();
+      productsElement.replaceChildren();
 
       if (!lista.length) {
-
-        grid.innerHTML = `
-          <div class="empty-state">
-            <h3>Nenhuma oferta encontrada</h3>
-            <p>
-              Não há promoções disponíveis para esta seleção
-              nas últimas 24 horas.
-            </p>
-            <p>
-              Experimente outra categoria ou volte mais tarde.
-            </p>
-          </div>
+        const vazio = document.createElement("div");
+        vazio.className = "empty";
+        vazio.innerHTML = `
+          <h3>Nenhuma oferta encontrada</h3>
+          <p>Experimente outra categoria ou volte mais tarde para conferir novas promoções.</p>
         `;
-
+        productsElement.appendChild(vazio);
       } else {
-
-        grid.innerHTML = lista
-          .map(montarCard)
-          .join("");
-
+        lista.forEach(produto => {
+          productsElement.appendChild(criarCard(produto));
+        });
       }
 
-      const horario = ultimoCarregamento
-        ? ultimoCarregamento.toLocaleTimeString(
-            "pt-BR",
-            {
-              hour: "2-digit",
-              minute: "2-digit",
-              second: "2-digit"
-            }
-          )
-        : "--:--";
+      statusElement.textContent =
+        lista.length + " oferta(s) exibida(s) • Atualização automática ativada";
 
-      document.getElementById("offerStatus").innerHTML = `
-        <span class="live-dot"></span>
-        ${lista.length} oferta(s) recente(s)
-        • Última consulta: ${horario}
-      `;
-
-      atualizarCategorias();
-
-      atualizarLojas();
-    }
-
-    // ============================================
-    // 8. CATEGORIAS
-    // ============================================
-
-    function selecionarCategoria(categoria) {
-
-      categoriaAtual = categoria;
-
-      somenteFavoritos = false;
-
-      renderizarPromocoes();
-
-      document
-        .getElementById("ofertas")
-        .scrollIntoView({
-          behavior: "smooth"
-        });
-    }
-
-    function atualizarCategorias() {
-      document
-        .querySelectorAll("[data-category]")
-        .forEach(botao => {
-          botao.classList.toggle(
-            "active",
-            botao.dataset.category === categoriaAtual
-          );
-        });
-    }
-
-    document
-      .querySelectorAll("[data-category]")
-      .forEach(botao => {
-        botao.addEventListener("click", () => {
-          selecionarCategoria(botao.dataset.category);
-        });
+      document.querySelectorAll("[data-category]").forEach(botao => {
+        const selecionado = botao.dataset.category === categoriaAtual;
+        botao.classList.toggle("active", selecionado);
       });
 
-    // ============================================
-    // 9. FILTRO POR LOJA
-    // ============================================
-
-    function atualizarLojas() {
-      document
-        .querySelectorAll("[data-store]")
-        .forEach(botao => {
-          botao.classList.toggle(
-            "active",
-            botao.dataset.store === lojaAtual
-          );
-        });
+      document.querySelectorAll(".filter").forEach(botao => {
+        botao.classList.toggle(
+          "active",
+          botao.dataset.store === lojaAtual
+        );
+      });
     }
 
-    document
-      .querySelectorAll("[data-store]")
-      .forEach(botao => {
-        botao.addEventListener("click", () => {
-          lojaAtual = botao.dataset.store;
-          renderizarPromocoes();
+    // ==========================================
+    // CARREGAR PROMOÇÕES DO GITHUB
+    // ==========================================
+
+    async function carregarPromocoes() {
+      try {
+        const url = JSON_URL + "?t=" + Date.now();
+
+        const resposta = await fetch(url, {
+          cache: "no-store"
         });
-      });
 
-    // ============================================
-    // 10. PESQUISA
-    // ============================================
-
-    document
-      .getElementById("searchForm")
-      .addEventListener("submit", evento => {
-
-        evento.preventDefault();
-
-        buscaAtual = document
-          .getElementById("searchInput")
-          .value
-          .trim();
-
-        renderizarPromocoes();
-
-        document
-          .getElementById("ofertas")
-          .scrollIntoView({
-            behavior: "smooth"
-          });
-
-      });
-
-    // ============================================
-    // 11. FAVORITOS E COMPARAÇÃO
-    // ============================================
-
-    grid.addEventListener("click", evento => {
-
-      const botaoFavorito = evento.target.closest(
-        "[data-favorite]"
-      );
-
-      if (botaoFavorito) {
-
-        const produto = todasPromocoes[
-          Number(botaoFavorito.dataset.favorite)
-        ];
-
-        if (!produto) return;
-
-        const chave = chaveProduto(produto);
-
-        if (favoritos.includes(chave)) {
-          favoritos = favoritos.filter(
-            item => item !== chave
-          );
-        } else {
-          favoritos.push(chave);
+        if (!resposta.ok) {
+          throw new Error("GitHub retornou HTTP " + resposta.status);
         }
 
-        salvarDados();
+        const dados = await resposta.json();
 
-        renderizarPromocoes();
+        if (!Array.isArray(dados)) {
+          throw new Error("O promocoes.json precisa conter uma lista.");
+        }
 
+        todasPromocoes = dados.filter(item =>
+          item &&
+          typeof item === "object" &&
+          item.titulo &&
+          (item.link || item.linkWhatsapp)
+        );
+
+        renderizar();
+
+        const hora = new Date().toLocaleTimeString("pt-BR");
+        statusElement.textContent =
+          promocoesFiltradas().length +
+          " oferta(s) recente(s) • Última consulta: " + hora;
+
+      } catch (erro) {
+        console.error("Erro ao carregar promoções:", erro);
+
+        if (!todasPromocoes.length) {
+          productsElement.innerHTML = `
+            <div class="empty">
+              <h3>Não foi possível carregar as ofertas</h3>
+              <p>Estamos tentando novamente. Atualize a página em alguns instantes.</p>
+            </div>
+          `;
+        }
+
+        statusElement.textContent =
+          "Falha temporária ao consultar ofertas. Nova tentativa automática em breve.";
+      }
+    }
+
+    // ==========================================
+    // FILTROS E BOTÕES
+    // ==========================================
+
+    document.querySelectorAll("[data-category]").forEach(botao => {
+      botao.addEventListener("click", () => {
+        categoriaAtual = botao.dataset.category;
+        somenteFavoritos = false;
+        renderizar();
+        document.getElementById("ofertas").scrollIntoView({
+          behavior: "smooth"
+        });
+      });
+    });
+
+    document.querySelectorAll("[data-store]").forEach(botao => {
+      botao.addEventListener("click", () => {
+        lojaAtual = botao.dataset.store;
+        somenteFavoritos = false;
+        renderizar();
+        document.getElementById("ofertas").scrollIntoView({
+          behavior: "smooth"
+        });
+      });
+    });
+
+    document.getElementById("searchForm").addEventListener("submit", evento => {
+      evento.preventDefault();
+      buscaAtual = document.getElementById("searchInput").value.trim();
+      somenteFavoritos = false;
+      renderizar();
+      document.getElementById("ofertas").scrollIntoView({
+        behavior: "smooth"
+      });
+    });
+
+    document.getElementById("searchInput").addEventListener("input", evento => {
+      buscaAtual = evento.target.value.trim();
+      renderizar();
+    });
+
+    document.getElementById("favoritesButton").addEventListener("click", () => {
+      somenteFavoritos = !somenteFavoritos;
+      categoriaAtual = "todas";
+      lojaAtual = "todas";
+      renderizar();
+      document.getElementById("ofertas").scrollIntoView({
+        behavior: "smooth"
+      });
+    });
+
+    document.getElementById("compareButton").addEventListener("click", () => {
+      const produtos = todasPromocoes.filter(produto =>
+        favoritos.includes(chaveProduto(produto))
+      );
+
+      if (!produtos.length) {
+        alert("Adicione produtos aos favoritos para compará-los.");
         return;
       }
 
-      const botaoComparar = evento.target.closest(
-        "[data-compare]"
-      );
+      const comparacao = produtos
+        .slice(0, 5)
+        .map(produto =>
+          texto(produto.titulo) + "\n" +
+          nomeLoja(produto.loja) + "\n" +
+          (precoValido(produto.precoPor) || "Consultar na loja")
+        )
+        .join("\n\n────────────\n\n");
 
-      if (botaoComparar) {
-
-        const produto = todasPromocoes[
-          Number(botaoComparar.dataset.compare)
-        ];
-
-        if (!produto) return;
-
-        const chave = chaveProduto(produto);
-
-        if (comparacao.includes(chave)) {
-          comparacao = comparacao.filter(
-            item => item !== chave
-          );
-        } else {
-          comparacao.push(chave);
-        }
-
-        salvarDados();
-
-        renderizarPromocoes();
-      }
+      alert("SEUS PRODUTOS FAVORITOS\n\n" + comparacao);
     });
 
-    // ============================================
-    // 12. JANELAS
-    // ============================================
-
-    const overlay = document.getElementById("overlay");
-
-    const modalTitle = document.getElementById("modalTitle");
-
-    const modalContent = document.getElementById("modalContent");
-
-    function abrirModal(titulo, conteudo) {
-      modalTitle.textContent = titulo;
-      modalContent.innerHTML = conteudo;
-      overlay.classList.add("open");
-    }
-
-    function fecharModal() {
-      overlay.classList.remove("open");
-    }
-
-    document
-      .getElementById("closeModal")
-      .addEventListener("click", fecharModal);
-
-    overlay.addEventListener("click", evento => {
-      if (evento.target === overlay) {
-        fecharModal();
-      }
+    document.getElementById("menuButton").addEventListener("click", () => {
+      document.getElementById("lojas").scrollIntoView({
+        behavior: "smooth"
+      });
     });
 
-    document.addEventListener("keydown", evento => {
-      if (evento.key === "Escape") {
-        fecharModal();
-      }
+    document.getElementById("allOffersLink").addEventListener("click", () => {
+      categoriaAtual = "todas";
+      lojaAtual = "todas";
+      buscaAtual = "";
+      somenteFavoritos = false;
+      document.getElementById("searchInput").value = "";
+      renderizar();
     });
 
-    document
-      .getElementById("menuButton")
-      .addEventListener("click", () => {
-
-        abrirModal(
-          "Menu Junão Promoção",
-          `
-            <a class="modal-link" href="#ofertas" onclick="fecharModal()">
-              🔥 Todas as promoções
-            </a>
-
-            <a
-              class="modal-link"
-              href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              💚 Grupo VIP no WhatsApp
-            </a>
-
-            <a
-              class="modal-link"
-              href="https://chat.whatsapp.com/LnPZoQxcjyP4eoA6eYUCiI"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              🐾 Grupo PET
-            </a>
-
-            <a
-              class="modal-link"
-              href="https://whatsapp.com/channel/0029Vb8CUEd7j6fxBu2iEI2R"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              📢 Canal do WhatsApp
-            </a>
-
-            <p style="font-size:11px;color:#aab3bd;margin-top:18px;line-height:1.8">
-              Este site contém publicidade e links de afiliados.
-              Os preços e a disponibilidade devem ser
-              confirmados diretamente nas lojas.
-            </p>
-          `
-        );
-
-      });
-
-    document
-      .getElementById("favoritesButton")
-      .addEventListener("click", () => {
-
-        somenteFavoritos = !somenteFavoritos;
-
-        document
-          .getElementById("favoritesButton")
-          .classList.toggle(
-            "active",
-            somenteFavoritos
-          );
-
-        renderizarPromocoes();
-
-        document
-          .getElementById("ofertas")
-          .scrollIntoView({
-            behavior: "smooth"
-          });
-
-      });
-
-    document
-      .getElementById("compareButton")
-      .addEventListener("click", () => {
-
-        const produtos = promocoesRecentes().filter(
-          produto =>
-            comparacao.includes(chaveProduto(produto))
-        );
-
-        if (!produtos.length) {
-
-          abrirModal(
-            "Comparar ofertas",
-            `
-              <p style="font-size:13px;line-height:1.8;color:#c4cbd1">
-                Clique no símbolo ⇄ dos produtos que
-                deseja comparar.
-              </p>
-            `
-          );
-
-          return;
-        }
-
-        const conteudo = produtos.map(produto => {
-
-          const chave = chaveProduto(produto);
-
-          const indice = todasPromocoes.indexOf(produto);
-
-          const link = urlSegura(
-            produto.linkWhatsapp || produto.link
-          );
-
-          return `
-            <div class="compare-item">
-              <strong>${escapar(produto.titulo)}</strong>
-              <p>${escapar(identificarLoja(produto))}</p>
-              <p>${escapar(produto.precoPor || "Consulte na loja")}</p>
-
-              <a
-                href="${escapar(link)}"
-                target="_blank"
-                rel="nofollow sponsored noopener noreferrer"
-              >
-                Ver oferta ↗
-              </a>
-
-              <button
-                type="button"
-                onclick="removerComparacao(${indice})"
-              >
-                Remover
-              </button>
-            </div>
-          `;
-
-        }).join("");
-
-        abrirModal(
-          "Comparar ofertas",
-          `<div class="compare-list">${conteudo}</div>`
-        );
-
-      });
-
-    function removerComparacao(indice) {
-
-      const produto = todasPromocoes[indice];
-
-      if (!produto) return;
-
-      comparacao = comparacao.filter(
-        item => item !== chaveProduto(produto)
-      );
-
-      salvarDados();
-
-      fecharModal();
-
-      renderizarPromocoes();
-    }
-
-    // ============================================
-    // 13. BANNER PERSONALIZADO
-    // ============================================
-
-    function verificarBanner() {
-
-      const imagem = new Image();
-
-      imagem.onload = () => {
-        document
-          .getElementById("hero")
-          .classList.add("has-banner");
-      };
-
-      imagem.onerror = () => {
-        document
-          .getElementById("hero")
-          .classList.remove("has-banner");
-      };
-
-      imagem.src = "banner.jpg";
-    }
-
-    // ============================================
-    // 14. INICIAR SITE
-    // ============================================
-
-    document.getElementById("year").textContent =
-      new Date().getFullYear();
-
-    document
-      .getElementById("showAllButton")
-      .addEventListener("click", () => {
-
-        categoriaAtual = "todas";
-
-        lojaAtual = "todas";
-
-        buscaAtual = "";
-
-        somenteFavoritos = false;
-
-        document.getElementById("searchInput").value = "";
-
-        document
-          .getElementById("favoritesButton")
-          .classList.remove("active");
-
-        renderizarPromocoes();
-
-      });
-
-    verificarBanner();
+    // ==========================================
+    // INICIAR
+    // ==========================================
 
     carregarPromocoes();
 
-    // Consulta o GitHub a cada minuto.
     setInterval(carregarPromocoes, ATUALIZACAO);
 
-    // Remove visualmente ofertas vencidas.
-    setInterval(renderizarPromocoes, 30 * 1000);
+    // Remove da tela as ofertas que completarem 24h,
+    // mesmo quando não houver novas publicações.
+    setInterval(renderizar, 60000);
 
   </script>
 
