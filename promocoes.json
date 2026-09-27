@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "SEUS DRINKS VÃO PARECER DE LUXO POR ESSES COPOS 🥃✨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 23,84",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/8AWPYo1lIp",
+    "linkWhatsapp": "https://s.shopee.com.br/8AWPYo1lIp",
+    "timestamp": 1790485411864
+  },
+  {
     "titulo": "Caixa de Som LG Xboom RNC5 com Bluetooth Função DJ 200W Bivolt Preto RNC5.ABRALLK",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -2154,33 +2168,5 @@
     "link": "https://meli.la/2KsMWYU",
     "linkWhatsapp": "https://meli.la/2KsMWYU",
     "timestamp": 1790400179858
-  },
-  {
-    "titulo": "Mor Life - Barraca Luna 5 Pessoas",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 169,90",
-    "desconto": "Oferta Imperdível!",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51VdCLaIWCL._AC_SL1000_.jpg",
-    "link": "https://www.amazon.com.br/dp/B076PM3J79?tag=junaopromoc03-20&linkCode=ll1&language=pt_BR",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B076PM3J79?tag=junaopromoc03-20&linkCode=ll1&language=pt_BR",
-    "timestamp": 1790398470456
-  },
-  {
-    "titulo": "Nescau Bebida Láctea 180ml caixa com 27 unidades",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 67,03",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51JYyJevGGL._AC_SL1020_.jpg",
-    "link": "https://amzn.to/4AryVeF",
-    "linkWhatsapp": "https://amzn.to/4AryVeF",
-    "timestamp": 1790391794615
   }
 ]
