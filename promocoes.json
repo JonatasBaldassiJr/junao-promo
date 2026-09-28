@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ative o cupom na página",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 319,99",
+    "precoPor": "R$ 188,07",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655955-MLA118148640165_092026-O.webp",
+    "link": "https://meli.la/1LzjVMP",
+    "linkWhatsapp": "https://meli.la/1LzjVMP",
+    "timestamp": 1790595822022,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lava e Seca Hisense 11kg Wd1i11 Compacta Fit e Função Steam Inverter Titânio",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
