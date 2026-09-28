@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "FRIGIDEIRA QUE NÃO GRUDA NEM SEU ANDAR DE CIMA",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 77,60",
+    "precoPor": "R$ 32,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71fyyod-iCL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3Vc7eq4",
+    "linkWhatsapp": "https://amzn.to/3Vc7eq4",
+    "timestamp": 1790575481460,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "PREPARE LANCHES INCRÍVEIS NUM INSTANTE",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
