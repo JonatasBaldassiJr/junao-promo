@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "CHEGA DE CALOR, SINTA ESSA BRISA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 592,71",
+    "precoPor": "R$ 351,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images.pexels.com/photos/28353034/pexels-photo-28353034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "link": "https://meli.la/29Se29t",
+    "linkWhatsapp": "https://meli.la/29Se29t",
+    "timestamp": 1790569728845,
+    "imagemIlustrativa": true
+  },
+  {
     "titulo": "Ar Condicionado Split Inverter 12000 Btu/h Prime Air Frio 12FC 220V",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -90,3 +105,4 @@
     "imagemIlustrativa": false
   }
 ]
+  Copiar expressão
