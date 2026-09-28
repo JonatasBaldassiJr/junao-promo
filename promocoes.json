@@ -1,5 +1,19 @@
-
 [
+  {
+    "titulo": "MONTE SUA ACADEMIA EM CASA AGORA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 169,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images.pexels.com/photos/33712412/pexels-photo-33712412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "link": "https://amzn.to/4xZkqMM",
+    "linkWhatsapp": "https://amzn.to/4xZkqMM",
+    "timestamp": 1790566809518,
+    "imagemIlustrativa": true
+  },
   {
     "titulo": "Revestimento Ripado Autocolante de EVA Flexivel Rolo",
     "categoria": "casa",
@@ -31,3 +45,4 @@
     "imagemIlustrativa": false
   }
 ]
+  Copiar expressão
