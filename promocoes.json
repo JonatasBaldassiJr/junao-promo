@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.199,00",
+    "precoPor": "R$ 833,34",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4AtQkDk",
+    "linkWhatsapp": "https://amzn.to/4AtQkDk",
+    "timestamp": 1790606391697,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Gamer Gigabyte 25 Fhd 200hz 1ms Ips Vrr Freesync",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
