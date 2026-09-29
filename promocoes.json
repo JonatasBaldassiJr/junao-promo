@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 118,00",
+    "precoPor": "R$ 56,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673045-MLB91104400631_082025-O.webp",
+    "link": "https://meli.la/2cDSznS",
+    "linkWhatsapp": "https://meli.la/2cDSznS",
+    "timestamp": 1790720179181,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Resgate no anúncio",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
