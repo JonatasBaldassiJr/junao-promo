@@ -4,6 +4,21 @@
     "categoria": "pet",
     "categoriaNome": "Pet",
     "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 45,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_728340-MLB106274630708_022026-O.webp",
+    "link": "https://meli.la/2B9UndA",
+    "linkWhatsapp": "https://meli.la/2B9UndA",
+    "timestamp": 1790724393072,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
     "precoDe": "R$ 649,00",
     "precoPor": "R$ 322,00",
     "desconto": "",
@@ -2127,21 +2142,6 @@
     "link": "https://meli.la/2Lwrv1P",
     "linkWhatsapp": "https://meli.la/2Lwrv1P",
     "timestamp": 1790639203517,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Masculino Feminino Kappa Park 2.0 Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,00",
-    "precoPor": "R$ 59,47",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977148-MLB118261469421_092026-O.webp",
-    "link": "https://meli.la/2seWsDW",
-    "linkWhatsapp": "https://meli.la/2seWsDW",
-    "timestamp": 1790637673287,
     "imagemIlustrativa": false
   }
 ]
