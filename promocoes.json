@@ -4,6 +4,21 @@
     "categoria": "pet",
     "categoriaNome": "Pet",
     "loja": "Mercado Livre",
+    "precoDe": "R$ 109,99",
+    "precoPor": "R$ 42,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717613-MLB96633630079_102025-O.webp",
+    "link": "https://meli.la/2Gs5pY9",
+    "linkWhatsapp": "https://meli.la/2Gs5pY9",
+    "timestamp": 1790716212126,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
     "precoDe": "R$ 185,57",
     "precoPor": "R$ 82,82",
     "desconto": "",
@@ -2187,21 +2202,6 @@
     "link": "https://meli.la/1S96LgK",
     "linkWhatsapp": "https://meli.la/1S96LgK",
     "timestamp": 1790630199672,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 569,00",
-    "precoPor": "R$ 295,13",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-O.webp",
-    "link": "https://meli.la/2bg31z3",
-    "linkWhatsapp": "https://meli.la/2bg31z3",
-    "timestamp": 1790629651458,
     "imagemIlustrativa": false
   }
 ]
