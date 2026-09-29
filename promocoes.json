@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Resgate no anúncio",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.299,00",
+    "precoPor": "R$ 674,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_718813-MLA110085659530_042026-O.webp",
+    "link": "https://meli.la/12vZoWA",
+    "linkWhatsapp": "https://meli.la/12vZoWA",
+    "timestamp": 1790719484866,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Sujeito a alteração de preço/estoque",
     "categoria": "pet",
     "categoriaNome": "Pet",
