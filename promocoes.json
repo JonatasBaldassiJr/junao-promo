@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Fila Freestyle 2 Masculino Esportivo Leve Confortável",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 392,00",
+    "precoPor": "R$ 131,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_711114-MLB108433295675_032026-O.webp",
+    "link": "https://meli.la/1bjWdWj",
+    "linkWhatsapp": "https://meli.la/1bjWdWj",
+    "timestamp": 1790653647338,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Amaciante Ypê Tradicional Aconchego Ultra 7L",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1992,21 +2007,6 @@
     "link": "https://meli.la/2mQwsHg",
     "linkWhatsapp": "https://meli.la/2mQwsHg",
     "timestamp": 1790568707137,
-    "imagemIlustrativa": true
-  },
-  {
-    "titulo": "MONTE SUA ACADEMIA EM CASA AGORA",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 169,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images.pexels.com/photos/33712412/pexels-photo-33712412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "link": "https://amzn.to/4xZkqMM",
-    "linkWhatsapp": "https://amzn.to/4xZkqMM",
-    "timestamp": 1790566809518,
     "imagemIlustrativa": true
   }
 ]
