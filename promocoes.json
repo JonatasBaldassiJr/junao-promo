@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit Morte Súbita (Shampoo + Condicionador + Spray Reparaçao) - Lola From Rio",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 119,90",
+    "precoPor": "R$ 44,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71ggER1mlqL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4y6r1pl",
+    "linkWhatsapp": "https://amzn.to/4y6r1pl",
+    "timestamp": 1790696994335,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Banheira Dobrável 254l Spa Adulto Ofurô Ou Gelo Portátil Azul Estrela Do Céu",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1872,21 +1887,6 @@
     "link": "https://meli.la/2CpohSx",
     "linkWhatsapp": "https://meli.la/2CpohSx",
     "timestamp": 1790611499274,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Bermudas Dry Fit De Alto Padrão Para Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 135,00",
-    "precoPor": "R$ 72,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818486-MLB109556608407_032026-O.webp",
-    "link": "https://meli.la/157sLuQ",
-    "linkWhatsapp": "https://meli.la/157sLuQ",
-    "timestamp": 1790610441951,
     "imagemIlustrativa": false
   }
 ]
