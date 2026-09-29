@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Camiseta Nike Dry-fit Academy Masculina",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 179,99",
+    "precoPor": "R$ 71,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738004-MLB100879755061_122025-O.webp",
+    "link": "https://meli.la/2jcVJLg",
+    "linkWhatsapp": "https://meli.la/2jcVJLg",
+    "timestamp": 1790700091995,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Sujeito a alteração de preço/estoque",
     "categoria": "pet",
     "categoriaNome": "Pet",
@@ -1872,21 +1887,6 @@
     "link": "https://meli.la/1eid3SJ",
     "linkWhatsapp": "https://meli.la/1eid3SJ",
     "timestamp": 1790613912457,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ventilador Soprador De Ar Turbo 130000 Rpm Sem Fio Portátil Sortido 127/220v",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 44,99",
-    "precoPor": "R$ 33,26",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_640413-MLB94072228507_102025-O.webp",
-    "link": "https://meli.la/2hNRmyc",
-    "linkWhatsapp": "https://meli.la/2hNRmyc",
-    "timestamp": 1790613680279,
     "imagemIlustrativa": false
   }
 ]
