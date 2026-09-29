@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Widi Care Creme de Pentear Encaracolando a Juba, Branco, 500ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 59,90",
+    "precoPor": "R$ 36,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Jh6LNY8aL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4xR7tEw",
+    "linkWhatsapp": "https://amzn.to/4xR7tEw",
+    "timestamp": 1790693009412,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "GOKOCO Escova Secadora 5 Em 1 Conjunto De Secador De Cabelo Multifuncional De Alta Velocidade Dupla voltagem 110V-240V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1782,66 +1797,6 @@
     "link": "https://meli.la/2ZU9cm1",
     "linkWhatsapp": "https://meli.la/2ZU9cm1",
     "timestamp": 1790608612915,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smartphone Motorola Edge 70 5G Crystals by Swarovski - 512GB 24GB (12GB RAM + 12GB RAM Boost), Ultrafino, 3 cameras 50MP e tela extreme Amoled 120hz - Cloud Dancer",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 5.999,00",
-    "precoPor": "R$ 3.399,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61LyzNkloEL._AC_SL1200_.jpg",
-    "link": "https://amzn.to/47nv0SE",
-    "linkWhatsapp": "https://amzn.to/47nv0SE",
-    "timestamp": 1790606531944,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smartphone Motorola Moto G77 5g - 256GB 24GB (8GB RAM + 16GB RAM Boost) camera 108MP Ultra-Pixel, tela 1.5k extreme Amoled 120hz, ultrarresistente - Marrom",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.999,00",
-    "precoPor": "R$ 1.698,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61zXvb3EmiL._AC_SL1200_.jpg",
-    "link": "https://amzn.to/4yf0QNp",
-    "linkWhatsapp": "https://amzn.to/4yf0QNp",
-    "timestamp": 1790606489966,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Apple iPhone 17e de 256 GB — Rosa-pálido",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 5.799,00",
-    "precoPor": "R$ 4.499,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41YoC-wH37L._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4xH6arD",
-    "linkWhatsapp": "https://amzn.to/4xH6arD",
-    "timestamp": 1790606429983,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.199,00",
-    "precoPor": "R$ 833,34",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61aIuJu0M0L._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4AtQkDk",
-    "linkWhatsapp": "https://amzn.to/4AtQkDk",
-    "timestamp": 1790606391697,
     "imagemIlustrativa": false
   }
 ]
