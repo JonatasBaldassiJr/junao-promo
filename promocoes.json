@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "WAP Lavadora de Alta Pressão OUSADA PLUS 2200, 1500W 127V",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 779,90",
+    "precoPor": "R$ 420,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/711W3v-nNpL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/47qx78e",
+    "linkWhatsapp": "https://amzn.to/47qx78e",
+    "timestamp": 1790655684742,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "WAP Vaporizador de Roupas e Tecidos WAPORE FAST 1250 com Escova, Capacidade de 200ml, Vapor Quente 160°C, 1250W, 127V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -2082,21 +2097,6 @@
     "link": "https://meli.la/29Se29t",
     "linkWhatsapp": "https://meli.la/29Se29t",
     "timestamp": 1790569728845,
-    "imagemIlustrativa": true
-  },
-  {
-    "titulo": "Ar Condicionado Split Inverter 12000 Btu/h Prime Air Frio 12FC 220V",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Shopee",
-    "precoDe": "R$ 2.209,88",
-    "precoPor": "R$ 1.534,47",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images.pexels.com/photos/16848596/pexels-photo-16848596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "link": "https://s.shopee.com.br/AAHVUIrw4j",
-    "linkWhatsapp": "https://s.shopee.com.br/AAHVUIrw4j",
-    "timestamp": 1790569142019,
     "imagemIlustrativa": true
   }
 ]
