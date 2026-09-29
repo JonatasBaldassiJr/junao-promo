@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "KitKat Creme Crocante de Chocolate – Pasta para Passar, 330 g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 27,99",
+    "precoPor": "R$ 22,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61VAMMzECnL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/46G8ows",
+    "linkWhatsapp": "https://amzn.to/46G8ows",
+    "timestamp": 1790655254064,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP (Lavanda)",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -2067,21 +2082,6 @@
     "link": "https://s.shopee.com.br/AAHVUIrw4j",
     "linkWhatsapp": "https://s.shopee.com.br/AAHVUIrw4j",
     "timestamp": 1790569142019,
-    "imagemIlustrativa": true
-  },
-  {
-    "titulo": "CORRA ANTES QUE ESSE VENTO GELADO ACABE",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 339,00",
-    "precoPor": "R$ 269,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images.pexels.com/photos/33388321/pexels-photo-33388321.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "link": "https://meli.la/2mQwsHg",
-    "linkWhatsapp": "https://meli.la/2mQwsHg",
-    "timestamp": 1790568707137,
     "imagemIlustrativa": true
   }
 ]
