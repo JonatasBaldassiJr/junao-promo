@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "PlayStation®5 Slim Digital 825GB – Pacote ASTRO BOT e Gran Turismo 7",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 4.599,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71WCygaQDAL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4xGoXmQ",
+    "linkWhatsapp": "https://amzn.to/4xGoXmQ",
+    "timestamp": 1790692237520,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 5 Camisas Gola Polo Masculina Blusa Slim Atacado Piquet",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -1827,36 +1842,6 @@
     "link": "https://meli.la/19mHSfd",
     "linkWhatsapp": "https://meli.la/19mHSfd",
     "timestamp": 1790605906470,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gerador De Espuma A Bateria 2l Lotus 7.4v 3 Bar Lavagem Automotiva Branco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,98",
-    "precoPor": "R$ 92,14",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968024-MLA99466442776_112025-O.webp",
-    "link": "https://meli.la/2yf2bWJ",
-    "linkWhatsapp": "https://meli.la/2yf2bWJ",
-    "timestamp": 1790605790789,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Nike Mc Trainer 3 Masculino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 499,00",
-    "precoPor": "R$ 332,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_623887-MLB100241409643_122025-O.webp",
-    "link": "https://meli.la/1gkAxsP",
-    "linkWhatsapp": "https://meli.la/1gkAxsP",
-    "timestamp": 1790605691217,
     "imagemIlustrativa": false
   }
 ]
