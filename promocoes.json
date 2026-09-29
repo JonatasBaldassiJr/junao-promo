@@ -4,6 +4,21 @@
     "categoria": "pet",
     "categoriaNome": "Pet",
     "loja": "Mercado Livre",
+    "precoDe": "R$ 179,00",
+    "precoPor": "R$ 160,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_722394-MLA115247383318_082026-O.webp",
+    "link": "https://meli.la/2uwxJMo",
+    "linkWhatsapp": "https://meli.la/2uwxJMo",
+    "timestamp": 1790721925397,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
     "precoDe": "R$ 299,00",
     "precoPor": "R$ 119,30",
     "desconto": "",
@@ -2142,36 +2157,6 @@
     "link": "https://meli.la/2k8hCtT",
     "linkWhatsapp": "https://meli.la/2k8hCtT",
     "timestamp": 1790635700243,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Pares Meias Puma Cano Alto Longo Academia Original",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 49,19",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_665936-MLB110466828394_052026-O.webp",
-    "link": "https://meli.la/2twP7kG",
-    "linkWhatsapp": "https://meli.la/2twP7kG",
-    "timestamp": 1790635518539,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Baunilha",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 61,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_689088-MLA99988196355_112025-O.webp",
-    "link": "https://meli.la/1hheAby",
-    "linkWhatsapp": "https://meli.la/1hheAby",
-    "timestamp": 1790635284894,
     "imagemIlustrativa": false
   }
 ]
