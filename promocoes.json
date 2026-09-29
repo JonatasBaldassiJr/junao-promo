@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cafeteira Nescafé Dolce Gusto Mini Me Preta",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 579,90",
+    "precoPor": "R$ 330,37",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_626577-MLA99520084810_112025-O.webp",
+    "link": "https://meli.la/2nAG9kz",
+    "linkWhatsapp": "https://meli.la/2nAG9kz",
+    "timestamp": 1790689523033,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Camiseta Aramis Básica Preto",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -1932,36 +1947,6 @@
     "link": "https://meli.la/1zUd9y9",
     "linkWhatsapp": "https://meli.la/1zUd9y9",
     "timestamp": 1790603243253,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Rbd Game Low Puma",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 499,00",
-    "precoPor": "R$ 191,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_654407-MLB84071012143_042025-O.webp",
-    "link": "https://meli.la/2obPq5L",
-    "linkWhatsapp": "https://meli.la/2obPq5L",
-    "timestamp": 1790603118327,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 319,00",
-    "precoPor": "R$ 159,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_981459-MLA117136184907_092026-O.webp",
-    "link": "https://meli.la/2D2gWV7",
-    "linkWhatsapp": "https://meli.la/2D2gWV7",
-    "timestamp": 1790602928056,
     "imagemIlustrativa": false
   }
 ]
