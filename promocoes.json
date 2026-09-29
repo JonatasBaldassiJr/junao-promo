@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Smart TV Philco 75",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 6.895,00",
+    "precoPor": "R$ 3.912,07",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612201-MLA116540244319_082026-O.webp",
+    "link": "https://meli.la/2byUpGV",
+    "linkWhatsapp": "https://meli.la/2byUpGV",
+    "timestamp": 1790682724972,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -1902,36 +1917,6 @@
     "link": "https://meli.la/2ksR4Qd",
     "linkWhatsapp": "https://meli.la/2ksR4Qd",
     "timestamp": 1790596431208,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Essencial Sentir Feminino Natura Deo Parfum Perfume Original 100ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 259,00",
-    "precoPor": "R$ 131,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932841-MLB80570151225_112024-O.webp",
-    "link": "https://meli.la/1Gnmrzm",
-    "linkWhatsapp": "https://meli.la/1Gnmrzm",
-    "timestamp": 1790596189857,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mochila Grande Alça Reforçada Resistente Faculdade Trabalho",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,00",
-    "precoPor": "R$ 45,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812719-MLB92851761813_092025-O.webp",
-    "link": "https://meli.la/16CJAGw",
-    "linkWhatsapp": "https://meli.la/16CJAGw",
-    "timestamp": 1790596021058,
     "imagemIlustrativa": false
   }
 ]
