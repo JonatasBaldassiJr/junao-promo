@@ -4,6 +4,21 @@
     "categoria": "pet",
     "categoriaNome": "Pet",
     "loja": "Mercado Livre",
+    "precoDe": "R$ 2.499,00",
+    "precoPor": "R$ 1.375,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_697288-MLA100482486016_122025-O.webp",
+    "link": "https://meli.la/299nL2S",
+    "linkWhatsapp": "https://meli.la/299nL2S",
+    "timestamp": 1790722198848,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
     "precoDe": "R$ 179,00",
     "precoPor": "R$ 160,00",
     "desconto": "",
@@ -1350,21 +1365,6 @@
     "imagemIlustrativa": false
   },
   {
-    "titulo": "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.499,00",
-    "precoPor": "R$ 1.449,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_697288-MLA100482486016_122025-O.webp",
-    "link": "https://meli.la/299nL2S",
-    "linkWhatsapp": "https://meli.la/299nL2S",
-    "timestamp": 1790679529933,
-    "imagemIlustrativa": false
-  },
-  {
     "titulo": "Camisa Camiseta Gola Polo Masculina Básica 100% Algodão Cinza-escuro Liso G",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -2142,21 +2142,6 @@
     "link": "https://meli.la/23vGZQN",
     "linkWhatsapp": "https://meli.la/23vGZQN",
     "timestamp": 1790636512411,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Capa Case De Vidro Nano Glass Fosca Premium Para iPhone",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,00",
-    "precoPor": "R$ 28,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_664079-MLB118029577181_092026-O.webp",
-    "link": "https://meli.la/2k8hCtT",
-    "linkWhatsapp": "https://meli.la/2k8hCtT",
-    "timestamp": 1790635700243,
     "imagemIlustrativa": false
   }
 ]
