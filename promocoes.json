@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 349,00",
+    "precoPor": "R$ 171,37",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.webp",
+    "link": "https://meli.la/1iAhSMs",
+    "linkWhatsapp": "https://meli.la/1iAhSMs",
+    "timestamp": 1790680180195,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -1887,36 +1902,6 @@
     "link": "https://s.shopee.com.br/7faAxxg5qu",
     "linkWhatsapp": "https://s.shopee.com.br/7faAxxg5qu",
     "timestamp": 1790593813830,
-    "imagemIlustrativa": true
-  },
-  {
-    "titulo": "Gel De Limpeza Acne Control Para Pele Oleosa 340g Cerave Oleosa Dia/noite",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 115,90",
-    "precoPor": "R$ 62,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_667295-MLA75417882354_042024-O.webp",
-    "link": "https://meli.la/2W5Q5qf",
-    "linkWhatsapp": "https://meli.la/2W5Q5qf",
-    "timestamp": 1790593572213,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Geladeira Consul Frost Free Duplex CRM44MB 377 Litros Branco",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Shopee",
-    "precoDe": "R$ 4.917,78",
-    "precoPor": "R$ 1.943,96",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images.pexels.com/photos/8061980/pexels-photo-8061980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "link": "https://s.shopee.com.br/4fwZNwzqJ8",
-    "linkWhatsapp": "https://s.shopee.com.br/4fwZNwzqJ8",
-    "timestamp": 1790593382570,
     "imagemIlustrativa": true
   }
 ]
