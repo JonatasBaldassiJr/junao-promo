@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 249,90",
+    "precoPor": "R$ 161,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755982-MLA116318113946_092026-O.webp",
+    "link": "https://meli.la/2K6cpq6",
+    "linkWhatsapp": "https://meli.la/2K6cpq6",
+    "timestamp": 1790699901287,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bicicleta Ergométrica Spinning Bike Ergométrica It's X11 Bicicleta Ergométrica Preto/vermelho",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
