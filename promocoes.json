@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 249,99",
+    "precoPor": "R$ 162,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.webp",
+    "link": "https://meli.la/1iAhSMs",
+    "linkWhatsapp": "https://meli.la/1iAhSMs",
+    "timestamp": 1790695357114,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bolsa Phase Small Sports Puma",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -567,21 +582,6 @@
     "link": "https://meli.la/1rHsUpe",
     "linkWhatsapp": "https://meli.la/1rHsUpe",
     "timestamp": 1790680401819,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 349,00",
-    "precoPor": "R$ 171,37",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.webp",
-    "link": "https://meli.la/1iAhSMs",
-    "linkWhatsapp": "https://meli.la/1iAhSMs",
-    "timestamp": 1790680180195,
     "imagemIlustrativa": false
   },
   {
@@ -1857,21 +1857,6 @@
     "link": "https://meli.la/1cz7jGp",
     "linkWhatsapp": "https://meli.la/1cz7jGp",
     "timestamp": 1790609366765,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Dark Lab Premium Pure em pó Sem sabor x 1kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 159,90",
-    "precoPor": "R$ 78,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-O.webp",
-    "link": "https://meli.la/2ZU9cm1",
-    "linkWhatsapp": "https://meli.la/2ZU9cm1",
-    "timestamp": 1790608612915,
     "imagemIlustrativa": false
   }
 ]
