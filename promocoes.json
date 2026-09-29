@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vichy, Dercos Shampoo Anticaspa para Cabelos Normais a Oleosos",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 300,00",
+    "precoPor": "R$ 84,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41SQlDQhNQL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4deLxM5",
+    "linkWhatsapp": "https://amzn.to/4deLxM5",
+    "timestamp": 1790698167313,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Kappa Run 200 Original Caminhada Academia",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -1887,21 +1902,6 @@
     "link": "https://meli.la/1C3eWai",
     "linkWhatsapp": "https://meli.la/1C3eWai",
     "timestamp": 1790612195427,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Sandrini Aero Run Academia Caminhada Treino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 49,19",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753073-MLB114205838705_072026-O.webp",
-    "link": "https://meli.la/2EUYNVE",
-    "linkWhatsapp": "https://meli.la/2EUYNVE",
-    "timestamp": 1790611697696,
     "imagemIlustrativa": false
   }
 ]
