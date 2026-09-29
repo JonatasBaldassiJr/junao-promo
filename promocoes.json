@@ -3,6 +3,21 @@
     "titulo": "Sujeito a alteração de preço/estoque",
     "categoria": "pet",
     "categoriaNome": "Pet",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 1.169,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/713xkMHAO6L._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0FNYPP9BW?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FNYPP9BW?tag=junaopromoc03-20",
+    "timestamp": 1790723175167,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
     "loja": "Mercado Livre",
     "precoDe": "",
     "precoPor": "R$ 1.709,00",
@@ -2127,36 +2142,6 @@
     "link": "https://meli.la/1jSgcZc",
     "linkWhatsapp": "https://meli.la/1jSgcZc",
     "timestamp": 1790636942071,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo Chave Canhão Longo Soquete Profissional 7 Peças Fertak Cor Amarelo",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 70,00",
-    "precoPor": "R$ 46,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823464-MLA100068599315_122025-O.webp",
-    "link": "https://meli.la/2TiPgMU",
-    "linkWhatsapp": "https://meli.la/2TiPgMU",
-    "timestamp": 1790636724959,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Escrivaninha Industrial Em L Berlim Mesa Escritório Home Office Para Estudo De Canto Em MDF Cor Canela Preto",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 399,90",
-    "precoPor": "R$ 147,59",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730997-MLA97917138200_112025-O.webp",
-    "link": "https://meli.la/23vGZQN",
-    "linkWhatsapp": "https://meli.la/23vGZQN",
-    "timestamp": 1790636512411,
     "imagemIlustrativa": false
   }
 ]
