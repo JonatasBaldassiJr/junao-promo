@@ -3,6 +3,21 @@
     "titulo": "Sujeito a alteração de preço/estoque",
     "categoria": "pet",
     "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 712,00",
+    "precoPor": "R$ 450,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641445-MLA107256158981_022026-O.webp",
+    "link": "https://meli.la/1UAWMRC",
+    "linkWhatsapp": "https://meli.la/1UAWMRC",
+    "timestamp": 1790723409295,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
     "loja": "Amazon",
     "precoDe": "",
     "precoPor": "R$ 1.169,99",
@@ -2127,21 +2142,6 @@
     "link": "https://meli.la/1gMkvaq",
     "linkWhatsapp": "https://meli.la/1gMkvaq",
     "timestamp": 1790637135759,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tenis Mizuno Jet 8 Masculino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 399,99",
-    "precoPor": "R$ 226,09",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923785-MLB107391725800_032026-O.webp",
-    "link": "https://meli.la/1jSgcZc",
-    "linkWhatsapp": "https://meli.la/1jSgcZc",
-    "timestamp": 1790636942071,
     "imagemIlustrativa": false
   }
 ]
