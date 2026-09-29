@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Smartphone OPPO A6t 5G 256GB",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.599,00",
+    "precoPor": "R$ 1.519,04",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51uo0cay-dL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4AF5O7D",
+    "linkWhatsapp": "https://amzn.to/4AF5O7D",
+    "timestamp": 1790656470803,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "WAP Lavadora de Alta Pressão OUSADA PLUS 2200, 1500W 127V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -2082,21 +2097,6 @@
     "link": "https://meli.la/2Tof2HK",
     "linkWhatsapp": "https://meli.la/2Tof2HK",
     "timestamp": 1790571421175,
-    "imagemIlustrativa": true
-  },
-  {
-    "titulo": "CHEGA DE CALOR, SINTA ESSA BRISA",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 592,71",
-    "precoPor": "R$ 351,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images.pexels.com/photos/28353034/pexels-photo-28353034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "link": "https://meli.la/29Se29t",
-    "linkWhatsapp": "https://meli.la/29Se29t",
-    "timestamp": 1790569728845,
     "imagemIlustrativa": true
   }
 ]
