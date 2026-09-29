@@ -4,6 +4,21 @@
     "categoria": "pet",
     "categoriaNome": "Pet",
     "loja": "Mercado Livre",
+    "precoDe": "R$ 185,57",
+    "precoPor": "R$ 82,82",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_623337-MLB93314572313_092025-O.webp",
+    "link": "https://meli.la/1ekU7fW",
+    "linkWhatsapp": "https://meli.la/1ekU7fW",
+    "timestamp": 1790715498368,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
     "precoDe": "R$ 299,40",
     "precoPor": "R$ 132,60",
     "desconto": "",
@@ -2187,36 +2202,6 @@
     "link": "https://meli.la/2bg31z3",
     "linkWhatsapp": "https://meli.la/2bg31z3",
     "timestamp": 1790629651458,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta Aramis Básica Branca",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 66,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824137-MLB93447822932_102025-O.webp",
-    "link": "https://meli.la/2boRbif",
-    "linkWhatsapp": "https://meli.la/2boRbif",
-    "timestamp": 1790629090186,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta Assinatura Carro Senna Reserva",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 239,00",
-    "precoPor": "R$ 103,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_982794-MLB110796717674_052026-O.webp",
-    "link": "https://meli.la/1ZmF174",
-    "linkWhatsapp": "https://meli.la/1ZmF174",
-    "timestamp": 1790629077683,
     "imagemIlustrativa": false
   }
 ]
