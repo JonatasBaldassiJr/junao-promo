@@ -3,6 +3,21 @@
     "titulo": "Sujeito a alteração de preço/estoque",
     "categoria": "pet",
     "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 125,00",
+    "precoPor": "R$ 61,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_993254-MLA115688090969_082026-O.webp",
+    "link": "https://meli.la/22i7WyE",
+    "linkWhatsapp": "https://meli.la/22i7WyE",
+    "timestamp": 1790702172763,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
     "loja": "Amazon",
     "precoDe": "R$ 25,90",
     "precoPor": "R$ 20,92",
@@ -1887,21 +1902,6 @@
     "link": "https://meli.la/1ZmF174",
     "linkWhatsapp": "https://meli.la/1ZmF174",
     "timestamp": 1790629077683,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Camisa Polo Piquet Masculina Casual Premium",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 88,90",
-    "precoPor": "R$ 61,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807882-MLB89806143762_082025-O.webp",
-    "link": "https://meli.la/1jGNFLt",
-    "linkWhatsapp": "https://meli.la/1jGNFLt",
-    "timestamp": 1790615091082,
     "imagemIlustrativa": false
   }
 ]
