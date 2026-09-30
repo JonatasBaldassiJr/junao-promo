@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "BORA RENOVAR O GUARDA-ROUPA",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 169,00",
+    "precoPor": "R$ 66,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_718757-MLB116861680897_082026-O.webp",
+    "link": "https://meli.la/2zmjZYE",
+    "linkWhatsapp": "https://meli.la/2zmjZYE",
+    "timestamp": 1790809674207,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Power Bank Basike 20000mAh para Notebook e Celular com Cabo USB-C 65W",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -1377,21 +1392,6 @@
     "link": "https://meli.la/2okqmdW",
     "linkWhatsapp": "https://meli.la/2okqmdW",
     "timestamp": 1790723764345,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 1.169,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/713xkMHAO6L._AC_SL1500_.jpg",
-    "link": "https://www.amazon.com.br/dp/B0FNYPP9BW?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FNYPP9BW?tag=junaopromoc03-20",
-    "timestamp": 1790723175167,
     "imagemIlustrativa": false
   }
 ]
