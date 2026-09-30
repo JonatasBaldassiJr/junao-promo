@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "VALE DAR UMA ESPIADA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 25,49",
+    "precoPor": "R$ 18,38",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71BFq1TmFoL._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0B94SLNXK?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0B94SLNXK?tag=junaopromoc03-20",
+    "timestamp": 1790802151242,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Gamer Portátil 15.6 1080p FHD IPS com HDMI USB",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -1377,21 +1392,6 @@
     "link": "https://meli.la/2Gs5pY9",
     "linkWhatsapp": "https://meli.la/2Gs5pY9",
     "timestamp": 1790716212126,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 185,57",
-    "precoPor": "R$ 82,82",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_623337-MLB93314572313_092025-O.webp",
-    "link": "https://meli.la/1ekU7fW",
-    "linkWhatsapp": "https://meli.la/1ekU7fW",
-    "timestamp": 1790715498368,
     "imagemIlustrativa": false
   }
 ]
