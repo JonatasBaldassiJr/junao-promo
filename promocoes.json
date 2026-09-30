@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Perfume Botica 214 Dark Mint EDP 90ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 152,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635105-MLA84855248151_052025-O.webp",
+    "link": "https://meli.la/1LqY4S4",
+    "linkWhatsapp": "https://meli.la/1LqY4S4",
+    "timestamp": 1790772874367,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "JBL Boombox 4 Bluetooth 5.4 210W",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -1722,51 +1737,6 @@
     "link": "https://meli.la/1i7NyTD",
     "linkWhatsapp": "https://meli.la/1i7NyTD",
     "timestamp": 1790686766384,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Fila Racer Speedzone Running Masculino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 599,00",
-    "precoPor": "R$ 284,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825253-MLB83674783762_042025-O.webp",
-    "link": "https://meli.la/24eppkz",
-    "linkWhatsapp": "https://meli.la/24eppkz",
-    "timestamp": 1790686466560,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 309,00",
-    "precoPor": "R$ 107,52",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_946503-MLB82989859698_032025-O.webp",
-    "link": "https://meli.la/22a7Gff",
-    "linkWhatsapp": "https://meli.la/22a7Gff",
-    "timestamp": 1790686277186,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Com 10 Cuecas Boxer Algodão Cotton Masculina Adulto Mash",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 330,00",
-    "precoPor": "R$ 110,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_841912-MLB79136618978_092024-O.webp",
-    "link": "https://meli.la/2ecMqUR",
-    "linkWhatsapp": "https://meli.la/2ecMqUR",
-    "timestamp": 1790685641380,
     "imagemIlustrativa": false
   }
 ]
