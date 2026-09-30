@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Calça Jeans Wide Leg Cintura Alta Pantalona (4 cores)",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 109,00",
+    "precoPor": "R$ 66,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824308-MLB118356425559_092026-O.webp",
+    "link": "https://meli.la/2AfoEhN",
+    "linkWhatsapp": "https://meli.la/2AfoEhN",
+    "timestamp": 1790785998968,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tinta Qualyvinil Acrílica Fosca – Mais Rendimento",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1542,36 +1557,6 @@
     "link": "https://meli.la/1kfnCZH",
     "linkWhatsapp": "https://meli.la/1kfnCZH",
     "timestamp": 1790699689666,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Power Bank Baseus Turbo Bipow2 Pro 20000mah 22.5w Cor Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 286,90",
-    "precoPor": "R$ 187,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812206-MLA93073248860_092025-O.webp",
-    "link": "https://meli.la/2nZeaWY",
-    "linkWhatsapp": "https://meli.la/2nZeaWY",
-    "timestamp": 1790699370625,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 9 Pares Meias Puma Sapatilha Soquete Invisível Original",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 46,57",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_872253-MLB96642336275_102025-O.webp",
-    "link": "https://meli.la/2pPoao7",
-    "linkWhatsapp": "https://meli.la/2pPoao7",
-    "timestamp": 1790698788333,
     "imagemIlustrativa": false
   }
 ]
