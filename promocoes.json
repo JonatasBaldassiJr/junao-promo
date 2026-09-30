@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Antes de decidir, confere o modelo e as condições na loja",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 28",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41jEssG9EDL._AC_SL1200_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=junaopromoc03-20",
+    "timestamp": 1790799733748,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Sallve Protetor Solar em Bastão FPS60 15g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1362,36 +1377,6 @@
     "link": "https://meli.la/1KZkBQJ",
     "linkWhatsapp": "https://meli.la/1KZkBQJ",
     "timestamp": 1790713564833,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 484,00",
-    "precoPor": "R$ 180,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_697593-MLB114914326687_072026-O.webp",
-    "link": "https://meli.la/28FDTpT",
-    "linkWhatsapp": "https://meli.la/28FDTpT",
-    "timestamp": 1790713043722,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 45,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901329-MLA110230571375_042026-O.webp",
-    "link": "https://meli.la/273RT7H",
-    "linkWhatsapp": "https://meli.la/273RT7H",
-    "timestamp": 1790712861118,
     "imagemIlustrativa": false
   }
 ]
