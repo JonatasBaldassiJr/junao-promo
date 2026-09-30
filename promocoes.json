@@ -4,6 +4,21 @@
     "categoria": "pet",
     "categoriaNome": "Pet",
     "loja": "Amazon",
+    "precoDe": "R$ 121,00",
+    "precoPor": "R$ 90,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51d99Rx1AbL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0D4FGT11P?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0D4FGT11P?tag=junaopromoc03-20",
+    "timestamp": 1790733386063,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Amazon",
     "precoDe": "R$ 77,60",
     "precoPor": "R$ 56,90",
     "desconto": "",
@@ -2112,36 +2127,6 @@
     "link": "https://meli.la/2BbJXm7",
     "linkWhatsapp": "https://meli.la/2BbJXm7",
     "timestamp": 1790647230726,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Com 10 Cuecas Boxer Masculina Microfibra Original",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 138,00",
-    "precoPor": "R$ 47,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_882952-MLB106804965837_022026-O.webp",
-    "link": "https://meli.la/2htYV2M",
-    "linkWhatsapp": "https://meli.la/2htYV2M",
-    "timestamp": 1790646937490,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Sandrini Axys Onyx Masculino Street Skate",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 202,81",
-    "precoPor": "R$ 107,42",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800867-MLB114378386969_072026-O.webp",
-    "link": "https://meli.la/1TsyEzQ",
-    "linkWhatsapp": "https://meli.la/1TsyEzQ",
-    "timestamp": 1790646535356,
     "imagemIlustrativa": false
   }
 ]
