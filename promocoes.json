@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bicicleta Elétrica Honeywhale B20",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 4.665",
+    "precoPor": "R$ 2.023",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603508-MLA113190607451_062026-O.webp",
+    "link": "https://meli.la/2fKVGpR",
+    "linkWhatsapp": "https://meli.la/2fKVGpR",
+    "timestamp": 1790804445928,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume CK IN2U Her Feminino 100ml EDT",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -192,21 +207,6 @@
     "link": "https://meli.la/2FKgCZw",
     "linkWhatsapp": "https://meli.la/2FKgCZw",
     "timestamp": 1790791708249,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "OLHA O QUE APARECEU POR AQUI",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 2.188,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603508-MLA113190607451_062026-O.webp",
-    "link": "https://meli.la/2fKVGpR",
-    "linkWhatsapp": "https://meli.la/2fKVGpR",
-    "timestamp": 1790791546502,
     "imagemIlustrativa": false
   },
   {
@@ -1377,21 +1377,6 @@
     "link": "https://meli.la/2a6F9op",
     "linkWhatsapp": "https://meli.la/2a6F9op",
     "timestamp": 1790719279452,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 77,00",
-    "precoPor": "R$ 22,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932274-MLA113497076692_072026-O.webp",
-    "link": "https://meli.la/18ap5FG",
-    "linkWhatsapp": "https://meli.la/18ap5FG",
-    "timestamp": 1790717602698,
     "imagemIlustrativa": false
   }
 ]
