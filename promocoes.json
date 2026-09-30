@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Heinz Maionese Tradicional 400g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 10,79",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51vJsNIBthL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B07YN9ZY51?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B07YN9ZY51?tag=junaopromoc03-20",
+    "timestamp": 1790812103822,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 12 Utensílios de Cozinha Silicone Cabo Madeira",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -1377,21 +1392,6 @@
     "link": "https://meli.la/148Dbg9",
     "linkWhatsapp": "https://meli.la/148Dbg9",
     "timestamp": 1790725931093,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 64,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_988973-MLA96841852791_102025-O.webp",
-    "link": "https://meli.la/1a6exqi",
-    "linkWhatsapp": "https://meli.la/1a6exqi",
-    "timestamp": 1790725599021,
     "imagemIlustrativa": false
   }
 ]
