@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Escova Modeladora Britânia 2 Em 1 Bivolt",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 111,00",
+    "precoPor": "R$ 64,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41gJ4ogoJJL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B08QDX99RL?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B08QDX99RL?tag=junaopromoc03-20",
+    "timestamp": 1790769485584,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Pote Hermético Com Copo Medidor 2.5L",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -1767,36 +1782,6 @@
     "link": "https://meli.la/1dcAJ1f",
     "linkWhatsapp": "https://meli.la/1dcAJ1f",
     "timestamp": 1790683307972,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Daily T-shirt Feminino - Gênero Feminino",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 435,00",
-    "precoPor": "R$ 145,67",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_676985-MLB88652710155_072025-O.webp",
-    "link": "https://meli.la/2kPfQhh",
-    "linkWhatsapp": "https://meli.la/2kPfQhh",
-    "timestamp": 1790682908167,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV Philco 75",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 6.895,00",
-    "precoPor": "R$ 3.912,07",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612201-MLA116540244319_082026-O.webp",
-    "link": "https://meli.la/2byUpGV",
-    "linkWhatsapp": "https://meli.la/2byUpGV",
-    "timestamp": 1790682724972,
     "imagemIlustrativa": false
   }
 ]
