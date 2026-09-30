@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Monitor Gamer AOC CS2 AGON 25\" 310Hz 0.3ms",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 2.712,00",
+    "precoPor": "R$ 1.079,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_726509-MLA115635838320_092026-O.webp",
+    "link": "https://meli.la/1AcNmbu",
+    "linkWhatsapp": "https://meli.la/1AcNmbu",
+    "timestamp": 1790803598619,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Impressora Multifuncional HP DeskJet Ink Advantage 2975",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1377,21 +1392,6 @@
     "link": "https://meli.la/1Awd5DF",
     "linkWhatsapp": "https://meli.la/1Awd5DF",
     "timestamp": 1790717371657,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 119,00",
-    "precoPor": "R$ 53,22",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_703852-MLB93401645900_092025-O.webp",
-    "link": "https://meli.la/1LMp9Ka",
-    "linkWhatsapp": "https://meli.la/1LMp9Ka",
-    "timestamp": 1790717187734,
     "imagemIlustrativa": false
   }
 ]
