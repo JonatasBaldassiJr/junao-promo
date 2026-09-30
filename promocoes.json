@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Jogo de Panelas com 10 Peças Cook Marmol Mimo Style",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 259,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933528-MLA96570343648_112025-O.webp",
+    "link": "https://meli.la/2E9VjU9",
+    "linkWhatsapp": "https://meli.la/2E9VjU9",
+    "timestamp": 1790773539071,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume Victoria Lattafa EDP 100ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -1722,36 +1737,6 @@
     "link": "https://meli.la/1uK4hzB",
     "linkWhatsapp": "https://meli.la/1uK4hzB",
     "timestamp": 1790688256718,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Proteína Dux Nutrition FreshWhey em pó sabor Pistache e Chocolate Branco x 900g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 379,00",
-    "precoPor": "R$ 189,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_601852-MLA114538447489_072026-O.webp",
-    "link": "https://meli.la/2xGsExC",
-    "linkWhatsapp": "https://meli.la/2xGsExC",
-    "timestamp": 1790687086323,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta Calvin Klein Manga Longa Institutional Grey Preta",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 310,00",
-    "precoPor": "R$ 155,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_852285-MLB84763994163_052025-O.webp",
-    "link": "https://meli.la/1i7NyTD",
-    "linkWhatsapp": "https://meli.la/1i7NyTD",
-    "timestamp": 1790686766384,
     "imagemIlustrativa": false
   }
 ]
