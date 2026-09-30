@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Top Lupo Loba Fitness",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 89,00",
+    "precoPor": "R$ 39,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_965332-MLB98105910433_112025-O.webp",
+    "link": "https://meli.la/2hQXcjo",
+    "linkWhatsapp": "https://meli.la/2hQXcjo",
+    "timestamp": 1790807865365,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Forno Elétrico HQ 48L 2000W 127V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1377,21 +1392,6 @@
     "link": "https://meli.la/2uwxJMo",
     "linkWhatsapp": "https://meli.la/2uwxJMo",
     "timestamp": 1790721925397,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 119,30",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_680138-MLB116382829103_082026-O.webp",
-    "link": "https://meli.la/18EV8QE",
-    "linkWhatsapp": "https://meli.la/18EV8QE",
-    "timestamp": 1790721324816,
     "imagemIlustrativa": false
   }
 ]
