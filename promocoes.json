@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "HORA DE TROCAR O CELULAR",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 5.999",
+    "precoPor": "R$ 200",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839006-MLA100007826225_122025-O.webp",
+    "link": "https://meli.la/2furLw9",
+    "linkWhatsapp": "https://meli.la/2furLw9",
+    "timestamp": 1790807192433,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Churrasqueira Portátil Camping Praia Compacta",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1347,21 +1362,6 @@
     "link": "https://meli.la/18EV8QE",
     "linkWhatsapp": "https://meli.la/18EV8QE",
     "timestamp": 1790721324816,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.738,00",
-    "precoPor": "R$ 1.299,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656451-MLA114336446515_072026-O.webp",
-    "link": "https://meli.la/2rqGv9M",
-    "linkWhatsapp": "https://meli.la/2rqGv9M",
-    "timestamp": 1790720367416,
     "imagemIlustrativa": false
   }
 ]
