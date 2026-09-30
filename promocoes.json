@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Porta Tempero Inox Giratório 360° — 12 Potes de Vidro",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Shopee",
+    "precoDe": "R$ 85,99",
+    "precoPor": "R$ 57,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images.pexels.com/photos/39629726/pexels-photo-39629726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "link": "https://s.shopee.com.br/4VdCqBOfa2",
+    "linkWhatsapp": "https://s.shopee.com.br/4VdCqBOfa2",
+    "timestamp": 1790791304483,
+    "imagemIlustrativa": true
+  },
+  {
     "titulo": "Motor De Partida Arranque Gol Parati Santana Ap 1.6 1.8 2.0",
     "categoria": "automotivo",
     "categoriaNome": "Automotivo",
@@ -1467,21 +1482,6 @@
     "link": "https://meli.la/1dCoupa",
     "linkWhatsapp": "https://meli.la/1dCoupa",
     "timestamp": 1790705364013,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Extensão 30metros Cabo Pp Reforçada Obra Profissional 10A/20A Preto Two Lef",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,89",
-    "precoPor": "R$ 59,93",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641159-MLA117859946629_092026-O.webp",
-    "link": "https://meli.la/2PcPaij",
-    "linkWhatsapp": "https://meli.la/2PcPaij",
-    "timestamp": 1790704774164,
     "imagemIlustrativa": false
   }
 ]
