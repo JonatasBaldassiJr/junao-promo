@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Churrasqueira Portátil Camping Praia Compacta",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 78,00",
+    "precoPor": "R$ 56,46",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863155-MLB114268098492_082026-O.webp",
+    "link": "https://meli.la/1WWg5xa",
+    "linkWhatsapp": "https://meli.la/1WWg5xa",
+    "timestamp": 1790806647277,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Banheira Dobrável 254l Spa Adulto Ofurô Ou Gelo Portátil",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -417,21 +432,6 @@
     "link": "https://www.amazon.com.br/dp/B0H4RKHSKM?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0H4RKHSKM?tag=junaopromoc03-20",
     "timestamp": 1790781448795,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Churrasqueira Portátil Galvanizada",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 56,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863155-MLB114268098492_082026-O.webp",
-    "link": "https://meli.la/1WWg5xa",
-    "linkWhatsapp": "https://meli.la/1WWg5xa",
-    "timestamp": 1790781232513,
     "imagemIlustrativa": false
   },
   {
@@ -1362,51 +1362,6 @@
     "link": "https://meli.la/2rqGv9M",
     "linkWhatsapp": "https://meli.la/2rqGv9M",
     "timestamp": 1790720367416,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 118,00",
-    "precoPor": "R$ 56,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673045-MLB91104400631_082025-O.webp",
-    "link": "https://meli.la/2cDSznS",
-    "linkWhatsapp": "https://meli.la/2cDSznS",
-    "timestamp": 1790720179181,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Resgate no anúncio",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.299,00",
-    "precoPor": "R$ 674,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_718813-MLA110085659530_042026-O.webp",
-    "link": "https://meli.la/12vZoWA",
-    "linkWhatsapp": "https://meli.la/12vZoWA",
-    "timestamp": 1790719484866,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 392,00",
-    "precoPor": "R$ 155,79",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869589-MLB107686085572_032026-O.webp",
-    "link": "https://meli.la/2a6F9op",
-    "linkWhatsapp": "https://meli.la/2a6F9op",
-    "timestamp": 1790719279452,
     "imagemIlustrativa": false
   }
 ]
