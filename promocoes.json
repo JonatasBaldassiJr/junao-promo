@@ -3,6 +3,21 @@
     "titulo": "Sujeito a alteração de preço/estoque",
     "categoria": "pet",
     "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 249,00",
+    "precoPor": "R$ 130,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784001-MLA108909448424_032026-O.webp",
+    "link": "https://meli.la/1ZsAvWc",
+    "linkWhatsapp": "https://meli.la/1ZsAvWc",
+    "timestamp": 1790734170423,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
     "loja": "Amazon",
     "precoDe": "R$ 121,00",
     "precoPor": "R$ 90,00",
@@ -2097,36 +2112,6 @@
     "link": "https://meli.la/1vaPcuz",
     "linkWhatsapp": "https://meli.la/1vaPcuz",
     "timestamp": 1790647889864,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Camiseta Masculina Speedo Dry Fit Manga Curta Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 190,26",
-    "precoPor": "R$ 200,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_767763-MLB108170213708_032026-O.webp",
-    "link": "https://meli.la/1HQTNxZ",
-    "linkWhatsapp": "https://meli.la/1HQTNxZ",
-    "timestamp": 1790647660428,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 523,00",
-    "precoPor": "R$ 204,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628229-MLB113094499141_062026-O.webp",
-    "link": "https://meli.la/2BbJXm7",
-    "linkWhatsapp": "https://meli.la/2BbJXm7",
-    "timestamp": 1790647230726,
     "imagemIlustrativa": false
   }
 ]
