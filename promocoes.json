@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sujeito a alteração de preço/estoque",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Amazon",
+    "precoDe": "R$ 77,60",
+    "precoPor": "R$ 56,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61EiGI-RR3L._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0C7DNNYVL?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0C7DNNYVL?tag=junaopromoc03-20",
+    "timestamp": 1790731664128,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "TESTE DE PUBLICAÇÃO — Smartphone Xiaomi Poco X8 Pro 5G — 256GB / 512GB",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
