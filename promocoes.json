@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "O CAFÉ OU O ALMOÇO NÃO SE FAZ SOZINHO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 504,00",
+    "precoPor": "R$ 200,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926296-MLA99483685310_112025-O.webp",
+    "link": "https://meli.la/1UnJtPb",
+    "linkWhatsapp": "https://meli.la/1UnJtPb",
+    "timestamp": 1790810307290,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 4 Blusas Feminina Canelada",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -1407,21 +1422,6 @@
     "link": "https://meli.la/1uYiyYo",
     "linkWhatsapp": "https://meli.la/1uYiyYo",
     "timestamp": 1790723964842,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 45,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_694963-MLB101655852023_122025-O.webp",
-    "link": "https://meli.la/2okqmdW",
-    "linkWhatsapp": "https://meli.la/2okqmdW",
-    "timestamp": 1790723764345,
     "imagemIlustrativa": false
   }
 ]
