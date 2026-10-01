@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis adidas Confortável Macio Leve Treino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 400,00",
+    "precoPor": "R$ 264,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_642093-MLB113986654768_072026-O.webp",
+    "link": "https://meli.la/1Szy3kG",
+    "linkWhatsapp": "https://meli.la/1Szy3kG",
+    "timestamp": 1790815665710,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Escrivaninha Industrial Office Aço MDF",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1422,21 +1437,6 @@
     "link": "https://meli.la/2vWaohD",
     "linkWhatsapp": "https://meli.la/2vWaohD",
     "timestamp": 1790730496669,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 59,95",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_852153-MLB104911095090_012026-O.webp",
-    "link": "https://meli.la/1PwWM8X",
-    "linkWhatsapp": "https://meli.la/1PwWM8X",
-    "timestamp": 1790729019718,
     "imagemIlustrativa": false
   }
 ]
