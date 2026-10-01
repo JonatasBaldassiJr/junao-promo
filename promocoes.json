@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Air Fryer Electrolux 5,6L Efficient por Rita Lobo EAF40",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 325,00",
+    "precoPor": "R$ 284,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_696592-MLA104141415391_012026-O.webp",
+    "link": "https://meli.la/2NdTTtj",
+    "linkWhatsapp": "https://meli.la/2NdTTtj",
+    "timestamp": 1790857650976,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -1497,36 +1512,6 @@
     "link": "https://meli.la/1eH5x13",
     "linkWhatsapp": "https://meli.la/1eH5x13",
     "timestamp": 1790771428088,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina 100% Pura Dark Lab 1KG",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 55,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-O.webp",
-    "link": "https://meli.la/2ZU9cm1",
-    "linkWhatsapp": "https://meli.la/2ZU9cm1",
-    "timestamp": 1790771247044,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Máscaras De Tratamento Nutrição + Hidratação Stages - Braé",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 179,00",
-    "precoPor": "R$ 67,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_650936-MLA96573783314_112025-O.webp",
-    "link": "https://meli.la/1jXPyer",
-    "linkWhatsapp": "https://meli.la/1jXPyer",
-    "timestamp": 1790771015420,
     "imagemIlustrativa": false
   }
 ]
