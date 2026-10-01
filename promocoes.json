@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Churrasqueira Elétrica De Mesa Bbq Show Elgin 110V",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 129,00",
+    "precoPor": "R$ 84,55",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51cuJ-xzcAL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0BLSZW19L?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0BLSZW19L?tag=junaopromoc03-20",
+    "timestamp": 1790813182447,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Heinz Maionese Tradicional 400g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1347,51 +1362,6 @@
     "link": "https://meli.la/1PwWM8X",
     "linkWhatsapp": "https://meli.la/1PwWM8X",
     "timestamp": 1790729019718,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 71,00",
-    "precoPor": "R$ 47,45",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990126-MLA99601165372_122025-O.webp",
-    "link": "https://meli.la/2SFEutW",
-    "linkWhatsapp": "https://meli.la/2SFEutW",
-    "timestamp": 1790726364544,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 62,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_929727-MLB113408773383_062026-O.webp",
-    "link": "https://meli.la/1KkjbpS",
-    "linkWhatsapp": "https://meli.la/1KkjbpS",
-    "timestamp": 1790726147528,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 470,00",
-    "precoPor": "R$ 343,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-O.webp",
-    "link": "https://meli.la/148Dbg9",
-    "linkWhatsapp": "https://meli.la/148Dbg9",
-    "timestamp": 1790725931093,
     "imagemIlustrativa": false
   }
 ]
