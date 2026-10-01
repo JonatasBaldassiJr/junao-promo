@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vodka Absolut Vanilia - 750 ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 117,00",
+    "precoPor": "R$ 74,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61kRgGBakLL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4jzx0hS",
+    "linkWhatsapp": "https://amzn.to/4jzx0hS",
+    "timestamp": 1790875788042,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Creatina Dark Lab Premium em cápsula Sem sabor de 120 un",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1782,21 +1797,6 @@
     "link": "https://meli.la/2761KEF",
     "linkWhatsapp": "https://meli.la/2761KEF",
     "timestamp": 1790789912668,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Shampoo Vonixx V-Floc + Cera Tok Final + Revitalizador Intense + Pretinho Vintex + Acessórios",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 80,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949612-MLB96041952453_102025-O.webp",
-    "link": "https://meli.la/1Jrsm59",
-    "linkWhatsapp": "https://meli.la/1Jrsm59",
-    "timestamp": 1790789368248,
     "imagemIlustrativa": false
   }
 ]
