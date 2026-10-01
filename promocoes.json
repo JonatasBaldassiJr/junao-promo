@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "NIVEA Sabonete Líquido Óleo de Banho 200ml — 2 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 79,99",
+    "precoPor": "R$ 46,18",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71tXUZBmJ6L._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0F56WW6Q3?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0F56WW6Q3?tag=junaopromoc03-20",
+    "timestamp": 1790820994431,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1482,21 +1497,6 @@
     "link": "https://www.amazon.com.br/dp/B07LBK41YG?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B07LBK41YG?tag=junaopromoc03-20",
     "timestamp": 1790737211106,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,00",
-    "precoPor": "R$ 130,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_784001-MLA108909448424_032026-O.webp",
-    "link": "https://meli.la/1ZsAvWc",
-    "linkWhatsapp": "https://meli.la/1ZsAvWc",
-    "timestamp": 1790734170423,
     "imagemIlustrativa": false
   }
 ]
