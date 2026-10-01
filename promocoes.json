@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gin Inglês Beefeater Blackberry Garrafa 700ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 86,96",
+    "precoPor": "R$ 55,47",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51le9h0WThL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B08R7TM341?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B08R7TM341?tag=junaopromoc03-20",
+    "timestamp": 1790819789724,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Aspirador Inteligente Xiaomi Mi Robot S40c Bivolt Branco",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1482,21 +1497,6 @@
     "link": "https://meli.la/1ZsAvWc",
     "linkWhatsapp": "https://meli.la/1ZsAvWc",
     "timestamp": 1790734170423,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Amazon",
-    "precoDe": "R$ 121,00",
-    "precoPor": "R$ 90,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51d99Rx1AbL._AC_SL1000_.jpg",
-    "link": "https://www.amazon.com.br/dp/B0D4FGT11P?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0D4FGT11P?tag=junaopromoc03-20",
-    "timestamp": 1790733386063,
     "imagemIlustrativa": false
   }
 ]
