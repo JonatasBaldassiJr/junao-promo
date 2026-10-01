@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "LEGO Minecraft A Batalha de Lava no Nether",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 56",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81Fx8Quy1SL._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=junaopromoc03-20",
+    "timestamp": 1790817854164,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "3 Corações Café Torrado e Moído Tradicional Pacote 250g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1482,36 +1497,6 @@
     "link": "https://www.amazon.com.br/dp/B0GJ75XWN6?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0GJ75XWN6?tag=junaopromoc03-20",
     "timestamp": 1790731484281,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 100,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_650356-MLA85544441137_062025-O.webp",
-    "link": "https://meli.la/1RAHcu3",
-    "linkWhatsapp": "https://meli.la/1RAHcu3",
-    "timestamp": 1790730688937,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sujeito a alteração de preço/estoque",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 214,00",
-    "precoPor": "R$ 114,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_632777-MLA114060071084_072026-O.webp",
-    "link": "https://meli.la/2vWaohD",
-    "linkWhatsapp": "https://meli.la/2vWaohD",
-    "timestamp": 1790730496669,
     "imagemIlustrativa": false
   }
 ]
