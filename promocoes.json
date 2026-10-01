@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel Liphoney-mel",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,99",
+    "precoPor": "R$ 19,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855365-MLB95050151929_102025-O.webp",
+    "link": "https://meli.la/28VHiuB",
+    "linkWhatsapp": "https://meli.la/28VHiuB",
+    "timestamp": 1790865700366,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -1587,21 +1602,6 @@
     "link": "https://meli.la/1Xgr7rs",
     "linkWhatsapp": "https://meli.la/1Xgr7rs",
     "timestamp": 1790779473890,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Parafusadeira e Furadeira de Impacto WAP WF-700FE 700W",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 92,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-O.webp",
-    "link": "https://meli.la/2qVP1GE",
-    "linkWhatsapp": "https://meli.la/2qVP1GE",
-    "timestamp": 1790779256347,
     "imagemIlustrativa": false
   }
 ]
