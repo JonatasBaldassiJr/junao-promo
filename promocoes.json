@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Chinelo Havaianas Masculino Power 2.0 Anatômica Massageadora",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 119,99",
+    "precoPor": "R$ 50,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_841603-MLB86676857236_062025-O.webp",
+    "link": "https://meli.la/1wZKnwJ",
+    "linkWhatsapp": "https://meli.la/1wZKnwJ",
+    "timestamp": 1790857871778,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Air Fryer Electrolux 5,6L Efficient por Rita Lobo EAF40",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -1497,21 +1512,6 @@
     "link": "https://meli.la/1HyZsea",
     "linkWhatsapp": "https://meli.la/1HyZsea",
     "timestamp": 1790771873496,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.180,95",
-    "precoPor": "R$ 1.110,64",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_756939-MLA99948448581_112025-O.webp",
-    "link": "https://meli.la/1eH5x13",
-    "linkWhatsapp": "https://meli.la/1eH5x13",
-    "timestamp": 1790771428088,
     "imagemIlustrativa": false
   }
 ]
