@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "CÂMERA INSTAX PAL BLUE",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 719,00",
+    "precoPor": "R$ 319,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51FUhSqrRCL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4rDOOKM",
+    "linkWhatsapp": "https://amzn.to/4rDOOKM",
+    "timestamp": 1790871386819,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis New Speed Esporte Masculino: Ideal Para Corridas",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -1692,21 +1707,6 @@
     "link": "https://meli.la/2AfoEhN",
     "linkWhatsapp": "https://meli.la/2AfoEhN",
     "timestamp": 1790785998968,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tinta Qualyvinil Acrílica Fosca – Mais Rendimento",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 107,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_899515-MLA92617328758_092025-O.webp",
-    "link": "https://meli.la/1dkcyQi",
-    "linkWhatsapp": "https://meli.la/1dkcyQi",
-    "timestamp": 1790784651899,
     "imagemIlustrativa": false
   }
 ]
