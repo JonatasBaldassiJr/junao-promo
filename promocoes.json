@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Frigideira Cerâmica Antiaderente Premium Cabo de Madeira Ergonômico, Fundo de Indução, Compatível com Fogão a Gás, Elétrico, Indução, e Vitrocerâmico Cozimento Saudável Frita Sem Óleo",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 65,00",
+    "precoPor": "R$ 47,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71UDT0oSuJL._AC_SL1254_.jpg",
+    "link": "https://amzn.to/4hYXwQA",
+    "linkWhatsapp": "https://amzn.to/4hYXwQA",
+    "timestamp": 1790891364279,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Camisa Gola Polo Masculina Pique Premium Algodão Confortável",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -2067,21 +2082,6 @@
     "link": "https://meli.la/2aHHcdH",
     "linkWhatsapp": "https://meli.la/2aHHcdH",
     "timestamp": 1790805330388,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bicicleta Elétrica Honeywhale B20",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 4.665",
-    "precoPor": "R$ 2.023",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_603508-MLA113190607451_062026-O.webp",
-    "link": "https://meli.la/2fKVGpR",
-    "linkWhatsapp": "https://meli.la/2fKVGpR",
-    "timestamp": 1790804445928,
     "imagemIlustrativa": false
   }
 ]
