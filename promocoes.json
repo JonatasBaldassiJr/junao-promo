@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit 3 Camisetas Algodão Dia Dia Sandrini Básica Conforto",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 105,40",
+    "precoPor": "R$ 49,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_683225-MLB100382923917_122025-O.webp",
+    "link": "https://meli.la/2Bvb5N5",
+    "linkWhatsapp": "https://meli.la/2Bvb5N5",
+    "timestamp": 1790884966475,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Coala Sabonete Liquido Maos e Corpo Limpa Hidrata Perfuma 500ml Orquidea Negra",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -2007,21 +2022,6 @@
     "link": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0D8RHX3C6?tag=junaopromoc03-20",
     "timestamp": 1790799733748,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sallve Protetor Solar em Bastão FPS60 15g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 80",
-    "precoPor": "R$ 49,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51tXlGWOXpL._AC_SL1200_.jpg",
-    "link": "https://www.amazon.com.br/dp/B0CRWRFHSC?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0CRWRFHSC?tag=junaopromoc03-20",
-    "timestamp": 1790798368934,
     "imagemIlustrativa": false
   }
 ]
