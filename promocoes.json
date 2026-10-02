@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Corrida Duramo Sl 2 adidas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 284,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_946646-MLB115605045309_082026-O.webp",
+    "link": "https://meli.la/1e4TaZm",
+    "linkWhatsapp": "https://meli.la/1e4TaZm",
+    "timestamp": 1790968063944,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Escorredor De Louça Inoxidável 2 Andares Drenagem Automática Bandeja Grande 360o Organizador Pia Com Porta Talheres Tigelas Pratos",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -2517,21 +2532,6 @@
     "link": "https://amzn.to/4y0whds",
     "linkWhatsapp": "https://amzn.to/4y0whds",
     "timestamp": 1790881832176,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cuba Pia De Apoio Sobrepor Retangular 37x27 Branca Para Banheiro Lavabo Beltempo BT-2010",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 211,00",
-    "precoPor": "R$ 111,29",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617413-MLA112639064580_062026-O.webp",
-    "link": "https://meli.la/2bYYigS",
-    "linkWhatsapp": "https://meli.la/2bYYigS",
-    "timestamp": 1790881645694,
     "imagemIlustrativa": false
   }
 ]
