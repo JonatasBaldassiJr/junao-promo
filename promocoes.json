@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Absorvente Noturno com Abas Sempre Livre, Cobertura Suave, 32 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,00",
+    "precoPor": "R$ 18,52",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61IxeaM7qML._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4jAXyiM",
+    "linkWhatsapp": "https://amzn.to/4jAXyiM",
+    "timestamp": 1790939327442,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -2277,21 +2292,6 @@
     "link": "https://meli.la/1TacEN9",
     "linkWhatsapp": "https://meli.la/1TacEN9",
     "timestamp": 1790853243248,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Pula Pula Infantil 1,8m Cama Elástica C/ Fechamento Zíper",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Shopee",
-    "precoDe": "R$ 897,76",
-    "precoPor": "R$ 389,41",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://s.shopee.com.br/9pekK8P11E",
-    "linkWhatsapp": "https://s.shopee.com.br/9pekK8P11E",
-    "timestamp": 1790852602581,
     "imagemIlustrativa": false
   }
 ]
