@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mesa Home Office Escrivaninha Industrial Quarto Notebook",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 299,00",
+    "precoPor": "R$ 112,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_802150-MLB84734066606_052025-O.webp",
+    "link": "https://meli.la/1RZzTBw",
+    "linkWhatsapp": "https://meli.la/1RZzTBw",
+    "timestamp": 1790953084807,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Barbeador e Aparador Elétrico Philips OneBlade com Pente 5 em 1, Sem Fio e À Prova D'Água - QP1425/10",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -2292,21 +2307,6 @@
     "link": "https://meli.la/29GZFre",
     "linkWhatsapp": "https://meli.la/29GZFre",
     "timestamp": 1790866904220,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Peças/mala Sacola De Viagem De Mão Esportiva Preto",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 159,90",
-    "precoPor": "R$ 85,14",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_987772-MLB103873538903_012026-O.webp",
-    "link": "https://meli.la/2bS1kqy",
-    "linkWhatsapp": "https://meli.la/2bS1kqy",
-    "timestamp": 1790866542740,
     "imagemIlustrativa": false
   }
 ]
