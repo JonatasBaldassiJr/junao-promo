@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Masculino E Feminino Response Runner 2 Adidas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 399,99",
+    "precoPor": "R$ 274,54",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730498-MLB115194811247_072026-O.webp",
+    "link": "https://meli.la/2k24EEK",
+    "linkWhatsapp": "https://meli.la/2k24EEK",
+    "timestamp": 1790937991103,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bermuda Jeans Cargo Baggy Masculina Streetwear Mesclada",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -2262,21 +2277,6 @@
     "link": "https://meli.la/17WKZ7N",
     "linkWhatsapp": "https://meli.la/17WKZ7N",
     "timestamp": 1790851825606,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Enxaguante Bucal Cool Mint Listerine, Menta, 1L",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 41,99",
-    "precoPor": "R$ 24,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61ziTQ+JRHL._AC_SL1500_.jpg",
-    "link": "https://amzn.to/4ADd5Fb",
-    "linkWhatsapp": "https://amzn.to/4ADd5Fb",
-    "timestamp": 1790851534177,
     "imagemIlustrativa": false
   }
 ]
