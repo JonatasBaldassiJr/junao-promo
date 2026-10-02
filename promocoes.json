@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Carina Street Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 349,00",
+    "precoPor": "R$ 201,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_762046-MLB83860526814_042025-O.webp",
+    "link": "https://meli.la/1WU2J61",
+    "linkWhatsapp": "https://meli.la/1WU2J61",
+    "timestamp": 1790944897823,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Jada Feminino Puma",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -2292,21 +2307,6 @@
     "link": "https://meli.la/24u3V44",
     "linkWhatsapp": "https://meli.la/24u3V44",
     "timestamp": 1790858500294,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Calça Sarja Masculina Alfaiataria Bolso Faca Tradicional",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 57,63",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753961-MLA105702161367_012026-O.webp",
-    "link": "https://meli.la/32kLumk",
-    "linkWhatsapp": "https://meli.la/32kLumk",
-    "timestamp": 1790858274605,
     "imagemIlustrativa": false
   }
 ]
