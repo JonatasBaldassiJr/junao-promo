@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 349,00",
+    "precoPor": "R$ 177,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.webp",
+    "link": "https://meli.la/1iAhSMs",
+    "linkWhatsapp": "https://meli.la/1iAhSMs",
+    "timestamp": 1790960635660,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tinta Antimofo Acrílica Econômica Qualyvinil",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -402,21 +417,6 @@
     "link": "https://meli.la/2bjqrb6",
     "linkWhatsapp": "https://meli.la/2bjqrb6",
     "timestamp": 1790952006404,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 349,99",
-    "precoPor": "R$ 177,64",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.webp",
-    "link": "https://meli.la/1iAhSMs",
-    "linkWhatsapp": "https://meli.la/1iAhSMs",
-    "timestamp": 1790951772505,
     "imagemIlustrativa": false
   },
   {
@@ -2397,21 +2397,6 @@
     "link": "https://amzn.to/4xSeiG1",
     "linkWhatsapp": "https://amzn.to/4xSeiG1",
     "timestamp": 1790874273515,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 84,90",
-    "precoPor": "R$ 43,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51gNBxSK22L._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4hX1yZJ",
-    "linkWhatsapp": "https://amzn.to/4hX1yZJ",
-    "timestamp": 1790874061328,
     "imagemIlustrativa": false
   }
 ]
