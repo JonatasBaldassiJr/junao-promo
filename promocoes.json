@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit 2 Camisetas New Fluid Masculina Dry Alpha",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 99,80",
+    "precoPor": "R$ 50,15",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_694963-MLB101655852023_122025-O.webp",
+    "link": "https://meli.la/2okqmdW",
+    "linkWhatsapp": "https://meli.la/2okqmdW",
+    "timestamp": 1790905796981,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cadeira Escritório Ergonômica Genebra G500 Luvinco Cor Cinza Com Suporte Lombar Estofado Mesh",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -2007,66 +2022,6 @@
     "link": "https://meli.la/2ZD4pLr",
     "linkWhatsapp": "https://meli.la/2ZD4pLr",
     "timestamp": 1790819534570,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "TAVA PESQUISANDO UM DESSES",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "R$ 41,98",
-    "precoPor": "R$ 20,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://s.shopee.com.br/8fSmJhkt9O",
-    "linkWhatsapp": "https://s.shopee.com.br/8fSmJhkt9O",
-    "timestamp": 1790819142619,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Microfone Condensador Gamer Logitech G Yeti Orb com RGB LIGHTSYNC",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 399,90",
-    "precoPor": "R$ 279,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61Yt-C0C3IL._AC_SL1500_.jpg",
-    "link": "https://www.amazon.com.br/dp/B0D1LGBJJM?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0D1LGBJJM?tag=junaopromoc03-20",
-    "timestamp": 1790818696626,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "NIVEA Desodorante Antitranspirante Roll-on Pearl & Beauty 50ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 9,90",
-    "precoPor": "R$ 5,53",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51P5UGqoVNL._AC_SL1500_.jpg",
-    "link": "https://www.amazon.com.br/dp/B009Z8SAIW?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B009Z8SAIW?tag=junaopromoc03-20",
-    "timestamp": 1790818120883,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "LEGO Minecraft A Batalha de Lava no Nether",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 56",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/81Fx8Quy1SL._AC_SL1500_.jpg",
-    "link": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DJ19R8H7?tag=junaopromoc03-20",
-    "timestamp": 1790817854164,
     "imagemIlustrativa": false
   }
 ]
