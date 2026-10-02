@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Jada Feminino Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 249,99",
+    "precoPor": "R$ 195,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706517-MLB82678208779_022025-O.webp",
+    "link": "https://meli.la/1Jh4jd2",
+    "linkWhatsapp": "https://meli.la/1Jh4jd2",
+    "timestamp": 1790944602648,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Eudora SIàge Promopack Hair-Plastia",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -2292,21 +2307,6 @@
     "link": "https://meli.la/32kLumk",
     "linkWhatsapp": "https://meli.la/32kLumk",
     "timestamp": 1790858274605,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Masculino Feminino Kappa Park 2.0 Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,99",
-    "precoPor": "R$ 61,13",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_612669-MLB117966660109_092026-O.webp",
-    "link": "https://meli.la/2seWsDW",
-    "linkWhatsapp": "https://meli.la/2seWsDW",
-    "timestamp": 1790858051355,
     "imagemIlustrativa": false
   }
 ]
