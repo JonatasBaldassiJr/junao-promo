@@ -439,9 +439,13 @@ async function carregarPromocoes(){
       if(!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
 
       const texto = await resposta.text();
-      const dados = parseJsonSeguro(texto)
-        .filter(x=>x && typeof x === "object" && String(x.titulo || "").trim())
+      const brutos = parseJsonSeguro(texto);
+      const dados = brutos
+        .filter(x=>x && typeof x === "object" && String(x.titulo || "").trim() && timestampOferta(x) > 0)
         .sort((a,b)=>timestampOferta(b)-timestampOferta(a));
+      // Oferta malformada é ignorada sozinha (as outras continuam aparecendo).
+      if(dados.length < brutos.length) console.warn("OFFER_SKIPPED_INVALID", brutos.length - dados.length);
+      salvarUltimaListaBoa(dados);
 
       const agora = Date.now();
       const ativas = dados.filter(item=>ofertaAtiva(item,agora));
@@ -457,17 +461,33 @@ async function carregarPromocoes(){
       return;
     }catch(erro){
       ultimoErro = erro;
-      console.warn("Falha em",fonte,erro);
+      console.warn("SITE_JSON_FETCH_FAILED",fonte,erro);
     }
   }
 
   carregando = false;
   statusEl.className = "status erro";
-  statusEl.textContent = "Não foi possível atualizar as ofertas agora.";
+  statusEl.textContent = "Estamos atualizando as ofertas. Tente novamente em instantes.";
 
+  // Última lista válida (guardada neste navegador): o visitante continua vendo as ofertas ainda ativas.
   if(!todasPromocoes.length){
-    listaProdutos.innerHTML = `<div class="vazio"><h3>Não foi possível carregar as ofertas</h3><p>${escapar(ultimoErro?.message || "Erro desconhecido")}</p><button class="atualizar" type="button" onclick="carregarPromocoes()">Tentar novamente</button></div>`;
+    const guardadas = ultimaListaBoa().filter(item=>ofertaAtiva(item));
+    if(guardadas.length){
+      todasPromocoes = guardadas;
+      renderizar();
+      return;
+    }
+    listaProdutos.innerHTML = `<div class="vazio"><h3>Estamos atualizando as ofertas</h3><p>Tente novamente em instantes.</p><button class="atualizar" type="button" onclick="carregarPromocoes()">Tentar novamente</button></div>`;
   }
+}
+
+function salvarUltimaListaBoa(lista){
+  try{ if(Array.isArray(lista) && lista.length) localStorage.setItem("junaoUltimaListaBoa",JSON.stringify(lista.slice(0,400))); }catch{}
+}
+
+function ultimaListaBoa(){
+  try{ const l = JSON.parse(localStorage.getItem("junaoUltimaListaBoa") || "[]"); return Array.isArray(l) ? l : []; }
+  catch{ return []; }
 }
 
 function criarImagem(item){
@@ -622,7 +642,11 @@ function renderizar(){
     return;
   }
 
-  pagina.forEach(item=>listaProdutos.appendChild(criarCard(item)));
+  // Um card com dado inesperado não derruba a vitrine: só ele fica de fora.
+  pagina.forEach(item=>{
+    try{ listaProdutos.appendChild(criarCard(item)); }
+    catch(erro){ console.warn("OFFER_SKIPPED_INVALID",item && item.titulo,erro); }
+  });
   montarPaginacao(totalPaginas,itens.length);
   atualizarTimers();
 }
