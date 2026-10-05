@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 35,12",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 41,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_920763-MLB115225463012_082026-O.jpg",
+    "link": "https://meli.la/1HhwNd7",
+    "linkWhatsapp": "https://meli.la/1HhwNd7",
+    "timestamp": 1791210074000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Calça Legging Lupo Original Feminina Academia",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2QhRGo7",
     "linkWhatsapp": "https://meli.la/2QhRGo7",
     "timestamp": 1790897730393,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bolsa Térmica Lancheira com Alça de Ombro para Marmita - Academira, Trabalho, Escola, Faculdade e Passeios - Marmiteira Impermeável Resistente 7 Litros - Cor PRETA",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 29,90",
-    "precoPor": "R$ 24,24",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51VC8wiM3oL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/3Vpvrt0",
-    "linkWhatsapp": "https://amzn.to/3Vpvrt0",
-    "timestamp": 1790897195915,
     "imagemIlustrativa": false
   }
 ]
