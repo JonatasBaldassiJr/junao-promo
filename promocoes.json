@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 29,00",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Magalu",
+    "precoDe": "",
+    "precoPor": "R$ 29,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://magazineluiza.onelink.me/589508454/90aq6m9m",
+    "linkWhatsapp": "https://magazineluiza.onelink.me/589508454/90aq6m9m",
+    "timestamp": 1791211628000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume Masculino e Feminino Ck Be Eau de Toilette 200ml Calvin Klein",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2xcQgYS",
     "linkWhatsapp": "https://meli.la/2xcQgYS",
     "timestamp": 1790899945340,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 T-shirts Oversized Colorful Algodão Cléa Store",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 387,00",
-    "precoPor": "R$ 90,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_725273-MLB113144780330_072026-O.webp",
-    "link": "https://meli.la/1FEjugn",
-    "linkWhatsapp": "https://meli.la/1FEjugn",
-    "timestamp": 1790899429611,
     "imagemIlustrativa": false
   }
 ]
