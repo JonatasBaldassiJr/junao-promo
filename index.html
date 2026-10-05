@@ -428,23 +428,31 @@ async function carregarPromocoes(){
 
   let ultimoErro = null;
 
-  for(const fonte of CONFIG.fontes){
+  // Busca as fontes ao mesmo tempo e usa a MAIS NOVA (o raw do GitHub fica até ~5 min em cache; o arquivo da Vercel
+  // atualiza a cada deploy). Uma fonte fora do ar não impede a outra.
+  const leituras = await Promise.all(CONFIG.fontes.map(async fonte=>{
     try{
       const separador = fonte.includes("?") ? "&" : "?";
-      const resposta = await fetch(fonte + separador + "v=" + Date.now(),{
-        method:"GET",
-        cache:"no-store"
-      });
-
+      const resposta = await fetch(fonte + separador + "v=" + Date.now(),{ method:"GET", cache:"no-store" });
       if(!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
-
-      const texto = await resposta.text();
-      const brutos = parseJsonSeguro(texto);
+      const brutos = parseJsonSeguro(await resposta.text());
       const dados = brutos
         .filter(x=>x && typeof x === "object" && String(x.titulo || "").trim() && timestampOferta(x) > 0)
         .sort((a,b)=>timestampOferta(b)-timestampOferta(a));
       // Oferta malformada é ignorada sozinha (as outras continuam aparecendo).
-      if(dados.length < brutos.length) console.warn("OFFER_SKIPPED_INVALID", brutos.length - dados.length);
+      if(dados.length < brutos.length) console.warn("OFFER_SKIPPED_INVALID", fonte, brutos.length - dados.length);
+      return { dados, maisNova: dados.length ? timestampOferta(dados[0]) : 0 };
+    }catch(erro){
+      ultimoErro = erro;
+      console.warn("SITE_JSON_FETCH_FAILED",fonte,erro);
+      return null;
+    }
+  }));
+  const melhor = leituras.filter(Boolean).sort((a,b)=>b.maisNova-a.maisNova)[0];
+
+  if(melhor){
+    try{
+      const dados = melhor.dados;
       salvarUltimaListaBoa(dados);
 
       const agora = Date.now();
@@ -461,7 +469,7 @@ async function carregarPromocoes(){
       return;
     }catch(erro){
       ultimoErro = erro;
-      console.warn("SITE_JSON_FETCH_FAILED",fonte,erro);
+      console.warn("SITE_RENDER_FAILED",erro);
     }
   }
 
