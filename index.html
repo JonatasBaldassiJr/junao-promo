@@ -238,9 +238,10 @@
 "use strict";
 
 const CONFIG = {
+  // Ordem = desempate: o arquivo da Vercel (atualiza a cada deploy) vem antes do raw do GitHub (cache de até 5 min).
   fontes: [
-    "https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json",
-    "/promocoes.json"
+    "/promocoes.json",
+    "https://raw.githubusercontent.com/JonatasBaldassiJr/junao-promo/main/promocoes.json"
   ],
   atualizarACada: 30000,
   duracaoOferta: 24 * 60 * 60 * 1000,
