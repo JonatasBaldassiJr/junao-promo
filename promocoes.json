@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 159,99",
+    "precoPor": "R$ 75,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4ytPG7G",
+    "linkWhatsapp": "https://amzn.to/4ytPG7G",
+    "timestamp": 1791233001000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 6 Cuecas Lupo Boxer Poliamida Sem Costura Box Masculina",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1SPYmrb",
     "linkWhatsapp": "https://meli.la/1SPYmrb",
     "timestamp": 1790951044726,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Principia PS-01 Protetor Solar Facial FPS 60 40 ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 49,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_941953-MLA115524012043_082026-O.webp",
-    "link": "https://meli.la/33pHMDE",
-    "linkWhatsapp": "https://meli.la/33pHMDE",
-    "timestamp": 1790950825023,
     "imagemIlustrativa": false
   }
 ]
