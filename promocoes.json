@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis adidas Feminino Corrida Caminhada Leve Confortável",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 197,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896122-MLB115527177797_082026-O.jpg",
+    "link": "https://meli.la/2EYedFq",
+    "linkWhatsapp": "https://meli.la/2EYedFq",
+    "timestamp": 1791231894000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Nike Air Max Nuaxis Masculino",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1d5E7PS",
     "linkWhatsapp": "https://meli.la/1d5E7PS",
     "timestamp": 1790949450017,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vitafor Support",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 198,00",
-    "precoPor": "R$ 142,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51JVVD1YRTL._AC_SL1200_.jpg",
-    "link": "https://amzn.to/3TvcWTr",
-    "linkWhatsapp": "https://amzn.to/3TvcWTr",
-    "timestamp": 1790948945737,
     "imagemIlustrativa": false
   }
 ]
