@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "SUGGAR LAVADORA DE ROUPAS LAVAMAX ECO 10KG 220V BRANCA LE1022BR",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 470,90",
+    "precoPor": "R$ 377,09",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0D152HV7Y.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rPghJK",
+    "linkWhatsapp": "https://amzn.to/4rPghJK",
+    "timestamp": 1791249955000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Parafusadeira de Precisão a Bateria 3,7V Tipo Caneta Vonder - 60.01.003.700",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1HmkcAa",
     "linkWhatsapp": "https://meli.la/1HmkcAa",
     "timestamp": 1790964957854,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 9 Pares Meias Puma Sapatilha Soquete Invisível Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 64,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_872253-MLB96642336275_102025-O.webp",
-    "link": "https://meli.la/2pPoao7",
-    "linkWhatsapp": "https://meli.la/2pPoao7",
-    "timestamp": 1790964739993,
     "imagemIlustrativa": false
   }
 ]
