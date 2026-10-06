@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "+Mu Chocowheyfer Proteico Sabor Baunilha - Display com 12 unidades - 300g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 87,00",
+    "precoPor": "R$ 50,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08DRHBKPW.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yqg5T3",
+    "linkWhatsapp": "https://amzn.to/4yqg5T3",
+    "timestamp": 1791327554000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Mochila Viagem Masculina 40L Grande Impermeável Reforçada para Avião Item Pessoal Suporta até 10kg MATEIN 1159 Preto",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 300,00",
+    "precoPor": "R$ 72,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_910810-MLA116816614939_082026-O.jpg",
+    "link": "https://meli.la/2GD6XNJ",
+    "linkWhatsapp": "https://meli.la/2GD6XNJ",
+    "timestamp": 1791327487000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tablet Positivo Vision Tab 7 Stitch, 64 GB, 3 GB RAM, Tela 7\" IPS, Android 14 Go, com Capa e Mochila",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2R5fjMA",
     "linkWhatsapp": "https://meli.la/2R5fjMA",
     "timestamp": 1791243548000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 212,00",
-    "precoPor": "R$ 115,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_726678-MLB85638884735_062025-O.jpg",
-    "link": "https://meli.la/1M2TMS6",
-    "linkWhatsapp": "https://meli.la/1M2TMS6",
-    "timestamp": 1791243251000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vaso Para Plantas Com Suporte De Madeira Decoração Casa Sala",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 200,00",
-    "precoPor": "R$ 151,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_714414-MLB104247675640_012026-O.jpg",
-    "link": "https://meli.la/1b25q9v",
-    "linkWhatsapp": "https://meli.la/1b25q9v",
-    "timestamp": 1791243078000,
     "imagemIlustrativa": false
   }
 ]
