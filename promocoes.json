@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "NIVEA Creme Hidratante Lata 56g, Hidratação Profunda 24h, Corporal, Uso Diário, Multibenefícios, Todas as Peles",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 24,26",
+    "precoPor": "R$ 13,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B079VTJLMZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yy3Rs2",
+    "linkWhatsapp": "https://amzn.to/4yy3Rs2",
+    "timestamp": 1791297216000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 189,00",
+    "precoPor": "R$ 75,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_916194-MLA114865292471_072026-O.jpg",
+    "link": "https://meli.la/1F7MjRy",
+    "linkWhatsapp": "https://meli.la/1F7MjRy",
+    "timestamp": 1791297145000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2jx8zci",
     "linkWhatsapp": "https://meli.la/2jx8zci",
     "timestamp": 1791139624000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Tapetes De Banheiro Microfibra Bolinha Antiderrepante Cor Sortido",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 64,97",
-    "precoPor": "R$ 37,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_704987-MLA102011222686_122025-O.jpg",
-    "link": "https://meli.la/2NgLqPa",
-    "linkWhatsapp": "https://meli.la/2NgLqPa",
-    "timestamp": 1791139434000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Penteadeira Kelan Suspensa Gaveta Multifuncional Prática Cor Branco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,95",
-    "precoPor": "R$ 59,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_961792-MLA112909834940_072026-O.jpg",
-    "link": "https://meli.la/34afiQW",
-    "linkWhatsapp": "https://meli.la/34afiQW",
-    "timestamp": 1791139250000,
     "imagemIlustrativa": false
   }
 ]
