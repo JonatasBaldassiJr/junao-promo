@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bio Oil Bio",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 116,00",
+    "precoPor": "R$ 52,75",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07BTPCPP9.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yu6pYf",
+    "linkWhatsapp": "https://amzn.to/4yu6pYf",
+    "timestamp": 1791247505000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mesa Escrivaninha Em L 2 Peças Trevalla Kuadra ML150 Carvalho",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2dMKvbg",
     "linkWhatsapp": "https://meli.la/2dMKvbg",
     "timestamp": 1790963605597,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 4 Camisetas Masculina Academia Dry Fit Corrida Esportiva Kit B G3 Furadinha",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,99",
-    "precoPor": "R$ 64,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825681-MLB115953573821_082026-O.webp",
-    "link": "https://meli.la/2K2S7Fg",
-    "linkWhatsapp": "https://meli.la/2K2S7Fg",
-    "timestamp": 1790963104201,
     "imagemIlustrativa": false
   }
 ]
