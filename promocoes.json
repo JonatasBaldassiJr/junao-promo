@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ypê Amaciante Tradicional Aconchego 5L (Embalagem pode variar)",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 25,99",
+    "precoPor": "R$ 18,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07HZL4D72.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y8VKkO",
+    "linkWhatsapp": "https://amzn.to/4y8VKkO",
+    "timestamp": 1791299606000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor LG UltraGear™ OLED 27GX704A-B 27\" QHD 0.03ms (GtG) 240Hz NVIDIA G-SYNC AMD FreeSync Premium Pro Vesa Cle",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2uJ6x3r",
     "linkWhatsapp": "https://meli.la/2uJ6x3r",
     "timestamp": 1791147243000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bolsa Térmica Mochila Marmita Grande Cooler Impermeável",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,90",
-    "precoPor": "R$ 48,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_989975-MLB116726097738_092026-O.jpg",
-    "link": "https://meli.la/15akcdE",
-    "linkWhatsapp": "https://meli.la/15akcdE",
-    "timestamp": 1791146747000,
     "imagemIlustrativa": false
   }
 ]
