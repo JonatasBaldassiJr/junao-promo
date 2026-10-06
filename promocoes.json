@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "DaColônia Paçoquinha Zero Açúcar 18 g Pote 32 Unidades",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 36,67",
+    "precoPor": "R$ 25,80",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09DP75V7W.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TGpqHK",
+    "linkWhatsapp": "https://amzn.to/3TGpqHK",
+    "timestamp": 1791264109000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tramontina Lâmpada Smart​ LED Inteligente E27​ 10W Wi-Fi + Bluetooth​ 16 Milhões de Cores - Compatível com Alexa e Google Assistente",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/29X2gSV",
     "linkWhatsapp": "https://meli.la/29X2gSV",
     "timestamp": 1791109582000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Poltrona Beatriz Orgânica Bouclê Bege Conforto E Estilo",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.335,24",
-    "precoPor": "R$ 622,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_782997-MLB117188248295_092026-O.jpg",
-    "link": "https://meli.la/1fMKsGb",
-    "linkWhatsapp": "https://meli.la/1fMKsGb",
-    "timestamp": 1791087622000,
     "imagemIlustrativa": false
   }
 ]
