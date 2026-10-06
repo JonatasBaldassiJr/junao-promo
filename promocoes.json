@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vodka Absolut Raspberri - 750 ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 117,90",
+    "precoPor": "R$ 69,52",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09W65NNN6.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rNwH5e",
+    "linkWhatsapp": "https://amzn.to/4rNwH5e",
+    "timestamp": 1791325916000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2sht5rC",
     "linkWhatsapp": "https://meli.la/2sht5rC",
     "timestamp": 1791240019000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Bermuda Masculina Importada Seda Secagem Rápida",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 121,00",
-    "precoPor": "R$ 88,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672676-MLB96555670802_112025-O.jpg",
-    "link": "https://meli.la/2aHHcdH",
-    "linkWhatsapp": "https://meli.la/2aHHcdH",
-    "timestamp": 1791239393000,
     "imagemIlustrativa": false
   }
 ]
