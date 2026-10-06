@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 249,90",
+    "precoPor": "R$ 139,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FN5DD149.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VsKAtG",
+    "linkWhatsapp": "https://amzn.to/3VsKAtG",
+    "timestamp": 1791325539000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Cozedor De Ovos Automático Panela A Vapor Elétrica Legumes Elétrica Portátil Prático Rápido 7 Ovos Em 5min Micgeek",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 51,00",
+    "precoPor": "R$ 30,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_873330-MLA115104920512_082026-O.jpg",
+    "link": "https://meli.la/1rTfWDp",
+    "linkWhatsapp": "https://meli.la/1rTfWDp",
+    "timestamp": 1791325475000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Notebook Vaio Fe16 Amd Ryzen 7-5825u Linux 16gb RAM 512gb Ssd Wi-Fi 6 Tela 16\" Ips Wuxga Antirreflexo Cinza Grafite Vjfe69f11xb0121h - Permite upgrade de memória RAM e SSD",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2aHHcdH",
     "linkWhatsapp": "https://meli.la/2aHHcdH",
     "timestamp": 1791239393000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Hoverboard Skate Elétrico 6.5 Polegadas Com Led E Bluetooth Fogo E Gelo",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 569,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_825705-MLA106896347785_022026-O.jpg",
-    "link": "https://meli.la/1SmfHvs",
-    "linkWhatsapp": "https://meli.la/1SmfHvs",
-    "timestamp": 1791239218000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Fitness Rishon",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 370,00",
-    "precoPor": "R$ 75,77",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_605578-MLA113633610823_062026-O.jpg",
-    "link": "https://meli.la/1B4sUEb",
-    "linkWhatsapp": "https://meli.la/1B4sUEb",
-    "timestamp": 1791239031000,
     "imagemIlustrativa": false
   }
 ]
