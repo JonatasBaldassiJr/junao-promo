@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Percarbonato 1kg + Alvejante 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 36,93",
+    "precoPor": "R$ 16,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36",
+    "link": "https://s.shopee.com.br/4LJwGcuYaf",
+    "linkWhatsapp": "https://s.shopee.com.br/4LJwGcuYaf",
+    "timestamp": 1791312683000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Mesa de Cabeceira Retrô Compacta com Nicho para Quarto Sala Casal ou Solteiro Palma",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Shopee",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 29,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rd6x-luv5vclgwaxb45",
+    "link": "https://s.shopee.com.br/6fhr2qId5v",
+    "linkWhatsapp": "https://s.shopee.com.br/6fhr2qId5v",
+    "timestamp": 1791312619000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Cuecas Boxer Lupo Algodão Respirável Box Original",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2ZgEEv1",
     "linkWhatsapp": "https://meli.la/2ZgEEv1",
     "timestamp": 1791206257000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Cuecas Algodão Polo Wear Sortido",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 126,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_970040-MLB100679895148_122025-O.jpg",
-    "link": "https://meli.la/23WtaSZ",
-    "linkWhatsapp": "https://meli.la/23WtaSZ",
-    "timestamp": 1791205694000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Prateleira Industrial de Parede em Ferro Preto com Madeira Laminada – Ideal para Sala, Quarto ou Escritório Mod: Nicho Triplo",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 143,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_823938-MLA109870566465_032026-O.jpg",
-    "link": "https://meli.la/24ispwu",
-    "linkWhatsapp": "https://meli.la/24ispwu",
-    "timestamp": 1791205206000,
     "imagemIlustrativa": false
   }
 ]
