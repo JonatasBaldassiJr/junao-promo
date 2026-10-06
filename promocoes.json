@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Mattel Brick Shop Hot Wheels 1990 Honda Civic EF Speed Series Custom",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 239,99",
+    "precoPor": "R$ 89,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FGF63F5G.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hxuY0C",
+    "linkWhatsapp": "https://amzn.to/4hxuY0C",
+    "timestamp": 1791294421000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 137,00",
+    "precoPor": "R$ 81,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_761257-MLA108807654621_032026-O.jpg",
+    "link": "https://meli.la/1wvRBKU",
+    "linkWhatsapp": "https://meli.la/1wvRBKU",
+    "timestamp": 1791294363000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Xiaomi Redmi Note 15 256gb 8gb Ram Dual Sim",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2GAA3MW",
     "linkWhatsapp": "https://meli.la/2GAA3MW",
     "timestamp": 1791133412000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 240,00",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_998463-MLA116907384785_082026-O.jpg",
-    "link": "https://meli.la/2qXPGoP",
-    "linkWhatsapp": "https://meli.la/2qXPGoP",
-    "timestamp": 1791133229000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Bermuda Masculina Poliéster Pra Academia Caminhada",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,99",
-    "precoPor": "R$ 52,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_868481-MLB113923447962_072026-O.jpg",
-    "link": "https://meli.la/1Sve9WD",
-    "linkWhatsapp": "https://meli.la/1Sve9WD",
-    "timestamp": 1791133004000,
     "imagemIlustrativa": false
   }
 ]
