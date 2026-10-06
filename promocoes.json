@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "The Legend of Zelda: Ocarina of Time – Nintendo Switch 2",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 34,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0HJK1HWFR.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4j1wRnk",
+    "linkWhatsapp": "https://amzn.to/4j1wRnk",
+    "timestamp": 1791296926000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2MmQbzK",
     "linkWhatsapp": "https://meli.la/2MmQbzK",
     "timestamp": 1791138852000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Camisetas Aramis Preta/branca/azul Marinho - Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 675,99",
-    "precoPor": "R$ 339,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_899500-MLB100376210522_122025-O.jpg",
-    "link": "https://meli.la/2vuKKM5",
-    "linkWhatsapp": "https://meli.la/2vuKKM5",
-    "timestamp": 1791138659000,
     "imagemIlustrativa": false
   }
 ]
