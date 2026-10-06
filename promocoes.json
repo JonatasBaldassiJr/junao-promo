@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Achocolatado ALPINO® 1Kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 33,00",
+    "precoPor": "R$ 22,76",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XTFT7G1.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zj4TbB",
+    "linkWhatsapp": "https://amzn.to/4zj4TbB",
+    "timestamp": 1791329565000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Jogo Toalha Banho 5 Peças 100 Algodão Imperial Karsten",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 279,00",
+    "precoPor": "R$ 169,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915129-MLA95659330234_102025-O.jpg",
+    "link": "https://meli.la/2E2VQwt",
+    "linkWhatsapp": "https://meli.la/2E2VQwt",
+    "timestamp": 1791329513000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cacheador Phico Cachos de 25mm. Revestimento em cerâmica, PEC15 Intense Curves Bivolt",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2UYTkVL",
     "linkWhatsapp": "https://meli.la/2UYTkVL",
     "timestamp": 1791248572000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bio Oil Bio",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 116,00",
-    "precoPor": "R$ 52,75",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07BTPCPP9.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yu6pYf",
-    "linkWhatsapp": "https://amzn.to/4yu6pYf",
-    "timestamp": 1791247505000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mesa Escrivaninha Em L 2 Peças Trevalla Kuadra ML150 Carvalho",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 513,36",
-    "precoPor": "R$ 335,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B089Y3BZQR.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4huAJMv",
-    "linkWhatsapp": "https://amzn.to/4huAJMv",
-    "timestamp": 1791247172000,
     "imagemIlustrativa": false
   }
 ]
