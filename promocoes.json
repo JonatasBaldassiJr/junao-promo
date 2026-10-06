@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 32,99",
+    "precoPor": "R$ 23,65",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CBCRP3BS.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zn1XuB",
+    "linkWhatsapp": "https://amzn.to/4zn1XuB",
+    "timestamp": 1791286934000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Panela Elétrica Electrolux vapor arroz capacidade 2L 6 Xícaras 2 em 1 timer panela removivel antiaderente tampa com visor transparente ERC10 inox 127v por Rita Lobo",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2scpUfn",
     "linkWhatsapp": "https://meli.la/2scpUfn",
     "timestamp": 1791118941000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Cuecas Masculinas Boxer Variadas Alta Qualidade Aaa",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 59,90",
-    "precoPor": "R$ 27,75",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_965180-MLB95166690302_102025-O.jpg",
-    "link": "https://meli.la/1fCcS4T",
-    "linkWhatsapp": "https://meli.la/1fCcS4T",
-    "timestamp": 1791118693000,
     "imagemIlustrativa": false
   }
 ]
