@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "YoPRO Bebida Láctea UHT Morango – 15g de Proteínas, Líquido, Caixinha Tetra Pak 250ml (Pack com 12 unidades)",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 98,00",
+    "precoPor": "R$ 71,29",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0D4RHRR3V.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4j1HZk7",
+    "linkWhatsapp": "https://amzn.to/4j1HZk7",
+    "timestamp": 1791262544000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Notebook Asus Vivobook Go 15 Amd Ryzen 5 7520u 16gb 512ssd Mixed Black",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2aCCA2F",
     "linkWhatsapp": "https://meli.la/2aCCA2F",
     "timestamp": 1791086188000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mousepad Gamer P/ Desktop Estampa Mapa Mundi 70X35CM Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "R$ 41,98",
-    "precoPor": "R$ 20,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7m8bormq6qc20",
-    "link": "https://s.shopee.com.br/6q1D3lOh8d",
-    "linkWhatsapp": "https://s.shopee.com.br/6q1D3lOh8d",
-    "timestamp": 1791086000000,
     "imagemIlustrativa": false
   }
 ]
