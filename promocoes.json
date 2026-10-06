@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Knock Knock Vinho Tinto Espanhol Red Blend 750Ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 79,00",
+    "precoPor": "R$ 16,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B071WLBJ6P.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ya6n75",
+    "linkWhatsapp": "https://amzn.to/4ya6n75",
+    "timestamp": 1791304782000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 59,00",
+    "precoPor": "R$ 25,13",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.jpg",
+    "link": "https://meli.la/1E1wHbg",
+    "linkWhatsapp": "https://meli.la/1E1wHbg",
+    "timestamp": 1791304710000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Havaianas Brasil - Original - Mod Light - Varias Cores.",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://s.shopee.com.br/905j11Itvu",
     "linkWhatsapp": "https://s.shopee.com.br/905j11Itvu",
     "timestamp": 1791160495000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,99",
-    "precoPor": "R$ 19,87",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896126-MLA115949165434_092026-O.jpg",
-    "link": "https://meli.la/1Y2qsvN",
-    "linkWhatsapp": "https://meli.la/1Y2qsvN",
-    "timestamp": 1791159556000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gel de Limpeza Facial Darrow Actine Oil Control Pele Mista Oleosa 400g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 56,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_610586-MLA113071404726_072026-O.jpg",
-    "link": "https://meli.la/2H7iPYA",
-    "linkWhatsapp": "https://meli.la/2H7iPYA",
-    "timestamp": 1791159358000,
     "imagemIlustrativa": false
   }
 ]
