@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Armani Beauty, Acqua di Gioia, Eau de Parfum, Giorgio Armani, Perfume Feminino Fragrância Cítrica Aquática Refrescante com Notas de Limão, Hortelã e Jasmim",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 529,00",
+    "precoPor": "R$ 284,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B01F2LAUUG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3U5McJo",
+    "linkWhatsapp": "https://amzn.to/3U5McJo",
+    "timestamp": 1791292667000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Sanduicheira Elétrica Cadence SAN400 Preta",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1oKEfV2",
     "linkWhatsapp": "https://meli.la/1oKEfV2",
     "timestamp": 1791130452000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tenis Feminino Original Leve Confortável Olimp Nice Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 92,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897805-MLB110085348355_042026-O.jpg",
-    "link": "https://meli.la/2N6s7t6",
-    "linkWhatsapp": "https://meli.la/2N6s7t6",
-    "timestamp": 1791130259000,
     "imagemIlustrativa": false
   }
 ]
