@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Limpador Perfumado Veja Banho de Cheiro 2L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 11,86",
+    "precoPor": "R$ 10,25",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C7WGXZ8Q.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/473HAqg",
+    "linkWhatsapp": "https://amzn.to/473HAqg",
+    "timestamp": 1791321943000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Havit Mouse Gamer MS1001S RGB Programável Macro, 7 Botões, 800-1600-2400-3200-4800-8000 DPI, USB, Design Ergonômico, Antiderrapante",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 79,00",
+    "precoPor": "R$ 43,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07MC6RLN4.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y2lTSb",
+    "linkWhatsapp": "https://amzn.to/4y2lTSb",
+    "timestamp": 1791321865000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Casinha de Boneca Sunny Gabby’s Dollhouse Azul-Turquesa Com Figura e Sons",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1CSEC1p",
     "linkWhatsapp": "https://meli.la/1CSEC1p",
     "timestamp": 1791228484000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 456,00",
-    "precoPor": "R$ 266,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606677-MLA115733886141_082026-O.jpg",
-    "link": "https://meli.la/1iGtKRm",
-    "linkWhatsapp": "https://meli.la/1iGtKRm",
-    "timestamp": 1791228312000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 5.000,00",
-    "precoPor": "R$ 1.962,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_884169-MLA106908124660_022026-O.jpg",
-    "link": "https://meli.la/27UxSmq",
-    "linkWhatsapp": "https://meli.la/27UxSmq",
-    "timestamp": 1791228129000,
     "imagemIlustrativa": false
   }
 ]
