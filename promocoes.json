@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cacheador Phico Cachos de 25mm. Revestimento em cerâmica, PEC15 Intense Curves Bivolt",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 114,70",
+    "precoPor": "R$ 65,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BQRQVF2C.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4AMSf65",
+    "linkWhatsapp": "https://amzn.to/4AMSf65",
+    "timestamp": 1791329417000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Carregador Portátil Powerbank Display 20000mah Multi - Cb176",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4huAJMv",
     "linkWhatsapp": "https://amzn.to/4huAJMv",
     "timestamp": 1791247172000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Varal Dobrável De Chão 3 Andares De Roupas Grande Com Rodinha Aba Lateral Retrátil Para Cabide Irsina",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_909863-MLA89943157034_082025-O.jpg",
-    "link": "https://meli.la/11injuz",
-    "linkWhatsapp": "https://meli.la/11injuz",
-    "timestamp": 1791246723000,
     "imagemIlustrativa": false
   }
 ]
