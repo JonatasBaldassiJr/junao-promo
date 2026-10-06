@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 125,32",
+    "precoPor": "R$ 87,30",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VCP7GMD.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hI2m3g",
+    "linkWhatsapp": "https://amzn.to/4hI2m3g",
+    "timestamp": 1791252498000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mesa Para Computador Escrivaninha Escritorio Pequena Home",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1e4TaZm",
     "linkWhatsapp": "https://meli.la/1e4TaZm",
     "timestamp": 1790968063944,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Escorredor De Louça Inoxidável 2 Andares Drenagem Automática Bandeja Grande 360o Organizador Pia Com Porta Talheres Tigelas Pratos",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 189,99",
-    "precoPor": "R$ 87,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_664647-MLA113791834006_072026-O.webp",
-    "link": "https://meli.la/2epja4D",
-    "linkWhatsapp": "https://meli.la/2epja4D",
-    "timestamp": 1790967845281,
     "imagemIlustrativa": false
   }
 ]
