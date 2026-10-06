@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Lacta Ouro Branco - Wafer Recheado Sabor Chocolate Branco Pacote 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 59,90",
+    "precoPor": "R$ 49,62",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07CV3SYCN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yi6Nca",
+    "linkWhatsapp": "https://amzn.to/4yi6Nca",
+    "timestamp": 1791255899000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Relógio Smartwatch Aurafit G15 Com Gps E À Prova D&quotágua 3atm",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2BQpRwD",
     "linkWhatsapp": "https://meli.la/2BQpRwD",
     "timestamp": 1790972819178,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Baunilha x 1kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,90",
-    "precoPor": "R$ 79,44",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_960337-MLA111724818522_062026-O.webp",
-    "link": "https://meli.la/24u3V44",
-    "linkWhatsapp": "https://meli.la/24u3V44",
-    "timestamp": 1790972339834,
     "imagemIlustrativa": false
   }
 ]
