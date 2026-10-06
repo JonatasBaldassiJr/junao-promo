@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ninho, Leite Po Integral, Pacote 750g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 43,19",
+    "precoPor": "R$ 38,87",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0964WBFFG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4dUicH4",
+    "linkWhatsapp": "https://amzn.to/4dUicH4",
+    "timestamp": 1791312788000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Percarbonato 1kg + Alvejante 1kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1VJJRBC",
     "linkWhatsapp": "https://meli.la/1VJJRBC",
     "timestamp": 1791206616000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Asad Elixir 100ml Eau De Parfum Original Edp Lançamento 2026",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 369,00",
-    "precoPor": "R$ 204,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_736701-MLA110591850157_042026-O.jpg",
-    "link": "https://meli.la/2ZgEEv1",
-    "linkWhatsapp": "https://meli.la/2ZgEEv1",
-    "timestamp": 1791206257000,
     "imagemIlustrativa": false
   }
 ]
