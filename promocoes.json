@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Armário Aéreo de Cozinha Branco Itatiaia 3 Portas Rose",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 275,00",
+    "precoPor": "R$ 192,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977816-MLA95708433834_102025-O.jpg",
+    "link": "https://meli.la/14zmm7a",
+    "linkWhatsapp": "https://meli.la/14zmm7a",
+    "timestamp": 1791330797000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Relógio Unissex Casio Digital Esportivo A158wa-1df Prata Retrô Vintage Pulseira em Aço Inoxidável",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4AwKXTQ",
     "linkWhatsapp": "https://amzn.to/4AwKXTQ",
     "timestamp": 1791251360000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "WAP Vaporizador de Roupas e Tecidos WAPORE FAST 1250 com Escova, Capacidade de 200ml, Vapor Quente 160°C, 1250W, 127V",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 129,90",
-    "precoPor": "R$ 114,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BJL39X4P.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4ymJsGA",
-    "linkWhatsapp": "https://amzn.to/4ymJsGA",
-    "timestamp": 1791251172000,
     "imagemIlustrativa": false
   }
 ]
