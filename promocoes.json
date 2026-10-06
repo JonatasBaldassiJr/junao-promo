@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Perfume Creed Aventus M 100ML",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 2.799,99",
+    "precoPor": "R$ 1.958,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0799KPC58.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/47a448W",
+    "linkWhatsapp": "https://amzn.to/47a448W",
+    "timestamp": 1791326469000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Creme Hidratante Corporal e facial para Pele Seca a Extra Seca Sem Perfume 454g CeraVe",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 143,00",
+    "precoPor": "R$ 85,41",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_806507-MLA92874967013_092025-O.jpg",
+    "link": "https://meli.la/28YscZi",
+    "linkWhatsapp": "https://meli.la/28YscZi",
+    "timestamp": 1791326389000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Philips 27\" 120Hz 1ms Gaming Alto-falantes 271V8LAB3",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4xSeiG1",
     "linkWhatsapp": "https://amzn.to/4xSeiG1",
     "timestamp": 1791240613000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Jaquetas Corta Vento Rock Saints Liso Com Capuz",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 180,74",
-    "precoPor": "R$ 83,21",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791121-MLB116263774066_092026-O.jpg",
-    "link": "https://meli.la/2pS9BhC",
-    "linkWhatsapp": "https://meli.la/2pS9BhC",
-    "timestamp": 1791240412000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV 43\" Philco Roku TV HDR10 Dolby Áudio",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.599,00",
-    "precoPor": "R$ 1.249,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51mIxc22QdL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4hKrcQ8",
-    "linkWhatsapp": "https://amzn.to/4hKrcQ8",
-    "timestamp": 1791240209000,
     "imagemIlustrativa": false
   }
 ]
