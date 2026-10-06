@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "NIVEA Sabonete Líquido Íntimo Fresh Comfort 250ml, Limpeza Suave, Mantém pH Natural, Aloe Vera, Cuidado Refrescante, Uso Diário",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 20,00",
+    "precoPor": "R$ 11,39",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07F3823D9.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4768i1i",
+    "linkWhatsapp": "https://amzn.to/4768i1i",
+    "timestamp": 1791323489000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Aparelho de Jantar e Chá 20 peças Donna Colb",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 299,90",
+    "precoPor": "R$ 195,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09XSY7WYZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ATlIv6",
+    "linkWhatsapp": "https://amzn.to/4ATlIv6",
+    "timestamp": 1791323403000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bola Elétrica Interativa Brinquedo Inteligente Gato Cachorro",
     "categoria": "pet",
     "categoriaNome": "Pet",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1RW5vxR",
     "linkWhatsapp": "https://meli.la/1RW5vxR",
     "timestamp": 1791233212000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 159,99",
-    "precoPor": "R$ 75,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4ytPG7G",
-    "linkWhatsapp": "https://amzn.to/4ytPG7G",
-    "timestamp": 1791233001000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Cuecas Lupo Boxer Poliamida Sem Costura Box Masculina",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 110,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_691576-MLB112113678795_052026-O.jpg",
-    "link": "https://meli.la/2mZ1ANn",
-    "linkWhatsapp": "https://meli.la/2mZ1ANn",
-    "timestamp": 1791232809000,
     "imagemIlustrativa": false
   }
 ]
