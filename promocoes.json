@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 119,90",
+    "precoPor": "R$ 49,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GHP4NL1J.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hxBhBk",
+    "linkWhatsapp": "https://amzn.to/4hxBhBk",
+    "timestamp": 1791297074000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Body Splash Masculino Blunn 200ml By Primacial - Perfume Floral Cítrico",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,00",
+    "precoPor": "R$ 27,31",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_645881-MLA112444596001_052026-O.jpg",
+    "link": "https://meli.la/1sokzrJ",
+    "linkWhatsapp": "https://meli.la/1sokzrJ",
+    "timestamp": 1791296995000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "The Legend of Zelda: Ocarina of Time – Nintendo Switch 2",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/34afiQW",
     "linkWhatsapp": "https://meli.la/34afiQW",
     "timestamp": 1791139250000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Lattafa Fakhar Platin 100ml Eau De Parfum",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 239,00",
-    "precoPor": "R$ 151,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_910451-MLA93370610474_092025-O.jpg",
-    "link": "https://meli.la/2kmyEvT",
-    "linkWhatsapp": "https://meli.la/2kmyEvT",
-    "timestamp": 1791139057000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Controle Gamer Sem Fio Compatível Pc Ps4 Bluetooth Joystick",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 82,88",
-    "precoPor": "R$ 49,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_923769-MLB117905634363_092026-O.jpg",
-    "link": "https://meli.la/2MmQbzK",
-    "linkWhatsapp": "https://meli.la/2MmQbzK",
-    "timestamp": 1791138852000,
     "imagemIlustrativa": false
   }
 ]
