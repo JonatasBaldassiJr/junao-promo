@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Liquidificador, Diamante, 900w, Preto, 220v, Britânia",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 129,00",
+    "precoPor": "R$ 94,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B076B9CBGR.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zbdjSd",
+    "linkWhatsapp": "https://amzn.to/4zbdjSd",
+    "timestamp": 1791328183000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Grand Theft Auto VI - PlayStation 5",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1NRjyiH",
     "linkWhatsapp": "https://meli.la/1NRjyiH",
     "timestamp": 1791245432000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Pares Meias Puma Cano Médio Alto Atoalhada Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 59,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617361-MLB54128842596_032023-O.jpg",
-    "link": "https://meli.la/1uKJjtp",
-    "linkWhatsapp": "https://meli.la/1uKJjtp",
-    "timestamp": 1791244875000,
     "imagemIlustrativa": false
   }
 ]
