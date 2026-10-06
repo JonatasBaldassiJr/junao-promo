@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Camiseta Feminina Under Armour Campus Core",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 129,00",
+    "precoPor": "R$ 59,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_880888-MLB93845425679_092025-O.jpg",
+    "link": "https://meli.la/2YchSML",
+    "linkWhatsapp": "https://meli.la/2YchSML",
+    "timestamp": 1791315091000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Pokémon TCG: 30th Celebration - Binder Collection PT-BR",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 345,89",
+    "precoPor": "R$ 230,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0HCCTKPGN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VxWq5H",
+    "linkWhatsapp": "https://amzn.to/3VxWq5H",
+    "timestamp": 1791314997000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Palmilha De Altissimo Conforto 4d Tênis Sapatos Ortopédica",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1MfdGPv",
     "linkWhatsapp": "https://meli.la/1MfdGPv",
     "timestamp": 1791212328000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Conjunto Feminino Fitness Top Nadador + Legging + Short Marrom Gg",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 144,00",
-    "precoPor": "R$ 78,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793483-MLB116906044368_092026-O.jpg",
-    "link": "https://meli.la/16aq57z",
-    "linkWhatsapp": "https://meli.la/16aq57z",
-    "timestamp": 1791212146000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Cestos Organizadores de Bambu Retangulares com Forro Lavável Multiuso Organizar Casa Banheiro Cozinha Guarda-Roupa Lavanderia Armazenamento de Objetos - Nany Pink",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,90",
-    "precoPor": "R$ 45,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_951342-MLA108523458787_032026-O.jpg",
-    "link": "https://meli.la/2xcQgYS",
-    "linkWhatsapp": "https://meli.la/2xcQgYS",
-    "timestamp": 1791211935000,
     "imagemIlustrativa": false
   }
 ]
