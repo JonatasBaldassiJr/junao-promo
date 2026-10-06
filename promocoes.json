@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tênis Feminino Esportivo Leve e mácio Academia Corrida",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 30,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m5tyxgjeaxz9d5",
+    "link": "https://s.shopee.com.br/4qGCuZ5FPM",
+    "linkWhatsapp": "https://s.shopee.com.br/4qGCuZ5FPM",
+    "timestamp": 1791315315000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Whisky Johnnie Walker Blonde 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,99",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VBXJY7P.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4drPE7L",
+    "linkWhatsapp": "https://amzn.to/4drPE7L",
+    "timestamp": 1791315263000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Secador de Cabelos Travel, Golden Rose, 1200W, Bivolt - SC-47-GR",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/21mMKE2",
     "linkWhatsapp": "https://meli.la/21mMKE2",
     "timestamp": 1791213087000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Notebook ASUS Vivobook S 14 S5406SA Copilot+ PC Intel Core Ultra 7 256 V 16GB RAM 512GB SSD Windows 11 Home 14\" OLED Mist Blue QD299W",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 6.999,00",
-    "precoPor": "R$ 5.659,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_842080-MLA109454435224_042026-O.jpg",
-    "link": "https://meli.la/1JL2GnR",
-    "linkWhatsapp": "https://meli.la/1JL2GnR",
-    "timestamp": 1791212580000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 61,69",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
-    "link": "https://s.shopee.com.br/6q1FOX6QNn",
-    "linkWhatsapp": "https://s.shopee.com.br/6q1FOX6QNn",
-    "timestamp": 1791212475000,
     "imagemIlustrativa": false
   }
 ]
