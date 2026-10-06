@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Comfort Amaciante Concentrado Frescor Intenso 1 L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 47,25",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07DTLS9M7.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TJfD3F",
+    "linkWhatsapp": "https://amzn.to/3TJfD3F",
+    "timestamp": 1791317429000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Chaleira Elétrica Jarra Café Chá Inox 110v",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1kY1TFy",
     "linkWhatsapp": "https://meli.la/1kY1TFy",
     "timestamp": 1791215791000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Camisetas Bolso Cb Pica-pau Xadrez Reserva",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 338,00",
-    "precoPor": "R$ 109,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_676978-MLB98663749768_112025-O.jpg",
-    "link": "https://meli.la/1dSbBLf",
-    "linkWhatsapp": "https://meli.la/1dSbBLf",
-    "timestamp": 1791215371000,
     "imagemIlustrativa": false
   }
 ]
