@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Brilhante Limpeza Total - Sabão Em Pó 2 2Kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 25,49",
+    "precoPor": "R$ 18,04",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0B94SLNXK.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hBVkgu",
+    "linkWhatsapp": "https://amzn.to/4hBVkgu",
+    "timestamp": 1791301299000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Calça Jeans Cargo Masculina Streetwear Preta Mescla 34 Ao 44",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 197,79",
+    "precoPor": "R$ 63,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_628310-MLB95718655116_102025-O.jpg",
+    "link": "https://meli.la/2Ez7mUV",
+    "linkWhatsapp": "https://meli.la/2Ez7mUV",
+    "timestamp": 1791301220000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2Bvb5N5",
     "linkWhatsapp": "https://meli.la/2Bvb5N5",
     "timestamp": 1791149354000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Sandrini Aero Run Academia Caminhada Treino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,99",
-    "precoPor": "R$ 59,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800756-MLB114124488109_072026-O.jpg",
-    "link": "https://meli.la/2EUYNVE",
-    "linkWhatsapp": "https://meli.la/2EUYNVE",
-    "timestamp": 1791149146000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Top Lupo Loba Fitness Confortável Ótima Sustentação Academia",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 89,00",
-    "precoPor": "R$ 41,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_943209-MLB95115260847_102025-O.jpg",
-    "link": "https://meli.la/2VC7t8i",
-    "linkWhatsapp": "https://meli.la/2VC7t8i",
-    "timestamp": 1791148966000,
     "imagemIlustrativa": false
   }
 ]
