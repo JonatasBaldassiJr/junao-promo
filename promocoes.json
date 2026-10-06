@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Apple iPhone 15 (256 GB) — Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 6.799,00",
+    "precoPor": "R$ 3.839,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CP6CJ8JG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4huZyYG",
+    "linkWhatsapp": "https://amzn.to/4huZyYG",
+    "timestamp": 1791326528000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume Creed Aventus M 100ML",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2SDd6ue",
     "linkWhatsapp": "https://meli.la/2SDd6ue",
     "timestamp": 1791240803000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Papel Higiênico Neve Supreme Folha Tripla Leve 32 Pague 28 20 Metros",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 73,99",
-    "precoPor": "R$ 51,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08DZ8WLZ7.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4xSeiG1",
-    "linkWhatsapp": "https://amzn.to/4xSeiG1",
-    "timestamp": 1791240613000,
     "imagemIlustrativa": false
   }
 ]
