@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Grand Theft Auto VI - PlayStation 5",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 449,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/475h8fS",
+    "linkWhatsapp": "https://amzn.to/475h8fS",
+    "timestamp": 1791327923000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "NIVEA Sabonete em Barra Creme Care Promo 6 un. 90g - Limpa e deixa a pele macia mesmo após o banho, com glicerina, fragrância NIVEA Creme e o exclusivo ingrediente Eucerit",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 22,90",
+    "precoPor": "R$ 16,49",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VGBZGWV.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4AREPpl",
+    "linkWhatsapp": "https://amzn.to/4AREPpl",
+    "timestamp": 1791327846000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Jogo De Frigideiras Francesas 3 Peças 14 18 24cm Preto Nacional",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1uKJjtp",
     "linkWhatsapp": "https://meli.la/1uKJjtp",
     "timestamp": 1791244875000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Lego Speed Champions - Williams Racing Fw46 Formula 1",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,99",
-    "precoPor": "R$ 143,66",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_694592-MLA99936180657_112025-O.jpg",
-    "link": "https://meli.la/2YGg7Wp",
-    "linkWhatsapp": "https://meli.la/2YGg7Wp",
-    "timestamp": 1791244684000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV Philips 43\" Full HD 43PFG6910/78 Wi-Fi",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.099,00",
-    "precoPor": "R$ 1.397,53",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_882487-MLA92677639078_092025-O.jpg",
-    "link": "https://meli.la/18VheCK",
-    "linkWhatsapp": "https://meli.la/18VheCK",
-    "timestamp": 1791244486000,
     "imagemIlustrativa": false
   }
 ]
