@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bola Elétrica Interativa Brinquedo Inteligente Gato Cachorro",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 19,00",
+    "precoPor": "R$ 9,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807097-MLB93831087730_102025-O.jpg",
+    "link": "https://meli.la/1HLrPTf",
+    "linkWhatsapp": "https://meli.la/1HLrPTf",
+    "timestamp": 1791323312000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mixer Elgin Turbo Chef 3 em 1 de 200W para Bater e Triturar",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -4313,7 +4328,7 @@
     "precoPor": "R$ 114,33",
     "desconto": "",
     "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
+    "imagem": "https://m.media-amazon.com/images/I/61jq8y1sVZL._AC_SL1500_.jpg",
     "link": "https://amzn.to/3THMtlG",
     "linkWhatsapp": "https://amzn.to/3THMtlG",
     "timestamp": 1791285771000,
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2mZ1ANn",
     "linkWhatsapp": "https://meli.la/2mZ1ANn",
     "timestamp": 1791232809000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis adidas Latin Run 3.0 Corrida Caminhada Treino Lilás 40 Br",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 449,00",
-    "precoPor": "R$ 254,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_845535-MLB117885399263_092026-O.jpg",
-    "link": "https://meli.la/2eH5rAB",
-    "linkWhatsapp": "https://meli.la/2eH5rAB",
-    "timestamp": 1791232429000,
     "imagemIlustrativa": false
   }
 ]
