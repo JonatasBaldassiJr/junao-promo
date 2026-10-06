@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
+    "categoria": "automotivo",
+    "categoriaNome": "Automotivo",
+    "loja": "Amazon",
+    "precoDe": "R$ 249,00",
+    "precoPor": "R$ 125,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DHLFGNMM.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4j72hZy",
+    "linkWhatsapp": "https://amzn.to/4j72hZy",
+    "timestamp": 1791292051000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Torradeira Elétrica WAP WTE1 7 Níveis de Tostagem 900W 127V",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 900,00",
+    "precoPor": "R$ 119,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_903399-MLA99956181407_112025-O.jpg",
+    "link": "https://meli.la/1sr5DEw",
+    "linkWhatsapp": "https://meli.la/1sr5DEw",
+    "timestamp": 1791291979000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tenis New Balance 480 Low Masculino Bege Lisa 42 Br",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2F3nuJ1",
     "linkWhatsapp": "https://meli.la/2F3nuJ1",
     "timestamp": 1791129138000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Pura 500g + Pré Treino 300g + Shaker 600ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 177,20",
-    "precoPor": "R$ 78,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_639792-MLB89353357500_082025-O.jpg",
-    "link": "https://meli.la/2W8yHce",
-    "linkWhatsapp": "https://meli.la/2W8yHce",
-    "timestamp": 1791128701000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo De Toalhas 4 peças Tóquio Banho Altenburg",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,90",
-    "precoPor": "R$ 86,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949458-MLA96155420883_102025-O.jpg",
-    "link": "https://meli.la/18ujfKa",
-    "linkWhatsapp": "https://meli.la/18ujfKa",
-    "timestamp": 1791128497000,
     "imagemIlustrativa": false
   }
 ]
