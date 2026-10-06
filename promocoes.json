@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vinagre de Álcool Concentrado 6% Castelo 5l",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,99",
+    "precoPor": "R$ 22,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B084BXFGJN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zaaUHo",
+    "linkWhatsapp": "https://amzn.to/4zaaUHo",
+    "timestamp": 1791254385000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Brastoy Blocos Magnéticos Brinquedo Educativo Educação Infantil 65 Pecas Construção Empilhamento Jogo",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/24FpQZZ",
     "linkWhatsapp": "https://meli.la/24FpQZZ",
     "timestamp": 1790970273257,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tenis Anacapri Mist Branco Feminino Casual Slim",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 167,88",
-    "precoPor": "R$ 59,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_777365-MLB83154468245_032025-O.webp",
-    "link": "https://meli.la/33yxcCt",
-    "linkWhatsapp": "https://meli.la/33yxcCt",
-    "timestamp": 1790969770374,
     "imagemIlustrativa": false
   }
 ]
