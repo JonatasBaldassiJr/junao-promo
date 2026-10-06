@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila Linear Infantil adidas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 179,00",
+    "precoPor": "R$ 76,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_690434-MLA106102297345_012026-O.jpg",
+    "link": "https://meli.la/17gqGm3",
+    "linkWhatsapp": "https://meli.la/17gqGm3",
+    "timestamp": 1791330351000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Camiseta Basica Modal Masculina Algodão Malha Peruana Preto Sem Estampa G Liso",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4zfD1F6",
     "linkWhatsapp": "https://amzn.to/4zfD1F6",
     "timestamp": 1791250515000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "MONDIAL Fritadeira Air Fryer Forno Oven Digital 25L, Preto/Inox, 2200W, 220V - AFO-25L-BI",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 898,55",
-    "precoPor": "R$ 687,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DPLHV7Q8.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hwAPDo",
-    "linkWhatsapp": "https://amzn.to/4hwAPDo",
-    "timestamp": 1791250335000,
     "imagemIlustrativa": false
   }
 ]
