@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Pilha recarregável AAA 900mAh Elgin com 4 unidades Palito",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 25,00",
+    "precoPor": "R$ 15,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0755P2K3M.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/47FZ4cg",
+    "linkWhatsapp": "https://amzn.to/47FZ4cg",
+    "timestamp": 1791325299000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Philips Aparador de Pelos Faciais Feminino com Luz LED Série 5000 Pele lisa e sem dor | Cabeça hipoalergênica para maior conforto | Espelho embutido | BRR474/00",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 268,00",
+    "precoPor": "R$ 139,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_702605-MLA112728155090_062026-O.jpg",
+    "link": "https://meli.la/1mjvDiz",
+    "linkWhatsapp": "https://meli.la/1mjvDiz",
+    "timestamp": 1791325236000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Pulverizador Elétrico Snow Foam Profissional p/ Limpeza Automotiva e Casa",
     "categoria": "automotivo",
     "categoriaNome": "Automotivo",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2vMqTEZ",
     "linkWhatsapp": "https://meli.la/2vMqTEZ",
     "timestamp": 1791238850000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Camisetas Light T-shirt Insider",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 567,00",
-    "precoPor": "R$ 135,15",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_847901-MLB115583762683_082026-O.jpg",
-    "link": "https://meli.la/2iPWmhQ",
-    "linkWhatsapp": "https://meli.la/2iPWmhQ",
-    "timestamp": 1791238455000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 5 Camisetas Masculinas Slim Básicas Coloridas Premium",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 239,00",
-    "precoPor": "R$ 98,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955736-MLB109991929022_042026-O.jpg",
-    "link": "https://meli.la/2ubScwV",
-    "linkWhatsapp": "https://meli.la/2ubScwV",
-    "timestamp": 1791237807000,
     "imagemIlustrativa": false
   }
 ]
