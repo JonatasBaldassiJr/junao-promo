@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ariel Sabão Líquido Expert Concentrado 2L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 44,65",
+    "precoPor": "R$ 36,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07GBNBDKB.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y9tpLh",
+    "linkWhatsapp": "https://amzn.to/4y9tpLh",
+    "timestamp": 1791331580000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Hot Wheels® Fast & Furious 7 Cm, Colecionável Premium.",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1JFNpao",
     "linkWhatsapp": "https://meli.la/1JFNpao",
     "timestamp": 1791252288000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Baggio Café Cápsulas De Café Aroma Chocolate Com Avelã Compatível Com Nespresso Contém 10 Cápsulas",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 25,90",
-    "precoPor": "R$ 16,05",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B075XQXH46.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3VTmatn",
-    "linkWhatsapp": "https://amzn.to/3VTmatn",
-    "timestamp": 1791251990000,
     "imagemIlustrativa": false
   }
 ]
