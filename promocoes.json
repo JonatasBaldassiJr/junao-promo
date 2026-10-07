@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sublime - Papel Higiênico, Folha Dupla, 24 rolos",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 36,00",
+    "precoPor": "R$ 25,63",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07CVVZV91.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rNkrlb",
+    "linkWhatsapp": "https://amzn.to/4rNkrlb",
+    "timestamp": 1791340878000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Fechadura Digital Inteligente Biométrica Eletronica Touch",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3TGpqHK",
     "linkWhatsapp": "https://amzn.to/3TGpqHK",
     "timestamp": 1791264109000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tramontina Lâmpada Smart​ LED Inteligente E27​ 10W Wi-Fi + Bluetooth​ 16 Milhões de Cores - Compatível com Alexa e Google Assistente",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 49,00",
-    "precoPor": "R$ 26,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09HXWRWB4.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3UerGX3",
-    "linkWhatsapp": "https://amzn.to/3UerGX3",
-    "timestamp": 1791263917000,
     "imagemIlustrativa": false
   }
 ]
