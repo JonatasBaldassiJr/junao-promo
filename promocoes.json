@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Top Basic New Horizon Alpha",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 89,00",
+    "precoPor": "R$ 44,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_862279-MLB109033193642_032026-O.jpg",
+    "link": "https://meli.la/1WpTorP",
+    "linkWhatsapp": "https://meli.la/1WpTorP",
+    "timestamp": 1791403507000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 288,63",
+    "precoPor": "R$ 139,11",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738813-MLB83279416363_032025-O.jpg",
+    "link": "https://meli.la/22a7Gff",
+    "linkWhatsapp": "https://meli.la/22a7Gff",
+    "timestamp": 1791403446000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Oral-B Pasta de Dente 3D White Brilliant Fresh, 3 Unidades de 70 g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4hMcR60",
     "linkWhatsapp": "https://amzn.to/4hMcR60",
     "timestamp": 1791320786000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 87,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09VQ39F41.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3Tqfv9r",
-    "linkWhatsapp": "https://amzn.to/3Tqfv9r",
-    "timestamp": 1791320720000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gillette Mach3 Aparelho de Barbear com 3 Lâminas 1 Unidade",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 28,52",
-    "precoPor": "R$ 17,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B004HCJWEC.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yBhwyA",
-    "linkWhatsapp": "https://amzn.to/4yBhwyA",
-    "timestamp": 1791320659000,
     "imagemIlustrativa": false
   }
 ]
