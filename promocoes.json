@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Whisky Johnnie Walker Blonde 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,99",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VBXJY7P.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4drPE7L",
+    "linkWhatsapp": "https://amzn.to/4drPE7L",
+    "timestamp": 1791411668000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Panela de Pressão Tramontina Vancouver Effect em Alumínio com Revestimento Interno e Externo em Antiaderente Starflon Max Preto 20 cm 4,5 L",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/23YMQ9F",
     "linkWhatsapp": "https://meli.la/23YMQ9F",
     "timestamp": 1791327409000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Caixa de Som LG XBOOM Bounce, Bateria recarregável, IP67, até 30h de reprodução, Bluetooth 5.3, luzes multicolor e resistência militar - BOUNCE",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.049,00",
-    "precoPor": "R$ 484,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_679616-MLA107114880405_022026-O.jpg",
-    "link": "https://meli.la/32YRPfX",
-    "linkWhatsapp": "https://meli.la/32YRPfX",
-    "timestamp": 1791327341000,
     "imagemIlustrativa": false
   }
 ]
