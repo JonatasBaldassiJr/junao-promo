@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Sanduicheira Elétrica Cadence Click - 127V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 159,00",
+    "precoPor": "R$ 75,34",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CDJ4L7CZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y8wifv",
+    "linkWhatsapp": "https://amzn.to/4y8wifv",
+    "timestamp": 1791341134000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Jogo De Lençol Casal Padrão 3 Pçs 400 Fios C/ Elástico Hotel",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 51,00",
+    "precoPor": "R$ 21,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_712118-MLB82957637498_032025-O.jpg",
+    "link": "https://meli.la/22Ysqqa",
+    "linkWhatsapp": "https://meli.la/22Ysqqa",
+    "timestamp": 1791341072000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bermuda Masculina Tactel Short Academia Treino Plus Size G3",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2ZU9cm1",
     "linkWhatsapp": "https://meli.la/2ZU9cm1",
     "timestamp": 1791282718000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Carolina Herrera Good Girl Eau de Parfum 150 ml feminino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.128,85",
-    "precoPor": "R$ 745,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950204-MLA49695604575_042022-O.jpg",
-    "link": "https://meli.la/1XPA6Eo",
-    "linkWhatsapp": "https://meli.la/1XPA6Eo",
-    "timestamp": 1791266432000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cortina 3,00x2,50 Metros Blackout Blecaute Gelo Corta Luz Em Tecido Grosso Para Quarto E Sala Casa Laura Enxovais",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 72,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_727827-MLA99486610642_112025-O.jpg",
-    "link": "https://meli.la/2QfKVmM",
-    "linkWhatsapp": "https://meli.la/2QfKVmM",
-    "timestamp": 1791266248000,
     "imagemIlustrativa": false
   }
 ]
