@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Air Fryer Philco 6,5L Visor Glass 1700W PAF65 127V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 349,00",
+    "precoPor": "R$ 230,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F99ZSRXH.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yEQUwQ",
+    "linkWhatsapp": "https://amzn.to/4yEQUwQ",
+    "timestamp": 1791410011000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Stanley Copo Quencher Almond Rose 887ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4rNwH5e",
     "linkWhatsapp": "https://amzn.to/4rNwH5e",
     "timestamp": 1791325916000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 249,90",
-    "precoPor": "R$ 139,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FN5DD149.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3VsKAtG",
-    "linkWhatsapp": "https://amzn.to/3VsKAtG",
-    "timestamp": 1791325539000,
     "imagemIlustrativa": false
   }
 ]
