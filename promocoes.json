@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vichy Minéral 89 Sérum Hidratante Fortalecedor",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 199,00",
+    "precoPor": "R$ 136,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B06XC5PQGL.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zkGN07",
+    "linkWhatsapp": "https://amzn.to/4zkGN07",
+    "timestamp": 1791396918000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "WAP Vaporizador de Roupas e Tecidos WAPORE FAST 1250 com Escova, Capacidade de 200ml, Vapor Quente 160°C, 1250W, 127V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2PWtv12",
     "linkWhatsapp": "https://meli.la/2PWtv12",
     "timestamp": 1791314201000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Escrivaninha Industrial 90cm Mesa Estudo Aparador Aço Mdf",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 185,60",
-    "precoPor": "R$ 102,05",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_821169-MLB92889719857_092025-O.jpg",
-    "link": "https://meli.la/2cRdnPf",
-    "linkWhatsapp": "https://meli.la/2cRdnPf",
-    "timestamp": 1791314138000,
     "imagemIlustrativa": false
   }
 ]
