@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "ESSE AQUI NÃO ARDE NEM NO OLHO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 29,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08LK15F8N.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3Vp289Z",
+    "linkWhatsapp": "https://amzn.to/3Vp289Z",
+    "timestamp": 1791403665000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Sofá 3 Lugares Retrátil Lubeck Linho Cinza",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.089,99",
+    "precoPor": "R$ 752,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857949-MLA116553275397_082026-O.jpg",
+    "link": "https://meli.la/1wyaKGS",
+    "linkWhatsapp": "https://meli.la/1wyaKGS",
+    "timestamp": 1791403582000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Top Basic New Horizon Alpha",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2wGQvwT",
     "linkWhatsapp": "https://meli.la/2wGQvwT",
     "timestamp": 1791321037000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Lavagem Completa Shampoo Cera Tok Final Intense Sintra Fast Pneu Pretinho Acessórios",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Amazon",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 128,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71pzyI++-dL._AC_SL1200_.jpg",
-    "link": "https://amzn.to/4yw0Rwt",
-    "linkWhatsapp": "https://amzn.to/4yw0Rwt",
-    "timestamp": 1791320870000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Filtro de Linha 6 Tomadas com Interruptor Liga e Desliga, Régua Extensão Elétrica Preta com Cabo, Adaptador Multiplicador de Tomadas para Casa, Escritório, TV, Computador e Eletrônicos",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 17,99",
-    "precoPor": "R$ 14,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4hMcR60",
-    "linkWhatsapp": "https://amzn.to/4hMcR60",
-    "timestamp": 1791320786000,
     "imagemIlustrativa": false
   }
 ]
