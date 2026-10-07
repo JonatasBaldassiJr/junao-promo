@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Calvin Klein Ck One Eau De Toilette 200Ml,",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 380,00",
+    "precoPor": "R$ 230,94",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B00S2WDIGG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VzkBAL",
+    "linkWhatsapp": "https://amzn.to/3VzkBAL",
+    "timestamp": 1791341803000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "SKIN AQUA® Super Moisture Milk 40g - Protetor Solar Facial sem cor FPS50 com Ácido Hialurônico e Textura Leve",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1kfnCZH",
     "linkWhatsapp": "https://meli.la/1kfnCZH",
     "timestamp": 1791283920000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "EUCERIN Dermopure Clinical Gel de Limpeza Gentil 400ml, Redução da oleosidade e acne, Desobstrui os poros",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 92,90",
-    "precoPor": "R$ 63,48",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DSJYW1HW.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4j6g3f1",
-    "linkWhatsapp": "https://amzn.to/4j6g3f1",
-    "timestamp": 1791283383000,
     "imagemIlustrativa": false
   }
 ]
