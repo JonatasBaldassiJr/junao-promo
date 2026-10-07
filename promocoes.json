@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tapete Passadeira 2,00x0,60 Quarto Pé De Cama Luxo Conforto",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 78,00",
+    "precoPor": "R$ 38,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_782079-MLB108488941972_032026-O.jpg",
+    "link": "https://meli.la/1DgkCQz",
+    "linkWhatsapp": "https://meli.la/1DgkCQz",
+    "timestamp": 1791396320000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Tablet, HUAWEI MatePad SE 11, 4+128GB, Tela HUAWEI FullView de 11\" para Conforto Visual，Superbateria de 7700 mAh 22,5W，Câmera Traseira 8 MP，Câmera Frontal 5 MP，Cinza Nebula",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 999,00",
+    "precoPor": "R$ 789,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4yBRJGH",
+    "linkWhatsapp": "https://amzn.to/4yBRJGH",
+    "timestamp": 1791396250000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 3 Camiseta Paris Milano Basica Masculina Algodão Premium",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2psKgi1",
     "linkWhatsapp": "https://meli.la/2psKgi1",
     "timestamp": 1791313714000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Árabe Feminino Yara Lattafa Eau De Parfum 100 Ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,90",
-    "precoPor": "R$ 169,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904984-MLB89160280950_082025-O.jpg",
-    "link": "https://meli.la/259dAbq",
-    "linkWhatsapp": "https://meli.la/259dAbq",
-    "timestamp": 1791313652000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ventilador 80w de Teto Silencioso LED 3 Cores Bulbo 12w com Controle",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 44,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqxwzkyykv0nc7",
-    "link": "https://s.shopee.com.br/7Ae7emmPDM",
-    "linkWhatsapp": "https://s.shopee.com.br/7Ae7emmPDM",
-    "timestamp": 1791313510000,
     "imagemIlustrativa": false
   }
 ]
