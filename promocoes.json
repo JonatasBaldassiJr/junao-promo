@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Mikasa Bola de Volei de Praia",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 223,24",
+    "precoPor": "R$ 145,79",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CLZHRQK8.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zgDS8D",
+    "linkWhatsapp": "https://amzn.to/4zgDS8D",
+    "timestamp": 1791343042000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 259,90",
+    "precoPor": "R$ 93,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-O.jpg",
+    "link": "https://meli.la/1DWVMWb",
+    "linkWhatsapp": "https://meli.la/1DWVMWb",
+    "timestamp": 1791342986000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4dmORF0",
     "linkWhatsapp": "https://amzn.to/4dmORF0",
     "timestamp": 1791286148000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "LEGO Classic Maleta da Criatividade 10713; Brinquedo criativo para montar e imaginar; Maleta com peças coloridas para criar bichinhos, supercarros, casas e muito mais; Presente para crianças",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 101,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_678645-MLA99447823800_112025-O.jpg",
-    "link": "https://meli.la/2RDVXKv",
-    "linkWhatsapp": "https://meli.la/2RDVXKv",
-    "timestamp": 1791285963000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bettdow SmartWatch, relogio smartwatch com Ecrã tátil e Alexa, à prova d'água IP68, relogio feminino e masculino, com 100+ modo esportivo e recebimento de notificações(preto)",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 186,00",
-    "precoPor": "R$ 114,33",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61jq8y1sVZL._AC_SL1500_.jpg",
-    "link": "https://amzn.to/3THMtlG",
-    "linkWhatsapp": "https://amzn.to/3THMtlG",
-    "timestamp": 1791285771000,
     "imagemIlustrativa": false
   }
 ]
