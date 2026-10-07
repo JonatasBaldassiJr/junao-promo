@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "L'OR, Café Solúvel Classique Pote de Vidro 130g",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 130,00",
+    "precoPor": "R$ 19,75",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C4M2SYF8.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hKIvAJ",
+    "linkWhatsapp": "https://amzn.to/4hKIvAJ",
+    "timestamp": 1791372878000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Legging Suplex Fitness",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1XwrmsJ",
     "linkWhatsapp": "https://meli.la/1XwrmsJ",
     "timestamp": 1791294236000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,90",
-    "precoPor": "R$ 39,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-O.jpg",
-    "link": "https://meli.la/1veqDbU",
-    "linkWhatsapp": "https://meli.la/1veqDbU",
-    "timestamp": 1791294165000,
     "imagemIlustrativa": false
   }
 ]
