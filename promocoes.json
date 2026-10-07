@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2 unidades)",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 44,00",
+    "precoPor": "R$ 33,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DK4975DJ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4jaYQB8",
+    "linkWhatsapp": "https://amzn.to/4jaYQB8",
+    "timestamp": 1791401826000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Caixa de Som Philco Extreme 350W Bluetooth 5.3 Luzes LED PCX4500",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2cNG6et",
     "linkWhatsapp": "https://meli.la/2cNG6et",
     "timestamp": 1791319627000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mini Compressor De Ar Portátil Carro Moto Bicicleta Preto Monofásica",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,00",
-    "precoPor": "R$ 52,71",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990739-MLA110039600315_042026-O.jpg",
-    "link": "https://meli.la/2ZJWdC2",
-    "linkWhatsapp": "https://meli.la/2ZJWdC2",
-    "timestamp": 1791319564000,
     "imagemIlustrativa": false
   }
 ]
