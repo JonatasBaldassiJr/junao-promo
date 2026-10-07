@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Philco Multiprocessador Concept 1000W 5 em 1 PMP11A 127v",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 409,00",
+    "precoPor": "R$ 236,53",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F9B1CHF6.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y5EdKk",
+    "linkWhatsapp": "https://amzn.to/4y5EdKk",
+    "timestamp": 1791331875000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.099,00",
+    "precoPor": "R$ 569,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_911575-MLA115299730288_082026-O.jpg",
+    "link": "https://meli.la/2KMr2ko",
+    "linkWhatsapp": "https://meli.la/2KMr2ko",
+    "timestamp": 1791331810000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mixer Mallory Trikxer Pratic- 3 EM 1-220V",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1Q3LoEg",
     "linkWhatsapp": "https://meli.la/1Q3LoEg",
     "timestamp": 1791253100000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Dark Lab Premium Pure em pó Sem sabor x 500g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 39,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734286-MLA115263082370_082026-O.jpg",
-    "link": "https://meli.la/2ag7u8Q",
-    "linkWhatsapp": "https://meli.la/2ag7u8Q",
-    "timestamp": 1791252679000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 125,32",
-    "precoPor": "R$ 87,30",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VCP7GMD.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hI2m3g",
-    "linkWhatsapp": "https://amzn.to/4hI2m3g",
-    "timestamp": 1791252498000,
     "imagemIlustrativa": false
   }
 ]
