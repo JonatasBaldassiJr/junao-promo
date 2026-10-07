@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Power Bank 30000mAh, Basike Carregador Portátil com Cabo(Preto)",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 199,00",
+    "precoPor": "R$ 130,38",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4y1zxFb",
+    "linkWhatsapp": "https://amzn.to/4y1zxFb",
+    "timestamp": 1791414738000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Apple AirPods 4",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3VyiJYZ",
     "linkWhatsapp": "https://amzn.to/3VyiJYZ",
     "timestamp": 1791329700000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Achocolatado ALPINO® 1Kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 33,00",
-    "precoPor": "R$ 22,76",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XTFT7G1.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4zj4TbB",
-    "linkWhatsapp": "https://amzn.to/4zj4TbB",
-    "timestamp": 1791329565000,
     "imagemIlustrativa": false
   }
 ]
