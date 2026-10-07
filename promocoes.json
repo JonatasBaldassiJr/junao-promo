@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Azul, com Acesso Antecipado à Alexa+",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 549,00",
+    "precoPor": "R$ 299,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4jJZzt1",
+    "linkWhatsapp": "https://amzn.to/4jJZzt1",
+    "timestamp": 1791404522000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2CuNyAV",
     "linkWhatsapp": "https://meli.la/2CuNyAV",
     "timestamp": 1791321487000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Pares Meia Invisível Soquete Algodão Confortável Mash",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 53,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897046-MLB98663774114_112025-O.jpg",
-    "link": "https://meli.la/11pGozd",
-    "linkWhatsapp": "https://meli.la/11pGozd",
-    "timestamp": 1791321441000,
     "imagemIlustrativa": false
   }
 ]
