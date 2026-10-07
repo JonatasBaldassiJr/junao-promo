@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 299,00",
+    "precoPor": "R$ 184,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CVCLGV1W.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4AOg8Kx",
+    "linkWhatsapp": "https://amzn.to/4AOg8Kx",
+    "timestamp": 1791392743000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lego City 60411 Helicóptero Dos Bombeiros Com 85 Peças",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4y5me6O",
     "linkWhatsapp": "https://amzn.to/4y5me6O",
     "timestamp": 1791311374000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Balança Corporal Bioimpedância Premium Com Visor Inteligente Bluetooth Composição Corporal Peso Controle da Sua Saúde Completo Com Aplicativo",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 29,90",
-    "precoPor": "R$ 26,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51LURfjjxbL._SL1024_.jpg",
-    "link": "https://amzn.to/4j8Nmhn",
-    "linkWhatsapp": "https://amzn.to/4j8Nmhn",
-    "timestamp": 1791311220000,
     "imagemIlustrativa": false
   }
 ]
