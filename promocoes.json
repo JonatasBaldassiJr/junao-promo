@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Forno Elétrico Britânia BFE41P 36L 1500W 220V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 391,00",
+    "precoPor": "R$ 298,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BZTCLK4Z.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yroLsl",
+    "linkWhatsapp": "https://amzn.to/4yroLsl",
+    "timestamp": 1791383941000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Espelho Orgânico Capela Led 44x64 Para Sala Quarto Banheiro Moldura Capela Led Frio",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 98,00",
+    "precoPor": "R$ 72,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_778921-MLA97739070759_112025-O.jpg",
+    "link": "https://meli.la/2kY4ARE",
+    "linkWhatsapp": "https://meli.la/2kY4ARE",
+    "timestamp": 1791383879000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4rUjZls",
     "linkWhatsapp": "https://amzn.to/4rUjZls",
     "timestamp": 1791303212000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Power Bank Basike 20000mAh para Notebook e Celular com Cabo USB-C 65W",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 342,00",
-    "precoPor": "R$ 207,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720399-MLA116701969973_082026-O.jpg",
-    "link": "https://meli.la/2uJ6x3r",
-    "linkWhatsapp": "https://meli.la/2uJ6x3r",
-    "timestamp": 1791303139000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta Básica Ogochi Masculina Lisa Tecido Premium Oficial",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,90",
-    "precoPor": "R$ 46,81",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_728474-MLB115033468265_072026-O.jpg",
-    "link": "https://meli.la/1fizPRH",
-    "linkWhatsapp": "https://meli.la/1fizPRH",
-    "timestamp": 1791303080000,
     "imagemIlustrativa": false
   }
 ]
