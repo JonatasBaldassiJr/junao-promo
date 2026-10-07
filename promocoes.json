@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "OMO Sabão Em Pó Lavagem Perfeita 2.2Kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,90",
+    "precoPor": "R$ 25,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08R9XTH39.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hBvVU9",
+    "linkWhatsapp": "https://amzn.to/4hBvVU9",
+    "timestamp": 1791349472000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Ar-condicionado Hw LG Dual Inverter +ai Voice 12k R32 Fr 220 Branco",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4rOx4MZ",
     "linkWhatsapp": "https://amzn.to/4rOx4MZ",
     "timestamp": 1791292946000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Armani Beauty, Acqua di Gioia, Eau de Parfum, Giorgio Armani, Perfume Feminino Fragrância Cítrica Aquática Refrescante com Notas de Limão, Hortelã e Jasmim",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 529,00",
-    "precoPor": "R$ 284,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B01F2LAUUG.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3U5McJo",
-    "linkWhatsapp": "https://amzn.to/3U5McJo",
-    "timestamp": 1791292667000,
     "imagemIlustrativa": false
   }
 ]
