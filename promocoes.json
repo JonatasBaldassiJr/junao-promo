@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 32,90",
+    "precoPor": "R$ 24,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4hKC2pk",
+    "linkWhatsapp": "https://amzn.to/4hKC2pk",
+    "timestamp": 1791382639000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Body Splash Barbarius + Hidratante Desodorante Masculino",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/14uhVzj",
     "linkWhatsapp": "https://meli.la/14uhVzj",
     "timestamp": 1791302254000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Whisky Jack Daniel's Apple Tennessee Whiskey 700ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 144,00",
-    "precoPor": "R$ 79,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07T9LP2C3.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/47gkm0d",
-    "linkWhatsapp": "https://amzn.to/47gkm0d",
-    "timestamp": 1791302143000,
     "imagemIlustrativa": false
   }
 ]
