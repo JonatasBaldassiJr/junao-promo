@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Apple AirPods 4",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.499,00",
+    "precoPor": "R$ 997,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DGM4T4H8.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ATdfs3",
+    "linkWhatsapp": "https://amzn.to/4ATdfs3",
+    "timestamp": 1791414566000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis New Balance Nitrel V6 Masculino Corrida Trilha Preto 42 Br",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4zj4TbB",
     "linkWhatsapp": "https://amzn.to/4zj4TbB",
     "timestamp": 1791329565000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo Toalha Banho 5 Peças 100 Algodão Imperial Karsten",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 279,00",
-    "precoPor": "R$ 169,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_915129-MLA95659330234_102025-O.jpg",
-    "link": "https://meli.la/2E2VQwt",
-    "linkWhatsapp": "https://meli.la/2E2VQwt",
-    "timestamp": 1791329513000,
     "imagemIlustrativa": false
   }
 ]
