@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Shampoo de Glicerina Johnson's Baby, 750ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 62,99",
+    "precoPor": "R$ 32,29",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07DHSCLPR.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3WbhgrH",
+    "linkWhatsapp": "https://amzn.to/3WbhgrH",
+    "timestamp": 1791344685000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "COLÁGENO TIPO 2 com 45mg - Fórmula Exclusiva com Máxima Concentração e Biodisponibilidade - 60 Cápsulas",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2BQpRwD",
     "linkWhatsapp": "https://meli.la/2BQpRwD",
     "timestamp": 1791288527000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV LG QNED Mini LED AI 4K QNED70 50 polegadas 2026",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.699,00",
-    "precoPor": "R$ 2.509,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H4HB55J5.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4j7p1si",
-    "linkWhatsapp": "https://amzn.to/4j7p1si",
-    "timestamp": 1791288291000,
     "imagemIlustrativa": false
   }
 ]
