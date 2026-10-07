@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cafeteira Cadence Single Up, 220V, CAF230",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 91,99",
+    "precoPor": "R$ 78,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CN1QC8YX.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rRCy9R",
+    "linkWhatsapp": "https://amzn.to/4rRCy9R",
+    "timestamp": 1791413781000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4zbdjSd",
     "linkWhatsapp": "https://amzn.to/4zbdjSd",
     "timestamp": 1791328183000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Grand Theft Auto VI - PlayStation 5",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 449,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._AC_SL1500_.jpg",
-    "link": "https://amzn.to/475h8fS",
-    "linkWhatsapp": "https://amzn.to/475h8fS",
-    "timestamp": 1791327923000,
     "imagemIlustrativa": false
   }
 ]
