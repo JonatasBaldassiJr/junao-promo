@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Legging Suplex Fitness",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 21,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/f6f75b5192f765859036093f8c6086e8",
+    "link": "https://s.shopee.com.br/2gBjOAC8nW",
+    "linkWhatsapp": "https://s.shopee.com.br/2gBjOAC8nW",
+    "timestamp": 1791372612000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Pantene Sérum Leave-in Bambu Força Nutrição Controle de Frizz 95 ml",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1veqDbU",
     "linkWhatsapp": "https://meli.la/1veqDbU",
     "timestamp": 1791294165000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 64,90",
-    "precoPor": "R$ 39,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-O.jpg",
-    "link": "https://meli.la/1ZJQBiQ",
-    "linkWhatsapp": "https://meli.la/1ZJQBiQ",
-    "timestamp": 1791294075000,
     "imagemIlustrativa": false
   }
 ]
