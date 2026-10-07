@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 159,00",
+    "precoPor": "R$ 75,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4ytPG7G",
+    "linkWhatsapp": "https://amzn.to/4ytPG7G",
+    "timestamp": 1791375093000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Colgate Total Limpeza Interdental Prevenção Ativa Creme Dental, 4x90g",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/11NURmv",
     "linkWhatsapp": "https://meli.la/11NURmv",
     "timestamp": 1791295543000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Cueca Boxer Masculina Microfibra Adulto Premium",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 59,99",
-    "precoPor": "R$ 42,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_655135-MLB100011715022_122025-O.jpg",
-    "link": "https://meli.la/1SQxSoy",
-    "linkWhatsapp": "https://meli.la/1SQxSoy",
-    "timestamp": 1791295477000,
     "imagemIlustrativa": false
   }
 ]
