@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Stanley Copo Quencher Almond Rose 887ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 319,00",
+    "precoPor": "R$ 161,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FHJ77RV7.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3WcBBwO",
+    "linkWhatsapp": "https://amzn.to/3WcBBwO",
+    "timestamp": 1791409904000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Stanley Copo Quencher Rose Quartz 1.18L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 359,00",
+    "precoPor": "R$ 165,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BTHPZ9J4.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yEDwcc",
+    "linkWhatsapp": "https://amzn.to/4yEDwcc",
+    "timestamp": 1791409846000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Roçadeira Aparador Grama A Bateria Recarregável 460w Profissional Com Acessórios Tcg12b The Black Tools",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/3VsKAtG",
     "linkWhatsapp": "https://amzn.to/3VsKAtG",
     "timestamp": 1791325539000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cozedor De Ovos Automático Panela A Vapor Elétrica Legumes Elétrica Portátil Prático Rápido 7 Ovos Em 5min Micgeek",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 51,00",
-    "precoPor": "R$ 30,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_873330-MLA115104920512_082026-O.jpg",
-    "link": "https://meli.la/1rTfWDp",
-    "linkWhatsapp": "https://meli.la/1rTfWDp",
-    "timestamp": 1791325475000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Notebook Vaio Fe16 Amd Ryzen 7-5825u Linux 16gb RAM 512gb Ssd Wi-Fi 6 Tela 16\" Ips Wuxga Antirreflexo Cinza Grafite Vjfe69f11xb0121h - Permite upgrade de memória RAM e SSD",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 5.699,00",
-    "precoPor": "R$ 4.139,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_954850-MLA99514927694_112025-O.jpg",
-    "link": "https://meli.la/1FENFkF",
-    "linkWhatsapp": "https://meli.la/1FENFkF",
-    "timestamp": 1791325392000,
     "imagemIlustrativa": false
   }
 ]
