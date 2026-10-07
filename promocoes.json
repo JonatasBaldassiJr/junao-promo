@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Invictus Masculino Eau de Toilette 100 ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 372,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B01F2LA2WC.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ASIROn",
+    "linkWhatsapp": "https://amzn.to/4ASIROn",
+    "timestamp": 1791406552000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Cuecas Boxer Microfibra Controle de Suor Antiassadura",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yDLPVA",
     "linkWhatsapp": "https://amzn.to/4yDLPVA",
     "timestamp": 1791323015000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "I2GO, Headphone Bass 300, Bluetooth, Microfone Integrado, Controle Multimídia, Até 10h de bateria, Tecnologia Dual Connect, Entrada cabo auxiliar P2 (incluso), Dobrável, Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 89,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C3DMVVVZ.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3U9OabK",
-    "linkWhatsapp": "https://amzn.to/3U9OabK",
-    "timestamp": 1791322943000,
     "imagemIlustrativa": false
   }
 ]
