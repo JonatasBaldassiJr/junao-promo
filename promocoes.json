@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Stanley Garrafa Térmica Aerolight Transit Rose Quartz, 591ml",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 259,00",
+    "precoPor": "R$ 129,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CZPVDMVD.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hHRLWe",
+    "linkWhatsapp": "https://amzn.to/4hHRLWe",
+    "timestamp": 1791332089000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4ARS4Xi",
     "linkWhatsapp": "https://amzn.to/4ARS4Xi",
     "timestamp": 1791254009000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "La Roche-posay Cicaplast Baume B5+ Tempo de aplicação Dia/Noite Tipo de pele Todos os tipos de pele",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 109,00",
-    "precoPor": "R$ 61,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684143-MLU74084950937_012024-O.jpg",
-    "link": "https://meli.la/22hSFNj",
-    "linkWhatsapp": "https://meli.la/22hSFNj",
-    "timestamp": 1791253288000,
     "imagemIlustrativa": false
   }
 ]
