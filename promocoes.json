@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 127V",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 434,00",
+    "precoPor": "R$ 189,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B088MVWBM9.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TO54fR",
+    "linkWhatsapp": "https://amzn.to/3TO54fR",
+    "timestamp": 1791373043000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "L'OR, Café Solúvel Classique Pote de Vidro 130g",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1wvRBKU",
     "linkWhatsapp": "https://meli.la/1wvRBKU",
     "timestamp": 1791294363000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Xiaomi Redmi Note 15 256gb 8gb Ram Dual Sim",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.565,00",
-    "precoPor": "R$ 1.365,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_750429-MLA114543637401_072026-O.jpg",
-    "link": "https://meli.la/1XwrmsJ",
-    "linkWhatsapp": "https://meli.la/1XwrmsJ",
-    "timestamp": 1791294236000,
     "imagemIlustrativa": false
   }
 ]
