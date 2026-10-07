@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "EUCERIN Gel de Limpeza Facial AntiAcne DermoPure Clinical Concentrado 400ml, Peles Oleosas e Acneicas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 109,00",
+    "precoPor": "R$ 52,57",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DSJV84BR.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hPd34r",
+    "linkWhatsapp": "https://amzn.to/4hPd34r",
+    "timestamp": 1791414123000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2TS9EFV",
     "linkWhatsapp": "https://meli.la/2TS9EFV",
     "timestamp": 1791328648000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mesa Portátil Para Notebook Suporte Cama Sofá MA, Cor Aleatório",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 69,00",
-    "precoPor": "R$ 31,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/6186LMX8o2L._AC_SX679_.jpg",
-    "link": "https://amzn.to/4j8nRgg",
-    "linkWhatsapp": "https://amzn.to/4j8nRgg",
-    "timestamp": 1791328287000,
     "imagemIlustrativa": false
   }
 ]
