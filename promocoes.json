@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Liquidificador Turbo, Blq1300p, 1400W, 3L, Chumbo, 127v, Britânia",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 163,90",
+    "precoPor": "R$ 98,04",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B095KWWW3H.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VCE3fV",
+    "linkWhatsapp": "https://amzn.to/3VCE3fV",
+    "timestamp": 1791415389000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Wella Professionals Invigo Nutri-enrich + Oil Reflection",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2kWFJdF",
     "linkWhatsapp": "https://meli.la/2kWFJdF",
     "timestamp": 1791330023000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 64,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-O.jpg",
-    "link": "https://meli.la/2bmkj6o",
-    "linkWhatsapp": "https://meli.la/2bmkj6o",
-    "timestamp": 1791329782000,
     "imagemIlustrativa": false
   }
 ]
