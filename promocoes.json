@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 249,00",
+    "precoPor": "R$ 178,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_624574-MLA107288145353_022026-O.jpg",
+    "link": "https://meli.la/2Cjtma4",
+    "linkWhatsapp": "https://meli.la/2Cjtma4",
+    "timestamp": 1791414038000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cafeteira Cadence Single Up, 220V, CAF230",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4j8nRgg",
     "linkWhatsapp": "https://amzn.to/4j8nRgg",
     "timestamp": 1791328287000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Liquidificador, Diamante, 900w, Preto, 220v, Britânia",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 94,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B076B9CBGR.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4zbdjSd",
-    "linkWhatsapp": "https://amzn.to/4zbdjSd",
-    "timestamp": 1791328183000,
     "imagemIlustrativa": false
   }
 ]
