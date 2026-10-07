@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila Lenovo Casual B210 Preta para Notebook 15,6\" - GX40Q17225",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 162,00",
+    "precoPor": "R$ 67,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B075Y72PHZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hL58Vv",
+    "linkWhatsapp": "https://amzn.to/4hL58Vv",
+    "timestamp": 1791394357000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cozedor de Ovos Elétrico Portátil Cozinha à Vapor 110V/220V Cores",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4jIgV9G",
     "linkWhatsapp": "https://amzn.to/4jIgV9G",
     "timestamp": 1791312408000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Shampoo de Glicerina Johnson's Baby, 400ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 34,99",
-    "precoPor": "R$ 14,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07DHRPTPB.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hPNmRj",
-    "linkWhatsapp": "https://amzn.to/4hPNmRj",
-    "timestamp": 1791312042000,
     "imagemIlustrativa": false
   }
 ]
