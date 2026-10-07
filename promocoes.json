@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "O Boticário The Blend Bourbon Eau De Parfum 100ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 379,00",
+    "precoPor": "R$ 280,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_693022-MLA107407032828_032026-O.jpg",
+    "link": "https://meli.la/1Xgr7rs",
+    "linkWhatsapp": "https://meli.la/1Xgr7rs",
+    "timestamp": 1791377383000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2rS18Kd",
     "linkWhatsapp": "https://meli.la/2rS18Kd",
     "timestamp": 1791297583000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "TRICICLO AVESPA MARAL COLORIDO",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 292,00",
-    "precoPor": "R$ 186,63",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0916751QC.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hEresU",
-    "linkWhatsapp": "https://amzn.to/4hEresU",
-    "timestamp": 1791297511000,
     "imagemIlustrativa": false
   }
 ]
