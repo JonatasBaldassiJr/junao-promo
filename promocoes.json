@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Midea Panela de Pressão Mecânica 4L,127V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 399,00",
+    "precoPor": "R$ 247,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DLL6PHGN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TOCRFA",
+    "linkWhatsapp": "https://amzn.to/3TOCRFA",
+    "timestamp": 1791342057000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Calvin Klein Ck One Eau De Toilette 200Ml,",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1UkCJnS",
     "linkWhatsapp": "https://meli.la/1UkCJnS",
     "timestamp": 1791284314000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bicicleta Ergométrica Spinning Bike Ergométrica It's X11 Bicicleta Ergométrica Preto/vermelho",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.399,00",
-    "precoPor": "R$ 382,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_707080-MLB114235277164_082026-O.jpg",
-    "link": "https://meli.la/1kfnCZH",
-    "linkWhatsapp": "https://meli.la/1kfnCZH",
-    "timestamp": 1791283920000,
     "imagemIlustrativa": false
   }
 ]
