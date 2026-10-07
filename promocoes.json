@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Chiclete Trident Morango Sem Açúcar - Caixa com 21 unid. de 8g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 33,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XRG825H.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3UcJDFp",
+    "linkWhatsapp": "https://amzn.to/3UcJDFp",
+    "timestamp": 1791346245000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Macaco Hidráulico Automotivo Elétrico 12V Troca Pneu Calibrador E Auxiliar Partida Completo",
     "categoria": "automotivo",
     "categoriaNome": "Automotivo",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/11v1o2t",
     "linkWhatsapp": "https://meli.la/11v1o2t",
     "timestamp": 1791292108000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "LEGO Speed Champions Carro de Corrida Oracle Red Bull Racing RB20 F1 77243",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Amazon",
-    "precoDe": "R$ 249,00",
-    "precoPor": "R$ 125,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DHLFGNMM.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4j72hZy",
-    "linkWhatsapp": "https://amzn.to/4j72hZy",
-    "timestamp": 1791292051000,
     "imagemIlustrativa": false
   }
 ]
