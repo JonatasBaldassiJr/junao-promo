@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila Dell Gaming 17 para Notebook, 17",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 279,00",
+    "precoPor": "R$ 179,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0842XB4BN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yE5bKd",
+    "linkWhatsapp": "https://amzn.to/4yE5bKd",
+    "timestamp": 1791396677000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Pares Meia Lupo Cano Médio Academia Sola Atoalhada",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1YXXjfb",
     "linkWhatsapp": "https://meli.la/1YXXjfb",
     "timestamp": 1791313966000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Natura Una Artisan 75ml Feminino Eau de parfum Spray",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 177,00",
-    "precoPor": "R$ 146,20",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_666085-MLA54554726803_032023-O.jpg",
-    "link": "https://meli.la/1arUmuu",
-    "linkWhatsapp": "https://meli.la/1arUmuu",
-    "timestamp": 1791313906000,
     "imagemIlustrativa": false
   }
 ]
