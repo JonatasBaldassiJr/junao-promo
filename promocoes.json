@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Daily T-shirt Insider",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 59,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_616903-MLB115107953006_082026-O.jpg",
+    "link": "https://meli.la/1N3yjbR",
+    "linkWhatsapp": "https://meli.la/1N3yjbR",
+    "timestamp": 1791488692000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Jogo De Lençol Casal 03 Pçs Micropercal 400 Fios Extra Macio",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 74,99",
+    "precoPor": "R$ 23,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_683066-MLB79739986200_102024-O.jpg",
+    "link": "https://meli.la/2wMQBCm",
+    "linkWhatsapp": "https://meli.la/2wMQBCm",
+    "timestamp": 1791488634000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/3VuQiv6",
     "linkWhatsapp": "https://amzn.to/3VuQiv6",
     "timestamp": 1791408904000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta Esportiva Lupo Masculina Dry Academia Confortável",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 118,00",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673045-MLB91104400631_082025-O.jpg",
-    "link": "https://meli.la/2cDSznS",
-    "linkWhatsapp": "https://meli.la/2cDSznS",
-    "timestamp": 1791408884000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Frigobar Pfg50p 47 Litros Preto Philco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 799,00",
-    "precoPor": "R$ 637,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_807319-MLA100072005065_122025-O.jpg",
-    "link": "https://meli.la/28T2WMB",
-    "linkWhatsapp": "https://meli.la/28T2WMB",
-    "timestamp": 1791408470000,
     "imagemIlustrativa": false
   }
 ]
