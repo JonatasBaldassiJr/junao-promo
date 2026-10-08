@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Cafeteira Elétrica Electrolux inox filtro permanente removivel capacidade 1,5L 38 xicaras função timer painel digital desligamento automatico ECM30 127v, cor aço escovado",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 369,00",
+    "precoPor": "R$ 242,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09CC3QFDX.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VXPvCW",
+    "linkWhatsapp": "https://amzn.to/3VXPvCW",
+    "timestamp": 1791475669000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Fralda Pampers Pants Ajuste Total Tamanho M, 108 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 109,90",
+    "precoPor": "R$ 89,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/3Wbgk6H",
+    "linkWhatsapp": "https://amzn.to/3Wbgk6H",
+    "timestamp": 1791475611000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Liquidificador 1400 Full Oster Preto 3,2L - 220V",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4722ndG",
     "linkWhatsapp": "https://amzn.to/4722ndG",
     "timestamp": 1791395176000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Multivitamínico 60 Cáps. Growth Supplements - Sem Sabor Sem Sabor",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 27,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_732271-MLB107471121156_032026-O.jpg",
-    "link": "https://meli.la/2MnKg1V",
-    "linkWhatsapp": "https://meli.la/2MnKg1V",
-    "timestamp": 1791395089000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smartwatch, HUAWEI Band 10, Caixa de Polímeros Duráveis, Análise do Sono em Nível Profissional, Assistente de Bem-estar Emocional, Relógio Smartwatch Compatível com Android e iOS, Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 359,00",
-    "precoPor": "R$ 159,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DWFQCY3V.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4j5JbD2",
-    "linkWhatsapp": "https://amzn.to/4j5JbD2",
-    "timestamp": 1791394558000,
     "imagemIlustrativa": false
   }
 ]
