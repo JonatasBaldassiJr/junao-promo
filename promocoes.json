@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Grand Theft Auto VI - PlayStation 5",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 449,90",
+    "precoPor": "R$ 350,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/475h8fS",
+    "linkWhatsapp": "https://amzn.to/475h8fS",
+    "timestamp": 1791462096000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Caminhão Dinossauro Pista Com Carrinhos Maleta Transporte Cor Azul",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 309,00",
+    "precoPor": "R$ 64,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983572-MLA99489106572_112025-O.jpg",
+    "link": "https://meli.la/1oW6Qk3",
+    "linkWhatsapp": "https://meli.la/1oW6Qk3",
+    "timestamp": 1791461995000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1iEhAPK",
     "linkWhatsapp": "https://meli.la/1iEhAPK",
     "timestamp": 1791376337000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo de Facas de Cozinha 8 Peças Genebra Corte Navalha Antiaderente",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 29,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820le-mtrha87hqgoydd",
-    "link": "https://s.shopee.com.br/W7EsJZlqt",
-    "linkWhatsapp": "https://s.shopee.com.br/W7EsJZlqt",
-    "timestamp": 1791376223000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Blusa De Moletom Com Ziper Canguru Flanelado Inverno P Ao G1",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 59,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815908-MLB108040623098_032026-O.jpg",
-    "link": "https://meli.la/2ZSt7VW",
-    "linkWhatsapp": "https://meli.la/2ZSt7VW",
-    "timestamp": 1791376209000,
     "imagemIlustrativa": false
   }
 ]
