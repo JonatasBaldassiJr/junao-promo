@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bombom chocolate Sonho De Valsa Lacta 1Kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 104,50",
+    "precoPor": "R$ 48,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945640-MLA114756245904_082026-O.jpg",
+    "link": "https://meli.la/1euSjdY",
+    "linkWhatsapp": "https://meli.la/1euSjdY",
+    "timestamp": 1791426637000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "PHILIPS, Headphone Bluetooth, TAH2300BK/00, Com Microfone, Até 55 horas de bateria, Design Over-ear, Dobrável, Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4rVl9gy",
     "linkWhatsapp": "https://amzn.to/4rVl9gy",
     "timestamp": 1791342900000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Achocolatado em Cápsula Nescafé Dolce Gusto Chococino Classic com 10 cápsulas",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 26,39",
-    "precoPor": "R$ 16,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FV5TLY9Z.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4rRGuHD",
-    "linkWhatsapp": "https://amzn.to/4rRGuHD",
-    "timestamp": 1791342709000,
     "imagemIlustrativa": false
   }
 ]
