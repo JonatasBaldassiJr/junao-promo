@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Stanley Copo Quencher Black 2.0 1.18L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 359,00",
+    "precoPor": "R$ 181,75",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CZM9JLRB.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hP0yps",
+    "linkWhatsapp": "https://amzn.to/4hP0yps",
+    "timestamp": 1791421502000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smart TV 32\" Philco Roku TV Dolby Áudio HDR10 P32CRB",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1vndcp8",
     "linkWhatsapp": "https://meli.la/1vndcp8",
     "timestamp": 1791337818000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Espelho Rocco Corpo Inteiro Organico 90x40 Pinterest Grande",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 78,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_954585-MLB108362515991_032026-O.jpg",
-    "link": "https://meli.la/1d4kTL7",
-    "linkWhatsapp": "https://meli.la/1d4kTL7",
-    "timestamp": 1791337704000,
     "imagemIlustrativa": false
   }
 ]
