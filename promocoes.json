@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Azul, com Acesso Antecipado à Alexa+",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 549,00",
+    "precoPor": "R$ 299,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4jJZzt1",
+    "linkWhatsapp": "https://amzn.to/4jJZzt1",
+    "timestamp": 1791502564000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Dell 27\", Full Hd (1920 x 1080), 240 Hz, Ips, Se2726hg",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4hIx1gZ",
     "linkWhatsapp": "https://amzn.to/4hIx1gZ",
     "timestamp": 1791419597000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Caixa De Som Amplificada 2000w Bluetooth + Microfone Azul",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 209,00",
-    "precoPor": "R$ 168,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_752664-MLA99410197460_112025-O.jpg",
-    "link": "https://meli.la/2FDsV51",
-    "linkWhatsapp": "https://meli.la/2FDsV51",
-    "timestamp": 1791419457000,
     "imagemIlustrativa": false
   }
 ]
