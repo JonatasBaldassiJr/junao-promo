@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Caixa De Som Amplificada 2000w Bluetooth + Microfone Azul",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 209,00",
+    "precoPor": "R$ 168,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_752664-MLA99410197460_112025-O.jpg",
+    "link": "https://meli.la/2FDsV51",
+    "linkWhatsapp": "https://meli.la/2FDsV51",
+    "timestamp": 1791419457000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 151,00",
+    "precoPor": "R$ 87,30",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VCP7GMD.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hI2m3g",
+    "linkWhatsapp": "https://amzn.to/4hI2m3g",
+    "timestamp": 1791419394000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Britânia Sanduicheira e Grill Press 127V, BGR27I classico/moderno Plástico e Metal",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1UsM4JL",
     "linkWhatsapp": "https://meli.la/1UsM4JL",
     "timestamp": 1791334850000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 100,00",
-    "precoPor": "R$ 13,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CDCKJQFM.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4zjaQVZ",
-    "linkWhatsapp": "https://amzn.to/4zjaQVZ",
-    "timestamp": 1791334695000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit de Cartas UNO Clássico Mattel com 108 7 Anos ou Mai, Multicolorido",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 25,00",
-    "precoPor": "R$ 14,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B00CTH0A1Q.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3VnBCOn",
-    "linkWhatsapp": "https://amzn.to/3VnBCOn",
-    "timestamp": 1791334187000,
     "imagemIlustrativa": false
   }
 ]
