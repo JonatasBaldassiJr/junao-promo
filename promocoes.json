@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Armani Beauty, Stronger With You Eau de Toilette, Giorgio Armani Perfume Masculino, Fragrância Fougère Amadeirada com Notas Sálvia, Castanha, Baunilha e Lavanda",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 396,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B071SGZ7CK.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y9YLkU",
+    "linkWhatsapp": "https://amzn.to/4y9YLkU",
+    "timestamp": 1791490937000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Camiseta Masculina Básica Slim Algodão - Várias Cores Ogochi",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4zledf5",
     "linkWhatsapp": "https://amzn.to/4zledf5",
     "timestamp": 1791410510000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mala de Viagem Sestini Grande em com Rodas 360º Gama 4, Grafite",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 282,90",
-    "precoPor": "R$ 158,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51vb1X5H+KL._AC_SL1200_.jpg",
-    "link": "https://amzn.to/4rUKUNN",
-    "linkWhatsapp": "https://amzn.to/4rUKUNN",
-    "timestamp": 1791410446000,
     "imagemIlustrativa": false
   }
 ]
