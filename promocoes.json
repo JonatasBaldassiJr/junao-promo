@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "PHILIPS, Headphone Bluetooth, TAH2300BK/00, Com Microfone, Até 55 horas de bateria, Design Over-ear, Dobrável, Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 149,00",
+    "precoPor": "R$ 109,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FJMHMCBZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3U3r1rk",
+    "linkWhatsapp": "https://amzn.to/3U3r1rk",
+    "timestamp": 1791426384000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Wella Invigo Nutri-Enrich Máscara Capilar Nutrição Profunda 500ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4rRGuHD",
     "linkWhatsapp": "https://amzn.to/4rRGuHD",
     "timestamp": 1791342709000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Lacta Bis Laka - Chocolate Branco Kit 3 Unidades 100,8g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 23,29",
-    "precoPor": "R$ 13,66",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CDCMT8FY.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4ecXYs7",
-    "linkWhatsapp": "https://amzn.to/4ecXYs7",
-    "timestamp": 1791342136000,
     "imagemIlustrativa": false
   }
 ]
