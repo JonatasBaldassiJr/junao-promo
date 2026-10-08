@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Monitor UHD Samsung 32\", 4K, HDMI, Display Port, Freesync, Preto, Série UJ59",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 2.099,00",
+    "precoPor": "R$ 1.184,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BQ7KJ9NV.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yUgyND",
+    "linkWhatsapp": "https://amzn.to/4yUgyND",
+    "timestamp": 1791503489000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1iC9rUn",
     "linkWhatsapp": "https://meli.la/1iC9rUn",
     "timestamp": 1791420608000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cif Cremoso Limpeza Milagrosa Produto De Limpeza De Casa Milagroso Original Remove 100% Da Sujeira Difícil Sem Esforço 250 Ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 12,39",
-    "precoPor": "R$ 6,65",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07DTLSF61.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4y7mGBm",
-    "linkWhatsapp": "https://amzn.to/4y7mGBm",
-    "timestamp": 1791420530000,
     "imagemIlustrativa": false
   }
 ]
