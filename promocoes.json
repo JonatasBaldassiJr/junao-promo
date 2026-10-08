@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Ypê Amaciante Tradicional Aconchego 5L (Embalagem pode variar)",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 29,26",
+    "precoPor": "R$ 17,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07HZL4D72.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y8VKkO",
+    "linkWhatsapp": "https://amzn.to/4y8VKkO",
+    "timestamp": 1791471533000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "L'Oreal Professionnel Shampoo Silver, Neutraliza Tons Amarelos Indesejados, Com Pigmentos Roxo, Para Cabelos Brancos e Grisalhos, Promove Brilho & Maciez, 300ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 106,79",
+    "precoPor": "R$ 85,43",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09GSRYL69.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3Vw4qnS",
+    "linkWhatsapp": "https://amzn.to/3Vw4qnS",
+    "timestamp": 1791471469000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Océane-Esponja de Maquiagem - My Blend Vinho Océane Edition",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2bNFHuA",
     "linkWhatsapp": "https://meli.la/2bNFHuA",
     "timestamp": 1791387775000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "BOLD Tube Chocolate Proteico Avelã 10g de Proteína (12 Un.)",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 109,00",
-    "precoPor": "R$ 85,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0D4FGT11P.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4eiVSXI",
-    "linkWhatsapp": "https://amzn.to/4eiVSXI",
-    "timestamp": 1791387660000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 657,00",
-    "precoPor": "R$ 439,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_688571-MLA99470684418_112025-O.jpg",
-    "link": "https://meli.la/1hqXYH6",
-    "linkWhatsapp": "https://meli.la/1hqXYH6",
-    "timestamp": 1791387576000,
     "imagemIlustrativa": false
   }
 ]
