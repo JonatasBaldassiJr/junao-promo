@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "CORTE O GASTO, NÃO O ROSTO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 69",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07GMCX5S4.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ybroOF",
+    "linkWhatsapp": "https://amzn.to/4ybroOF",
+    "timestamp": 1791420072000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Conjunto Feminino Linho Calça Pantalona E Blusa Regata",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 189,00",
+    "precoPor": "R$ 46,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_767685-MLB112399341046_062026-O.jpg",
+    "link": "https://meli.la/2GfR9u4",
+    "linkWhatsapp": "https://meli.la/2GfR9u4",
+    "timestamp": 1791420000000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Shampoo e Condicionador Sérum L'Oréal Elseve Liso dos Sonhos",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1Ysvz4s",
     "linkWhatsapp": "https://meli.la/1Ysvz4s",
     "timestamp": 1791336741000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Feminino L&quot Eau de Parfum Fragrância Floral Gourmand Inebriante com Notas de Íris Nobre, Baunilha e Pralinê La Vie Est Belle Lancôme, Frasco com 100ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.129,00",
-    "precoPor": "R$ 569,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774774-MLA93502236706_102025-O.jpg",
-    "link": "https://meli.la/1rYfEWq",
-    "linkWhatsapp": "https://meli.la/1rYfEWq",
-    "timestamp": 1791336600000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Sem Fio",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,00",
-    "precoPor": "R$ 48,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_813959-MLB115351081126_082026-O.jpg",
-    "link": "https://meli.la/1Lgyo4X",
-    "linkWhatsapp": "https://meli.la/1Lgyo4X",
-    "timestamp": 1791336458000,
     "imagemIlustrativa": false
   }
 ]
