@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Kit 6 Camisetas Mais Procuradas Alpha",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 299,40",
+    "precoPor": "R$ 164,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_947330-MLB109370482257_032026-O.jpg",
+    "link": "https://meli.la/2AVMs8p",
+    "linkWhatsapp": "https://meli.la/2AVMs8p",
+    "timestamp": 1791491585000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Stanley Garrafa Térmica Quick Flip Frost 710ml",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 269,00",
+    "precoPor": "R$ 134,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/3TQdl2N",
+    "linkWhatsapp": "https://amzn.to/3TQdl2N",
+    "timestamp": 1791491525000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1RMjnCK",
     "linkWhatsapp": "https://meli.la/1RMjnCK",
     "timestamp": 1791411798000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 4 Shorts 2 Em 1 Duplo Dryfit Masculino Compressão Térmic",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 142,00",
-    "precoPor": "R$ 85,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_878492-MLB108664426620_032026-O.jpg",
-    "link": "https://meli.la/2NE9H2y",
-    "linkWhatsapp": "https://meli.la/2NE9H2y",
-    "timestamp": 1791411749000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Whisky Johnnie Walker Blonde 750ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 89,99",
-    "precoPor": "R$ 49,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VBXJY7P.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4drPE7L",
-    "linkWhatsapp": "https://amzn.to/4drPE7L",
-    "timestamp": 1791411668000,
     "imagemIlustrativa": false
   }
 ]
