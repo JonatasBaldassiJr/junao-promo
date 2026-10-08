@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Kess, Pack com 3 Escovas Dentais Pro Extra Macias, Cores Sortidas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 29,90",
+    "precoPor": "R$ 18,37",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09VC1CN14.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rSaYJD",
+    "linkWhatsapp": "https://amzn.to/4rSaYJD",
+    "timestamp": 1791479747000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Mimo Style Panela de Pressão PressCook Marmol, Antiaderente 6,8l",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 547,85",
+    "precoPor": "R$ 195,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F6411RW3.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4elwGQm",
+    "linkWhatsapp": "https://amzn.to/4elwGQm",
+    "timestamp": 1791479684000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Ar Condicionado Inverter Philco 9000 Btus Frio 220v Pac9ft",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4zoDSDK",
     "linkWhatsapp": "https://amzn.to/4zoDSDK",
     "timestamp": 1791398783000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sandália Kenner Unissex Nk6 Pro Branco/preto/cinza Liso 39",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 77,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_781742-MLB110046771896_042026-O.jpg",
-    "link": "https://meli.la/2dYPdaJ",
-    "linkWhatsapp": "https://meli.la/2dYPdaJ",
-    "timestamp": 1791398299000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cesto De Roupas De Bambu 70 Litros Yikasa",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 72,90",
-    "precoPor": "R$ 58,32",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716770-MLA99963811411_112025-O.jpg",
-    "link": "https://meli.la/26nw93Q",
-    "linkWhatsapp": "https://meli.la/26nw93Q",
-    "timestamp": 1791398186000,
     "imagemIlustrativa": false
   }
 ]
