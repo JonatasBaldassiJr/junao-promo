@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Garrafa Térmica 800ml Inox Bico Duplo Canudo Alça Esporte Preto",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 99,99",
+    "precoPor": "R$ 42,73",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_774036-MLB116796134441_082026-O.jpg",
+    "link": "https://meli.la/2w3fzrR",
+    "linkWhatsapp": "https://meli.la/2w3fzrR",
+    "timestamp": 1791469399000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, Refil, 50g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 79,99",
+    "precoPor": "R$ 31,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CB716LLZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rVTkoi",
+    "linkWhatsapp": "https://amzn.to/4rVTkoi",
+    "timestamp": 1791469343000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Fritadeira Sem Óleo Air Fryer 4L, Mondial, 1500W - AFN-40-BI",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4jaaNXO",
     "linkWhatsapp": "https://amzn.to/4jaaNXO",
     "timestamp": 1791385509000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Capa Para Colchão Impermeavel Matelado Com Elastico",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Shopee",
-    "precoDe": "R$ 36,58",
-    "precoPor": "R$ 13,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltwjwwwq5uudff",
-    "link": "https://s.shopee.com.br/2gBjcilwuD",
-    "linkWhatsapp": "https://s.shopee.com.br/2gBjcilwuD",
-    "timestamp": 1791385342000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Estética Automotiva Vonixx V-Floc Tok Final Intense 240ml Pneu",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 113,58",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mqhpbloq1q0x0e",
-    "link": "https://s.shopee.com.br/50ZeOustXC",
-    "linkWhatsapp": "https://s.shopee.com.br/50ZeOustXC",
-    "timestamp": 1791385251000,
     "imagemIlustrativa": false
   }
 ]
