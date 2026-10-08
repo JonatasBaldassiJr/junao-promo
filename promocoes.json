@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sanduicheira Elétrica Cadence Toast & Grill, Preta, 750W, 110V, SAN260",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 100,89",
+    "precoPor": "R$ 59,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09HW53ZVV.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3WePfj1",
+    "linkWhatsapp": "https://amzn.to/3WePfj1",
+    "timestamp": 1791425164000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lavadora Pressão Portátil Limpador Vapor Limpeza Temperatura",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/22Ysqqa",
     "linkWhatsapp": "https://meli.la/22Ysqqa",
     "timestamp": 1791341072000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bermuda Masculina Tactel Short Academia Treino Plus Size G3",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,00",
-    "precoPor": "R$ 30,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_623312-MLB114593277357_072026-O.jpg",
-    "link": "https://meli.la/1zrb34t",
-    "linkWhatsapp": "https://meli.la/1zrb34t",
-    "timestamp": 1791341010000,
     "imagemIlustrativa": false
   }
 ]
