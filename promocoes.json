@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Nike Journey Run Masculino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 359,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_992622-MLB100379760320_122025-O.jpg",
+    "link": "https://meli.la/2sgcrqd",
+    "linkWhatsapp": "https://meli.la/2sgcrqd",
+    "timestamp": 1791489260000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Caixa de Som Speaker Philco Extreme Bluetooth 5.3 180W PBS60 BIV",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3WcBBwO",
     "linkWhatsapp": "https://amzn.to/3WcBBwO",
     "timestamp": 1791409904000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Stanley Copo Quencher Rose Quartz 1.18L",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 359,00",
-    "precoPor": "R$ 165,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BTHPZ9J4.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yEDwcc",
-    "linkWhatsapp": "https://amzn.to/4yEDwcc",
-    "timestamp": 1791409846000,
     "imagemIlustrativa": false
   }
 ]
