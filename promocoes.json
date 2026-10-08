@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Brinquedo Macaco Chalesco para Cães – Pelúcia Interativa para Brincadeiras e Convivência Familiar",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,00",
+    "precoPor": "R$ 17,97",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07WRS2V22.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/47LMTus",
+    "linkWhatsapp": "https://amzn.to/47LMTus",
+    "timestamp": 1791461108000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Moedor de especiarias elétrico 110V/220V, com 4 lâminas de aço",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2qXPGoP",
     "linkWhatsapp": "https://meli.la/2qXPGoP",
     "timestamp": 1791375279000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Conjunto de Bowls Tigelas de Inox com Tampa Plástica Electrolux",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 159,00",
-    "precoPor": "R$ 75,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4ytPG7G",
-    "linkWhatsapp": "https://amzn.to/4ytPG7G",
-    "timestamp": 1791375093000,
     "imagemIlustrativa": false
   }
 ]
