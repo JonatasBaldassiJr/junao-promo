@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit Shampoo e Condicionador Sérum L'Oréal Elseve Liso dos Sonhos",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 121,00",
+    "precoPor": "R$ 77,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4zdhzAK",
+    "linkWhatsapp": "https://amzn.to/4zdhzAK",
+    "timestamp": 1791419866000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Ventilador de Mesa 110V, 30cm, 6 pás, Super Power - VSP-30-B",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1Lgyo4X",
     "linkWhatsapp": "https://meli.la/1Lgyo4X",
     "timestamp": 1791336458000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Shampoo Anticaspa Lola Cosmetics Cuca Fresca 250 ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 36,90",
-    "precoPor": "R$ 17,86",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GSCGBS4K.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3VypRVf",
-    "linkWhatsapp": "https://amzn.to/3VypRVf",
-    "timestamp": 1791336153000,
     "imagemIlustrativa": false
   }
 ]
