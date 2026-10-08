@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Nescafé Dolce Gusto Moça Pistacchio Latte 10 Capsulas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 28,00",
+    "precoPor": "R$ 19,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H1L64HMZ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4BdbhmD",
+    "linkWhatsapp": "https://amzn.to/4BdbhmD",
+    "timestamp": 1791426770000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bombom chocolate Sonho De Valsa Lacta 1Kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1DWVMWb",
     "linkWhatsapp": "https://meli.la/1DWVMWb",
     "timestamp": 1791342986000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "soundcore R50i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 166,00",
-    "precoPor": "R$ 139,65",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C7CQT9ZS.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4rVl9gy",
-    "linkWhatsapp": "https://amzn.to/4rVl9gy",
-    "timestamp": 1791342900000,
     "imagemIlustrativa": false
   }
 ]
