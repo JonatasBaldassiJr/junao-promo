@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Casual Street Polo Wear",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 309,00",
+    "precoPor": "R$ 159,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_696235-MLB111623956078_062026-O.jpg",
+    "link": "https://meli.la/1sCfCnA",
+    "linkWhatsapp": "https://meli.la/1sCfCnA",
+    "timestamp": 1791476509000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kérastase Nutritive Sérum Capilar Noturno 8H Magic Night Para Cabelos Secos com Nutrição Profunda, Proteção Contra a Fricção do Travesseiro e Cabelos Mais Fortes 90ml",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2tK98c8",
     "linkWhatsapp": "https://meli.la/2tK98c8",
     "timestamp": 1791395887000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Lattafa Asad 100ml Eau De Parfum Original Árabe Original Com Nota Fiscal E Selo Original Lataffa",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 289,00",
-    "precoPor": "R$ 177,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_687418-MLB81527468562_012025-O.jpg",
-    "link": "https://meli.la/2ooet2c",
-    "linkWhatsapp": "https://meli.la/2ooet2c",
-    "timestamp": 1791395820000,
     "imagemIlustrativa": false
   }
 ]
