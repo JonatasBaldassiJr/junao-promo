@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Stanley - Copo de cerveja isolado, copo empilhável Stay Chill de 473 ml, para bebidas quentes ou frias",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 109,00",
+    "precoPor": "R$ 76,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B079Y8XFNN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yXT5Mh",
+    "linkWhatsapp": "https://amzn.to/4yXT5Mh",
+    "timestamp": 1791501560000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cadeira de Escritório Ergonômica Python Fly em Malha - Testada conforme NR-17, Lombar Integrada Fixa, Assento Arejado, Braços 3D, Suporta até 150kg(preto)",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1vyyrYN",
     "linkWhatsapp": "https://meli.la/1vyyrYN",
     "timestamp": 1791417690000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Máquina Inversora De Solda Portatil Mma Eletrodo MI150D 120A The Black Tools",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 397,00",
-    "precoPor": "R$ 187,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_845995-MLA104461209320_012026-O.jpg",
-    "link": "https://meli.la/17zz1fK",
-    "linkWhatsapp": "https://meli.la/17zz1fK",
-    "timestamp": 1791417595000,
     "imagemIlustrativa": false
   }
 ]
