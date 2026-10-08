@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "QUEM TEM ESSE NÃO FICA OLHANDO IPHONE",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 4.898,70",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DSYJCY45.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4jFZTco",
+    "linkWhatsapp": "https://amzn.to/4jFZTco",
+    "timestamp": 1791480294000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Oral B Iconic Premium, escova de dentes, 3 unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2ACamTA",
     "linkWhatsapp": "https://meli.la/2ACamTA",
     "timestamp": 1791398958000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Britânia Escova Secadora Bec02pr 4 Em 1 1300w Cor Preto e Rosa",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 89,98",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_877904-MLA99432213078_112025-O.jpg",
-    "link": "https://meli.la/2LcyVjA",
-    "linkWhatsapp": "https://meli.la/2LcyVjA",
-    "timestamp": 1791398844000,
     "imagemIlustrativa": false
   }
 ]
