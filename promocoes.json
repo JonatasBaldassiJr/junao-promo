@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Aparelho de Jantar Tramontina Canyon em Porcelana Decorada 20 Peças",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 299,00",
+    "precoPor": "R$ 198,52",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DJDQQ7G3.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y3Zvbb",
+    "linkWhatsapp": "https://amzn.to/4y3Zvbb",
+    "timestamp": 1791432478000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 3 Cestos Organizadores de Bambu Retangulares com Forro Lavável Multiuso Organizar Casa Banheiro Cozinha Guarda-Roupa Lavanderia Armazenamento de Objetos - Nany Pink",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yvIEPv",
     "linkWhatsapp": "https://amzn.to/4yvIEPv",
     "timestamp": 1791346103000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 649,00",
-    "precoPor": "R$ 329,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4rV38Pl",
-    "linkWhatsapp": "https://amzn.to/4rV38Pl",
-    "timestamp": 1791346041000,
     "imagemIlustrativa": false
   }
 ]
