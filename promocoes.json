@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "NIVEA Sabonete Líquido Íntimo 250ml – Limpeza Suave, pH Neutro, Óleo de Jojoba, Cuidado Delicado para uso diário",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 20,00",
+    "precoPor": "R$ 11,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B079VPFLZL.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4jMkUlJ",
+    "linkWhatsapp": "https://amzn.to/4jMkUlJ",
+    "timestamp": 1791492441000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Medicube Zero Pore Pads Mild Peles Sensíveis Almofadas Suave Sensível",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4dqiN3d",
     "linkWhatsapp": "https://amzn.to/4dqiN3d",
     "timestamp": 1791414256000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "EUCERIN Gel de Limpeza Facial AntiAcne DermoPure Clinical Concentrado 400ml, Peles Oleosas e Acneicas",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 109,00",
-    "precoPor": "R$ 52,57",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DSJV84BR.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hPd34r",
-    "linkWhatsapp": "https://amzn.to/4hPd34r",
-    "timestamp": 1791414123000,
     "imagemIlustrativa": false
   }
 ]
