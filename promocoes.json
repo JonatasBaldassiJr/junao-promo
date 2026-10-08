@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Notebook Lenovo IdeaPad Slim 3 15.3\" Luna Grey - Intel Core 3 100U, 8GB RAM, 256GB SSD, Windows 11",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 3.499,00",
+    "precoPor": "R$ 3.299,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0G3CY35DN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ATH63o",
+    "linkWhatsapp": "https://amzn.to/4ATH63o",
+    "timestamp": 1791482002000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Jogo De Panelas Genebra Cerâmica 12 Pçs Antiaderente Indução Creme",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2ag7u8Q",
     "linkWhatsapp": "https://meli.la/2ag7u8Q",
     "timestamp": 1791400169000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Espelho Decorativo Lapidado 50x30cm Parede Banheiro Sala Hal 3050-01pc",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 77,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_702078-MLB117520192767_092026-O.jpg",
-    "link": "https://meli.la/1zD61oW",
-    "linkWhatsapp": "https://meli.la/1zD61oW",
-    "timestamp": 1791400104000,
     "imagemIlustrativa": false
   }
 ]
