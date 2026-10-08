@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Scala Plus Papel Toalha Mega, 360 Toalhas (3 Rolos de 120 Toalhas Cada)",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 17,99",
+    "precoPor": "R$ 13,29",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09WC4T9F9.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TsMWIt",
+    "linkWhatsapp": "https://amzn.to/3TsMWIt",
+    "timestamp": 1791427128000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Pillow Top 400 Fios Toque de Plumas Casa Dona (Casal)",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4dsIXCh",
     "linkWhatsapp": "https://amzn.to/4dsIXCh",
     "timestamp": 1791343292000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mikasa Bola de Volei de Praia",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 223,24",
-    "precoPor": "R$ 145,79",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CLZHRQK8.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4zgDS8D",
-    "linkWhatsapp": "https://amzn.to/4zgDS8D",
-    "timestamp": 1791343042000,
     "imagemIlustrativa": false
   }
 ]
