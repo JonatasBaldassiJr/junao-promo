@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Percarbonato 1kg + Alvejante 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 36,93",
+    "precoPor": "R$ 16,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36",
+    "link": "https://s.shopee.com.br/4fwpJVfgmc",
+    "linkWhatsapp": "https://s.shopee.com.br/4fwpJVfgmc",
+    "timestamp": 1791456209000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Secador de Cabelos Philco PSD16A Motor BLDC 1450W + 5 Acessórios",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2jokfj5",
     "linkWhatsapp": "https://meli.la/2jokfj5",
     "timestamp": 1791372075000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 289,00",
-    "precoPor": "R$ 113,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_698189-MLB117166353073_092026-O.jpg",
-    "link": "https://meli.la/1rhJtRv",
-    "linkWhatsapp": "https://meli.la/1rhJtRv",
-    "timestamp": 1791371403000,
     "imagemIlustrativa": false
   }
 ]
