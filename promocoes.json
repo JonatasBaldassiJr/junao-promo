@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 456,00",
+    "precoPor": "R$ 260,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606677-MLA115733886141_082026-O.jpg",
+    "link": "https://meli.la/1iGtKRm",
+    "linkWhatsapp": "https://meli.la/1iGtKRm",
+    "timestamp": 1791488569000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "LG UltraGear Monitor Gamer 27\" IPS 200Hz, 1ms (GtG), Full HD (1920x1080), HDR10, NVIDIA G-SYNC AMD, FreeSync Premium, sRGB 99%, Preto - 27G523B",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/28T2WMB",
     "linkWhatsapp": "https://meli.la/28T2WMB",
     "timestamp": 1791408470000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Pokémon TCG: 30th Celebration - Binder Collection PT-BR",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 230,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0HCCTKPGN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3VxWq5H",
-    "linkWhatsapp": "https://amzn.to/3VxWq5H",
-    "timestamp": 1791408419000,
     "imagemIlustrativa": false
   }
 ]
