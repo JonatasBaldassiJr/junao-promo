@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 33,00",
+    "precoPor": "R$ 20,61",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XLMJHRN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4j4QcEa",
+    "linkWhatsapp": "https://amzn.to/4j4QcEa",
+    "timestamp": 1791427923000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Gel de Limpeza Facial Neutrogena Deep Clean Intensive, 150g",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4rNO1Hi",
     "linkWhatsapp": "https://amzn.to/4rNO1Hi",
     "timestamp": 1791343448000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Dream Cream Máscara Profissional 3kg , Lola Cosmetics",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 249,90",
-    "precoPor": "R$ 119,29",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B00FWX3CP0.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hyQSAC",
-    "linkWhatsapp": "https://amzn.to/4hyQSAC",
-    "timestamp": 1791343313000,
     "imagemIlustrativa": false
   }
 ]
