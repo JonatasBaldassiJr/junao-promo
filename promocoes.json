@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Nesquik Em Pó, Morango, 380G",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 16,00",
+    "precoPor": "R$ 11,30",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07F3GNLG8.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4AT5EJV",
+    "linkWhatsapp": "https://amzn.to/4AT5EJV",
+    "timestamp": 1791423306000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "24 GARRAFINHAS PRA NÃO FALTAR NA DIETA",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2D6SqL1",
     "linkWhatsapp": "https://meli.la/2D6SqL1",
     "timestamp": 1791339734000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Filtro de Linha iCLAMPER Energia 8 com Proteção contra Surtos Elétricos(DPS) 8 Tomadas, 3 Pinos, 10 Amperes para PC, Notebook, Roteador, Monitor, Impressora, PS5, Alexa e etc, Bivolt, Cabo de 1m Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 142,99",
-    "precoPor": "R$ 88,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DC82WBFD.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3Ua85aw",
-    "linkWhatsapp": "https://amzn.to/3Ua85aw",
-    "timestamp": 1791339666000,
     "imagemIlustrativa": false
   }
 ]
