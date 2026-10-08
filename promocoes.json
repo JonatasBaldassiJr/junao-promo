@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Colgate Sensitive Pro Alívio Xtreme Creme Dental, 4x90g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 41,86",
+    "precoPor": "R$ 26,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DPBG1WN6.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3Vzdj00",
+    "linkWhatsapp": "https://amzn.to/3Vzdj00",
+    "timestamp": 1791479363000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 229,99",
+    "precoPor": "R$ 93,99",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_864505-MLB116040886090_092026-O.jpg",
+    "link": "https://meli.la/1Q6oe3x",
+    "linkWhatsapp": "https://meli.la/1Q6oe3x",
+    "timestamp": 1791479283000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Parafusadeira Furadeira + Mini Motosserra Nakasaki Profissional",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://s.shopee.com.br/1gJCfFzcSu",
     "linkWhatsapp": "https://s.shopee.com.br/1gJCfFzcSu",
     "timestamp": 1791397889000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Máscaras De Tratamento Nutrição + Hidratação Stages - Braé",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 181,00",
-    "precoPor": "R$ 58,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_650936-MLA96573783314_112025-O.jpg",
-    "link": "https://meli.la/1jXPyer",
-    "linkWhatsapp": "https://meli.la/1jXPyer",
-    "timestamp": 1791397781000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kérastase Gloss Absolu Glaze Drops – Finalizador para Todos os Tipos de Cabelos com Tendência ao Frizz, com Óleo de Rosa Silvestre – Potencializa Brilho, Elasticidade e Maciez 45ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 399,00",
-    "precoPor": "R$ 254,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DQV1FQ49.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/475UVyc",
-    "linkWhatsapp": "https://amzn.to/475UVyc",
-    "timestamp": 1791397715000,
     "imagemIlustrativa": false
   }
 ]
