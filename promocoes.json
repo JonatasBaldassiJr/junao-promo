@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 799,55",
+    "precoPor": "R$ 478,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_821363-MLA118014839321_092026-O.jpg",
+    "link": "https://meli.la/2WtdyEs",
+    "linkWhatsapp": "https://meli.la/2WtdyEs",
+    "timestamp": 1791462253000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Grand Theft Auto VI - PlayStation 5",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4AYCCJ2",
     "linkWhatsapp": "https://amzn.to/4AYCCJ2",
     "timestamp": 1791376403000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Pré Treino 360g Yeah Buddy Frutas Amarelas Ronnie Coleman",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 59,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_918813-MLA97358507645_112025-O.jpg",
-    "link": "https://meli.la/1iEhAPK",
-    "linkWhatsapp": "https://meli.la/1iEhAPK",
-    "timestamp": 1791376337000,
     "imagemIlustrativa": false
   }
 ]
