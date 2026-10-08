@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Hisense Smart TV 4K Hi-QLED 50\" Polegadas 50Q6QVV",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 2.069,99",
+    "precoPor": "R$ 1.848,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GVP5N2JX.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zfvXZg",
+    "linkWhatsapp": "https://amzn.to/4zfvXZg",
+    "timestamp": 1791502858000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2GfR9u4",
     "linkWhatsapp": "https://meli.la/2GfR9u4",
     "timestamp": 1791420000000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Shampoo e Condicionador Sérum L'Oréal Elseve Liso dos Sonhos",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 121,00",
-    "precoPor": "R$ 77,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4zdhzAK",
-    "linkWhatsapp": "https://amzn.to/4zdhzAK",
-    "timestamp": 1791419866000,
     "imagemIlustrativa": false
   }
 ]
