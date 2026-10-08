@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Lacta Amandita - Wafer Recheado Sabor Chocolate 200g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 21,00",
+    "precoPor": "R$ 14,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B009UAA60U.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4s3lePi",
+    "linkWhatsapp": "https://amzn.to/4s3lePi",
+    "timestamp": 1791500617000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de alta velocidade Wi-Fi de banda dupla - 100 a 240 VCA - AJ4Y4A#AK4",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1ooR7yH",
     "linkWhatsapp": "https://meli.la/1ooR7yH",
     "timestamp": 1791416957000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 116,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_797944-MLB82978249605_032025-O.jpg",
-    "link": "https://meli.la/1bPDhkR",
-    "linkWhatsapp": "https://meli.la/1bPDhkR",
-    "timestamp": 1791416688000,
     "imagemIlustrativa": false
   }
 ]
