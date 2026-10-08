@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Monitor Dell 27\", Full Hd (1920 x 1080), 240 Hz, Ips, Se2726hg",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.249,00",
+    "precoPor": "R$ 899,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GGRHTZQ5.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/47GS7aX",
+    "linkWhatsapp": "https://amzn.to/47GS7aX",
+    "timestamp": 1791502498000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tablet Positivo Vision TAB 7 - Processador Octa-Core 3GB RAM 64GB Armazenamento Tela 7” IPS Bateria 3100mAh, Android 14 Go, Wi-fi - Preto",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2FDsV51",
     "linkWhatsapp": "https://meli.la/2FDsV51",
     "timestamp": 1791419457000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 151,00",
-    "precoPor": "R$ 87,30",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VCP7GMD.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hI2m3g",
-    "linkWhatsapp": "https://amzn.to/4hI2m3g",
-    "timestamp": 1791419394000,
     "imagemIlustrativa": false
   }
 ]
