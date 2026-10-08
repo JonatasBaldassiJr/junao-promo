@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "VAI TER QUE ARRANJAR OUTRA DESCULPA PRA NÃO CUIDAR DA CARA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 20,14",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07LFLFC1R.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rTUQad",
+    "linkWhatsapp": "https://amzn.to/4rTUQad",
+    "timestamp": 1791467576000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Garrafa Térmica 800ml Inox Bico Duplo Canudo Alça Esporte Azul",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2YRybsB",
     "linkWhatsapp": "https://meli.la/2YRybsB",
     "timestamp": 1791382940000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 32,90",
-    "precoPor": "R$ 24,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4hKC2pk",
-    "linkWhatsapp": "https://amzn.to/4hKC2pk",
-    "timestamp": 1791382639000,
     "imagemIlustrativa": false
   }
 ]
