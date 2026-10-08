@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tablet Positivo Vision TAB 7 - Processador Octa-Core 3GB RAM 64GB Armazenamento Tela 7” IPS Bateria 3100mAh, Android 14 Go, Wi-fi - Preto",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 458,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_656533-MLA111594960631_052026-O.jpg",
+    "link": "https://meli.la/2XuPkXq",
+    "linkWhatsapp": "https://meli.la/2XuPkXq",
+    "timestamp": 1791502427000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Smart TV Semp 43 Polegadas LED HVA 4K S62 WiFi Bluetooth Google TV 3 HDMI HDR10+ Dolby Audio 43S62",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.799,00",
+    "precoPor": "R$ 1.443,04",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/3WgXUS3",
+    "linkWhatsapp": "https://amzn.to/3WgXUS3",
+    "timestamp": 1791502361000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4hI2m3g",
     "linkWhatsapp": "https://amzn.to/4hI2m3g",
     "timestamp": 1791419394000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Britânia Sanduicheira e Grill Press 127V, BGR27I classico/moderno Plástico e Metal",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 121,95",
-    "precoPor": "R$ 90,14",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09WWY48B7.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4y8g99I",
-    "linkWhatsapp": "https://amzn.to/4y8g99I",
-    "timestamp": 1791419031000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "D Densen Carplay Adaptador Sem Fio Car Play Android Auto 2 Em 1 Usb Car Play Wireless Automático",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 85,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_834280-MLA107510603341_022026-O.jpg",
-    "link": "https://meli.la/2v8KBH4",
-    "linkWhatsapp": "https://meli.la/2v8KBH4",
-    "timestamp": 1791418957000,
     "imagemIlustrativa": false
   }
 ]
