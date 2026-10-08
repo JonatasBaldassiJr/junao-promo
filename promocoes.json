@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Microsoft 365 Family com Copilot + até 6TB de Armazenamento OneDrive (1TB por pessoa), 6 usuários - Word, Excel, PowerPoint, Outlook - PC/Mac/Iphone/Android/tablet/ - (12 Meses)",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 439,90",
+    "precoPor": "R$ 389,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F94JN228.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4BbDABQ",
+    "linkWhatsapp": "https://amzn.to/4BbDABQ",
+    "timestamp": 1791485142000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit 2 Tapetes Felpudos Banheiro Antiderrapantes 60x40cm Cinza Geométrico",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 54,90",
+    "precoPor": "R$ 29,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_699085-MLB111333990596_052026-O.jpg",
+    "link": "https://meli.la/2RkrRtC",
+    "linkWhatsapp": "https://meli.la/2RkrRtC",
+    "timestamp": 1791485078000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "ELG, F410, Suporte Articulado de Parede, Pistão a Gás, Design Ergonômico e Ajustável, Monitores 17'' a 34'', Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2oBFwk3",
     "linkWhatsapp": "https://meli.la/2oBFwk3",
     "timestamp": 1791404302000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo Banco Imobiliário Grande Estrela em português",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 118,00",
-    "precoPor": "R$ 86,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_799074-MLA109742234079_032026-O.jpg",
-    "link": "https://meli.la/2m8SLMi",
-    "linkWhatsapp": "https://meli.la/2m8SLMi",
-    "timestamp": 1791404212000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Espelho Mirano Paris 80x60cm Bisote Design Lapidado Moderno",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,80",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_977812-MLB116265534372_092026-O.jpg",
-    "link": "https://meli.la/2haXGFK",
-    "linkWhatsapp": "https://meli.la/2haXGFK",
-    "timestamp": 1791403770000,
     "imagemIlustrativa": false
   }
 ]
