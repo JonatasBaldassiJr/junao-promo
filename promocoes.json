@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gin Tanqueray Royale Dark Berry 700ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 136,00",
+    "precoPor": "R$ 79,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0B1933NPW.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4dnX6Rm",
+    "linkWhatsapp": "https://amzn.to/4dnX6Rm",
+    "timestamp": 1791490050000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1DQiQ2x",
     "linkWhatsapp": "https://meli.la/1DQiQ2x",
     "timestamp": 1791410235000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ovomaltine Creme Crocante Pote 260g",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 25,00",
-    "precoPor": "R$ 17,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DJCFN5D9.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/46iAVIh",
-    "linkWhatsapp": "https://amzn.to/46iAVIh",
-    "timestamp": 1791410077000,
     "imagemIlustrativa": false
   }
 ]
