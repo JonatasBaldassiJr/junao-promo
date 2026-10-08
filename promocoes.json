@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Armani Beauty, Acqua di Gioia, Eau de Parfum, Giorgio Armani, Perfume Feminino Fragrância Cítrica Aquática Refrescante com Notas de Limão, Hortelã e Jasmim",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 529,00",
+    "precoPor": "R$ 256,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B01F2LAUUG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3U5McJo",
+    "linkWhatsapp": "https://amzn.to/3U5McJo",
+    "timestamp": 1791477117000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Y10 Motocicleta Sem Fio Bluetooth 5.3 Fone de Ouvido Capacete Kit",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1DgkCQz",
     "linkWhatsapp": "https://meli.la/1DgkCQz",
     "timestamp": 1791396320000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tablet, HUAWEI MatePad SE 11, 4+128GB, Tela HUAWEI FullView de 11\" para Conforto Visual，Superbateria de 7700 mAh 22,5W，Câmera Traseira 8 MP，Câmera Frontal 5 MP，Cinza Nebula",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 999,00",
-    "precoPor": "R$ 789,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4yBRJGH",
-    "linkWhatsapp": "https://amzn.to/4yBRJGH",
-    "timestamp": 1791396250000,
     "imagemIlustrativa": false
   }
 ]
