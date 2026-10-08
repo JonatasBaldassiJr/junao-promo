@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 39,90",
+    "precoPor": "R$ 17,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09Q4JK85H.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yG5T9V",
+    "linkWhatsapp": "https://amzn.to/4yG5T9V",
+    "timestamp": 1791470126000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 4 Camiseta Oversized Streetwear Básica Gola Alta Algodão",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2THKeZi",
     "linkWhatsapp": "https://meli.la/2THKeZi",
     "timestamp": 1791386718000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "JBL PartyBox Encore 2, com 2 microfones sem fio, 100W RMS, AURA CAST, até 15 horas, bivolt",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.500,00",
-    "precoPor": "R$ 1.833,88",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734366-MLA99936636035_112025-O.jpg",
-    "link": "https://meli.la/2d2zwZp",
-    "linkWhatsapp": "https://meli.la/2d2zwZp",
-    "timestamp": 1791386315000,
     "imagemIlustrativa": false
   }
 ]
