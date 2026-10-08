@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ricca Shampoo Seco Berry 150ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 23,00",
+    "precoPor": "R$ 17,85",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09N9ZC7HF.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ja2Ly7",
+    "linkWhatsapp": "https://amzn.to/4ja2Ly7",
+    "timestamp": 1791420148000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "CORTE O GASTO, NÃO O ROSTO",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/23c4g5b",
     "linkWhatsapp": "https://meli.la/23c4g5b",
     "timestamp": 1791336850000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Masculino Eau de Toilette Azzaro - Azzaro Pour Homme 100 ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 509,00",
-    "precoPor": "R$ 224,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_904941-MLA106200749855_012026-O.jpg",
-    "link": "https://meli.la/1Ysvz4s",
-    "linkWhatsapp": "https://meli.la/1Ysvz4s",
-    "timestamp": 1791336741000,
     "imagemIlustrativa": false
   }
 ]
