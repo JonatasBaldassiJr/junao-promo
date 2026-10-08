@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Liquidificador 1400 Full Oster Preto 3,2L - 220V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 319,90",
+    "precoPor": "R$ 136,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08DFJRCJB.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yNYaXd",
+    "linkWhatsapp": "https://amzn.to/4yNYaXd",
+    "timestamp": 1791475420000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4j5JbD2",
     "linkWhatsapp": "https://amzn.to/4j5JbD2",
     "timestamp": 1791394558000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo Talheres Faqueiro Búzios Aço Inox 24 Peças Tramontina",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,90",
-    "precoPor": "R$ 62,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_885228-MLA105354697197_012026-O.jpg",
-    "link": "https://meli.la/2woh7fc",
-    "linkWhatsapp": "https://meli.la/2woh7fc",
-    "timestamp": 1791394481000,
     "imagemIlustrativa": false
   }
 ]
