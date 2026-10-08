@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Centrum Essencial Multivitamínico Diário, com Complexo B, Vitamina D, e Magnesio, 2 Frascos com 30 Comprimidos cada",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 34,86",
+    "precoPor": "R$ 26,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DFDWGLLN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4i9lEQy",
+    "linkWhatsapp": "https://amzn.to/4i9lEQy",
+    "timestamp": 1791478530000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Notebook ASUS VivoBook Go 15, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/13Ux8WY",
     "linkWhatsapp": "https://meli.la/13Ux8WY",
     "timestamp": 1791397549000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ventilador Vertical WAP AIR BREEZE 3 Velocidades, Oscilação De 60° E Motor Silencioso 60W 127V",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 599,00",
-    "precoPor": "R$ 301,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_816989-MLA101779862739_122025-O.jpg",
-    "link": "https://meli.la/2k7EZHh",
-    "linkWhatsapp": "https://meli.la/2k7EZHh",
-    "timestamp": 1791397473000,
     "imagemIlustrativa": false
   }
 ]
