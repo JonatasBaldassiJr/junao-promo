@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Smart TV 32\" Philco Roku TV Dolby Áudio HDR10 P32CRB",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 999,00",
+    "precoPor": "R$ 843,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GH34KFLR.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yjzsgw",
+    "linkWhatsapp": "https://amzn.to/4yjzsgw",
+    "timestamp": 1791421174000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 12 Utensílios De Cozinha Em Silicone E Cabo De Madeira Jogo De Utensílios Resistente ao Calor Antiaderente Premium GAXMARK",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1d4kTL7",
     "linkWhatsapp": "https://meli.la/1d4kTL7",
     "timestamp": 1791337704000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fritadeira Elétrica Air Fry Elgin 3,5 Preto Somente 127v",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 204,00",
-    "precoPor": "R$ 155,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_661051-MLA88492798286_072025-O.jpg",
-    "link": "https://meli.la/1NRkGqT",
-    "linkWhatsapp": "https://meli.la/1NRkGqT",
-    "timestamp": 1791337633000,
     "imagemIlustrativa": false
   }
 ]
