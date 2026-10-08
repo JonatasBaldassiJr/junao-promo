@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Armani Beauty, Armani Code Eau de Toilette, Giorgio Armani, Perfume Masculino Refilável, Fragrância Oriental Amadeirada com Notas de Tangerina Verde, Lavanda, Fava Tonka e Cedro",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 899,00",
+    "precoPor": "R$ 568,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BTDCRCXF.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hLUeyL",
+    "linkWhatsapp": "https://amzn.to/4hLUeyL",
+    "timestamp": 1791459093000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit Bermuda Short Mole + Camiseta PRETA PARIS MINIMALIST kit Basico",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 39,96",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-81zus-mid4uu60xeki52",
+    "link": "https://s.shopee.com.br/7AeALJvNnI",
+    "linkWhatsapp": "https://s.shopee.com.br/7AeALJvNnI",
+    "timestamp": 1791459010000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Vitamina D 1000ui 60 Caps Growth Supplements - Sem Sabor Sem Sabor",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4yAFoTf",
     "linkWhatsapp": "https://amzn.to/4yAFoTf",
     "timestamp": 1791373727000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Colgate Luminous White Carvão Ativado Creme Dental Clareador, 3x70g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 30,19",
-    "precoPor": "R$ 15,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09ZLTRJWN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3Ucnrv6",
-    "linkWhatsapp": "https://amzn.to/3Ucnrv6",
-    "timestamp": 1791373642000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Armani Beauty Perfume Feminino My Way Eau de Parfum, Refilável 30ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 589,00",
-    "precoPor": "R$ 271,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_681683-MLA116326302862_092026-O.jpg",
-    "link": "https://meli.la/1okE5PG",
-    "linkWhatsapp": "https://meli.la/1okE5PG",
-    "timestamp": 1791373589000,
     "imagemIlustrativa": false
   }
 ]
