@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Philips Barbeador Elétrico Shaver Compacto com Lâminas SteelPrecision",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 599,90",
+    "precoPor": "R$ 269,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FB41MGJH.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TMStcH",
+    "linkWhatsapp": "https://amzn.to/3TMStcH",
+    "timestamp": 1791474644000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Sandrini Aero Run Academia Caminhada Treino",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/13QnArw",
     "linkWhatsapp": "https://meli.la/13QnArw",
     "timestamp": 1791392590000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Revitalizador De Plástico Automotivo Matrix Cera Moto E Carro",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 18,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-msgh50r25wxybf",
-    "link": "https://s.shopee.com.br/BUOmIfzR9",
-    "linkWhatsapp": "https://s.shopee.com.br/BUOmIfzR9",
-    "timestamp": 1791392473000,
     "imagemIlustrativa": false
   }
 ]
