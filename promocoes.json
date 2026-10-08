@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Jogo De Lençol Queen 3 Peças 400 Fios C/ Elástico Hotel",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 58,80",
+    "precoPor": "R$ 23,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_720600-MLB114972962685_072026-O.jpg",
+    "link": "https://meli.la/1NVveVB",
+    "linkWhatsapp": "https://meli.la/1NVveVB",
+    "timestamp": 1791500846000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "NESCAFÉ DOLCE GUSTO Café em Cápsula Cappuccino 10 Cápsulas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 21,99",
+    "precoPor": "R$ 16,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08KSW92KS.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3W02OTr",
+    "linkWhatsapp": "https://amzn.to/3W02OTr",
+    "timestamp": 1791500760000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lacta Amandita - Wafer Recheado Sabor Chocolate 200g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4hMbdRL",
     "linkWhatsapp": "https://amzn.to/4hMbdRL",
     "timestamp": 1791417324000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Completo Lavar Carro Rapido Cera Pulverizador 2l Brilho",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 413,00",
-    "precoPor": "R$ 239,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932273-MLB117699288749_092026-O.jpg",
-    "link": "https://meli.la/17nrMdP",
-    "linkWhatsapp": "https://meli.la/17nrMdP",
-    "timestamp": 1791417267000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta T-shit Feminina Malha Peruana Básica Oversized",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 45,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_770654-MLB118479353489_092026-O.jpg",
-    "link": "https://meli.la/1ooR7yH",
-    "linkWhatsapp": "https://meli.la/1ooR7yH",
-    "timestamp": 1791416957000,
     "imagemIlustrativa": false
   }
 ]
