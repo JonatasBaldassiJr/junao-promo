@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tapete Passadeira 2,00x0,60 Quarto Pé De Cama Luxo Conforto",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 78,00",
+    "precoPor": "R$ 38,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_782079-MLB108488941972_032026-O.jpg",
+    "link": "https://meli.la/1DgkCQz",
+    "linkWhatsapp": "https://meli.la/1DgkCQz",
+    "timestamp": 1791482678000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume Lattafa Asad 100ml Eau De Parfum Original Árabe Original Com Nota Fiscal E Selo Original Lataffa",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/256dqL3",
     "linkWhatsapp": "https://meli.la/256dqL3",
     "timestamp": 1791401646000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Garmin Relógio Forerunner 55 com Monitor Cardíaco de Pulso e GPS",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.199,00",
-    "precoPor": "R$ 1.399,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0953X73TP.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hS0s0p",
-    "linkWhatsapp": "https://amzn.to/4hS0s0p",
-    "timestamp": 1791401572000,
     "imagemIlustrativa": false
   }
 ]
