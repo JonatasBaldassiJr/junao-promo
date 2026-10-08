@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gel de Limpeza Facial Neutrogena Deep Clean Intensive, 150g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 37,00",
+    "precoPor": "R$ 24,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B077C1DLMJ.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ARHn72",
+    "linkWhatsapp": "https://amzn.to/4ARHn72",
+    "timestamp": 1791427378000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Scala Plus Papel Toalha Mega, 360 Toalhas (3 Rolos de 120 Toalhas Cada)",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4hyQSAC",
     "linkWhatsapp": "https://amzn.to/4hyQSAC",
     "timestamp": 1791343313000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Britânia Escova Secadora BEC02PR Bivolt 4 em 1 1300W Plástico Rosa/Preto",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 90,00",
-    "precoPor": "R$ 74,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BZLJLQ58.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4dsIXCh",
-    "linkWhatsapp": "https://amzn.to/4dsIXCh",
-    "timestamp": 1791343292000,
     "imagemIlustrativa": false
   }
 ]
