@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cadeira de Escritório Executiva Base Preta com Rodinha Fortt Linea Preta - CSF20-PT",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Shopee",
+    "precoDe": "R$ 349,00",
+    "precoPor": "R$ 189,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fr-mgp8p991m87fb0",
+    "link": "https://s.shopee.com.br/7Ae9oJYdri",
+    "linkWhatsapp": "https://s.shopee.com.br/7Ae9oJYdri",
+    "timestamp": 1791430182000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3WbhgrH",
     "linkWhatsapp": "https://amzn.to/3WbhgrH",
     "timestamp": 1791344685000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "COLÁGENO TIPO 2 com 45mg - Fórmula Exclusiva com Máxima Concentração e Biodisponibilidade - 60 Cápsulas",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 77,00",
-    "precoPor": "R$ 23,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_932274-MLA113497076692_072026-O.jpg",
-    "link": "https://meli.la/18ap5FG",
-    "linkWhatsapp": "https://meli.la/18ap5FG",
-    "timestamp": 1791344625000,
     "imagemIlustrativa": false
   }
 ]
