@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tênis Nike Mc Trainer 3 Masculino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 600,00",
+    "precoPor": "R$ 371,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_702412-MLB96941920922_112025-O.jpg",
+    "link": "https://meli.la/1rC8qmu",
+    "linkWhatsapp": "https://meli.la/1rC8qmu",
+    "timestamp": 1791487745000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Smartwatch HUAWEI Band 10 Caixa de Polímeros Duráveis Análise do Sono em Nível Profissional Assistente de Bem-estar Emocional Relógio Smartwatch Compatível com Android e iOS Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 219,00",
+    "precoPor": "R$ 164,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_772291-MLA100008466405_122025-O.jpg",
+    "link": "https://meli.la/2Xx1LMT",
+    "linkWhatsapp": "https://meli.la/2Xx1LMT",
+    "timestamp": 1791487673000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Nike Air Max Excee Feminino",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4AQXwK5",
     "linkWhatsapp": "https://amzn.to/4AQXwK5",
     "timestamp": 1791407237000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Monitor Gamer Philips EVNIA 27\" IPS FHD, 144Hz, 0,5ms, NVIDIA G-Sync - 27M2N3200NF",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 779,00",
-    "precoPor": "R$ 634,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/3VW6Jk5",
-    "linkWhatsapp": "https://amzn.to/3VW6Jk5",
-    "timestamp": 1791407149000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Conjunto Frio Moletom Calça Blusa Com Ziper Jogger Cargo",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 143,90",
-    "precoPor": "R$ 74,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_646835-MLB112762346736_062026-O.jpg",
-    "link": "https://meli.la/1s1Duas",
-    "linkWhatsapp": "https://meli.la/1s1Duas",
-    "timestamp": 1791407024000,
     "imagemIlustrativa": false
   }
 ]
