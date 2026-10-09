@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Lotus Biscoff Biscoito Doce Pacote 124G",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 17,90",
+    "precoPor": "R$ 14,89",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07FN8T31H.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4dt2X7Q",
+    "linkWhatsapp": "https://amzn.to/4dt2X7Q",
+    "timestamp": 1791516591000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Abajur Recarregável Touch Luminária Retrátil em Aço com Luz de Led Branco Quente Ajustável-USB",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2YohTxB",
     "linkWhatsapp": "https://meli.la/2YohTxB",
     "timestamp": 1791432858000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.499,00",
-    "precoPor": "R$ 1.449,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_697288-MLA100482486016_122025-O.jpg",
-    "link": "https://meli.la/299nL2S",
-    "linkWhatsapp": "https://meli.la/299nL2S",
-    "timestamp": 1791432784000,
     "imagemIlustrativa": false
   }
 ]
