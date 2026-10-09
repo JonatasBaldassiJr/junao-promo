@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ISSO QUE É CUIDAR DO FIO DE VERDADE",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 72,00",
+    "precoPor": "R$ 40,49",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H8ZPL88X.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0H8ZPL88X?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0H8ZPL88X?tag=junaopromoc03-20",
+    "timestamp": 1791553783000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Suplemento em pasta Dr. Peanut Melhor Pasta de Amendoim amentoim cremosa sabor Cookies and cream x 600g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/479L7mM",
     "linkWhatsapp": "https://amzn.to/479L7mM",
     "timestamp": 1791470900000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Body Splash Arabe C/4un 200ml Perfume Feminino de Luxo Alta Concentração",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 125,99",
-    "precoPor": "R$ 69,29",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800232-MLA118786204179_102026-O.jpg",
-    "link": "https://meli.la/2wZvWhb",
-    "linkWhatsapp": "https://meli.la/2wZvWhb",
-    "timestamp": 1791470682000,
     "imagemIlustrativa": false
   }
 ]
