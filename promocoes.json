@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Cetaphil Creme Hidratante",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 104,00",
+    "precoPor": "R$ 67,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B079VXJK79.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zgC0Nc",
+    "linkWhatsapp": "https://amzn.to/4zgC0Nc",
+    "timestamp": 1791561083000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Vichy, Dercos Shampoo Anticaspa para Cabelos Normais a Oleosos",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 300,00",
+    "precoPor": "R$ 71,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CZ4BTRYR.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4deLxM5",
+    "linkWhatsapp": "https://amzn.to/4deLxM5",
+    "timestamp": 1791561020000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Cuecas Box Lupo Algodão Boxer Masculina Cotton",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2RM8eaZ",
     "linkWhatsapp": "https://meli.la/2RM8eaZ",
     "timestamp": 1791478030000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Pares Meias Wilson Cano Médio Masculino Adulto 38-43",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 60,00",
-    "precoPor": "R$ 30,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_846695-MLB83338551319_032025-O.jpg",
-    "link": "https://meli.la/1Gq6Fyy",
-    "linkWhatsapp": "https://meli.la/1Gq6Fyy",
-    "timestamp": 1791477901000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Cueca Boxer Sem Costura Microfibra Selene Masculina",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 346,00",
-    "precoPor": "R$ 114,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950435-MLB75179105751_032024-O.jpg",
-    "link": "https://meli.la/2Ej8kWn",
-    "linkWhatsapp": "https://meli.la/2Ej8kWn",
-    "timestamp": 1791477750000,
     "imagemIlustrativa": false
   }
 ]
