@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Philips Walita Fritadeira Airfryer Série 1000 XL 6,2L, Preta, 110V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 549,90",
+    "precoPor": "R$ 314,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0D98VK8PP.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4xMChq7",
+    "linkWhatsapp": "https://amzn.to/4xMChq7",
+    "timestamp": 1791505278000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Ventisol Ventilador de teto wind br 3p inj branco c/r inverter bivolt",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4AWbuu5",
     "linkWhatsapp": "https://amzn.to/4AWbuu5",
     "timestamp": 1791422970000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Roku Streaming Stick HD 2025 | Dispositivo de streaming para TV HD/FHD com controle remoto por comando de voz compatível com Alexa, Siri e Google",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 289,99",
-    "precoPor": "R$ 182,52",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FH7LY3R4.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4dtdjop",
-    "linkWhatsapp": "https://amzn.to/4dtdjop",
-    "timestamp": 1791422660000,
     "imagemIlustrativa": false
   }
 ]
