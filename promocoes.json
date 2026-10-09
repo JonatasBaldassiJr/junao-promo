@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "CANCELA QUANDO QUISER MAS NINGUÉM QUER",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 22,76",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XTFT7G1.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=junaopromoc03-20",
+    "timestamp": 1791571781000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "TP-Link Tapo C113 Câmera de Segurança Wifi 2K 3MP IP65 Interna Externa",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2Xx1LMT",
     "linkWhatsapp": "https://meli.la/2Xx1LMT",
     "timestamp": 1791487673000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Nike Air Max Excee Feminino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 799,00",
-    "precoPor": "R$ 349,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_769580-MLB100977776357_122025-O.jpg",
-    "link": "https://meli.la/2J7cf2L",
-    "linkWhatsapp": "https://meli.la/2J7cf2L",
-    "timestamp": 1791487543000,
     "imagemIlustrativa": false
   }
 ]
