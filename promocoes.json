@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Havit Headphone Fone de Ouvido H2002d Red, Gamer, com Microfone, Falante 53mm, Plug 3, 5mm: compatível com XBOX ONE e PS4, HV-H2002d Cor Vermelho e Branco",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 2.002,00",
+    "precoPor": "R$ 145,32",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BTJBNFSV.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yGsnrd",
+    "linkWhatsapp": "https://amzn.to/4yGsnrd",
+    "timestamp": 1791575472000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 249,00",
+    "precoPor": "R$ 111,20",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FN5DD149.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VsKAtG",
+    "linkWhatsapp": "https://amzn.to/3VsKAtG",
+    "timestamp": 1791575399000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Capacete Moto Pro Tork Fechado Viseira Fumê Street Promoção",
     "categoria": "automotivo",
     "categoriaNome": "Automotivo",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1DYzufh",
     "linkWhatsapp": "https://meli.la/1DYzufh",
     "timestamp": 1791491223000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Run 72 adidas",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 449,00",
-    "precoPor": "R$ 218,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617426-MLB115631354887_082026-O.jpg",
-    "link": "https://meli.la/1AKn4Ge",
-    "linkWhatsapp": "https://meli.la/1AKn4Ge",
-    "timestamp": 1791491158000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Lacta Sonho de Valsa - Wafer Recheado Sabor Chocolate Pacote 1kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 94,50",
-    "precoPor": "R$ 53,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B008S5ICJ0.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4zfeIHw",
-    "linkWhatsapp": "https://amzn.to/4zfeIHw",
-    "timestamp": 1791491059000,
     "imagemIlustrativa": false
   }
 ]
