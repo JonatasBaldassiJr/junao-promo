@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Legging Suplex Fitness",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 21,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/f6f75b5192f765859036093f8c6086e8",
+    "link": "https://s.shopee.com.br/2gBn70cKjZ",
+    "linkWhatsapp": "https://s.shopee.com.br/2gBn70cKjZ",
+    "timestamp": 1791574300000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit 4 Pares Meia Antiderrapante Esportiva Futebol Treino Preto/ Vermelho/verde / Laranja Tamanho Unico",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 31,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_657417-MLB97249892159_112025-O.jpg",
+    "link": "https://meli.la/22H2vma",
+    "linkWhatsapp": "https://meli.la/22H2vma",
+    "timestamp": 1791574251000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mochila Masculina 20L Notebook 16 USB Escolar Faculdade Impermeável com Alça Reforçada",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4yePyYG",
     "linkWhatsapp": "https://amzn.to/4yePyYG",
     "timestamp": 1791489001000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 64,90",
-    "precoPor": "R$ 39,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-O.jpg",
-    "link": "https://meli.la/1ZJQBiQ",
-    "linkWhatsapp": "https://meli.la/1ZJQBiQ",
-    "timestamp": 1791488913000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jaqueta Puffer De Frio Blusa Impermeável Inverno Intenso",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,99",
-    "precoPor": "R$ 56,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_829600-MLB112200803145_052026-O.jpg",
-    "link": "https://meli.la/1k2p7JA",
-    "linkWhatsapp": "https://meli.la/1k2p7JA",
-    "timestamp": 1791488851000,
     "imagemIlustrativa": false
   }
 ]
