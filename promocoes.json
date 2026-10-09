@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ESSE DESCONTO NA LG TÁ DE SACANAGEM",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H4HB55J5.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0H4HB55J5?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0H4HB55J5?tag=junaopromoc03-20",
+    "timestamp": 1791572324000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Travesseiro Cervical Nasa - Coluna Relax - Carvão Ativado Cor branco e cinza",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2qXPGoP",
     "linkWhatsapp": "https://meli.la/2qXPGoP",
     "timestamp": 1791488080000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Masculino St Runner V4 Mesh Puma",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 449,99",
-    "precoPor": "R$ 213,99",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827819-MLB79876549817_102024-O.jpg",
-    "link": "https://meli.la/1zgjYAr",
-    "linkWhatsapp": "https://meli.la/1zgjYAr",
-    "timestamp": 1791488000000,
     "imagemIlustrativa": false
   }
 ]
