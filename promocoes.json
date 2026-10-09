@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "SEU CELULAR VELHO JÁ TRAVA ATÉ PRA ABRIR O WHATSAPP",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 999,00",
+    "precoPor": "R$ 666,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FR5GNJDB.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FR5GNJDB?tag=junaopromoc03-20",
+    "timestamp": 1791585492000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "ACABOU AQUELA DESCULPA DE NÃO SABER FAZER BOLO",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/21BiVGi",
     "linkWhatsapp": "https://meli.la/21BiVGi",
     "timestamp": 1791507559000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Colágeno Verisol Renova Be Ácido Hialurônico Biotina",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 408,00",
-    "precoPor": "R$ 169,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_852954-MLB114661932925_072026-O.jpg",
-    "link": "https://meli.la/2gZRkKa",
-    "linkWhatsapp": "https://meli.la/2gZRkKa",
-    "timestamp": 1791507468000,
     "imagemIlustrativa": false
   }
 ]
