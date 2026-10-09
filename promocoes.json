@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Calça Jeans Wide Leg Feminina Cintura Alta Pantalona",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 80,00",
+    "precoPor": "R$ 59,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_952158-MLB117534658949_092026-O.jpg",
+    "link": "https://meli.la/2ZPZv7a",
+    "linkWhatsapp": "https://meli.la/2ZPZv7a",
+    "timestamp": 1791515563000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1U5GNwY",
     "linkWhatsapp": "https://meli.la/1U5GNwY",
     "timestamp": 1791432267000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "La Roche-Posay Cicaplast B5 Baby, Creme Multirreparador Calmante, 40ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 77,99",
-    "precoPor": "R$ 57,46",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4rR8jQa",
-    "linkWhatsapp": "https://amzn.to/4rR8jQa",
-    "timestamp": 1791432191000,
     "imagemIlustrativa": false
   }
 ]
