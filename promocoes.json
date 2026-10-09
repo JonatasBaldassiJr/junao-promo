@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit 2 Camisetas Masculina Dry Alpha",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 99,80",
+    "precoPor": "R$ 58,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_680296-MLB110887377278_052026-O.jpg",
+    "link": "https://meli.la/1K8S2jf",
+    "linkWhatsapp": "https://meli.la/1K8S2jf",
+    "timestamp": 1791547816000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Camisa Camiseta Polo Masculina Texturizada Sem Botão",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/22Wetqa",
     "linkWhatsapp": "https://meli.la/22Wetqa",
     "timestamp": 1791464599000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Chocolate Snickers Original Minis 15Un",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 42,00",
-    "precoPor": "R$ 25,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0G953MNPN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4dtU5Pv",
-    "linkWhatsapp": "https://amzn.to/4dtU5Pv",
-    "timestamp": 1791464527000,
     "imagemIlustrativa": false
   }
 ]
