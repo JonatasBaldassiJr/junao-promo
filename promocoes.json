@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit 3 Camisetas Gola V Polo Wear",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 179,99",
+    "precoPor": "R$ 87,29",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_894088-MLB115737792666_092026-O.jpg",
+    "link": "https://meli.la/19oQtZR",
+    "linkWhatsapp": "https://meli.la/19oQtZR",
+    "timestamp": 1791510108000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Oral-B Pasta de Dente 3D White Branqueadora, 6 Unidades 70 g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1rYMHWr",
     "linkWhatsapp": "https://meli.la/1rYMHWr",
     "timestamp": 1791428244000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sallve Hidratante Facial 40G - Beta-Glucan Phytoesqualano",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 60,00",
-    "precoPor": "R$ 43,07",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BLSTVJVD.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4zqFSvf",
-    "linkWhatsapp": "https://amzn.to/4zqFSvf",
-    "timestamp": 1791428098000,
     "imagemIlustrativa": false
   }
 ]
