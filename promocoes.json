@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ACABOU AQUELA DESCULPA DE NÃO SABER FAZER BOLO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 289,90",
+    "precoPor": "R$ 111,35",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08YHR9C4S.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B08YHR9C4S?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B08YHR9C4S?tag=junaopromoc03-20",
+    "timestamp": 1791585400000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Vitamina B12 Growth Supplements Vitaminas Vit. B12 em cápsula Sem sabor x 100g de 120 un",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2gZRkKa",
     "linkWhatsapp": "https://meli.la/2gZRkKa",
     "timestamp": 1791507468000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Câmera Lâmpada Segurança Inteligente Visão Noturna Hd Wifi Cor Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,00",
-    "precoPor": "R$ 45,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_791881-MLA96833156891_102025-O.jpg",
-    "link": "https://meli.la/1pAcwwD",
-    "linkWhatsapp": "https://meli.la/1pAcwwD",
-    "timestamp": 1791507242000,
     "imagemIlustrativa": false
   }
 ]
