@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "BALDE GRANDE PRA CASA NÃO FICAR NO MEIO DA FAXINA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,00",
+    "precoPor": "R$ 52,67",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07NQ9PFKN.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=junaopromoc03-20",
+    "timestamp": 1791586601000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "CHEGA DE FILA PRA USAR O FORNO DA CASA",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3UgqGle",
     "linkWhatsapp": "https://amzn.to/3UgqGle",
     "timestamp": 1791508819000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Philco PAF15C Fritadeira Air Fryer Oven 15 Litros Revestimento Redstone Porta Removível Luz Interna 10 Funções Preta",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 827,00",
-    "precoPor": "R$ 453,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_752065-MLA111373483064_052026-O.jpg",
-    "link": "https://meli.la/2VLK3aB",
-    "linkWhatsapp": "https://meli.la/2VLK3aB",
-    "timestamp": 1791508685000,
     "imagemIlustrativa": false
   }
 ]
