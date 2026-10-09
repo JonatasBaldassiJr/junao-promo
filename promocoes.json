@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ESSE POTINHO NÃO SOBREVIVE UMA SEMANA NA SUA CASA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 17,55",
+    "precoPor": "R$ 14,92",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DJCFN5D9.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0DJCFN5D9?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DJCFN5D9?tag=junaopromoc03-20",
+    "timestamp": 1791586938000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "ACABOU A ESPERA ENTRE UMA FRITURA E OUTRA",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yel7ll",
     "linkWhatsapp": "https://amzn.to/4yel7ll",
     "timestamp": 1791509226000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit De Internet Via Satélite Starlink Mini",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 890,00",
-    "precoPor": "R$ 463,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_717451-MLA111543613623_052026-O.jpg",
-    "link": "https://meli.la/2CvgNv7",
-    "linkWhatsapp": "https://meli.la/2CvgNv7",
-    "timestamp": 1791509130000,
     "imagemIlustrativa": false
   }
 ]
