@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "DR. Peanut Pasta de Amendoim Sabor Chocotine, Pote 600g",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 47,99",
+    "precoPor": "R$ 39,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BYP6L6FM.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y7BaBv",
+    "linkWhatsapp": "https://amzn.to/4y7BaBv",
+    "timestamp": 1791550016000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Colchão Inflável Solteiro Multiuso Aveludado O2Flow Azul",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4AQ95ku",
     "linkWhatsapp": "https://amzn.to/4AQ95ku",
     "timestamp": 1791466496000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Jogos Baralhos Luxo Plástico Resistente Estojo De Lata",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 50,36",
-    "precoPor": "R$ 25,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_886129-MLB99454098018_112025-O.jpg",
-    "link": "https://meli.la/2EnBRY6",
-    "linkWhatsapp": "https://meli.la/2EnBRY6",
-    "timestamp": 1791466279000,
     "imagemIlustrativa": false
   }
 ]
