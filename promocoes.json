@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "240W PRA ABAFAR A CONVERSA DO VIZINHO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FQXCBFCF.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0FQXCBFCF?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FQXCBFCF?tag=junaopromoc03-20",
+    "timestamp": 1791552295000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "CHEGA DE ESPERAR O FORNO DA SUA MÃE",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1rHsUpe",
     "linkWhatsapp": "https://meli.la/1rHsUpe",
     "timestamp": 1791469066000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Estantes Multiuso Alta 4 Prateleiras 1 Porta Wt Marrom",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 749,99",
-    "precoPor": "R$ 521,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_650285-MLB117060235616_102026-O.jpg",
-    "link": "https://meli.la/2enTi3W",
-    "linkWhatsapp": "https://meli.la/2enTi3W",
-    "timestamp": 1791469001000,
     "imagemIlustrativa": false
   }
 ]
