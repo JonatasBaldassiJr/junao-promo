@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "MONDIAL Cooktop a Gás, 4 Bocas, Preto/Inox, Bivolt - CTG-01",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 281,81",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B085JFRRSW.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4y9e7pF",
+    "linkWhatsapp": "https://amzn.to/4y9e7pF",
+    "timestamp": 1791588916000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Oster PrimaLatte Touch Red Cafeteira Espresso 1050W",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2YKwUMY",
     "linkWhatsapp": "https://meli.la/2YKwUMY",
     "timestamp": 1791512282000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Natura Homem Aromáticos Deo Colônia 100 Ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 100,00",
-    "precoPor": "R$ 97,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_834245-MLA84848492011_052025-O.jpg",
-    "link": "https://meli.la/1Mgt27J",
-    "linkWhatsapp": "https://meli.la/1Mgt27J",
-    "timestamp": 1791512000000,
     "imagemIlustrativa": false
   }
 ]
