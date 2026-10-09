@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "JBL BARATINHO É RARO DEMAIS",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 158,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GM1PSWPD.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=junaopromoc03-20",
+    "timestamp": 1791586754000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "3 POTES PRA NÃO BRIGAR NO MEIO DO JOGO",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 33,00",
+    "precoPor": "R$ 22,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=junaopromoc03-20",
+    "timestamp": 1791586691000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "BALDE GRANDE PRA CASA NÃO FICAR NO MEIO DA FAXINA",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4hDjfh4",
     "linkWhatsapp": "https://amzn.to/4hDjfh4",
     "timestamp": 1791509032000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Desmaia Cabelo Forever Liss",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 217,00",
-    "precoPor": "R$ 125,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753764-MLB117652510863_092026-O.jpg",
-    "link": "https://meli.la/1njyWha",
-    "linkWhatsapp": "https://meli.la/1njyWha",
-    "timestamp": 1791508885000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "O CHEIRINHO QUE TODO MUNDO PERGUNTA QUAL É",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 23,65",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07F3GYBTX.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3UgqGle",
-    "linkWhatsapp": "https://amzn.to/3UgqGle",
-    "timestamp": 1791508819000,
     "imagemIlustrativa": false
   }
 ]
