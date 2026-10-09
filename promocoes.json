@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 88,00",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 145,44",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F2GMT6T3.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0F2GMT6T3?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0F2GMT6T3?tag=junaopromoc03-20",
+    "timestamp": 1791545866000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "SESSÃO DE CINEMA EM CASA PEDE ESSA AQUI",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1APMdPU",
     "linkWhatsapp": "https://meli.la/1APMdPU",
     "timestamp": 1791463278000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Com 10 Cuecas Boxer Masculina Microfibra Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 138,00",
-    "precoPor": "R$ 59,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_882952-MLB106804965837_022026-O.jpg",
-    "link": "https://meli.la/2htYV2M",
-    "linkWhatsapp": "https://meli.la/2htYV2M",
-    "timestamp": 1791463213000,
     "imagemIlustrativa": false
   }
 ]
