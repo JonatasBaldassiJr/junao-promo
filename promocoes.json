@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Oral-B Pasta de Dente 3D White Branqueadora, 6 Unidades 70 g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 39,89",
+    "precoPor": "R$ 26,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4ylXoQo",
+    "linkWhatsapp": "https://amzn.to/4ylXoQo",
+    "timestamp": 1791509948000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Pijama Feminino Americano Botões Para Amamentação Baby Doll",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,90",
+    "precoPor": "R$ 29,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_780356-MLB109559506798_042026-O.jpg",
+    "link": "https://meli.la/1vKv6U4",
+    "linkWhatsapp": "https://meli.la/1vKv6U4",
+    "timestamp": 1791509871000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Allan Mesquita X Chorão Unissex - Todas As Cores",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4zqFSvf",
     "linkWhatsapp": "https://amzn.to/4zqFSvf",
     "timestamp": 1791428098000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Concha y Toro Reservado Cabernet Sauvignon 750ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 33,00",
-    "precoPor": "R$ 20,61",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XLMJHRN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4j4QcEa",
-    "linkWhatsapp": "https://amzn.to/4j4QcEa",
-    "timestamp": 1791427923000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gel de Limpeza Facial Neutrogena Deep Clean Intensive, 150g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 37,00",
-    "precoPor": "R$ 24,59",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B077C1DLMJ.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4ARHn72",
-    "linkWhatsapp": "https://amzn.to/4ARHn72",
-    "timestamp": 1791427378000,
     "imagemIlustrativa": false
   }
 ]
