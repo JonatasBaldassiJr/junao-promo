@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Ventilador Philco PVT491 2 em 1 Maxx Force 8 Pás 174W 220V",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 259,90",
+    "precoPor": "R$ 124,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CH8S1VCG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rSJ1RG",
+    "linkWhatsapp": "https://amzn.to/4rSJ1RG",
+    "timestamp": 1791562437000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cerveja Heineken Garrafa 600ml - Pack com 12 unidades",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4rSaYJD",
     "linkWhatsapp": "https://amzn.to/4rSaYJD",
     "timestamp": 1791479747000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mimo Style Panela de Pressão PressCook Marmol, Antiaderente 6,8l",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 547,85",
-    "precoPor": "R$ 195,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F6411RW3.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4elwGQm",
-    "linkWhatsapp": "https://amzn.to/4elwGQm",
-    "timestamp": 1791479684000,
     "imagemIlustrativa": false
   }
 ]
