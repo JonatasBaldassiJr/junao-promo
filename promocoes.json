@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ESSA QUANTIDADE SEGURA O MÊS INTEIRO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 65,00",
+    "precoPor": "R$ 37,88",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C75GP7VP.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0C75GP7VP?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0C75GP7VP?tag=junaopromoc03-20",
+    "timestamp": 1791541535000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Umidificador De Ar Ultrassônico Umi Pop Health 2,3l Dellamed Cor Branco Bivolt",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2tY7kiy",
     "linkWhatsapp": "https://meli.la/2tY7kiy",
     "timestamp": 1791461635000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "4 Camisetas Masculina Dry Fit Premium Camisa Academia Kit",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 131,45",
-    "precoPor": "R$ 73,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_663616-MLB79052309007_092024-O.jpg",
-    "link": "https://meli.la/2seTawA",
-    "linkWhatsapp": "https://meli.la/2seTawA",
-    "timestamp": 1791461474000,
     "imagemIlustrativa": false
   }
 ]
