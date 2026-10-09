@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "NIVEA Hidratante Desodorante Beleza Radiante Cuidado Intenso 400ml - Desenvolvido especialmente para a beleza da pele negra, ajuda na reparação das áreas ressecadas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 22,00",
+    "precoPor": "R$ 15,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/6140zI3L1OL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4dqPopx",
+    "linkWhatsapp": "https://amzn.to/4dqPopx",
+    "timestamp": 1791514324000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Shampoo e Condicionador Sérum L'Oréal Elseve Liso dos Sonhos",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1NoStHD",
     "linkWhatsapp": "https://meli.la/1NoStHD",
     "timestamp": 1791432128000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vaso Sanitário Tubrax Monobloco VAB0002 Caixa Acoplada Completo Privada Cor Branco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.014,90",
-    "precoPor": "R$ 597,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_632053-MLA96114658485_102025-O.jpg",
-    "link": "https://meli.la/29JtU2H",
-    "linkWhatsapp": "https://meli.la/29JtU2H",
-    "timestamp": 1791432052000,
     "imagemIlustrativa": false
   }
 ]
