@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Cerveja Heineken Garrafa 600ml - Pack com 12 unidades",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 161,00",
+    "precoPor": "R$ 111,04",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07XS8WKYL.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zoXDLg",
+    "linkWhatsapp": "https://amzn.to/4zoXDLg",
+    "timestamp": 1791561926000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Mouse Pad Gamer Fortrek Vermelho MPG104 90x40cm Antiderrapante",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 37,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_958193-MLA99533369674_122025-O.jpg",
+    "link": "https://meli.la/173f7kC",
+    "linkWhatsapp": "https://meli.la/173f7kC",
+    "timestamp": 1791561871000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Liquidificador, Turbo L-900W, 110V, Preto, 2,7L - L-900-FB",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4elwGQm",
     "linkWhatsapp": "https://amzn.to/4elwGQm",
     "timestamp": 1791479684000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ar Condicionado Inverter Philco 9000 Btus Frio 220v Pac9ft",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.749,00",
-    "precoPor": "R$ 1.568,86",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_835130-MLB118122072157_092026-O.jpg",
-    "link": "https://meli.la/2gTfXye",
-    "linkWhatsapp": "https://meli.la/2gTfXye",
-    "timestamp": 1791479613000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Filtro De Linha Régua De Tomadas Com Fusível Tripolar 10 Amperes – 3 E 6 Tomadas",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "R$ 60,12",
-    "precoPor": "R$ 20,44",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj8vrfwj9nup52",
-    "link": "https://s.shopee.com.br/60SDKfjIlP",
-    "linkWhatsapp": "https://s.shopee.com.br/60SDKfjIlP",
-    "timestamp": 1791479542000,
     "imagemIlustrativa": false
   }
 ]
