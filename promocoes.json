@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ACABOU A ESPERA ENTRE UMA FRITURA E OUTRA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 799,00",
+    "precoPor": "R$ 539,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C6FT4QYV.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0C6FT4QYV?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0C6FT4QYV?tag=junaopromoc03-20",
+    "timestamp": 1791586838000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "JBL BARATINHO É RARO DEMAIS",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2CvgNv7",
     "linkWhatsapp": "https://meli.la/2CvgNv7",
     "timestamp": 1791509130000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fischer Cooktop Gás 4 Bocas Mesa Vidro Preta Bivolt 1519-5713",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 579,00",
-    "precoPor": "R$ 376,22",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B076JLW8D5.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hDjfh4",
-    "linkWhatsapp": "https://amzn.to/4hDjfh4",
-    "timestamp": 1791509032000,
     "imagemIlustrativa": false
   }
 ]
