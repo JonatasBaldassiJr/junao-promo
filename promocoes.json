@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Percarbonato 1kg + Alvejante 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 36,93",
+    "precoPor": "R$ 16,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36",
+    "link": "https://s.shopee.com.br/6VOV5rEzKq",
+    "linkWhatsapp": "https://s.shopee.com.br/6VOV5rEzKq",
+    "timestamp": 1791542685000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cabo USB-C I2GO 2m 2,4A Nylon Trançado Chumbo - I2GO PRO",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1j25VdX",
     "linkWhatsapp": "https://meli.la/1j25VdX",
     "timestamp": 1791461910000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Utensílios Jogo 19 Peças Conjunto Em Silicone De Cozinha",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 136,66",
-    "precoPor": "R$ 75,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_880770-MLB112427967742_062026-O.jpg",
-    "link": "https://meli.la/1Dz2971",
-    "linkWhatsapp": "https://meli.la/1Dz2971",
-    "timestamp": 1791461790000,
     "imagemIlustrativa": false
   }
 ]
