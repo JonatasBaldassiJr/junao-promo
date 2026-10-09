@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Sapatênis , Leve De Zíper Super Conforto",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 94,90",
+    "precoPor": "R$ 58,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_957872-MLB97351627901_112025-O.jpg",
+    "link": "https://meli.la/29SoW41",
+    "linkWhatsapp": "https://meli.la/29SoW41",
+    "timestamp": 1791561225000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cetaphil Creme Hidratante",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4hTOZ0f",
     "linkWhatsapp": "https://amzn.to/4hTOZ0f",
     "timestamp": 1791478132000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Kappa Galaxy Masculino Feminino Academia Caminhada",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,00",
-    "precoPor": "R$ 88,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_639773-MLB118845731453_102026-O.jpg",
-    "link": "https://meli.la/2RM8eaZ",
-    "linkWhatsapp": "https://meli.la/2RM8eaZ",
-    "timestamp": 1791478030000,
     "imagemIlustrativa": false
   }
 ]
