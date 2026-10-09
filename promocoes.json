@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "NÃO SOBRA SUJEIRA NEM DESCULPA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 178,41",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B076YFJVT6.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B076YFJVT6?tag=junaopromoc03-20",
+    "timestamp": 1791584870000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "PASSOU, JÁ TÁ MACIA DE NOVO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B079VQTK2M.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B079VQTK2M?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B079VQTK2M?tag=junaopromoc03-20",
+    "timestamp": 1791584753000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Carregador Turbo Super Rápido 30w Para iPhone 15 16 17 Pro Max - Cabo Blindado Tipo Usb C Dtimp",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2fBRhEr",
     "linkWhatsapp": "https://meli.la/2fBRhEr",
     "timestamp": 1791506367000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tablet Lenovo Tab 10.1¨ Wifi 5 64gb 4gb De Ram Android 14 Cinza",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.249,00",
-    "precoPor": "R$ 989,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_684905-MLA106055190360_022026-O.jpg",
-    "link": "https://meli.la/25C2UuQ",
-    "linkWhatsapp": "https://meli.la/25C2UuQ",
-    "timestamp": 1791506027000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Air fryer Fritadeira Elétrica Electrolux EAF40 1400W sem oleo Rita Lobo 5,6L 8 receitas pré-sugeridas timer 60 minutos desligamento automático cesto removivel dupla camada antiaderente - Cinza",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 569,00",
-    "precoPor": "R$ 268,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_947666-MLA103616632598_012026-O.jpg",
-    "link": "https://meli.la/2NdTTtj",
-    "linkWhatsapp": "https://meli.la/2NdTTtj",
-    "timestamp": 1791505957000,
     "imagemIlustrativa": false
   }
 ]
