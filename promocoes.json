@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Stanley Copo Quencher Frost 887ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 319,00",
+    "precoPor": "R$ 139,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DY2NSYX6.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rQH9cb",
+    "linkWhatsapp": "https://amzn.to/4rQH9cb",
+    "timestamp": 1791559719000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4j7yznf",
     "linkWhatsapp": "https://amzn.to/4j7yznf",
     "timestamp": 1791476858000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camiseta Oversized 100% Algodão Penteado 30.1 Premium",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 79,00",
-    "precoPor": "R$ 35,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_619216-MLB112001839505_052026-O.jpg",
-    "link": "https://meli.la/2ECYBox",
-    "linkWhatsapp": "https://meli.la/2ECYBox",
-    "timestamp": 1791476722000,
     "imagemIlustrativa": false
   }
 ]
