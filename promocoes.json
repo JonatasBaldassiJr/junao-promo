@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "DOIS POTES PRA VOCÊ NÃO FICAR SEM",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 179,00",
+    "precoPor": "R$ 74,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://www.amazon.com.br/dp/B08T6KMBXK?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B08T6KMBXK?tag=junaopromoc03-20",
+    "timestamp": 1791587047000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "ESSE POTINHO NÃO SOBREVIVE UMA SEMANA NA SUA CASA",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2EjY61H",
     "linkWhatsapp": "https://meli.la/2EjY61H",
     "timestamp": 1791509387000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "WAP Lavadora de Alta Pressão WL 1800 360L/h Portátil, com Jato em Leque e Concentrado 1500psi 1400W 127V",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 299,90",
-    "precoPor": "R$ 242,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FP5K3JRP.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yel7ll",
-    "linkWhatsapp": "https://amzn.to/4yel7ll",
-    "timestamp": 1791509226000,
     "imagemIlustrativa": false
   }
 ]
