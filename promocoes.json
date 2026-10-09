@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 144,00",
+    "precoPor": "R$ 99,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DVMQVVDY.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yEyQTo",
+    "linkWhatsapp": "https://amzn.to/4yEyQTo",
+    "timestamp": 1791504648000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kärcher Robô Aspirador de Pó RCV 1 controle remoto 3 modos de limpeza sensor anti-queda e de colisão – Bivolt",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1brGMTX",
     "linkWhatsapp": "https://meli.la/1brGMTX",
     "timestamp": 1791422530000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sanduicheira e Mini Grill HQ 180º 1000W Antiaderente Inox HQ-SG002 220V",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 109,00",
-    "precoPor": "R$ 68,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4y1K6YR",
-    "linkWhatsapp": "https://amzn.to/4y1K6YR",
-    "timestamp": 1791422330000,
     "imagemIlustrativa": false
   }
 ]
