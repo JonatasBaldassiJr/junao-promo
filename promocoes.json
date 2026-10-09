@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Perfume Árabe Yara Moi Lattafa Eau De Parfum Feminino 100ml Lipx",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 258,00",
+    "precoPor": "R$ 140,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_779751-MLB110081989268_042026-AB%7Bsanitized_title%7D.webp",
+    "link": "https://meli.la/2hSVZu3",
+    "linkWhatsapp": "https://meli.la/2hSVZu3",
+    "timestamp": 1791504285000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Mouse Gamer Sem Fio Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED, Desempenho Ultra-rápido, Ultraleve (61 g), Cliques táteis personalizáveis, Carregamento USB-C - para PC/Mac/Notebook",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.169,00",
+    "precoPor": "R$ 919,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GN3JXDQC.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3VVujxq",
+    "linkWhatsapp": "https://amzn.to/3VVujxq",
+    "timestamp": 1791504231000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Aparelho de Jantar Stoneware Azul Linha Oceano 30 Peças Porto Brasil",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -113,7 +143,7 @@
     "precoPor": "R$ 56,00",
     "desconto": "",
     "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
+    "imagem": "https://m.media-amazon.com/images/I/61N02yJfsrL._AC_SL1200_.jpg",
     "link": "https://amzn.to/4AwKXTQ",
     "linkWhatsapp": "https://amzn.to/4AwKXTQ",
     "timestamp": 1791502963000,
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/3WakPyk",
     "linkWhatsapp": "https://amzn.to/3WakPyk",
     "timestamp": 1791421960000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Stanley Copo Quencher Black 2.0 1.18L",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 359,00",
-    "precoPor": "R$ 181,75",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CZM9JLRB.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hP0yps",
-    "linkWhatsapp": "https://amzn.to/4hP0yps",
-    "timestamp": 1791421502000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV 32\" Philco Roku TV Dolby Áudio HDR10 P32CRB",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 999,00",
-    "precoPor": "R$ 843,05",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GH34KFLR.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yjzsgw",
-    "linkWhatsapp": "https://amzn.to/4yjzsgw",
-    "timestamp": 1791421174000,
     "imagemIlustrativa": false
   }
 ]
