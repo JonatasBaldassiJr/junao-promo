@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "CANTO SUJO NÃO EXISTE MAIS NA SUA CASA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 241,00",
+    "precoPor": "R$ 110,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C4476NM8.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0C4476NM8?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0C4476NM8?tag=junaopromoc03-20",
+    "timestamp": 1791556397000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Carregador Portátil Power Bank Basike 20000mAh 22.5W Rápido Cabos Embutidos Tipo C iPhone Samsung",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yz1u8p",
     "linkWhatsapp": "https://amzn.to/4yz1u8p",
     "timestamp": 1791474354000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Short Mauricinho Linho Masculino Bermuda Verão Praia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 66,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_668162-MLB116990181950_102026-O.jpg",
-    "link": "https://meli.la/2kGcm4e",
-    "linkWhatsapp": "https://meli.la/2kGcm4e",
-    "timestamp": 1791474286000,
     "imagemIlustrativa": false
   }
 ]
