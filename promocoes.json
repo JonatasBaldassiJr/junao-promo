@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ESSA AQUI VIRA O ELETRO MAIS USADO DA COZINHA",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FSG7GZDY.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0FSG7GZDY?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FSG7GZDY?tag=junaopromoc03-20",
+    "timestamp": 1791552497000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 2 Controle Para Ps4 Sem Fio Pc Bluetooth Vibração Dupla Joystick Compatível Ps4 Videogame Tv Pc Celular Android Manete Smart Tv - Preto Redfin",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2w3fzrR",
     "linkWhatsapp": "https://meli.la/2w3fzrR",
     "timestamp": 1791469399000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, Refil, 50g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 79,99",
-    "precoPor": "R$ 31,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CB716LLZ.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4rVTkoi",
-    "linkWhatsapp": "https://amzn.to/4rVTkoi",
-    "timestamp": 1791469343000,
     "imagemIlustrativa": false
   }
 ]
