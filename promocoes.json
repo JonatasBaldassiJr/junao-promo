@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Kit Shampoo e Condicionador Sérum L'Oréal Elseve Liso dos Sonhos",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 121,00",
+    "precoPor": "R$ 77,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/4zdhzAK",
+    "linkWhatsapp": "https://amzn.to/4zdhzAK",
+    "timestamp": 1791514160000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Panela De Pressão 4,4L Antiaderente Cerâmico Indução - Oikos",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 179,00",
+    "precoPor": "R$ 161,70",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GHP5N83Q.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3Wflpee",
+    "linkWhatsapp": "https://amzn.to/3Wflpee",
+    "timestamp": 1791514090000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Dark Lab coqueteleira 700 l",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/29JtU2H",
     "linkWhatsapp": "https://meli.la/29JtU2H",
     "timestamp": 1791432052000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Multivitamínico Growth Supplements em cápsula Sem sabor x 100g de 120 un",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 120,00",
-    "precoPor": "R$ 52,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_723031-MLA98380453196_112025-O.jpg",
-    "link": "https://meli.la/2YKRCHN",
-    "linkWhatsapp": "https://meli.la/2YKRCHN",
-    "timestamp": 1791431959000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce de leite",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 349,00",
-    "precoPor": "R$ 139,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_926889-MLA99570923936_122025-O.jpg",
-    "link": "https://meli.la/1LfcZWw",
-    "linkWhatsapp": "https://meli.la/1LfcZWw",
-    "timestamp": 1791431892000,
     "imagemIlustrativa": false
   }
 ]
