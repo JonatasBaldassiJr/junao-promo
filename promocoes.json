@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 110V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 245,00",
+    "precoPor": "R$ 145,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DTVLLSD9.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hRMThu",
+    "linkWhatsapp": "https://amzn.to/4hRMThu",
+    "timestamp": 1791561432000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Maquina De Cortar Cabelo Barbear Sem Fio Maquininha Dragão Elétrica Aparador De Pelos Acabamento Depilador 4 Pentes Intimo Masculino Motor Recarregável Usb Tipo C Dourado Nixzen",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 58,90",
+    "precoPor": "R$ 30,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_924584-MLA113615054109_062026-O.jpg",
+    "link": "https://meli.la/2pnMWbL",
+    "linkWhatsapp": "https://meli.la/2pnMWbL",
+    "timestamp": 1791561357000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades – Dura até 10x Mais – Ideal para Controle de Videogame e Brinquedos",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://s.shopee.com.br/BUQN5MvEa",
     "linkWhatsapp": "https://s.shopee.com.br/BUQN5MvEa",
     "timestamp": 1791478781000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Centrum Essencial Multivitamínico Diário, com Complexo B, Vitamina D, e Magnesio, 2 Frascos com 30 Comprimidos cada",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 34,86",
-    "precoPor": "R$ 26,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DFDWGLLN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4i9lEQy",
-    "linkWhatsapp": "https://amzn.to/4i9lEQy",
-    "timestamp": 1791478530000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Notebook ASUS VivoBook Go 15, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.849,00",
-    "precoPor": "R$ 2.727,12",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_737034-MLU75570682760_042024-O.jpg",
-    "link": "https://meli.la/2wse34Q",
-    "linkWhatsapp": "https://meli.la/2wse34Q",
-    "timestamp": 1791478371000,
     "imagemIlustrativa": false
   }
 ]
