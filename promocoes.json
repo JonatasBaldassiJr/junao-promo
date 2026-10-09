@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Caixa para Ferramentas Tramontina Master Sanfonada 43800/005",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 149,00",
+    "precoPor": "R$ 101,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_943377-MLA96402113111_102025-O.jpg",
+    "link": "https://meli.la/1NVsAxo",
+    "linkWhatsapp": "https://meli.la/1NVsAxo",
+    "timestamp": 1791581103000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Geladeira LG Frost Free Inverter 395l Duplex Cor Branca - 22 Branco",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4zfvXZg",
     "linkWhatsapp": "https://amzn.to/4zfvXZg",
     "timestamp": 1791502858000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.341,07",
-    "precoPor": "R$ 854,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FXHQ977Q.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3WgYsaz",
-    "linkWhatsapp": "https://amzn.to/3WgYsaz",
-    "timestamp": 1791502773000,
     "imagemIlustrativa": false
   }
 ]
