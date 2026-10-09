@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Concha y Toro Casillero Del Diablo Cabernet Sauvignon 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 69,00",
+    "precoPor": "R$ 34,20",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07LBK41YG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4jHdvEf",
+    "linkWhatsapp": "https://amzn.to/4jHdvEf",
+    "timestamp": 1791519193000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "4 Caixas Organizadora De Guarda Roupa Cesto Gaveta Dobrável",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 78,00",
+    "precoPor": "R$ 58,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_692222-MLB82403235469_022025-O.jpg",
+    "link": "https://meli.la/1FK9Wxu",
+    "linkWhatsapp": "https://meli.la/1FK9Wxu",
+    "timestamp": 1791519115000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Prateleira Estilo Industrial X Decorativa Minimalista 60x23 Preto",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2A9Bokq",
     "linkWhatsapp": "https://meli.la/2A9Bokq",
     "timestamp": 1791460229000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Pote Vidro Porta Temperos Hermético Cozinha Organiza",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 74,00",
-    "precoPor": "R$ 37,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_706786-MLB116886530614_092026-O.jpg",
-    "link": "https://meli.la/19mDKnh",
-    "linkWhatsapp": "https://meli.la/19mDKnh",
-    "timestamp": 1791460056000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Multivitamínico Growth Supplements Clinical Series em cápsula Sem sabor de 60 un",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 26,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_822235-MLA109683076945_032026-O.jpg",
-    "link": "https://meli.la/25dgAbJ",
-    "linkWhatsapp": "https://meli.la/25dgAbJ",
-    "timestamp": 1791459982000,
     "imagemIlustrativa": false
   }
 ]
