@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "CORREU DEMAIS, O GEL SEGURA VOCÊ EM PÉ",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 20,65",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07G7JVFQF.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B07G7JVFQF?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B07G7JVFQF?tag=junaopromoc03-20",
+    "timestamp": 1791582327000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit Braé Stages Nutrition Shampoo,cond,másc + Essential 60ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 199,00",
+    "precoPor": "R$ 111,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_984607-MLA99442195502_112025-O.jpg",
+    "link": "https://meli.la/2n1NfpE",
+    "linkWhatsapp": "https://meli.la/2n1NfpE",
+    "timestamp": 1791582265000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tapete de Atividades Para Bebê Piano Play Funny Dino Maxi Baby",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2hSVZu3",
     "linkWhatsapp": "https://meli.la/2hSVZu3",
     "timestamp": 1791504285000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mouse Gamer Sem Fio Logitech G PRO X2 SUPERSTRIKE LIGHTSPEED, Desempenho Ultra-rápido, Ultraleve (61 g), Cliques táteis personalizáveis, Carregamento USB-C - para PC/Mac/Notebook",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.169,00",
-    "precoPor": "R$ 919,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GN3JXDQC.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3VVujxq",
-    "linkWhatsapp": "https://amzn.to/3VVujxq",
-    "timestamp": 1791504231000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Aparelho de Jantar Stoneware Azul Linha Oceano 30 Peças Porto Brasil",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 990,00",
-    "precoPor": "R$ 484,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_909814-MLA96136655179_102025-O.jpg",
-    "link": "https://meli.la/2ovmdYx",
-    "linkWhatsapp": "https://meli.la/2ovmdYx",
-    "timestamp": 1791504054000,
     "imagemIlustrativa": false
   }
 ]
