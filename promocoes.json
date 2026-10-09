@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "AQUELE COPO QUE TODO MUNDO TÁ QUERENDO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 319,00",
+    "precoPor": "R$ 170,41",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://www.amazon.com.br/dp/B0CZM4X4HY?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0CZM4X4HY?tag=junaopromoc03-20",
+    "timestamp": 1791585140000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cadeira Escritório Ergonômica Genebra B500 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4jdaFqm",
     "linkWhatsapp": "https://amzn.to/4jdaFqm",
     "timestamp": 1791507038000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Pares Meia Invisível Soquete Algodão Confortável Mash",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,00",
-    "precoPor": "R$ 48,59",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_897046-MLB98663774114_112025-O.jpg",
-    "link": "https://meli.la/11pGozd",
-    "linkWhatsapp": "https://meli.la/11pGozd",
-    "timestamp": 1791506520000,
     "imagemIlustrativa": false
   }
 ]
