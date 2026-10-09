@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "CUPOM PRA VOCÊ PARAR DE FICAR NA BEIRA DO FOGÃO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 449,00",
+    "precoPor": "R$ 298,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CXVK817Q.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0CXVK817Q?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0CXVK817Q?tag=junaopromoc03-20",
+    "timestamp": 1791587256000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kaiak Masculino Tradicional Natura Desodorante Colônia Perfume Clássico Original 100ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 185,00",
+    "precoPor": "R$ 89,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_698757-MLB82072269017_012025-O.jpg",
+    "link": "https://meli.la/2VZDocy",
+    "linkWhatsapp": "https://meli.la/2VZDocy",
+    "timestamp": 1791587197000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "DOIS POTES PRA VOCÊ NÃO FICAR SEM",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4ylXoQo",
     "linkWhatsapp": "https://amzn.to/4ylXoQo",
     "timestamp": 1791509948000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Pijama Feminino Americano Botões Para Amamentação Baby Doll",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,90",
-    "precoPor": "R$ 29,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_780356-MLB109559506798_042026-O.jpg",
-    "link": "https://meli.la/1vKv6U4",
-    "linkWhatsapp": "https://meli.la/1vKv6U4",
-    "timestamp": 1791509871000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Allan Mesquita X Chorão Unissex - Todas As Cores",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 459,00",
-    "precoPor": "R$ 278,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_968573-MLB88020868072_072025-O.jpg",
-    "link": "https://meli.la/2EjY61H",
-    "linkWhatsapp": "https://meli.la/2EjY61H",
-    "timestamp": 1791509387000,
     "imagemIlustrativa": false
   }
 ]
