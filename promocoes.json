@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "VODKA DE GENTE GRANDE NO PRECINHO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 174,00",
+    "precoPor": "R$ 88,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B006ILMIGE.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B006ILMIGE?tag=junaopromoc03-20",
+    "timestamp": 1791555209000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Celular Motorola Moto G06 128gb 4gb Ram Orange",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.399,00",
+    "precoPor": "R$ 699,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_651353-MLA115768418107_082026-O.jpg",
+    "link": "https://meli.la/2ScLNyx",
+    "linkWhatsapp": "https://meli.la/2ScLNyx",
+    "timestamp": 1791555126000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela Fhd+ 60hz, Bateria 5200 Mah - Roxo",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://s.shopee.com.br/9KifBpmj9l",
     "linkWhatsapp": "https://s.shopee.com.br/9KifBpmj9l",
     "timestamp": 1791473454000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Leave-in Sérum Capilar Para Cabelos Finos Injeção de Massa, Aumenta o Volume em 61%, Elseve Collagen Lifter 100ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "R$ 61,65",
-    "precoPor": "R$ 24,04",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820ly-mpmhu2skuq6905",
-    "link": "https://s.shopee.com.br/5LCWQELPZe",
-    "linkWhatsapp": "https://s.shopee.com.br/5LCWQELPZe",
-    "timestamp": 1791473233000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camisetas Raglan Proteção Uv Térmica Camisas Dry Fit",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 52,90",
-    "precoPor": "R$ 31,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_939202-MLB117045321343_092026-O.jpg",
-    "link": "https://meli.la/1vEyRHr",
-    "linkWhatsapp": "https://meli.la/1vEyRHr",
-    "timestamp": 1791473084000,
     "imagemIlustrativa": false
   }
 ]
