@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit 3 Limpador Perfumado de Ambiente 120ml Coala Cha Branco",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 39,90",
+    "precoPor": "R$ 30,53",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CDQKS6D4.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yKyHOq",
+    "linkWhatsapp": "https://amzn.to/4yKyHOq",
+    "timestamp": 1791575908000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Carregador Portátil Power Bank 20.000 Mah Turbo Com Cabos",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2dJxiXG",
     "linkWhatsapp": "https://meli.la/2dJxiXG",
     "timestamp": 1791491845000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 6 Camisetas Mais Procuradas Alpha",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,40",
-    "precoPor": "R$ 164,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_947330-MLB109370482257_032026-O.jpg",
-    "link": "https://meli.la/2AVMs8p",
-    "linkWhatsapp": "https://meli.la/2AVMs8p",
-    "timestamp": 1791491585000,
     "imagemIlustrativa": false
   }
 ]
