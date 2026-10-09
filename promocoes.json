@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "SESSÃO DE CINEMA EM CASA PEDE ESSA AQUI",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 103,45",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CG2HZ7B1.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0CG2HZ7B1?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0CG2HZ7B1?tag=junaopromoc03-20",
+    "timestamp": 1791545720000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Carregador Inteligente De Bateria Automotiva 12v 6a Bivolt Recupera Baterias 4ah A 100ah Indobest Todos Veículos Moto Carro Caminhão Barco Todos Veículos Recupera Baterias 4ah A 100ah",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 59,97",
+    "precoPor": "R$ 34,42",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_969241-MLA117707338351_092026-O.jpg",
+    "link": "https://meli.la/1Fj7FnH",
+    "linkWhatsapp": "https://meli.la/1Fj7FnH",
+    "timestamp": 1791545672000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Parafusadeira Furadeira 25V Nakasaki Sem Fio a Bateria Profissional",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2htYV2M",
     "linkWhatsapp": "https://meli.la/2htYV2M",
     "timestamp": 1791463213000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Caixa De Som Boombox Aiwa Aws-bbs-01b 200w Rms Bluetooth Res Cor Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.972,00",
-    "precoPor": "R$ 1.138,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_632103-MLA82938269632_032025-O.jpg",
-    "link": "https://meli.la/1ZAWXh1",
-    "linkWhatsapp": "https://meli.la/1ZAWXh1",
-    "timestamp": 1791463150000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Clear Sports Men - Shampoo Anticaspa Limpeza Profunda 400Ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 19,76",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07LFDHL8H.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/46YYpTe",
-    "linkWhatsapp": "https://amzn.to/46YYpTe",
-    "timestamp": 1791463042000,
     "imagemIlustrativa": false
   }
 ]
