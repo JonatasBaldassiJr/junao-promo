@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 329,00",
+    "precoPor": "R$ 177,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.jpg",
+    "link": "https://meli.la/1iAhSMs",
+    "linkWhatsapp": "https://meli.la/1iAhSMs",
+    "timestamp": 1791578290000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Air Fryer Fritadeira Eletrica Mondial +saude 1500w 3,5l Cor Preto",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1VJJRBC",
     "linkWhatsapp": "https://meli.la/1VJJRBC",
     "timestamp": 1791500292000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Café Gourmet Appassionato Em Grãos Expresso 100% Arábica - 1kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 120,00",
-    "precoPor": "R$ 80,88",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41igtwCjsYL._AC_SL1080_.jpg",
-    "link": "https://amzn.to/4yEpRS7",
-    "linkWhatsapp": "https://amzn.to/4yEpRS7",
-    "timestamp": 1791500194000,
     "imagemIlustrativa": false
   }
 ]
