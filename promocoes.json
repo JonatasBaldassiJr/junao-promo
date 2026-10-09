@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ESSA JATO TIRA ATÉ MOFO DO MURO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 299,00",
+    "precoPor": "R$ 229,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FP5K3JRP.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0FP5K3JRP?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FP5K3JRP?tag=junaopromoc03-20",
+    "timestamp": 1791554145000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Carolina Herrera Bad Boy Extreme Edp 50ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3Vw4qnS",
     "linkWhatsapp": "https://amzn.to/3Vw4qnS",
     "timestamp": 1791471469000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Océane-Esponja de Maquiagem - My Blend Vinho Océane Edition",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 26,90",
-    "precoPor": "R$ 18,88",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/4znWZh7",
-    "linkWhatsapp": "https://amzn.to/4znWZh7",
-    "timestamp": 1791471112000,
     "imagemIlustrativa": false
   }
 ]
