@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "120HZ NESSE PREÇO NÃO TEM EM LUGAR NENHUM",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 599,00",
+    "precoPor": "R$ 363,60",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F4L1SBV3.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=junaopromoc03-20",
+    "timestamp": 1791584358000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Caixa de Som Basike Ba-RAD321 Boombox Portátil 400W com Bluetooth e Rádio FM",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1hD5vwS",
     "linkWhatsapp": "https://meli.la/1hD5vwS",
     "timestamp": 1791505527000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cadeira Ergonômica Conthey Arco Home Office e Escritório, Encosto Mesh Respirável, Regulagem de Altura a Gás, Base Cromada 5 Rodízios 360°, Braços Fixos, Preta",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 245,00",
-    "precoPor": "R$ 152,62",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BXV6YGZQ.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4ibCgHu",
-    "linkWhatsapp": "https://amzn.to/4ibCgHu",
-    "timestamp": 1791505390000,
     "imagemIlustrativa": false
   }
 ]
