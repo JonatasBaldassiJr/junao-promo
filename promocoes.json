@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "MARMITA FRIA É HISTÓRIA COM ESSE AQUI",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 502,00",
+    "precoPor": "R$ 349,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H5LWHFMZ.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=junaopromoc03-20",
+    "timestamp": 1791553845000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "ISSO QUE É CUIDAR DO FIO DE VERDADE",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/328jTQ3",
     "linkWhatsapp": "https://meli.la/328jTQ3",
     "timestamp": 1791470971000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Soundbar LG 300W RMS, 2.1 Canais, Dolby Digital, Sem fios, Bluetooth 5.3, Entrada Óptica, HDMI, AI Sound Pro - S40T",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.399,00",
-    "precoPor": "R$ 799,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0D9KJHRXN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/479L7mM",
-    "linkWhatsapp": "https://amzn.to/479L7mM",
-    "timestamp": 1791470900000,
     "imagemIlustrativa": false
   }
 ]
