@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Monitor Philips 22\" 120Hz 1ms Gaming 221V8LB3",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 369,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0G6GD8BQW.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4rT4Qke",
+    "linkWhatsapp": "https://amzn.to/4rT4Qke",
+    "timestamp": 1791507774000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Econ Lavadora De Alta Pressão 1200w 1500 Psi Tramontina Cor amarelo",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1z2F33s",
     "linkWhatsapp": "https://meli.la/1z2F33s",
     "timestamp": 1791425562000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sanduicheira Elétrica Cadence Toast & Grill, Preta, 750W, 110V, SAN260",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 100,89",
-    "precoPor": "R$ 59,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09HW53ZVV.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3WePfj1",
-    "linkWhatsapp": "https://amzn.to/3WePfj1",
-    "timestamp": 1791425164000,
     "imagemIlustrativa": false
   }
 ]
