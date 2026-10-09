@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "CHEGA DE TER 5 APARELHOS NO BANHEIRO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FN5DD149.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0FN5DD149?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FN5DD149?tag=junaopromoc03-20",
+    "timestamp": 1791545259000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/33BTqTb",
     "linkWhatsapp": "https://meli.la/33BTqTb",
     "timestamp": 1791462922000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Grand Court Alpha adidas",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 599,99",
-    "precoPor": "R$ 212,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_900604-MLB115635690251_082026-O.jpg",
-    "link": "https://meli.la/1fuUX79",
-    "linkWhatsapp": "https://meli.la/1fuUX79",
-    "timestamp": 1791462829000,
     "imagemIlustrativa": false
   }
 ]
