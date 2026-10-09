@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "SEU CABELO VIVE QUEBRANDO E VOCÊ FINGE QUE NÃO VÊ",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,00",
+    "precoPor": "R$ 17,51",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B09GHN14FP.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B09GHN14FP?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B09GHN14FP?tag=junaopromoc03-20",
+    "timestamp": 1791582770000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 5 Tapetes Banheiro Algodão Toalhas BRK Felpudo Mali 45x70cm",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4AYprYw",
     "linkWhatsapp": "https://amzn.to/4AYprYw",
     "timestamp": 1791504562000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sauvage Masculino de Christian Dior Eau de Toilette 100ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 699,99",
-    "precoPor": "R$ 566,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/614jbSckeaL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4jGJkNu",
-    "linkWhatsapp": "https://amzn.to/4jGJkNu",
-    "timestamp": 1791504488000,
     "imagemIlustrativa": false
   }
 ]
