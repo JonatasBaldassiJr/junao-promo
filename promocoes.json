@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Batedeira Planetária, Mondial, Branco, 700W, 220V - BP-03-W",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 469,90",
+    "precoPor": "R$ 213,43",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07WFHN6JG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yHmwlu",
+    "linkWhatsapp": "https://amzn.to/4yHmwlu",
+    "timestamp": 1791511029000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Philips 27\" 120Hz 1ms Gaming Alto-falantes 271V8LAB3",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yVQeDz",
     "linkWhatsapp": "https://amzn.to/4yVQeDz",
     "timestamp": 1791429730000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "CeraVe Acne Control Refil Gel de Limpeza Facial, Pele Normal a Oleosa, 60g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 115,90",
-    "precoPor": "R$ 67,45",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CYTFXY4V.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4dUNaig",
-    "linkWhatsapp": "https://amzn.to/4dUNaig",
-    "timestamp": 1791429597000,
     "imagemIlustrativa": false
   }
 ]
