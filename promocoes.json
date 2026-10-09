@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "PRA NUNCA MAIS PEDIR CARREGADOR EMPRESTADO",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B094YR4SLJ.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B094YR4SLJ?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B094YR4SLJ?tag=junaopromoc03-20",
+    "timestamp": 1791584150000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smart Tv Tcl 65 Polegadas Qd-Mini Led 4k A400m Wifi Bluetooth Google Tv Hdr10+ 144 Hz Vrr 65a400m",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4xMChq7",
     "linkWhatsapp": "https://amzn.to/4xMChq7",
     "timestamp": 1791505278000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ventisol Ventilador de teto wind br 3p inj branco c/r inverter bivolt",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 499,00",
-    "precoPor": "R$ 160,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BLT2MQY2.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yv2IB3",
-    "linkWhatsapp": "https://amzn.to/4yv2IB3",
-    "timestamp": 1791504903000,
     "imagemIlustrativa": false
   }
 ]
