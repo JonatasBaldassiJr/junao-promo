@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "CHEGA DE FILA PRA USAR O FORNO DA CASA",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 0,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DPNYJ233.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=junaopromoc03-20",
+    "timestamp": 1791586541000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "O Boticário Zaad Infinity Eau De Parfum 95ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 349,90",
+    "precoPor": "R$ 235,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945517-MLB116377855387_082026-O.jpg",
+    "link": "https://meli.la/2eMvRUM",
+    "linkWhatsapp": "https://meli.la/2eMvRUM",
+    "timestamp": 1791586452000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Extrator de Sucos Turbo Premium Preto/Inox, 250W, Bivolt - E-10",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2VLK3aB",
     "linkWhatsapp": "https://meli.la/2VLK3aB",
     "timestamp": 1791508685000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Furadeira e Parafusadeira Sem Fio 48V com 2 Baterias Recarregáveis, Maleta e Kit de Acessórios, Controle de Torque, Velocidade Variável e LED – Uso Doméstico e Profissional",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 89,98",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://amzn.to/3VbamT3",
-    "linkWhatsapp": "https://amzn.to/3VbamT3",
-    "timestamp": 1791508539000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Aparador De Pelos Supergroom-10 Mondial Bivolt Bg-10",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 166,00",
-    "precoPor": "R$ 92,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_822569-MLA107807368063_022026-O.jpg",
-    "link": "https://meli.la/1tmaWSY",
-    "linkWhatsapp": "https://meli.la/1tmaWSY",
-    "timestamp": 1791508146000,
     "imagemIlustrativa": false
   }
 ]
