@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "CHEGA DE ESPERAR O FORNO DA SUA MÃE",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 276,07",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BZTB8GQ1.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0BZTB8GQ1?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0BZTB8GQ1?tag=junaopromoc03-20",
+    "timestamp": 1791552227000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Perfume Vulcan Feu Arabe French Avenue Edp 100 Ml Original com Nf Lipx",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 269,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_781010-MLA108879993503_032026-O.jpg",
+    "link": "https://meli.la/2Z8dfed",
+    "linkWhatsapp": "https://meli.la/2Z8dfed",
+    "timestamp": 1791552164000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "ESSA AQUI BATE A META DE ÁGUA SOZINHA",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2enTi3W",
     "linkWhatsapp": "https://meli.la/2enTi3W",
     "timestamp": 1791469001000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Poltrona Cadeira Reclinare Papai E Mamãe Com Encosto Confortável Retrátil E Reclinável Para Sala De Descanso E Amamentação Bonan Cor Cinza",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.390,00",
-    "precoPor": "R$ 477,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716245-MLA99728372273_112025-O.jpg",
-    "link": "https://meli.la/2uk9HP6",
-    "linkWhatsapp": "https://meli.la/2uk9HP6",
-    "timestamp": 1791468897000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cobre Leito Veneza Casal 3 Peças Variadas Cores",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 56,99",
-    "precoPor": "R$ 49,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_975992-MLB83228441414_042025-O.jpg",
-    "link": "https://meli.la/1Ua8uB9",
-    "linkWhatsapp": "https://meli.la/1Ua8uB9",
-    "timestamp": 1791468806000,
     "imagemIlustrativa": false
   }
 ]
