@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila Phase Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 229,99",
+    "precoPor": "R$ 127,99",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_854764-MLA81945554258_022025-O.jpg",
+    "link": "https://meli.la/1kcKEN4",
+    "linkWhatsapp": "https://meli.la/1kcKEN4",
+    "timestamp": 1791579762000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Colgate Slim Soft Black Escova de Dente Macia, 6 Unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4jGVgyH",
     "linkWhatsapp": "https://amzn.to/4jGVgyH",
     "timestamp": 1791502173000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.499,00",
-    "precoPor": "R$ 1.190,15",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GJTCF75W.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4rXtUqi",
-    "linkWhatsapp": "https://amzn.to/4rXtUqi",
-    "timestamp": 1791501992000,
     "imagemIlustrativa": false
   }
 ]
