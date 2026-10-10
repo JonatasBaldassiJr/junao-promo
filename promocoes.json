@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Processador AMD Ryzen 7 5700 4.6GHz 8 Núcleos 16 Threads AM4",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.999,00",
+    "precoPor": "R$ 885,96",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_796826-MLA99992353565_112025-O.jpg",
+    "link": "https://meli.la/2i7hGy8",
+    "linkWhatsapp": "https://meli.la/2i7hGy8",
+    "timestamp": 1791634900000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Console PlayStation® 5 Slim Edição Digital 825 GB Branco - Sony",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4icjv6L",
     "linkWhatsapp": "https://amzn.to/4icjv6L",
     "timestamp": 1791555664000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "PONTA DUPLA NÃO AGUENTA ESSE AQUI",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 0,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07SBXMSGB.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B07SBXMSGB?tag=junaopromoc03-20",
-    "timestamp": 1791555597000,
     "imagemIlustrativa": false
   }
 ]
