@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Porteiro Residencial com Abertura de 2 Portões Individuais IPR 8010 Intelbras",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 210,00",
+    "precoPor": "R$ 179,45",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B075XNC2PL.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3TWwhNx",
+    "linkWhatsapp": "https://amzn.to/3TWwhNx",
+    "timestamp": 1791642848000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A 127V",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2xa7MH4",
     "linkWhatsapp": "https://meli.la/2xa7MH4",
     "timestamp": 1791565780000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED 6.7",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.899,00",
-    "precoPor": "R$ 1.709,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_Q_NP_939853-MLA107902101048_032026-AB%7Bsanitized_title%7D.webp",
-    "link": "https://meli.la/21xdV8S",
-    "linkWhatsapp": "https://meli.la/21xdV8S",
-    "timestamp": 1791565716000,
     "imagemIlustrativa": false
   }
 ]
