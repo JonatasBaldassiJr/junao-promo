@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "MONDIAL Espremedor Premium, Preto, 30W, 110V - E-02",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 100,00",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71DEK6jSqGL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3UnQFHv",
+    "linkWhatsapp": "https://amzn.to/3UnQFHv",
+    "timestamp": 1791634676000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Growth Supplements - Creatina 500g Pouch Treino Musculação Dieta Alta Performance - Growth Supplements",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 75,00",
+    "precoPor": "R$ 56,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61N02yJfsrL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4AwKXTQ",
+    "linkWhatsapp": "https://amzn.to/4AwKXTQ",
+    "timestamp": 1791634613000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Guarda-roupa Casal Honey 4 Portas 6 Gavetas Com Espelho Preto/Amêndola",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1UJCAmu",
     "linkWhatsapp": "https://meli.la/1UJCAmu",
     "timestamp": 1791555462000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Calça Legging Leg Flare Zero Transparência Grossa Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 59,00",
-    "precoPor": "R$ 25,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_658388-MLB90869609638_082025-O.jpg",
-    "link": "https://meli.la/1E1wHbg",
-    "linkWhatsapp": "https://meli.la/1E1wHbg",
-    "timestamp": 1791555396000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Esportivo Masculino Cosmo Olympikus Preto Liso 43 Br",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 259,99",
-    "precoPor": "R$ 161,39",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_976714-MLB79957828893_102024-O.jpg",
-    "link": "https://meli.la/2yKQ2BP",
-    "linkWhatsapp": "https://meli.la/2yKQ2BP",
-    "timestamp": 1791555339000,
     "imagemIlustrativa": false
   }
 ]
