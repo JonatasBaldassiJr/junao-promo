@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Guarda-roupa Casal Honey 4 Portas 6 Gavetas Com Espelho Preto/Amêndola",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.234,00",
+    "precoPor": "R$ 891,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_699213-MLA100577118714_122025-O.jpg",
+    "link": "https://meli.la/2V37Hu5",
+    "linkWhatsapp": "https://meli.la/2V37Hu5",
+    "timestamp": 1791634525000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Adega Pad12e Display Digital 12 Garrafas Philco 110v/220v",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 999,00",
+    "precoPor": "R$ 723,60",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635964-MLA99584758610_122025-O.jpg",
+    "link": "https://meli.la/2E76YdS",
+    "linkWhatsapp": "https://meli.la/2E76YdS",
+    "timestamp": 1791634450000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Ar Condicionado Split Inverter 12000 BTUs Agratto Zen Top Frio ZICST12F-02 - 220V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2yKQ2BP",
     "linkWhatsapp": "https://meli.la/2yKQ2BP",
     "timestamp": 1791555339000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "CHEGA DE BRAÇO CANSADO NA COZINHA",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 476,24",
-    "precoPor": "R$ 182,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08K1NNGVS.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B08K1NNGVS?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B08K1NNGVS?tag=junaopromoc03-20",
-    "timestamp": 1791555268000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "VODKA DE GENTE GRANDE NO PRECINHO",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 174,00",
-    "precoPor": "R$ 88,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B006ILMIGE.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B006ILMIGE?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B006ILMIGE?tag=junaopromoc03-20",
-    "timestamp": 1791555209000,
     "imagemIlustrativa": false
   }
 ]
