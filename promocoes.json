@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "100% Whey Max Titanium x Dr. Peanut (900g), Sabor Avelã",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 183,00",
+    "precoPor": "R$ 108,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61zXQDYWmcL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4rXKM01",
+    "linkWhatsapp": "https://amzn.to/4rXKM01",
+    "timestamp": 1791661508000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Philips Walita Liquidificador Série 3000 Turbo 1000W, Preto, 110V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 249,00",
+    "precoPor": "R$ 105,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41Zkfyun9OL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yCHkKM",
+    "linkWhatsapp": "https://amzn.to/4yCHkKM",
+    "timestamp": 1791661441000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Barra de Proteína BOLD - 14g de Proteína - Caixa Mista com 12 Unidades | 4 Sabores",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/47ITXIn",
     "linkWhatsapp": "https://amzn.to/47ITXIn",
     "timestamp": 1791586375000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.499,00",
-    "precoPor": "R$ 2.099,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_753324-MLA108743670040_032026-O.jpg",
-    "link": "https://meli.la/1oBPkVG",
-    "linkWhatsapp": "https://meli.la/1oBPkVG",
-    "timestamp": 1791586106000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Câmera De Segurança Aprova Dágua Ip A8 Externa Branco App V3 Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 180,00",
-    "precoPor": "R$ 85,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_946117-MLB115327396861_072026-O.jpg",
-    "link": "https://meli.la/1aNAeDy",
-    "linkWhatsapp": "https://meli.la/1aNAeDy",
-    "timestamp": 1791585801000,
     "imagemIlustrativa": false
   }
 ]
