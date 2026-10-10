@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 129,00",
+    "precoPor": "R$ 77,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yBaA4H",
+    "linkWhatsapp": "https://amzn.to/4yBaA4H",
+    "timestamp": 1791632826000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "GUARDA ESSA NA BOLSA E NÃO PASSA SEDE",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/12kPGhP",
     "linkWhatsapp": "https://meli.la/12kPGhP",
     "timestamp": 1791553992000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "MARMITA FRIA É HISTÓRIA COM ESSE AQUI",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 502,00",
-    "precoPor": "R$ 349,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H5LWHFMZ.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=junaopromoc03-20",
-    "timestamp": 1791553845000,
     "imagemIlustrativa": false
   }
 ]
