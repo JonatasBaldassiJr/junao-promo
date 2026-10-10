@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Lacta Bis Laka - Chocolate Branco Kit 3 Unidades 100,8g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 23,29",
+    "precoPor": "R$ 14,49",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CDCMT8FY.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4ecXYs7",
+    "linkWhatsapp": "https://amzn.to/4ecXYs7",
+    "timestamp": 1791600828000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "GARRAFA BOA NO PRECINHO DE SEXTA",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1fCcS4T",
     "linkWhatsapp": "https://meli.la/1fCcS4T",
     "timestamp": 1791542779000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Percarbonato 1kg + Alvejante 1kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "R$ 36,93",
-    "precoPor": "R$ 16,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36",
-    "link": "https://s.shopee.com.br/6VOV5rEzKq",
-    "linkWhatsapp": "https://s.shopee.com.br/6VOV5rEzKq",
-    "timestamp": 1791542685000,
     "imagemIlustrativa": false
   }
 ]
