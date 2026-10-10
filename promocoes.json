@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Red Bull Energético, Zero, Sem Açúcar, 250ml, 4 latas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 31,00",
+    "precoPor": "R$ 26,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FHSYPGH6.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4zud9FU",
+    "linkWhatsapp": "https://amzn.to/4zud9FU",
+    "timestamp": 1791591587000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 749,00",
+    "precoPor": "R$ 475,15",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FLKGNYJ8.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yx4qBX",
+    "linkWhatsapp": "https://amzn.to/4yx4qBX",
+    "timestamp": 1791591527000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Forno Elétrico 52L Grand Family II, Branco/Inox, 1800W, 110V - FRN-52-W",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2zmPpUz",
     "linkWhatsapp": "https://meli.la/2zmPpUz",
     "timestamp": 1791513534000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cama Box Baú Casal Colchão Gazin Molas Flora Bege 138x188x63cm",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.554,00",
-    "precoPor": "R$ 959,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_679611-MLA98381525248_112025-O.jpg",
-    "link": "https://meli.la/1uSQ5Jn",
-    "linkWhatsapp": "https://meli.la/1uSQ5Jn",
-    "timestamp": 1791513465000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Alva Personal Care Desodorante Stick Cristal Sem Embalagem Alva - 120G",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 62,00",
-    "precoPor": "R$ 55,80",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0932N5XMZ.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/478IlhO",
-    "linkWhatsapp": "https://amzn.to/478IlhO",
-    "timestamp": 1791513344000,
     "imagemIlustrativa": false
   }
 ]
