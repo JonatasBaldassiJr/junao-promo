@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Electrolux Kit 16 Potes Herméticos Plástico Multiuso Vedação Silicone",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 142,00",
+    "precoPor": "R$ 107,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FVJWQ3PX.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4B07cBY",
+    "linkWhatsapp": "https://amzn.to/4B07cBY",
+    "timestamp": 1791642497000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "BOLD Doce de Leite 14g Kit com 4 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 48,90",
+    "precoPor": "R$ 29,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://amzn.to/3Uo1OIl",
+    "linkWhatsapp": "https://amzn.to/3Uo1OIl",
+    "timestamp": 1791642431000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Guarda-roupa Casal Móveis Lopas Easy Slim 8 Portas Com Espelho E Gavetas",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2kXQWJk",
     "linkWhatsapp": "https://meli.la/2kXQWJk",
     "timestamp": 1791565399000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cafeteira Nescafé Dolce Gusto Genio S Basic Branca 110v",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 680,00",
-    "precoPor": "R$ 441,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869080-MLA100697402193_122025-O.jpg",
-    "link": "https://meli.la/2C9LY4a",
-    "linkWhatsapp": "https://meli.la/2C9LY4a",
-    "timestamp": 1791565329000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Ventilador 80w de Teto Silencioso LED 3 Cores Bulbo 12w com Controle",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 44,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134201-820lc-mqxwzkyykv0nc7",
-    "link": "https://s.shopee.com.br/1gJFkq1YWl",
-    "linkWhatsapp": "https://s.shopee.com.br/1gJFkq1YWl",
-    "timestamp": 1791565272000,
     "imagemIlustrativa": false
   }
 ]
