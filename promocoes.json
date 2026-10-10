@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 249,00",
+    "precoPor": "R$ 97,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71oDl7NmgaL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3VsKAtG",
+    "linkWhatsapp": "https://amzn.to/3VsKAtG",
+    "timestamp": 1791660293000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Aparador E Raspador Oneblade Intimate Qp1924/10 Philips",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 237,00",
+    "precoPor": "R$ 137,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_712069-MLB89354888748_082025-O.jpg",
+    "link": "https://meli.la/2UtKnA9",
+    "linkWhatsapp": "https://meli.la/2UtKnA9",
+    "timestamp": 1791660206000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cerveja Premium 5L Barril Heineken",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2hVnBE8",
     "linkWhatsapp": "https://meli.la/2hVnBE8",
     "timestamp": 1791584630000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ESSA AQUI FAZ ATÉ FEIJÃO SOZINHA",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 160,57",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0876T5H65.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0876T5H65?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0876T5H65?tag=junaopromoc03-20",
-    "timestamp": 1791584512000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fragrância Masculina Azzaro The Most Wanted Eau De Toilette Intense 100ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 829,00",
-    "precoPor": "R$ 401,32",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_860616-MLU78257951259_082024-O.jpg",
-    "link": "https://meli.la/2CnWqHQ",
-    "linkWhatsapp": "https://meli.la/2CnWqHQ",
-    "timestamp": 1791584428000,
     "imagemIlustrativa": false
   }
 ]
