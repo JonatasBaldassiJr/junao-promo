@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Armani Beauty, Armani Code Eau de Toilette, Giorgio Armani, Perfume Masculino Refilável, Fragrância Oriental Amadeirada com Notas de Tangerina Verde, Lavanda, Fava Tonka e Cedro",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 899,00",
+    "precoPor": "R$ 548,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BTDCRCXF.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hLUeyL",
+    "linkWhatsapp": "https://amzn.to/4hLUeyL",
+    "timestamp": 1791640689000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Bettdow SmartWatch, relogio smartwatch com Ecrã tátil e Alexa, à prova d'água IP68, relogio feminino e masculino, com 100+ modo esportivo e recebimento de notificações(preto)",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/173f7kC",
     "linkWhatsapp": "https://meli.la/173f7kC",
     "timestamp": 1791561871000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "MONDIAL Liquidificador, Turbo L-900W, 110V, Preto, 2,7L - L-900-FB",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 159,00",
-    "precoPor": "R$ 78,75",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07CKCWNRC.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hyAIak",
-    "linkWhatsapp": "https://amzn.to/4hyAIak",
-    "timestamp": 1791561784000,
     "imagemIlustrativa": false
   }
 ]
