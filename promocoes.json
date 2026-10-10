@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cerveja Premium 5L Barril Heineken",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 166,62",
+    "precoPor": "R$ 88,31",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/9peynCRUDe",
+    "linkWhatsapp": "https://s.shopee.com.br/9peynCRUDe",
+    "timestamp": 1791636365000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Desodorante Colônia Kaiak 21k Masculino 100ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yFsSBL",
     "linkWhatsapp": "https://amzn.to/4yFsSBL",
     "timestamp": 1791558061000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fita Dupla Face Extra Forte Transparente NanoGel Silicone Mágica",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 10,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-824j2-mej1dpheg6pubc",
-    "link": "https://s.shopee.com.br/3LRTbdUqVz",
-    "linkWhatsapp": "https://s.shopee.com.br/3LRTbdUqVz",
-    "timestamp": 1791558051000,
     "imagemIlustrativa": false
   }
 ]
