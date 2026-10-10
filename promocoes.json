@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "GRANADO COM DESCONTO NÃO SE VÊ TODO DIA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 106",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51vDem8tXLL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/3TODJu6",
+    "linkWhatsapp": "https://amzn.to/3TODJu6",
+    "timestamp": 1791657864000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mor - Churrasqueira Califórnia Bacia Esmaltada",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2cRdnPf",
     "linkWhatsapp": "https://meli.la/2cRdnPf",
     "timestamp": 1791581188000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Caixa para Ferramentas Tramontina Master Sanfonada 43800/005",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 101,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_943377-MLA96402113111_102025-O.jpg",
-    "link": "https://meli.la/1NVsAxo",
-    "linkWhatsapp": "https://meli.la/1NVsAxo",
-    "timestamp": 1791581103000,
     "imagemIlustrativa": false
   }
 ]
