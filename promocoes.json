@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "iPhone 17 256 GB 8 GB Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 5.049,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_724430-MLA97899894923_112025-O.jpg",
+    "link": "https://meli.la/1C8wqYB",
+    "linkWhatsapp": "https://meli.la/1C8wqYB",
+    "timestamp": 1791662454000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lavadora De Alta Pressão Jato Compacta Philco Plp2200 1300w 1300 Psi/libras 312l/h Lança Regulável 127v",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B08T6KMBXK?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B08T6KMBXK?tag=junaopromoc03-20",
     "timestamp": 1791587047000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ESSE POTINHO NÃO SOBREVIVE UMA SEMANA NA SUA CASA",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 17,55",
-    "precoPor": "R$ 14,92",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DJCFN5D9.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0DJCFN5D9?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DJCFN5D9?tag=junaopromoc03-20",
-    "timestamp": 1791586938000,
     "imagemIlustrativa": false
   }
 ]
