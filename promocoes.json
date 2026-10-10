@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Nescau Bebida Láctea 180ml caixa com 27 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,00",
+    "precoPor": "R$ 42,39",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61gtHqTqSkL._AC_SX679_.jpg",
+    "link": "https://amzn.to/4AryVeF",
+    "linkWhatsapp": "https://amzn.to/4AryVeF",
+    "timestamp": 1791674933000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Halteres Ajustáveis Kit 6 em 1 até 10 kg com Barra Longa, Anilhas, Kettlebell e Apoio para Flexão — Halter para Treino de Força, Musculação, Academia em Casa, Pesos para Exercícios em Casa e Funcional",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 241,00",
+    "precoPor": "R$ 152,04",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71KjnPmLBbL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/47MRwVe",
+    "linkWhatsapp": "https://amzn.to/47MRwVe",
+    "timestamp": 1791674864000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "WAP Ventilador de Mesa e Parede 50cm FLOW TURBO, com Tecnologia Silenciosa e Econômica, 8 Pás e 3 Velocidades, 180W 127V",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://s.shopee.com.br/9APHNDxAbl",
     "linkWhatsapp": "https://s.shopee.com.br/9APHNDxAbl",
     "timestamp": 1791602494000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Principia Kit C/ 2 Gel De Limpeza Facial Gl-02",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 98,00",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_903047-MLA91754812966_092025-O.jpg",
-    "link": "https://meli.la/2BQpRwD",
-    "linkWhatsapp": "https://meli.la/2BQpRwD",
-    "timestamp": 1791602429000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Roçadeira Gasolina Knakasaki 75cc 3,6hp 8 Em 1 Motopoda",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.299,00",
-    "precoPor": "R$ 536,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_604233-MLB117325646811_092026-O.jpg",
-    "link": "https://meli.la/2c7Tt6p",
-    "linkWhatsapp": "https://meli.la/2c7Tt6p",
-    "timestamp": 1791602346000,
     "imagemIlustrativa": false
   }
 ]
