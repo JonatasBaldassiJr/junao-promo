@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 151,92",
+    "precoPor": "R$ 74,20",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71trWiva9mL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4hI2m3g",
+    "linkWhatsapp": "https://amzn.to/4hI2m3g",
+    "timestamp": 1791667716000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Tênis adidas Adizero Drive Rc Corrida Leve Energy Rods Azul Azul 40 Br",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 900,00",
+    "precoPor": "R$ 536,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804882-MLB113579952342_072026-O.jpg",
+    "link": "https://meli.la/1TWCBGt",
+    "linkWhatsapp": "https://meli.la/1TWCBGt",
+    "timestamp": 1791667655000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Personal Blender, Preto/Prata, 300W, 110V - DG-01",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4yVNPsx",
     "linkWhatsapp": "https://amzn.to/4yVNPsx",
     "timestamp": 1791593448000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Feminino Giorgio Armani Emporio Power Of You Eau De Parfum 90 Ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 989,00",
-    "precoPor": "R$ 592,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_841226-MLA109726985683_032026-O.jpg",
-    "link": "https://meli.la/2RKK6E1",
-    "linkWhatsapp": "https://meli.la/2RKK6E1",
-    "timestamp": 1791593293000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Carolina Herrera Good Girl Eau de Parfum 150 ml feminino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.128,85",
-    "precoPor": "R$ 735,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950204-MLA49695604575_042022-O.jpg",
-    "link": "https://meli.la/1XPA6Eo",
-    "linkWhatsapp": "https://meli.la/1XPA6Eo",
-    "timestamp": 1791593009000,
     "imagemIlustrativa": false
   }
 ]
