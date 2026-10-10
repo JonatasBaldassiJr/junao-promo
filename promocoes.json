@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bateria de Lítio CR2032 Cartela com 5 unidades 3v Elgin - Moeda",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 11,57",
+    "precoPor": "R$ 7,49",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0755PWFSN.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4Bepakq",
+    "linkWhatsapp": "https://amzn.to/4Bepakq",
+    "timestamp": 1791614276000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Conjunto de perfume Jean Paul Gaultier Le Male EDT 75 ml + Gel de banho 75 ml FD25 EDT 75 ml para homens",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B07HZL4D72?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B07HZL4D72?tag=junaopromoc03-20",
     "timestamp": 1791551993000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 179,90",
-    "precoPor": "R$ 132,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_798191-MLA99474077760_112025-O.jpg",
-    "link": "https://meli.la/1oao9iV",
-    "linkWhatsapp": "https://meli.la/1oao9iV",
-    "timestamp": 1791551804000,
     "imagemIlustrativa": false
   }
 ]
