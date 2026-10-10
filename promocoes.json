@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Samsung Galaxy Buds Core, Fone De Ouvido Sem Fio",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 179,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_975833-MLB93924719407_102025-O.jpg",
+    "link": "https://meli.la/1QMLPM4",
+    "linkWhatsapp": "https://meli.la/1QMLPM4",
+    "timestamp": 1791646952000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Chinelo Havaianas Masculino Top Max Comfort Anatômica Macia",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B07XTFT7G1?tag=junaopromoc03-20",
     "timestamp": 1791571781000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "TP-Link Tapo C113 Câmera de Segurança Wifi 2K 3MP IP65 Interna Externa",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 239,00",
-    "precoPor": "R$ 151,92",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_818663-MLA100366747424_122025-O.jpg",
-    "link": "https://meli.la/2zLDgDR",
-    "linkWhatsapp": "https://meli.la/2zLDgDR",
-    "timestamp": 1791571654000,
     "imagemIlustrativa": false
   }
 ]
