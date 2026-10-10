@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Lixeira com Pedal Tramontina Loop em Aço Inox com Acabamento Polido e Balde Interno 5 L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 99,90",
+    "precoPor": "R$ 63,72",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/5168lvuU82L._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4ja5w2l",
+    "linkWhatsapp": "https://amzn.to/4ja5w2l",
+    "timestamp": 1791665576000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Conjunto Jantar Nadir Opaline Branco 16 Peças Vidro Temperado",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4y9e7pF",
     "linkWhatsapp": "https://amzn.to/4y9e7pF",
     "timestamp": 1791588916000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Oster PrimaLatte Touch Red Cafeteira Espresso 1050W",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 762,31",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_978484-MLA88402100997_072025-O.jpg",
-    "link": "https://meli.la/1oPN6Ap",
-    "linkWhatsapp": "https://meli.la/1oPN6Ap",
-    "timestamp": 1791588397000,
     "imagemIlustrativa": false
   }
 ]
