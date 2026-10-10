@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cápsula Café Caseiro Com 10 Unidades Dolce Gusto 80g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 28,56",
+    "precoPor": "R$ 13,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/4qGJ2ZHtbB",
+    "linkWhatsapp": "https://s.shopee.com.br/4qGJ2ZHtbB",
+    "timestamp": 1791647327000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 3 Necessaire Estojo De Toalete Organizador De Malas Kit Maternidade Cosméticos Shampoo Impermeável Ideal Para Áreas Molhadas Viagens Trabalho Academia Material PVC Qualidade Tche Amo Cor Azul",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2a8pN1f",
     "linkWhatsapp": "https://meli.la/2a8pN1f",
     "timestamp": 1791572092000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Relógio De Pulso Casio Youth W-218H-1AV",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 259,00",
-    "precoPor": "R$ 121,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734707-MLA114937003722_082026-O.jpg",
-    "link": "https://meli.la/23HNsAk",
-    "linkWhatsapp": "https://meli.la/23HNsAk",
-    "timestamp": 1791572012000,
     "imagemIlustrativa": false
   }
 ]
