@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Enxaguante Bucal Listerine, Sem Álcool, Melancia e Hortelã, 500ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 26,00",
+    "precoPor": "R$ 15,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51cCwnBSAVL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yOC8Us",
+    "linkWhatsapp": "https://amzn.to/4yOC8Us",
+    "timestamp": 1791658463000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Caixa de Som Boombox Plus AIWA BBS-01-BG 200W Bluetooth 30H IP66 USB Cinza",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1PMQCWN",
     "linkWhatsapp": "https://meli.la/1PMQCWN",
     "timestamp": 1791582117000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Torre 3 Tomadas Embutir Retrátil Elevor Para Bancada Branco Cod: 370025676 Neo Avant",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 228,00",
-    "precoPor": "R$ 106,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_749855-MLA112271779053_052026-O.jpg",
-    "link": "https://meli.la/2demq5o",
-    "linkWhatsapp": "https://meli.la/2demq5o",
-    "timestamp": 1791581980000,
     "imagemIlustrativa": false
   }
 ]
