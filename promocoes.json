@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila Nike Academy Team Unissex",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 399,00",
+    "precoPor": "R$ 160,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_719342-MLA95242399717_102025-O.jpg",
+    "link": "https://meli.la/2sX6cfe",
+    "linkWhatsapp": "https://meli.la/2sX6cfe",
+    "timestamp": 1791647859000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2A8FXAq",
     "linkWhatsapp": "https://meli.la/2A8FXAq",
     "timestamp": 1791572410000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ESSE DESCONTO NA LG TÁ DE SACANAGEM",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 0,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H4HB55J5.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0H4HB55J5?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0H4HB55J5?tag=junaopromoc03-20",
-    "timestamp": 1791572324000,
     "imagemIlustrativa": false
   }
 ]
