@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "GARRAFA BOA NO PRECINHO DE SEXTA",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 115,00",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B08VBXJY7P.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4drPE7L",
+    "linkWhatsapp": "https://amzn.to/4drPE7L",
+    "timestamp": 1791600703000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "QUEM TEM ESSA NÃO TOMA CAFÉ RUIM",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://s.shopee.com.br/6VOV5rEzKq",
     "linkWhatsapp": "https://s.shopee.com.br/6VOV5rEzKq",
     "timestamp": 1791542685000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cabo USB-C I2GO 2m 2,4A Nylon Trançado Chumbo - I2GO PRO",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 28,48",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07THM1F4J.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3TsUyuv",
-    "linkWhatsapp": "https://amzn.to/3TsUyuv",
-    "timestamp": 1791541750000,
     "imagemIlustrativa": false
   }
 ]
