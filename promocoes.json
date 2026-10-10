@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Perfume Carolina Herrera Good Girl Eau de Parfum 150 ml feminino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.128,85",
+    "precoPor": "R$ 735,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950204-MLA49695604575_042022-O.jpg",
+    "link": "https://meli.la/1XPA6Eo",
+    "linkWhatsapp": "https://meli.la/1XPA6Eo",
+    "timestamp": 1791593009000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4z0kYmc",
     "linkWhatsapp": "https://amzn.to/4z0kYmc",
     "timestamp": 1791515364000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "NIVEA Hidratante Desodorante Beleza Radiante Cuidado Intenso 400ml - Desenvolvido especialmente para a beleza da pele negra, ajuda na reparação das áreas ressecadas",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 22,00",
-    "precoPor": "R$ 15,59",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/6140zI3L1OL._AC_SL1500_.jpg",
-    "link": "https://amzn.to/4dqPopx",
-    "linkWhatsapp": "https://amzn.to/4dqPopx",
-    "timestamp": 1791514324000,
     "imagemIlustrativa": false
   }
 ]
