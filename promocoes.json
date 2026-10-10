@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "MONDIAL Forno Elétrico 52L Grand Family II, Branco/Inox, 1800W, 110V - FRN-52-W",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 400,00",
+    "precoPor": "R$ 271,15",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DX2H2S5V.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yhUXyf",
+    "linkWhatsapp": "https://amzn.to/4yhUXyf",
+    "timestamp": 1791591140000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Gillette Mach3 Aparelho de Barbear com 3 Lâminas 1 Unidade",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/478IlhO",
     "linkWhatsapp": "https://amzn.to/478IlhO",
     "timestamp": 1791513344000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sabão Liquido Brilhante 5L",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 49,99",
-    "precoPor": "R$ 32,29",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07ZQMBFMX.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3UhzAPt",
-    "linkWhatsapp": "https://amzn.to/3UhzAPt",
-    "timestamp": 1791513187000,
     "imagemIlustrativa": false
   }
 ]
