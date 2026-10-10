@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,00",
+    "precoPor": "R$ 19,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855365-MLB95050151929_102025-O.jpg",
+    "link": "https://meli.la/28VHiuB",
+    "linkWhatsapp": "https://meli.la/28VHiuB",
+    "timestamp": 1791634083000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/27ZBX9R",
     "linkWhatsapp": "https://meli.la/27ZBX9R",
     "timestamp": 1791554911000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Chinelo Slide Nuvem Confort Anatômico",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 31,99",
-    "precoPor": "R$ 19,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_646742-MLB74480075171_022024-O.jpg",
-    "link": "https://meli.la/2RZmgLu",
-    "linkWhatsapp": "https://meli.la/2RZmgLu",
-    "timestamp": 1791554808000,
     "imagemIlustrativa": false
   }
 ]
