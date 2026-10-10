@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Máscara Capilar A Fórmula 450gr - Lola Cosmetics",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 64,00",
+    "precoPor": "R$ 35,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61llng6QsoL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4jyAHVp",
+    "linkWhatsapp": "https://amzn.to/4jyAHVp",
+    "timestamp": 1791643080000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Marmita Elétrica Preta Bivolt Portátil Doméstica 110/220v Veicular 12/24v Lancheira 1.5l Com Divisórias Esquenta Rápido Refeições Práticas Trabalho Casa Carro Caminhão Viagem Faculdade Woosh",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1EDyVXY",
     "linkWhatsapp": "https://meli.la/1EDyVXY",
     "timestamp": 1791566022000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Body Spray Carolina Herrera 212 Men NYC Body Fragrance 250 ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 258,00",
-    "precoPor": "R$ 154,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_806865-MLA84175736968_052025-O.jpg",
-    "link": "https://meli.la/2mQsTYN",
-    "linkWhatsapp": "https://meli.la/2mQsTYN",
-    "timestamp": 1791565926000,
     "imagemIlustrativa": false
   }
 ]
