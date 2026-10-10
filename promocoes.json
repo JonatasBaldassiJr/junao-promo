@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Camiseta Sb Algodão Carimbo Gaze Reserva",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 69,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652445-MLB96629448421_102025-O.jpg",
+    "link": "https://meli.la/22FYiNW",
+    "linkWhatsapp": "https://meli.la/22FYiNW",
+    "timestamp": 1791656534000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Gamer Asus TUF Gaming Series 5 VG279QM5F, 27 Pol, Full HD, 260Hz, Fast IPS, 0.3ms, ELMB Sync, FreeSync Premium",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2Dc3SRb",
     "linkWhatsapp": "https://meli.la/2Dc3SRb",
     "timestamp": 1791579018000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Máquina De Acabamento Profissional Kemei - Max5090 Visor Lcd",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 69,31",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_716664-MLB116861211331_082026-O.jpg",
-    "link": "https://meli.la/1BHpTfy",
-    "linkWhatsapp": "https://meli.la/1BHpTfy",
-    "timestamp": 1791578718000,
     "imagemIlustrativa": false
   }
 ]
