@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 597,91",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 720,37",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7qvf1-li0cm7thcdf2ca",
+    "link": "https://s.shopee.com.br/30oehdmtpw",
+    "linkWhatsapp": "https://s.shopee.com.br/30oehdmtpw",
+    "timestamp": 1791638972000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 3 Camisetas Masculinas Polo Wear",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3TRqTuV",
     "linkWhatsapp": "https://amzn.to/3TRqTuV",
     "timestamp": 1791560168000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ORFEU Café em Grãos Intenso Torra Escura 1 kg",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 169,00",
-    "precoPor": "R$ 87,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07HWWTY3K.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3TIz8JT",
-    "linkWhatsapp": "https://amzn.to/3TIz8JT",
-    "timestamp": 1791560093000,
     "imagemIlustrativa": false
   }
 ]
