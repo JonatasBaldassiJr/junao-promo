@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "27 UNIDADES E AINDA ASSIM VAI ACABAR",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,00",
+    "precoPor": "R$ 47,69",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CXJLK24Y.01.LZZZZZZZ.jpg",
+    "link": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=junaopromoc03-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0CXJLK24Y?tag=junaopromoc03-20",
+    "timestamp": 1791590615000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cereal Sucrilhos® Original Kellogg's® 1kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2TNEeQd",
     "linkWhatsapp": "https://meli.la/2TNEeQd",
     "timestamp": 1791513125000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria com Até 10 Dias 64 GB Gerenciamento Avançado da Saúde Monitor do Sono SpO2 GPS Compatível com iOS e Android Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.499,00",
-    "precoPor": "R$ 699,30",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_879649-MLA110592319201_042026-O.jpg",
-    "link": "https://meli.la/1fr5V4X",
-    "linkWhatsapp": "https://meli.la/1fr5V4X",
-    "timestamp": 1791513005000,
     "imagemIlustrativa": false
   }
 ]
