@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Colgate Luminous White Glow Creme Dental Clareador, 2x70g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 27,25",
+    "precoPor": "R$ 16,14",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81JwlRLZUVL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4B5YzpI",
+    "linkWhatsapp": "https://amzn.to/4B5YzpI",
+    "timestamp": 1791675967000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Chocolate M&M'S Ao Leite 850g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://s.shopee.com.br/AKbEm755CB",
     "linkWhatsapp": "https://s.shopee.com.br/AKbEm755CB",
     "timestamp": 1791603151000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Asics Revelation Caminhada Academia Leve Confortável",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 81,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674868-MLB116577802897_082026-O.jpg",
-    "link": "https://meli.la/2D5hSZ9",
-    "linkWhatsapp": "https://meli.la/2D5hSZ9",
-    "timestamp": 1791602986000,
     "imagemIlustrativa": false
   }
 ]
