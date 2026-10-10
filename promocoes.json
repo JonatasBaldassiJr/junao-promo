@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Whey Grego Bar Caixa 12unid - Nutrata Barra de Proteina Sabor:Havanna (Doce de Leite Havanna)",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 104,00",
+    "precoPor": "R$ 64,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61o66GN6AVL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4hHqCUA",
+    "linkWhatsapp": "https://amzn.to/4hHqCUA",
+    "timestamp": 1791651161000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "ESSE AQUI NÃO DEIXA PEDAÇO INTEIRO",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 106,25",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41xQBE4scvL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/47eF4xh",
+    "linkWhatsapp": "https://amzn.to/47eF4xh",
+    "timestamp": 1791651081000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1fyxWQo",
     "linkWhatsapp": "https://meli.la/1fyxWQo",
     "timestamp": 1791576092000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,00",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-O.jpg",
-    "link": "https://meli.la/2bmkj6o",
-    "linkWhatsapp": "https://meli.la/2bmkj6o",
-    "timestamp": 1791575998000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Limpador Perfumado de Ambiente 120ml Coala Cha Branco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 39,90",
-    "precoPor": "R$ 30,53",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CDQKS6D4.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4yKyHOq",
-    "linkWhatsapp": "https://amzn.to/4yKyHOq",
-    "timestamp": 1791575908000,
     "imagemIlustrativa": false
   }
 ]
