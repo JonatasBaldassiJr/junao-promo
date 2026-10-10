@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Vodka Absolut Vanilia - 750 ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 117,90",
+    "precoPor": "R$ 49,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61kRgGBakLL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4jzx0hS",
+    "linkWhatsapp": "https://amzn.to/4jzx0hS",
+    "timestamp": 1791672612000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4hYPFBE",
     "linkWhatsapp": "https://amzn.to/4hYPFBE",
     "timestamp": 1791600548000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Furadeira de impacto 3/8\" 500W, 110V",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 120,13",
-    "precoPor": "R$ 67,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51FeRa+3SYL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4AZOfzd",
-    "linkWhatsapp": "https://amzn.to/4AZOfzd",
-    "timestamp": 1791600349000,
     "imagemIlustrativa": false
   }
 ]
