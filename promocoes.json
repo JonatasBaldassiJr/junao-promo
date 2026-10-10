@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Max Titanium 100% Whey - 900G Baunilha",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 189,00",
+    "precoPor": "R$ 94,71",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51iZN0U3omL._AC_SL1080_.jpg",
+    "link": "https://amzn.to/4rZfXrJ",
+    "linkWhatsapp": "https://amzn.to/4rZfXrJ",
+    "timestamp": 1791661642000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Camiseta Daily T-shirt Insider",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=junaopromoc03-20",
     "timestamp": 1791586541000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "O Boticário Zaad Infinity Eau De Parfum 95ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 349,90",
-    "precoPor": "R$ 235,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_945517-MLB116377855387_082026-O.jpg",
-    "link": "https://meli.la/2eMvRUM",
-    "linkWhatsapp": "https://meli.la/2eMvRUM",
-    "timestamp": 1791586452000,
     "imagemIlustrativa": false
   }
 ]
