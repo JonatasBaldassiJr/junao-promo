@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Milagre Creme para Pentear 450g , Lola Cosmetics",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 64,90",
+    "precoPor": "R$ 20,61",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61vm5ZBPOUL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/3WiDGY5",
+    "linkWhatsapp": "https://amzn.to/3WiDGY5",
+    "timestamp": 1791643863000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit 3 Bermuda Masculina Importada Seda Secagem Rápida",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 121,00",
+    "precoPor": "R$ 75,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672676-MLB96555670802_112025-O.jpg",
+    "link": "https://meli.la/2aHHcdH",
+    "linkWhatsapp": "https://meli.la/2aHHcdH",
+    "timestamp": 1791643792000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Jogo De Banho E Rosto 4 Pçs Algodão Venus Select Camesa Lisa Marinho Com Azul Claro",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -233,7 +263,7 @@
     "precoPor": "R$ 29,00",
     "desconto": "",
     "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
+    "imagem": "https://m.media-amazon.com/images/I/71+gxCJuI8L._AC_SL1500_.jpg",
     "link": "https://amzn.to/3Uo1OIl",
     "linkWhatsapp": "https://amzn.to/3Uo1OIl",
     "timestamp": 1791642431000,
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2bHKVs1",
     "linkWhatsapp": "https://meli.la/2bHKVs1",
     "timestamp": 1791566902000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bancada de Ferramentas Infantil 3 em 1 Maleta 31 Peças Maxi Toys",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,90",
-    "precoPor": "R$ 46,21",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_931979-MLA99535831206_122025-O.jpg",
-    "link": "https://meli.la/1eZqq3B",
-    "linkWhatsapp": "https://meli.la/1eZqq3B",
-    "timestamp": 1791566720000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Saco Para Lavar Sapatos Na Máquina De Lavar Prático Kit 2 Aleatoria",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 47,90",
-    "precoPor": "R$ 32,57",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_650145-MLB109036495350_032026-O.jpg",
-    "link": "https://meli.la/1KEpnze",
-    "linkWhatsapp": "https://meli.la/1KEpnze",
-    "timestamp": 1791566433000,
     "imagemIlustrativa": false
   }
 ]
