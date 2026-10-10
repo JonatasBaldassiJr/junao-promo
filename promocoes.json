@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tênis adidas Feminino Corrida Caminhada Leve Confortável",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 204,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_896122-MLB115527177797_082026-O.jpg",
+    "link": "https://meli.la/2EYedFq",
+    "linkWhatsapp": "https://meli.la/2EYedFq",
+    "timestamp": 1791658132000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Nautica Perfume Voyage Eau de Toilette Masculino 100ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 109,00",
+    "precoPor": "R$ 76,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41bYQcKYVzL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4rZbfu3",
+    "linkWhatsapp": "https://amzn.to/4rZbfu3",
+    "timestamp": 1791658057000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Guarda Roupa Casal 8 Portas 4 Gavetas Paris Espresso Móveis Off White/Cinamomo Cinamomo/Off White",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2HaQsYe",
     "linkWhatsapp": "https://meli.la/2HaQsYe",
     "timestamp": 1791581725000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "MONDIAL Panela De Arroz Bianca Rice 5, Branco, 400W, 110V - NPE-05-5X",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 229,90",
-    "precoPor": "R$ 113,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B07QCVJHN5.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4i5I8Ss",
-    "linkWhatsapp": "https://amzn.to/4i5I8Ss",
-    "timestamp": 1791581659000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bermuda Short Duplo Masculina Compreensão 2 Em 1 Musculação",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 54,90",
-    "precoPor": "R$ 26,17",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_899457-MLB100172260466_122025-O.jpg",
-    "link": "https://meli.la/2LD9bnL",
-    "linkWhatsapp": "https://meli.la/2LD9bnL",
-    "timestamp": 1791581373000,
     "imagemIlustrativa": false
   }
 ]
