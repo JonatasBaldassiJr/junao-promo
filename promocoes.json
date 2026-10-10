@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Britânia Escova Modeladora BEC04 2 em 1 Bivolt Plástico e Metal",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 111,67",
+    "precoPor": "R$ 47,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41gJ4ogoJJL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/477ti7X",
+    "linkWhatsapp": "https://amzn.to/477ti7X",
+    "timestamp": 1791669740000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smirnoff Vodka Nº 21 998ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1XvPjtf",
     "linkWhatsapp": "https://meli.la/1XvPjtf",
     "timestamp": 1791595320000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0.5ms IPS HDR10 Base Ajustável Q27G4F",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.222,22",
-    "precoPor": "R$ 1.149,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FGDK8DJM.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hCmYLL",
-    "linkWhatsapp": "https://amzn.to/4hCmYLL",
-    "timestamp": 1791595030000,
     "imagemIlustrativa": false
   }
 ]
