@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Camiseta Daily T-shirt Insider",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 56,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_870126-MLB118148003601_092026-O.jpg",
+    "link": "https://meli.la/2eoUrD2",
+    "linkWhatsapp": "https://meli.la/2eoUrD2",
+    "timestamp": 1791661564000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "100% Whey Max Titanium x Dr. Peanut (900g), Sabor Avelã",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2eMvRUM",
     "linkWhatsapp": "https://meli.la/2eMvRUM",
     "timestamp": 1791586452000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "MONDIAL Extrator de Sucos Turbo Premium Preto/Inox, 250W, Bivolt - E-10",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 269,90",
-    "precoPor": "R$ 114,88",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0764H7W59.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/47ITXIn",
-    "linkWhatsapp": "https://amzn.to/47ITXIn",
-    "timestamp": 1791586375000,
     "imagemIlustrativa": false
   }
 ]
