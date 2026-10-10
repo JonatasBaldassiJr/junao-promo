@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mor - Cadeira Alta Alumínio Sortido",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 76,50",
+    "precoPor": "R$ 64,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51-7SV9DZTL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yJcWhO",
+    "linkWhatsapp": "https://amzn.to/4yJcWhO",
+    "timestamp": 1791660993000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Fechadura Digital De Sobrepor Intelbras Fr 101",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2oEfQTM",
     "linkWhatsapp": "https://meli.la/2oEfQTM",
     "timestamp": 1791585290000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ESQUEÇA O PÃO SOLADO DE MANHÃ",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 259,00",
-    "precoPor": "R$ 99,96",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BSP1XKYL.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0BSP1XKYL?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0BSP1XKYL?tag=junaopromoc03-20",
-    "timestamp": 1791585250000,
     "imagemIlustrativa": false
   }
 ]
