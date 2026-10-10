@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Mesa para Escritório Office Estilo Industrial 1,50m Kuadra, Compace",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 353,00",
+    "precoPor": "R$ 197,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71rEzMec3zL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4yHFZTb",
+    "linkWhatsapp": "https://amzn.to/4yHFZTb",
+    "timestamp": 1791660426000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Carregador Portátil Power Bank Basike 20000mAh 22.5W Rápido Cabos Embutidos Tipo C iPhone Samsung",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 256,00",
+    "precoPor": "R$ 173,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_919783-MLA99989975911_112025-O.jpg",
+    "link": "https://meli.la/19nMA4B",
+    "linkWhatsapp": "https://meli.la/19nMA4B",
+    "timestamp": 1791660352000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Philips Aparador e Barbeador Elétrico Série 3000 All-in-One 9 em 1",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B076YFJVT6?tag=junaopromoc03-20",
     "timestamp": 1791584870000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "PASSOU, JÁ TÁ MACIA DE NOVO",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 0,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B079VQTK2M.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B079VQTK2M?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B079VQTK2M?tag=junaopromoc03-20",
-    "timestamp": 1791584753000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Carregador Turbo Super Rápido 30w Para iPhone 15 16 17 Pro Max - Cabo Blindado Tipo Usb C Dtimp",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,00",
-    "precoPor": "R$ 29,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_669139-MLA110835515699_042026-O.jpg",
-    "link": "https://meli.la/2hVnBE8",
-    "linkWhatsapp": "https://meli.la/2hVnBE8",
-    "timestamp": 1791584630000,
     "imagemIlustrativa": false
   }
 ]
