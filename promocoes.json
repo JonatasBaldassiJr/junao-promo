@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Apple iPhone 16 (128 GB) - Branco",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 4.960,00",
+    "precoPor": "R$ 4.194,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_809936-MLA96419773842_102025-O.jpg",
+    "link": "https://meli.la/2HwrDvz",
+    "linkWhatsapp": "https://meli.la/2HwrDvz",
+    "timestamp": 1791662626000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Apple iPhone 15 128 GB Cor rosa",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B0CXVK817Q?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0CXVK817Q?tag=junaopromoc03-20",
     "timestamp": 1791587256000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kaiak Masculino Tradicional Natura Desodorante Colônia Perfume Clássico Original 100ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 185,00",
-    "precoPor": "R$ 89,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_698757-MLB82072269017_012025-O.jpg",
-    "link": "https://meli.la/2VZDocy",
-    "linkWhatsapp": "https://meli.la/2VZDocy",
-    "timestamp": 1791587197000,
     "imagemIlustrativa": false
   }
 ]
