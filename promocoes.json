@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Whisky Johnnie Walker Red Label 1L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 115,00",
+    "precoPor": "R$ 75,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51zNcnEgdFL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4B0A25c",
+    "linkWhatsapp": "https://amzn.to/4B0A25c",
+    "timestamp": 1791661133000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mor - Cadeira Alta Alumínio Sortido",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B08YHR9C4S?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B08YHR9C4S?tag=junaopromoc03-20",
     "timestamp": 1791585400000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vitamina B12 Growth Supplements Vitaminas Vit. B12 em cápsula Sem sabor x 100g de 120 un",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 39,90",
-    "precoPor": "R$ 34,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_843068-MLA106388657212_022026-O.jpg",
-    "link": "https://meli.la/2oEfQTM",
-    "linkWhatsapp": "https://meli.la/2oEfQTM",
-    "timestamp": 1791585290000,
     "imagemIlustrativa": false
   }
 ]
