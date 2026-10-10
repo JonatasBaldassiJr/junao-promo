@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cerveja Premium 5L Barril Heineken",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 166,65",
+    "precoPor": "R$ 99,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/3B85I8eZEE",
+    "linkWhatsapp": "https://s.shopee.com.br/3B85I8eZEE",
+    "timestamp": 1791660117000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Chinelo Havaianas Brasil Bandeira Bandeirinha Original Cores",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2CnWqHQ",
     "linkWhatsapp": "https://meli.la/2CnWqHQ",
     "timestamp": 1791584428000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "120HZ NESSE PREÇO NÃO TEM EM LUGAR NENHUM",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 599,00",
-    "precoPor": "R$ 363,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0F4L1SBV3.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0F4L1SBV3?tag=junaopromoc03-20",
-    "timestamp": 1791584358000,
     "imagemIlustrativa": false
   }
 ]
