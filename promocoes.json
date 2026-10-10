@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Chocolate M&M'S Ao Leite 850g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 94,00",
+    "precoPor": "R$ 64,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61tyA+A2sdL._AC_SL1146_.jpg",
+    "link": "https://amzn.to/4hU87Lq",
+    "linkWhatsapp": "https://amzn.to/4hU87Lq",
+    "timestamp": 1791675865000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Tênis Democrata Block Masculino Premium Sofisticado Elegante",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 329,00",
+    "precoPor": "R$ 175,99",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_800275-MLB93924504629_102025-O.jpg",
+    "link": "https://meli.la/28XAbKN",
+    "linkWhatsapp": "https://meli.la/28XAbKN",
+    "timestamp": 1791675796000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 2 Jaquetas Corta Vento Rock Saints Liso Com Capuz",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2D5hSZ9",
     "linkWhatsapp": "https://meli.la/2D5hSZ9",
     "timestamp": 1791602986000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Monitor Gamer ARZOPA M1RC, 27\" 2K QHD 180Hz IPS, 1ms, 115% sRGB, USB-C, HDMI, Display Port",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "R$ 2.999,00",
-    "precoPor": "R$ 920,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://s.shopee.com.br/1gJGRuePFU",
-    "linkWhatsapp": "https://s.shopee.com.br/1gJGRuePFU",
-    "timestamp": 1791602913000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Perfume Club De Nuit Intense Da Armaf Edt 105ml Masculino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 165,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_863486-MLB114945658162_082026-O.jpg",
-    "link": "https://meli.la/1PBGWvs",
-    "linkWhatsapp": "https://meli.la/1PBGWvs",
-    "timestamp": 1791602782000,
     "imagemIlustrativa": false
   }
 ]
