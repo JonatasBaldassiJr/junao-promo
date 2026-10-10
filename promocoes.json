@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Personal VIP - Papel Higiênico, Folha Dupla, 12 unidades (Embalagem pode variar)",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 21,75",
+    "precoPor": "R$ 15,23",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71nTW4i0FEL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4jPMdvt",
+    "linkWhatsapp": "https://amzn.to/4jPMdvt",
+    "timestamp": 1791668087000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "EUCERIN Protetor Solar Facial Oil Control Cor Média FPS 70 50ml, Antioleosidade, Proteção UVA, UVB e Luz Visível, Pele Oleosa",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2k93g2Y",
     "linkWhatsapp": "https://meli.la/2k93g2Y",
     "timestamp": 1791593777000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, com Sistema de Autolimpeza, 1450W 127V",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 849,00",
-    "precoPor": "R$ 382,41",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0CH3WBKN6.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4jGVgyH",
-    "linkWhatsapp": "https://amzn.to/4jGVgyH",
-    "timestamp": 1791593713000,
     "imagemIlustrativa": false
   }
 ]
