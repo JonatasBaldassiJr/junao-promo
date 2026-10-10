@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "QUEM TEM ESSA NÃO TOMA CAFÉ RUIM",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 84,15",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0955QFBH2.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hYPFBE",
+    "linkWhatsapp": "https://amzn.to/4hYPFBE",
+    "timestamp": 1791600548000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Furadeira de impacto 3/8\" 500W, 110V",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3TsUyuv",
     "linkWhatsapp": "https://amzn.to/3TsUyuv",
     "timestamp": 1791541750000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ESSA QUANTIDADE SEGURA O MÊS INTEIRO",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 65,00",
-    "precoPor": "R$ 37,88",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0C75GP7VP.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0C75GP7VP?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0C75GP7VP?tag=junaopromoc03-20",
-    "timestamp": 1791541535000,
     "imagemIlustrativa": false
   }
 ]
