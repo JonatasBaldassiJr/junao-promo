@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "CORRE QUE ESSE ADIDAS TÁ QUASE DE GRAÇA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 399",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828527-MLB110045728136_042026-O.jpg",
+    "link": "https://meli.la/2goHzsT",
+    "linkWhatsapp": "https://meli.la/2goHzsT",
+    "timestamp": 1791605600000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de alta velocidade Wi-Fi de banda dupla - 100 a 240 VCA - AJ4Y4A#AK4",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 712,00",
+    "precoPor": "R$ 429,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_641445-MLA107256158981_022026-O.jpg",
+    "link": "https://meli.la/1UAWMRC",
+    "linkWhatsapp": "https://meli.la/1UAWMRC",
+    "timestamp": 1791605536000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Geladeira Refrigerador Compacto HQ 140L Duplex Defrost, Baixo Consumo A+++ Branco HQ-140RDF",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1ebTpmN",
     "linkWhatsapp": "https://meli.la/1ebTpmN",
     "timestamp": 1791550414000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Caixa De Som Boombox 3 Bluetooth Preta Jbl",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.199,00",
-    "precoPor": "R$ 1.786,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_661367-MLU74377889634_022024-O.jpg",
-    "link": "https://meli.la/1tRAdrh",
-    "linkWhatsapp": "https://meli.la/1tRAdrh",
-    "timestamp": 1791550311000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Samsung Smart TV 65\" Mini LED 4K M75H 26/2027",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 5.699,00",
-    "precoPor": "R$ 3.420,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_857357-MLA116062135096_092026-O.jpg",
-    "link": "https://meli.la/1jqZgMg",
-    "linkWhatsapp": "https://meli.la/1jqZgMg",
-    "timestamp": 1791550237000,
     "imagemIlustrativa": false
   }
 ]
