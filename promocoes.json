@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A 127V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 579,00",
+    "precoPor": "R$ 306,94",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GHZ991LG.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/3UhmJgc",
+    "linkWhatsapp": "https://amzn.to/3UhmJgc",
+    "timestamp": 1791642777000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Jogo De Panelas Antiaderente Indução 12 Peças Fundo Triplo Palha",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 289,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815886-MLA116923641400_092026-O.jpg",
+    "link": "https://meli.la/1XZHhM3",
+    "linkWhatsapp": "https://meli.la/1XZHhM3",
+    "timestamp": 1791642697000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Suplemento Tasty Whey 3w Gourmet Whey Protein Adaptogen Science Pote 900g Sabor Beijinho",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/21xdV8S",
     "linkWhatsapp": "https://meli.la/21xdV8S",
     "timestamp": 1791565716000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "iPhone 16e (128 GB) - Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.666,00",
-    "precoPor": "R$ 3.299,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_938094-MLA96869129517_102025-O.jpg",
-    "link": "https://meli.la/2NVHJCF",
-    "linkWhatsapp": "https://meli.la/2NVHJCF",
-    "timestamp": 1791565654000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 3 Malas De Viagem Resistente Mala P M G Padrão Anac",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 475,93",
-    "precoPor": "R$ 398,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_983599-MLB116118805104_092026-O.jpg",
-    "link": "https://meli.la/1cUeJ9z",
-    "linkWhatsapp": "https://meli.la/1cUeJ9z",
-    "timestamp": 1791565591000,
     "imagemIlustrativa": false
   }
 ]
