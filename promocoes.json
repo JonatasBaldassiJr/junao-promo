@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Shampoo Invigo Nutri Enrich Wella Professionals 1000 ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 97,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41pSxYgVPwL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/47M1ZjL",
+    "linkWhatsapp": "https://amzn.to/47M1ZjL",
+    "timestamp": 1791661822000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Max Titanium 100% Whey - 900G Baunilha",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=junaopromoc03-20",
     "timestamp": 1791586601000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "CHEGA DE FILA PRA USAR O FORNO DA CASA",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 0,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DPNYJ233.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DPNYJ233?tag=junaopromoc03-20",
-    "timestamp": 1791586541000,
     "imagemIlustrativa": false
   }
 ]
