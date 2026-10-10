@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Smash V2 Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 229,00",
+    "precoPor": "R$ 183,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869619-MLB111705071505_052026-O.jpg",
+    "link": "https://meli.la/11GV9ye",
+    "linkWhatsapp": "https://meli.la/11GV9ye",
+    "timestamp": 1791645986000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor Gigabyte Gs24f14 23.8 Pol Full Hd Ips 144hz 1ms",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2wWeHbo",
     "linkWhatsapp": "https://meli.la/2wWeHbo",
     "timestamp": 1791570099000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Monitor Gamer LG UltraGear 24”IPS Full HD 180Hz 1ms (GtG) NVIDIA G-SYNC AMD FreeSync HDR10 sRGB 99% HDMI DisplayPort, Preto- 24GS60F",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 809,00",
-    "precoPor": "R$ 689,87",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_817281-MLA107167838581_022026-O.jpg",
-    "link": "https://meli.la/22sDueB",
-    "linkWhatsapp": "https://meli.la/22sDueB",
-    "timestamp": 1791570019000,
     "imagemIlustrativa": false
   }
 ]
