@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "GUARDA ESSA NA BOLSA E NÃO PASSA SEDE",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 399",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_799653-MLA111923920498_062026-O.jpg",
+    "link": "https://meli.la/1Vwk1vd",
+    "linkWhatsapp": "https://meli.la/1Vwk1vd",
+    "timestamp": 1791632729000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Colgate Sensitive Pro Alívio Imediato Xtreme Creme Dental, 3x90g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,88",
+    "precoPor": "R$ 19,39",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DPGHBLMY.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4hTcbfa",
+    "linkWhatsapp": "https://amzn.to/4hTcbfa",
+    "timestamp": 1791632648000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smart TV LG 50\" 4K UHD NANO AI 50UN85CBPSA.BWZ",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0H5LWHFMZ?tag=junaopromoc03-20",
     "timestamp": 1791553845000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ISSO QUE É CUIDAR DO FIO DE VERDADE",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 72,00",
-    "precoPor": "R$ 40,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0H8ZPL88X.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0H8ZPL88X?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0H8ZPL88X?tag=junaopromoc03-20",
-    "timestamp": 1791553783000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Suplemento em pasta Dr. Peanut Melhor Pasta de Amendoim amentoim cremosa sabor Cookies and cream x 600g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 62,50",
-    "precoPor": "R$ 43,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_721792-MLA112549027343_062026-O.jpg",
-    "link": "https://meli.la/2RMWuY5",
-    "linkWhatsapp": "https://meli.la/2RMWuY5",
-    "timestamp": 1791553558000,
     "imagemIlustrativa": false
   }
 ]
