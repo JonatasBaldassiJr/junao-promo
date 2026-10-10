@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Lâmpada Inteligente Smart Color 10W Elgin RGB Wifi Compatível com Alexa e Google Home",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 99,00",
+    "precoPor": "R$ 29,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61i1yPAlVLL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3VyiJYZ",
+    "linkWhatsapp": "https://amzn.to/3VyiJYZ",
+    "timestamp": 1791633107000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit Azeite De Oliva Extra Virgem Andorinha Vidro 500ml - 2 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "R$ 88,58",
+    "precoPor": "R$ 48,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg6lv63zz2134d",
+    "link": "https://s.shopee.com.br/6L56YyH0zK",
+    "linkWhatsapp": "https://s.shopee.com.br/6L56YyH0zK",
+    "timestamp": 1791633036000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Branca, com Acesso Antecipado à Alexa+",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://s.shopee.com.br/1BMyxWNZkj",
     "linkWhatsapp": "https://s.shopee.com.br/1BMyxWNZkj",
     "timestamp": 1791554441000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo de toalhas de banho Buddemeyer Brisa 4pçs cor rosa e bordô",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 179,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_963775-MLA96433447094_102025-O.jpg",
-    "link": "https://meli.la/1LkNpur",
-    "linkWhatsapp": "https://meli.la/1LkNpur",
-    "timestamp": 1791554287000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "ESSA JATO TIRA ATÉ MOFO DO MURO",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 229,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FP5K3JRP.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0FP5K3JRP?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0FP5K3JRP?tag=junaopromoc03-20",
-    "timestamp": 1791554145000,
     "imagemIlustrativa": false
   }
 ]
