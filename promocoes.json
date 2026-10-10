@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Smirnoff Vodka Nº 21 998ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 38,00",
+    "precoPor": "R$ 28,06",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/510NtwaPsBL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4dyzpG0",
+    "linkWhatsapp": "https://amzn.to/4dyzpG0",
+    "timestamp": 1791669640000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "White Horse Whisky 1L",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4hCmYLL",
     "linkWhatsapp": "https://amzn.to/4hCmYLL",
     "timestamp": 1791595030000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.399,00",
-    "precoPor": "R$ 980,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0FDX5NC1G.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/47cLxZD",
-    "linkWhatsapp": "https://amzn.to/47cLxZD",
-    "timestamp": 1791594952000,
     "imagemIlustrativa": false
   }
 ]
