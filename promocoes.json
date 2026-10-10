@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "White Horse Whisky 1L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,00",
+    "precoPor": "R$ 50,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51VHnK8ONqL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4zlF8XZ",
+    "linkWhatsapp": "https://amzn.to/4zlF8XZ",
+    "timestamp": 1791669395000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/47cLxZD",
     "linkWhatsapp": "https://amzn.to/47cLxZD",
     "timestamp": 1791594952000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Water Cooler Gamer Kalkan Delta 360 Wireless ARGB Preto KLK00051",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 360,00",
-    "precoPor": "R$ 297,96",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0DYQHYG9X.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4dzz5H4",
-    "linkWhatsapp": "https://amzn.to/4dzz5H4",
-    "timestamp": 1791594888000,
     "imagemIlustrativa": false
   }
 ]
