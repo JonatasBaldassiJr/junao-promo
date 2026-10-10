@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gillette Mach3 Aparelho de Barbear com 3 Lâminas 1 Unidade",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 28,52",
+    "precoPor": "R$ 17,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B004HCJWEC.01.LZZZZZZZ.jpg",
+    "link": "https://amzn.to/4yBhwyA",
+    "linkWhatsapp": "https://amzn.to/4yBhwyA",
+    "timestamp": 1791590914000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "27 UNIDADES E AINDA ASSIM VAI ACABAR",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/3UhzAPt",
     "linkWhatsapp": "https://amzn.to/3UhzAPt",
     "timestamp": 1791513187000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Camisa Oversized Masculino Blusa Streetwear Algodão",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 90,00",
-    "precoPor": "R$ 69,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_759828-MLB115949888375_082026-O.jpg",
-    "link": "https://meli.la/2TNEeQd",
-    "linkWhatsapp": "https://meli.la/2TNEeQd",
-    "timestamp": 1791513125000,
     "imagemIlustrativa": false
   }
 ]
