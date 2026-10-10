@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Stanley Copo Quencher Rose Quartz 1.18L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 359,00",
+    "precoPor": "R$ 153,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61zHv-6qWXL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4yEDwcc",
+    "linkWhatsapp": "https://amzn.to/4yEDwcc",
+    "timestamp": 1791662168000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Espelho Decorativo Orgânico 60x40 Moldura Em Couro We Mirror Caramelo",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://www.amazon.com.br/dp/B0C6FT4QYV?tag=junaopromoc03-20",
     "linkWhatsapp": "https://www.amazon.com.br/dp/B0C6FT4QYV?tag=junaopromoc03-20",
     "timestamp": 1791586838000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "JBL BARATINHO É RARO DEMAIS",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 158,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GM1PSWPD.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B0GM1PSWPD?tag=junaopromoc03-20",
-    "timestamp": 1791586754000,
     "imagemIlustrativa": false
   }
 ]
