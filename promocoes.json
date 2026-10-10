@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Apple iPhone 15 128 GB Cor rosa",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 5.999,00",
+    "precoPor": "R$ 3.528,76",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_634723-MLA95496999820_102025-O.jpg",
+    "link": "https://meli.la/1m3RabH",
+    "linkWhatsapp": "https://meli.la/1m3RabH",
+    "timestamp": 1791662507000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "iPhone 17 256 GB 8 GB Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2VZDocy",
     "linkWhatsapp": "https://meli.la/2VZDocy",
     "timestamp": 1791587197000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "DOIS POTES PRA VOCÊ NÃO FICAR SEM",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 179,00",
-    "precoPor": "R$ 74,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51F1qwaF45L._AC_SL1200_.jpg",
-    "link": "https://www.amazon.com.br/dp/B08T6KMBXK?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B08T6KMBXK?tag=junaopromoc03-20",
-    "timestamp": 1791587047000,
     "imagemIlustrativa": false
   }
 ]
