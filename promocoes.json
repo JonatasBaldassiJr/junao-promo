@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Headset Gamer Redragon Zeus Lite Preto P3 H510-LT",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 249,90",
+    "precoPor": "R$ 116,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61pvhJpLRRL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3TAHT8R",
+    "linkWhatsapp": "https://amzn.to/3TAHT8R",
+    "timestamp": 1791660486000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mesa para Escritório Office Estilo Industrial 1,50m Kuadra, Compace",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/25x5fy5",
     "linkWhatsapp": "https://meli.la/25x5fy5",
     "timestamp": 1791585031000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "NÃO SOBRA SUJEIRA NEM DESCULPA",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 499,00",
-    "precoPor": "R$ 178,41",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B076YFJVT6.01.LZZZZZZZ.jpg",
-    "link": "https://www.amazon.com.br/dp/B076YFJVT6?tag=junaopromoc03-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B076YFJVT6?tag=junaopromoc03-20",
-    "timestamp": 1791584870000,
     "imagemIlustrativa": false
   }
 ]
