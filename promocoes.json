@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mor - Churrasqueira Califórnia Bacia Esmaltada",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 207,00",
+    "precoPor": "R$ 120,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61+T6Bc5WLL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yKn4qM",
+    "linkWhatsapp": "https://amzn.to/4yKn4qM",
+    "timestamp": 1791657788000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Camisa Polo Masculina Canelada Gola Italiana Sem Botao Chumbo / Azul / Preto P",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1NVsAxo",
     "linkWhatsapp": "https://meli.la/1NVsAxo",
     "timestamp": 1791581103000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Geladeira LG Frost Free Inverter 395l Duplex Cor Branca - 22 Branco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.699,00",
-    "precoPor": "R$ 2.478,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_776839-MLA99982327313_112025-O.jpg",
-    "link": "https://meli.la/2iVL47y",
-    "linkWhatsapp": "https://meli.la/2iVL47y",
-    "timestamp": 1791581017000,
     "imagemIlustrativa": false
   }
 ]
