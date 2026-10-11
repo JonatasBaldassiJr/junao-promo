@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cerveja Stella Artois, Pure Gold, Lata 350ml, Pack com 8 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 53,00",
+    "precoPor": "R$ 35,58",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51Ib2PtFQHL._AC_SL1002_.jpg",
+    "link": "https://amzn.to/4dvAnTn",
+    "linkWhatsapp": "https://amzn.to/4dvAnTn",
+    "timestamp": 1791681437000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Head & Shoulders Shampoo Anticaspa Anticoceira 400 ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1uZKYJi",
     "linkWhatsapp": "https://meli.la/1uZKYJi",
     "timestamp": 1791604441000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Celular Galaxy A07 Tela 6.7 128GB 4G 90Hz Câmera Dupla 50MP Preto Samsung",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "R$ 860,86",
-    "precoPor": "R$ 590,64",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://s.shopee.com.br/2VsNT49dMU",
-    "linkWhatsapp": "https://s.shopee.com.br/2VsNT49dMU",
-    "timestamp": 1791604332000,
     "imagemIlustrativa": false
   }
 ]
