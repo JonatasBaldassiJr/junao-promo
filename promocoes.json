@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Milagre Creme para Pentear 450g , Lola Cosmetics",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 42,00",
+    "precoPor": "R$ 20,61",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61vm5ZBPOUL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/3WiDGY5",
+    "linkWhatsapp": "https://amzn.to/3WiDGY5",
+    "timestamp": 1791743936000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Pincel De Maquiagem Com 13 Unidades Sombra Blush Cor Marrom",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2hiRDxN",
     "linkWhatsapp": "https://meli.la/2hiRDxN",
     "timestamp": 1791651894000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "iPhone 16e Apple 128GB, Câmera 48MP, Tela Super Retina XDR 6,1\", Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 5.799,00",
-    "precoPor": "R$ 2.899,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41Zguc9CziL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4zliTBt",
-    "linkWhatsapp": "https://amzn.to/4zliTBt",
-    "timestamp": 1791651454000,
     "imagemIlustrativa": false
   }
 ]
