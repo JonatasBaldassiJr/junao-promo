@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 649,00",
+    "precoPor": "R$ 299,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61evEYmxBZL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4rV38Pl",
+    "linkWhatsapp": "https://amzn.to/4rV38Pl",
+    "timestamp": 1791728442000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lixa 220 320 500 800 1200 2000 Kit 1 Cada Polimento Metal",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2L5XLRj",
     "linkWhatsapp": "https://meli.la/2L5XLRj",
     "timestamp": 1791640942000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Armani Beauty, Armani Code Eau de Toilette, Giorgio Armani, Perfume Masculino Refilável, Fragrância Oriental Amadeirada com Notas de Tangerina Verde, Lavanda, Fava Tonka e Cedro",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 899,00",
-    "precoPor": "R$ 548,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0BTDCRCXF.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4hLUeyL",
-    "linkWhatsapp": "https://amzn.to/4hLUeyL",
-    "timestamp": 1791640689000,
     "imagemIlustrativa": false
   }
 ]
