@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "MONDIAL Espremedor Premium, Preto, 30W, 220V - E-02",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 99,90",
+    "precoPor": "R$ 39,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71DEK6jSqGL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4ig9mWI",
+    "linkWhatsapp": "https://amzn.to/4ig9mWI",
+    "timestamp": 1791760271000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL, Multiprocessador Turbo Chef 7 em 1, Branco 1000W, 110V - MPN-01-WE",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1m3RabH",
     "linkWhatsapp": "https://meli.la/1m3RabH",
     "timestamp": 1791662507000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "iPhone 17 256 GB 8 GB Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 5.049,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_724430-MLA97899894923_112025-O.jpg",
-    "link": "https://meli.la/1C8wqYB",
-    "linkWhatsapp": "https://meli.la/1C8wqYB",
-    "timestamp": 1791662454000,
     "imagemIlustrativa": false
   }
 ]
