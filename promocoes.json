@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Heinz Ketchup Tradicional 1,033KG",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 23,79",
+    "precoPor": "R$ 17,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51653ltvYsL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/3T3llxj",
+    "linkWhatsapp": "https://amzn.to/3T3llxj",
+    "timestamp": 1791691291000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Hada Labo Demaquilante Cleansing Oil Refil - Limpador Facial 180 ml - Remove Maquiagem Resistente à Água - Limpeza Eficaz sem Ressecar",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/34hgsho",
     "linkWhatsapp": "https://meli.la/34hgsho",
     "timestamp": 1791631929000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Camisetas Daily T-shirt Feminino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 298,00",
-    "precoPor": "R$ 92,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_696018-MLB84349521489_052025-O.jpg",
-    "link": "https://meli.la/1fuPD3B",
-    "linkWhatsapp": "https://meli.la/1fuPD3B",
-    "timestamp": 1791631877000,
     "imagemIlustrativa": false
   }
 ]
