@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Shampoo de Glicerina Johnson's Baby, 400ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 34,99",
+    "precoPor": "R$ 19,67",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51NmcQASBhL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4hPNmRj",
+    "linkWhatsapp": "https://amzn.to/4hPNmRj",
+    "timestamp": 1791718250000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Carregador Super Rápido 25w Para Samsung Galaxy S24 S23 S22 S21 S20 Fe Ultra Motorola M22 M31 M32 M62 M63 M64 G15 Xiaomi Redmi Note 12 13 14 15 LG - Super Fast Cabo Blindado Tipo Usb C -Dtimp",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2pptcVV",
     "linkWhatsapp": "https://meli.la/2pptcVV",
     "timestamp": 1791633923000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Aparelho De Jantar Oxford Cerâmica Lírios 30 Pç Cor Estampado",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 436,15",
-    "precoPor": "R$ 193,71",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_998805-MLA95694378074_102025-O.jpg",
-    "link": "https://meli.la/1zcgDYP",
-    "linkWhatsapp": "https://meli.la/1zcgDYP",
-    "timestamp": 1791633852000,
     "imagemIlustrativa": false
   }
 ]
