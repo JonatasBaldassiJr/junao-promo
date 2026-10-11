@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Intelbras porteiro residencial ipr 1010 preto",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 269,00",
+    "precoPor": "R$ 116,83",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_741752-MLA108925322094_032026-O.jpg",
+    "link": "https://meli.la/2nhzNJi",
+    "linkWhatsapp": "https://meli.la/2nhzNJi",
+    "timestamp": 1791687921000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1mrLwx8",
     "linkWhatsapp": "https://meli.la/1mrLwx8",
     "timestamp": 1791629225000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fritadeira Elétrica Air Fryer Quad Fry 4,2 L,1400w Preto Elgin",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 145,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_813389-MLA99520090726_112025-O.jpg",
-    "link": "https://meli.la/1KMhzsx",
-    "linkWhatsapp": "https://meli.la/1KMhzsx",
-    "timestamp": 1791629055000,
     "imagemIlustrativa": false
   }
 ]
