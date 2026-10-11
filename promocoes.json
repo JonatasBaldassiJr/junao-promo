@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 659,00",
+    "precoPor": "R$ 430,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742060-MLA99449598594_112025-O.jpg",
+    "link": "https://meli.la/345zCYW",
+    "linkWhatsapp": "https://meli.la/345zCYW",
+    "timestamp": 1791743437000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume Árabe Sabah Al Ward Sugar Eau De Parfum 100 Ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4icXGEa",
     "linkWhatsapp": "https://amzn.to/4icXGEa",
     "timestamp": 1791651252000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Whey Grego Bar Caixa 12unid - Nutrata Barra de Proteina Sabor:Havanna (Doce de Leite Havanna)",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 104,00",
-    "precoPor": "R$ 64,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61o66GN6AVL._AC_SL1200_.jpg",
-    "link": "https://amzn.to/4hHqCUA",
-    "linkWhatsapp": "https://amzn.to/4hHqCUA",
-    "timestamp": 1791651161000,
     "imagemIlustrativa": false
   }
 ]
