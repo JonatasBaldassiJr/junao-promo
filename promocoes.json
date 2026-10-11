@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Lacta Sonho de Valsa - Wafer Recheado Sabor Chocolate Pacote 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 94,50",
+    "precoPor": "R$ 42,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71VrdcxqTXL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4zfeIHw",
+    "linkWhatsapp": "https://amzn.to/4zfeIHw",
+    "timestamp": 1791756515000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "La Roche-Posay Cicaplast Baume B5+ Cuidado Multirreparador Calmante",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,90",
+    "precoPor": "R$ 50,79",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41LpbF-1WDL._AC_SL1080_.jpg",
+    "link": "https://amzn.to/47koFas",
+    "linkWhatsapp": "https://amzn.to/47koFas",
+    "timestamp": 1791756444000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cappuccino em Pó América Clássico 1 kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://amzn.to/4yJcWhO",
     "linkWhatsapp": "https://amzn.to/4yJcWhO",
     "timestamp": 1791660993000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fechadura Digital De Sobrepor Intelbras Fr 101",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 359,00",
-    "precoPor": "R$ 176,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_985748-MLA113670424044_072026-O.jpg",
-    "link": "https://meli.la/2X4pRJ7",
-    "linkWhatsapp": "https://meli.la/2X4pRJ7",
-    "timestamp": 1791660910000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "iPhone 16e (128 GB) - Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 2.864,43",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-O.jpg",
-    "link": "https://meli.la/2HMWqVV",
-    "linkWhatsapp": "https://meli.la/2HMWqVV",
-    "timestamp": 1791660785000,
     "imagemIlustrativa": false
   }
 ]
