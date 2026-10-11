@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Nike Mc Trainer 3 Masculino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 600,00",
+    "precoPor": "R$ 421,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_702412-MLB96941920922_112025-O.jpg",
+    "link": "https://meli.la/1rC8qmu",
+    "linkWhatsapp": "https://meli.la/1rC8qmu",
+    "timestamp": 1791682444000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Chuveiro Bella Ducha 4T Ultra Lorenzetti Elétrica",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1sPB5uP",
     "linkWhatsapp": "https://meli.la/1sPB5uP",
     "timestamp": 1791604855000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Caixa De Som Bluetooth Jbl Partybox On-the-go Essential",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.000,00",
-    "precoPor": "R$ 1.295,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_746151-MLA99548961712_122025-O.jpg",
-    "link": "https://meli.la/19Zqitc",
-    "linkWhatsapp": "https://meli.la/19Zqitc",
-    "timestamp": 1791604787000,
     "imagemIlustrativa": false
   }
 ]
