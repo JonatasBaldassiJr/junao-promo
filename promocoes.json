@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "ORFEU Café em Grãos Intenso Torra Escura 1 kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 169,00",
+    "precoPor": "R$ 105,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51NhdIkrmYL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/3TIz8JT",
+    "linkWhatsapp": "https://amzn.to/3TIz8JT",
+    "timestamp": 1791720072000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2V37Hu5",
     "linkWhatsapp": "https://meli.la/2V37Hu5",
     "timestamp": 1791634525000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Adega Pad12e Display Digital 12 Garrafas Philco 110v/220v",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 999,00",
-    "precoPor": "R$ 723,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635964-MLA99584758610_122025-O.jpg",
-    "link": "https://meli.la/2E76YdS",
-    "linkWhatsapp": "https://meli.la/2E76YdS",
-    "timestamp": 1791634450000,
     "imagemIlustrativa": false
   }
 ]
