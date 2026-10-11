@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 30,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71E7jaMsugL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3TQyYQw",
+    "linkWhatsapp": "https://amzn.to/3TQyYQw",
+    "timestamp": 1791734457000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Micro-ondas Brastemp 32L Branco com Menu Gourmet - BMS46AB",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1TsyEzQ",
     "linkWhatsapp": "https://meli.la/1TsyEzQ",
     "timestamp": 1791644596000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Loção Hidratante Corporal Sem Perfume, com Ceramidas Essenciais e Ácido Hialurônico, Textura Fluida CeraVe 473ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 143,00",
-    "precoPor": "R$ 81,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_744669-MLA110746875502_052026-O.jpg",
-    "link": "https://meli.la/1uEUbnr",
-    "linkWhatsapp": "https://meli.la/1uEUbnr",
-    "timestamp": 1791644469000,
     "imagemIlustrativa": false
   }
 ]
