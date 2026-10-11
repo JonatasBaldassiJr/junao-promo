@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tênis Nike Run Defy Masculino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 350,00",
+    "precoPor": "R$ 256,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_789783-MLB112891519507_062026-O.jpg",
+    "link": "https://meli.la/2uDwP8a",
+    "linkWhatsapp": "https://meli.la/2uDwP8a",
+    "timestamp": 1791726859000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "10 Jogo Conjunto Potes Com Tampa Hermetico Em Aço Inox Cinza",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,00",
+    "precoPor": "R$ 40,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_785511-MLA111045195921_042026-O.jpg",
+    "link": "https://meli.la/2fkczzg",
+    "linkWhatsapp": "https://meli.la/2fkczzg",
+    "timestamp": 1791726761000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 3 Camiseta Paris Milano Basica Masculina Algodão Premium",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1KMie6j",
     "linkWhatsapp": "https://meli.la/1KMie6j",
     "timestamp": 1791639359000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Pares De Meias Lupo Soquete Invisível Sport",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 159,00",
-    "precoPor": "R$ 66,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_786778-MLB112049880039_052026-O.jpg",
-    "link": "https://meli.la/2Yjnr5H",
-    "linkWhatsapp": "https://meli.la/2Yjnr5H",
-    "timestamp": 1791639291000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mochila Puma Phase Ii Puma",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 118,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_739207-MLB86037520352_062025-O.jpg",
-    "link": "https://meli.la/2AcvU8L",
-    "linkWhatsapp": "https://meli.la/2AcvU8L",
-    "timestamp": 1791639222000,
     "imagemIlustrativa": false
   }
 ]
