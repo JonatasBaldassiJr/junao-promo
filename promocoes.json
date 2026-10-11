@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Pack de Monster Energy Zero Açucar - 6 unidades de 473ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 63,00",
+    "precoPor": "R$ 49,58",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51vS+GpJwmL._AC_.jpg",
+    "link": "https://amzn.to/4iNBktG",
+    "linkWhatsapp": "https://amzn.to/4iNBktG",
+    "timestamp": 1791684336000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/12E5LFZ",
     "linkWhatsapp": "https://meli.la/12E5LFZ",
     "timestamp": 1791605658000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "CORRE QUE ESSE ADIDAS TÁ QUASE DE GRAÇA",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 399",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828527-MLB110045728136_042026-O.jpg",
-    "link": "https://meli.la/2goHzsT",
-    "linkWhatsapp": "https://meli.la/2goHzsT",
-    "timestamp": 1791605600000,
     "imagemIlustrativa": false
   }
 ]
