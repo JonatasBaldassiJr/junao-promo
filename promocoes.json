@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Hemmer Ketchup Tradicional Bisnaga 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 21,69",
+    "precoPor": "R$ 14,62",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51dHbhaKABL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/3VtxPix",
+    "linkWhatsapp": "https://amzn.to/3VtxPix",
+    "timestamp": 1791757842000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lacta Sonho de Valsa - Wafer Recheado Sabor Chocolate Pacote 1kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4B0A25c",
     "linkWhatsapp": "https://amzn.to/4B0A25c",
     "timestamp": 1791661133000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mor - Cadeira Alta Alumínio Sortido",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 76,50",
-    "precoPor": "R$ 64,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51-7SV9DZTL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4yJcWhO",
-    "linkWhatsapp": "https://amzn.to/4yJcWhO",
-    "timestamp": 1791660993000,
     "imagemIlustrativa": false
   }
 ]
