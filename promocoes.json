@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "DuoPack Pringles Nacho 200g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 24,00",
+    "precoPor": "R$ 17,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61B-8aAbUKL._AC_SL1080_.jpg",
+    "link": "https://amzn.to/4yMqYiS",
+    "linkWhatsapp": "https://amzn.to/4yMqYiS",
+    "timestamp": 1791686329000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Potes 1 Litro Transparente Marmita Fitness Bpa Free Tampa Hermética Reutilizável Micro E Freezer Mantimentos ponte lar utilidades",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1bPDhkR",
     "linkWhatsapp": "https://meli.la/1bPDhkR",
     "timestamp": 1791606260000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 164,00",
-    "precoPor": "R$ 99,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_980288-MLA99966340125_112025-O.jpg",
-    "link": "https://meli.la/2Uh4ipF",
-    "linkWhatsapp": "https://meli.la/2Uh4ipF",
-    "timestamp": 1791606122000,
     "imagemIlustrativa": false
   }
 ]
