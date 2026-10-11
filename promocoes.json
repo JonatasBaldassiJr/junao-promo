@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "WHISKAS Ração Carne Gatos Adultos Castrados 2,7 kg",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Amazon",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 24,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/612wuQDl9qL._AC_SL1080_.jpg",
+    "link": "https://amzn.to/4yUzmN6",
+    "linkWhatsapp": "https://amzn.to/4yUzmN6",
+    "timestamp": 1791742913000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Torradeira Elétrica WAP WTE1 7 Níveis de Tostagem 900W 127V",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/16rtrJg",
     "linkWhatsapp": "https://meli.la/16rtrJg",
     "timestamp": 1791650970000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Garrafa Térmica Stanley Aerolight Flip Straw Black 473ml",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 289,00",
-    "precoPor": "R$ 147,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_672773-MLA113821651425_062026-O.jpg",
-    "link": "https://meli.la/2sbBQ9W",
-    "linkWhatsapp": "https://meli.la/2sbBQ9W",
-    "timestamp": 1791650879000,
     "imagemIlustrativa": false
   }
 ]
