@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Vichy, Dercos Shampoo Anticaspa para Cabelos Normais a Oleosos",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 300,00",
+    "precoPor": "R$ 62,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41SQlDQhNQL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4deLxM5",
+    "linkWhatsapp": "https://amzn.to/4deLxM5",
+    "timestamp": 1791736721000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Cetaphil Creme Hidratante",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 104,90",
+    "precoPor": "R$ 67,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71l4OrWPpLL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4zgC0Nc",
+    "linkWhatsapp": "https://amzn.to/4zgC0Nc",
+    "timestamp": 1791736660000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Havit Headphone Fone de Ouvido H2232d, Gamer, Iluminação RGB, com Microfone, Falante de 50mm, Conector 3.5mm, HAVIT, HV-H2232d, Cabo USB para Iluminação",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2AfoEhN",
     "linkWhatsapp": "https://meli.la/2AfoEhN",
     "timestamp": 1791646462000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Copo Térmico Gigante 1,2l Inox Com Tampa E Inox Canudo Cor Preto Cor Pura / Material Fosco",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 76,99",
-    "precoPor": "R$ 48,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_762324-MLA114173652868_082026-O.jpg",
-    "link": "https://meli.la/2YohTxB",
-    "linkWhatsapp": "https://meli.la/2YohTxB",
-    "timestamp": 1791646365000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Calça Legging Lupo Fitness Não Fica Transparente Compressão",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 186,00",
-    "precoPor": "R$ 103,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_615476-MLB84464574928_052025-O.jpg",
-    "link": "https://meli.la/27XoKby",
-    "linkWhatsapp": "https://meli.la/27XoKby",
-    "timestamp": 1791646290000,
     "imagemIlustrativa": false
   }
 ]
