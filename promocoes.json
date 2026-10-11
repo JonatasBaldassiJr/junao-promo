@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Shampoo Condicionador Sérum Elseve L'Oréal Colágeno 400ml+400ml+100ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 123,00",
+    "precoPor": "R$ 64,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61JHE7YsN3L._AC_SX679_.jpg",
+    "link": "https://amzn.to/3W2it4F",
+    "linkWhatsapp": "https://amzn.to/3W2it4F",
+    "timestamp": 1791736464000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Perfume Natura Kaiak Aero EDT 100 ml Masculino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 189,00",
+    "precoPor": "R$ 75,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_Q_NP_901400-MLB116950197656_092026-AB%7Bsanitized_title%7D.webp",
+    "link": "https://meli.la/1k5HzXV",
+    "linkWhatsapp": "https://meli.la/1k5HzXV",
+    "timestamp": 1791736385000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/17Jjqxs",
     "linkWhatsapp": "https://meli.la/17Jjqxs",
     "timestamp": 1791646135000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Controle Sony Dualsense Sem Fio White Ps5",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 562,02",
-    "precoPor": "R$ 299,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734154-MLA95669318090_102025-O.jpg",
-    "link": "https://meli.la/2mQDsQa",
-    "linkWhatsapp": "https://meli.la/2mQDsQa",
-    "timestamp": 1791646072000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Smash V2 Puma",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 229,00",
-    "precoPor": "R$ 183,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_869619-MLB111705071505_052026-O.jpg",
-    "link": "https://meli.la/11GV9ye",
-    "linkWhatsapp": "https://meli.la/11GV9ye",
-    "timestamp": 1791645986000,
     "imagemIlustrativa": false
   }
 ]
