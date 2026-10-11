@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Sanduicheira Elétrica Cadence Toast & Grill, Preta, 750W, 110V, SAN260",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 100,89",
+    "precoPor": "R$ 44,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51kjdqbLgrL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/3WePfj1",
+    "linkWhatsapp": "https://amzn.to/3WePfj1",
+    "timestamp": 1791751257000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Jogo Facas 6 Peças Plenus com Cepo Tramontina Cutelaria",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 138,00",
+    "precoPor": "R$ 57,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71R-4mBBQOL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4rYoWcR",
+    "linkWhatsapp": "https://amzn.to/4rYoWcR",
+    "timestamp": 1791751183000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Balança Digital Corporal Bioimpedância Aplicativo Bluetooth Relaxmedic",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2EYedFq",
     "linkWhatsapp": "https://meli.la/2EYedFq",
     "timestamp": 1791658132000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Nautica Perfume Voyage Eau de Toilette Masculino 100ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 109,00",
-    "precoPor": "R$ 76,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41bYQcKYVzL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4rZbfu3",
-    "linkWhatsapp": "https://amzn.to/4rZbfu3",
-    "timestamp": 1791658057000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Guarda Roupa Casal 8 Portas 4 Gavetas Paris Espresso Móveis Off White/Cinamomo Cinamomo/Off White",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "R$ 1.019,00",
-    "precoPor": "R$ 706,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bd-mttprcaicd8h4e",
-    "link": "https://s.shopee.com.br/gQkH3K6YY",
-    "linkWhatsapp": "https://s.shopee.com.br/gQkH3K6YY",
-    "timestamp": 1791657937000,
     "imagemIlustrativa": false
   }
 ]
