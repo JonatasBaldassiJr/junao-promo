@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Red Bull Energético, Zero, Sem Açúcar, 250ml, 4 latas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 31,00",
+    "precoPor": "R$ 26,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71qvYOFtVYL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4zud9FU",
+    "linkWhatsapp": "https://amzn.to/4zud9FU",
+    "timestamp": 1791689192000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cooktop 5 Bocas Atlas Agile Up com Mesa De Vidro A Gás Preto Bivolt",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2juobr2",
     "linkWhatsapp": "https://meli.la/2juobr2",
     "timestamp": 1791631025000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 657,00",
-    "precoPor": "R$ 395,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_688571-MLA99470684418_112025-O.jpg",
-    "link": "https://meli.la/1hqXYH6",
-    "linkWhatsapp": "https://meli.la/1hqXYH6",
-    "timestamp": 1791630128000,
     "imagemIlustrativa": false
   }
 ]
