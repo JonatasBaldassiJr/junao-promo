@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit Rapunzel (Shampoo + Tônico + Milk Spray) - Lola From Rio",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 119,00",
+    "precoPor": "R$ 49,92",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41OcWO275YL._AC_.jpg",
+    "link": "https://amzn.to/4hxBhBk",
+    "linkWhatsapp": "https://amzn.to/4hxBhBk",
+    "timestamp": 1791686947000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit Potes Porta Mantimento Hermético Quadrado Cozinha 12 Uni",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2JRoA2T",
     "linkWhatsapp": "https://meli.la/2JRoA2T",
     "timestamp": 1791606502000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Pista De Carrinhos De Construção Brinquedo Infantil Corrida",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,00",
-    "precoPor": "R$ 67,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_624450-MLA118798256175_102026-O.jpg",
-    "link": "https://meli.la/2T7vVRs",
-    "linkWhatsapp": "https://meli.la/2T7vVRs",
-    "timestamp": 1791606341000,
     "imagemIlustrativa": false
   }
 ]
