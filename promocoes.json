@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "PHILIPS, Fone de Ouvido Sem Fio TWS, TAT1109BK/00, Bluetooth, Com Microfone, Até 24 horas de bateria, Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 144,00",
+    "precoPor": "R$ 99,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/519bjoeFBTL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yEyQTo",
+    "linkWhatsapp": "https://amzn.to/4yEyQTo",
+    "timestamp": 1791687679000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Jogo De Panelas Antiaderente 9 Peças Teflon Várias Cores",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1KMhzsx",
     "linkWhatsapp": "https://meli.la/1KMhzsx",
     "timestamp": 1791629055000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Bateria de Lítio CR2032 Cartela com 5 unidades 3v Elgin - Moeda",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 11,57",
-    "precoPor": "R$ 7,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0755PWFSN.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/4Bepakq",
-    "linkWhatsapp": "https://amzn.to/4Bepakq",
-    "timestamp": 1791614276000,
     "imagemIlustrativa": false
   }
 ]
