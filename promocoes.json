@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Grand Theft Auto VI - PlayStation 5",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 389,91",
+    "precoPor": "R$ 350,92",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81o4MCqBv5L._AC_SL1500_.jpg",
+    "link": "https://amzn.to/475h8fS",
+    "linkWhatsapp": "https://amzn.to/475h8fS",
+    "timestamp": 1791754433000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Fila Striker Masculino Estilo Esportivo Confortável",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2seWsDW",
     "linkWhatsapp": "https://meli.la/2seWsDW",
     "timestamp": 1791659760000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 220V",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 434,90",
-    "precoPor": "R$ 159,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41El3TMO04L._AC_SL1200_.jpg",
-    "link": "https://amzn.to/3VY98L9",
-    "linkWhatsapp": "https://amzn.to/3VY98L9",
-    "timestamp": 1791659670000,
     "imagemIlustrativa": false
   }
 ]
