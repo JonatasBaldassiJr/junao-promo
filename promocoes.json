@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Nescafé Dolce Gusto Moça Pistacchio Latte 10 Capsulas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 28,00",
+    "precoPor": "R$ 19,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61t2W4HnWxL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4BdbhmD",
+    "linkWhatsapp": "https://amzn.to/4BdbhmD",
+    "timestamp": 1791690609000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Aparador Barbeador Kemei KM-6558 Recarregável Sem Fio 3 em 1 Bivolt Preto",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1ikrvhf",
     "linkWhatsapp": "https://meli.la/1ikrvhf",
     "timestamp": 1791631669000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Camiseta Dry Masculina Fit Lupo Básica Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 187,00",
-    "precoPor": "R$ 109,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_762959-MLB86479696657_062025-O.jpg",
-    "link": "https://meli.la/2oVbvrG",
-    "linkWhatsapp": "https://meli.la/2oVbvrG",
-    "timestamp": 1791631603000,
     "imagemIlustrativa": false
   }
 ]
