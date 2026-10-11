@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Heinz Mostarda Tradicional 255g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 19,09",
+    "precoPor": "R$ 12,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51-p+g7IayL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/4yFsXFx",
+    "linkWhatsapp": "https://amzn.to/4yFsXFx",
+    "timestamp": 1791762940000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "SEIS UNIDADES PRA NÃO ACABAR NO MEIO DO MÊS",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1Ds75eC",
     "linkWhatsapp": "https://meli.la/1Ds75eC",
     "timestamp": 1791663449000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Apple iPhone 16 (128 GB) - Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 4.960,00",
-    "precoPor": "R$ 4.194,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_809936-MLA96419773842_102025-O.jpg",
-    "link": "https://meli.la/2HwrDvz",
-    "linkWhatsapp": "https://meli.la/2HwrDvz",
-    "timestamp": 1791662626000,
     "imagemIlustrativa": false
   }
 ]
