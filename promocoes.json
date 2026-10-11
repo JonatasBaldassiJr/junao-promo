@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Kit 3 Camisetas Masculinas Polo Wear",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 180,00",
+    "precoPor": "R$ 83,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_950390-MLB113675252045_062026-O.jpg",
+    "link": "https://meli.la/1VHKNci",
+    "linkWhatsapp": "https://meli.la/1VHKNci",
+    "timestamp": 1791682128000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "NIVEA MEN Desodorante Antitranspirante Roll On Invisible Black & White 50ml - Proteção prolongada de 48h, cuidado suave, ação antibacteriana, fórmula 5 em 1: anti-manchas, anti-odor",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1afknwP",
     "linkWhatsapp": "https://meli.la/1afknwP",
     "timestamp": 1791604718000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "HUAWEI WiFi AX2S | Roteador | WS7000 V2 | Dual Band | 4 Antenas | 5 GHz Wi-Fi 6",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "R$ 495,65",
-    "precoPor": "R$ 94,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://s.shopee.com.br/20w6sVtaIT",
-    "linkWhatsapp": "https://s.shopee.com.br/20w6sVtaIT",
-    "timestamp": 1791604653000,
     "imagemIlustrativa": false
   }
 ]
