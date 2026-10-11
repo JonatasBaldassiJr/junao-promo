@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Camiseta Básica Tech Daily Insider",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 58,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_611701-MLB116634969560_092026-O.jpg",
+    "link": "https://meli.la/2NEstoN",
+    "linkWhatsapp": "https://meli.la/2NEstoN",
+    "timestamp": 1791731586000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "COMPROU, GANHOU MOEDA DE GRAÇA",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1UUmZ8K",
     "linkWhatsapp": "https://meli.la/1UUmZ8K",
     "timestamp": 1791642979000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Monohidratada 300g Sabor Pink Lemonade",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 130,00",
-    "precoPor": "R$ 89,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_947646-MLB107056342504_022026-O.jpg",
-    "link": "https://meli.la/1qgi4Gf",
-    "linkWhatsapp": "https://meli.la/1qgi4Gf",
-    "timestamp": 1791642910000,
     "imagemIlustrativa": false
   }
 ]
