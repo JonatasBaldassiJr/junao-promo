@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "SEIS UNIDADES PRA NÃO ACABAR NO MEIO DO MÊS",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 16,49",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61w8-DHgOOL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4AREPpl",
+    "linkWhatsapp": "https://amzn.to/4AREPpl",
+    "timestamp": 1791762840000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "MONDIAL Espremedor Premium, Preto, 30W, 220V - E-02",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2HwrDvz",
     "linkWhatsapp": "https://meli.la/2HwrDvz",
     "timestamp": 1791662626000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Apple iPhone 15 128 GB Cor rosa",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 5.999,00",
-    "precoPor": "R$ 3.528,76",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_634723-MLA95496999820_102025-O.jpg",
-    "link": "https://meli.la/1m3RabH",
-    "linkWhatsapp": "https://meli.la/1m3RabH",
-    "timestamp": 1791662507000,
     "imagemIlustrativa": false
   }
 ]
