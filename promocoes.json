@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 529,00",
+    "precoPor": "R$ 393,21",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_812872-MLA110472856286_052026-O.jpg",
+    "link": "https://meli.la/1gqhVC8",
+    "linkWhatsapp": "https://meli.la/1gqhVC8",
+    "timestamp": 1791679891000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Lavadora Midea Wave Agitator 15kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2qtYG6E",
     "linkWhatsapp": "https://meli.la/2qtYG6E",
     "timestamp": 1791604277000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Galaxy A57 5G (128GB) - Cinza + Galaxy Watch8 BT 40mm - Grafite",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 2.206,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://s.shopee.com.br/1VzqH4i15F",
-    "linkWhatsapp": "https://s.shopee.com.br/1VzqH4i15F",
-    "timestamp": 1791604198000,
     "imagemIlustrativa": false
   }
 ]
