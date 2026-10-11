@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Bombom NESTLÉ Especialidades Caixa 220g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 18,89",
+    "precoPor": "R$ 10,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/817gxNY4nlL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4AD4GkX",
+    "linkWhatsapp": "https://amzn.to/4AD4GkX",
+    "timestamp": 1791740553000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kaiak Sonar Deo Colônia Natura Feminino 100 ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://s.shopee.com.br/60SGT6k8Jn",
     "linkWhatsapp": "https://s.shopee.com.br/60SGT6k8Jn",
     "timestamp": 1791649416000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Estante de Escritório Modulada 2 Portas 2 Gavetas 219cm Texas Multimóveis MP6060",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.199,00",
-    "precoPor": "R$ 783,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_960919-MLA111698828605_052026-O.jpg",
-    "link": "https://meli.la/2gCiWES",
-    "linkWhatsapp": "https://meli.la/2gCiWES",
-    "timestamp": 1791649351000,
     "imagemIlustrativa": false
   }
 ]
