@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Para você",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 302,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_658374-MLA99957214369_112025-O.jpg",
+    "link": "https://meli.la/34hgsho",
+    "linkWhatsapp": "https://meli.la/34hgsho",
+    "timestamp": 1791749935000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Relógio De Pulso Mondaine 32549g0mvne1 Com Corria De Aço Inoxidável Cor Prateado - Fondo Marrom",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1EQgKAH",
     "linkWhatsapp": "https://meli.la/1EQgKAH",
     "timestamp": 1791657459000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Parafusadeira Furadeira 48v Profissional +2 Baterias +maleta Amarelo 127/220v",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,00",
-    "precoPor": "R$ 68,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_674467-MLB111929234014_062026-O.jpg",
-    "link": "https://meli.la/2LHiJzH",
-    "linkWhatsapp": "https://meli.la/2LHiJzH",
-    "timestamp": 1791657381000,
     "imagemIlustrativa": false
   }
 ]
