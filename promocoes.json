@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "COMPROU, GANHOU MOEDA DE GRAÇA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/2VsPoOUlpt",
+    "linkWhatsapp": "https://s.shopee.com.br/2VsPoOUlpt",
+    "timestamp": 1791731299000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Kit 3 Regata Dry-fit Lisa Masculina Sandrini Academia Casual",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 129,00",
+    "precoPor": "R$ 54,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_828161-MLB97789482532_112025-O.jpg",
+    "link": "https://meli.la/1De4jAa",
+    "linkWhatsapp": "https://meli.la/1De4jAa",
+    "timestamp": 1791731241000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Hemmer Mostarda Amarela Americana Squeeze 1Kg",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/1qgi4Gf",
     "linkWhatsapp": "https://meli.la/1qgi4Gf",
     "timestamp": 1791642910000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Porteiro Residencial com Abertura de 2 Portões Individuais IPR 8010 Intelbras",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 210,00",
-    "precoPor": "R$ 179,45",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B075XNC2PL.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3TWwhNx",
-    "linkWhatsapp": "https://amzn.to/3TWwhNx",
-    "timestamp": 1791642848000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A 127V",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 579,00",
-    "precoPor": "R$ 306,94",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://images-na.ssl-images-amazon.com/images/P/B0GHZ991LG.01.LZZZZZZZ.jpg",
-    "link": "https://amzn.to/3UhmJgc",
-    "linkWhatsapp": "https://amzn.to/3UhmJgc",
-    "timestamp": 1791642777000,
     "imagemIlustrativa": false
   }
 ]
