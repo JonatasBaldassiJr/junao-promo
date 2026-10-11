@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Whisky Johnnie Walker Blonde 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,99",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51JsUkgA+KL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4drPE7L",
+    "linkWhatsapp": "https://amzn.to/4drPE7L",
+    "timestamp": 1791684517000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Pack de Monster Energy Zero Açucar - 6 unidades de 473ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2PCbHPP",
     "linkWhatsapp": "https://meli.la/2PCbHPP",
     "timestamp": 1791605745000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Camisetas Masculina Lisa Premium 100% Algodão",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 266,00",
-    "precoPor": "R$ 150,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_751466-MLB51261673092_082022-O.jpg",
-    "link": "https://meli.la/12E5LFZ",
-    "linkWhatsapp": "https://meli.la/12E5LFZ",
-    "timestamp": 1791605658000,
     "imagemIlustrativa": false
   }
 ]
