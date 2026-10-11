@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tangle Teezer - Escova de cabelo desembaraçadora The Wet Detangler para texturas finas e frágeis. Ideal para o uso em cabelos molhados. Cor: Rosa",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 160,00",
+    "precoPor": "R$ 80,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41F4hPAAcvL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4yeewqU",
+    "linkWhatsapp": "https://amzn.to/4yeewqU",
+    "timestamp": 1791744418000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2 unidades)",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 43,90",
+    "precoPor": "R$ 27,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4jaYQB8",
+    "linkWhatsapp": "https://amzn.to/4jaYQB8",
+    "timestamp": 1791744359000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Milagre Creme para Pentear 450g , Lola Cosmetics",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2doxing",
     "linkWhatsapp": "https://meli.la/2doxing",
     "timestamp": 1791652262000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Bermuda Lobo+camiseta Lobo Dry Fitness Academia Alpha",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 119,00",
-    "precoPor": "R$ 72,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_852153-MLB104911095090_012026-O.jpg",
-    "link": "https://meli.la/1PwWM8X",
-    "linkWhatsapp": "https://meli.la/1PwWM8X",
-    "timestamp": 1791652209000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Camisetas Tommy Hilfiger Love Azul Marinho/azul Claro Azul Marinho/azul Claro L/g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 499,00",
-    "precoPor": "R$ 211,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_781245-MLB116826216093_082026-O.jpg",
-    "link": "https://meli.la/2hiRDxN",
-    "linkWhatsapp": "https://meli.la/2hiRDxN",
-    "timestamp": 1791651894000,
     "imagemIlustrativa": false
   }
 ]
