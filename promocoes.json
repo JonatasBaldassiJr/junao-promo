@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "NIVEA MEN Desodorante Antitranspirante Aerossol Sensitive Protect 150ml - Proteção prolongada de 48h, peles sensíveis, com óleo de abacate e extrato de camomila, minimiza a irritação",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 17,24",
+    "precoPor": "R$ 10,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61VJJubdYaL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3Tu91GA",
+    "linkWhatsapp": "https://amzn.to/3Tu91GA",
+    "timestamp": 1791733777000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Colgate Sensitive Pro Alívio Imediato Creme Dental, 3x90g",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1768Wz5",
     "linkWhatsapp": "https://meli.la/1768Wz5",
     "timestamp": 1791644278000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 39,90",
-    "precoPor": "R$ 27,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_787808-MLA109215385620_042026-O.jpg",
-    "link": "https://meli.la/29t7SH1",
-    "linkWhatsapp": "https://meli.la/29t7SH1",
-    "timestamp": 1791644077000,
     "imagemIlustrativa": false
   }
 ]
