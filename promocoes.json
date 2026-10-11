@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Pack de Fanta Laranja Zero lata 350ml 6 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 23,00",
+    "precoPor": "R$ 17,94",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81gStNoIqmL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3VYXG1R",
+    "linkWhatsapp": "https://amzn.to/3VYXG1R",
+    "timestamp": 1791727120000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Chinelo Masculino Rider Street Slide Macio Leve Confortavel",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1x4qmeS",
     "linkWhatsapp": "https://meli.la/1x4qmeS",
     "timestamp": 1791639699000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mixer Master Mix 5 Em 1 Elgin 1.000w 110v 5 Funções Prateado",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 349,00",
-    "precoPor": "R$ 188,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_709437-MLA109593078750_042026-O.jpg",
-    "link": "https://meli.la/1dvnrrR",
-    "linkWhatsapp": "https://meli.la/1dvnrrR",
-    "timestamp": 1791639564000,
     "imagemIlustrativa": false
   }
 ]
