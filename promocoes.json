@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Chocolate Snickers Variedades Minis 180g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 20,00",
+    "precoPor": "R$ 14,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51iCYr5PU+L._AC_.jpg",
+    "link": "https://amzn.to/4yI1ByB",
+    "linkWhatsapp": "https://amzn.to/4yI1ByB",
+    "timestamp": 1791685200000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Whisky Johnnie Walker Blonde 750ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/12ZdHcN",
     "linkWhatsapp": "https://meli.la/12ZdHcN",
     "timestamp": 1791605800000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Guarda-roupa Casal 6 Portas 2 Gavetas França Espresso Móveis cor cinamomo off-white",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 964,00",
-    "precoPor": "R$ 579,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_893539-MLA107404130406_032026-O.jpg",
-    "link": "https://meli.la/2PCbHPP",
-    "linkWhatsapp": "https://meli.la/2PCbHPP",
-    "timestamp": 1791605745000,
     "imagemIlustrativa": false
   }
 ]
