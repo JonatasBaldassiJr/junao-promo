@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 84,90",
+    "precoPor": "R$ 35,21",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51gNBxSK22L._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4hX1yZJ",
+    "linkWhatsapp": "https://amzn.to/4hX1yZJ",
+    "timestamp": 1791756185000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Truss Reconstrutor Capilar Uso Obrigatório Spray | Hidratação e Reconstrução Imediata | 260ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4yHFZTb",
     "linkWhatsapp": "https://amzn.to/4yHFZTb",
     "timestamp": 1791660426000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Carregador Portátil Power Bank Basike 20000mAh 22.5W Rápido Cabos Embutidos Tipo C iPhone Samsung",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 256,00",
-    "precoPor": "R$ 173,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_919783-MLA99989975911_112025-O.jpg",
-    "link": "https://meli.la/19nMA4B",
-    "linkWhatsapp": "https://meli.la/19nMA4B",
-    "timestamp": 1791660352000,
     "imagemIlustrativa": false
   }
 ]
