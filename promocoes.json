@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Óculos de Sol Ray-Ban Justin Unissex, Tamanho 57",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 790,00",
+    "precoPor": "R$ 396,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/5140QpfCftL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4rVrLLC",
+    "linkWhatsapp": "https://amzn.to/4rVrLLC",
+    "timestamp": 1791724941000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Short Saia Academia Feminino Cintura Alta Legging Fitness",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/28oWBMm",
     "linkWhatsapp": "https://meli.la/28oWBMm",
     "timestamp": 1791637941000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Principia Kit Trio Limpeza Facial Personalizada",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 157,00",
-    "precoPor": "R$ 89,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_815750-MLA114039673349_072026-O.jpg",
-    "link": "https://meli.la/1BDzoEe",
-    "linkWhatsapp": "https://meli.la/1BDzoEe",
-    "timestamp": 1791637619000,
     "imagemIlustrativa": false
   }
 ]
