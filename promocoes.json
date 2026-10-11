@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 32,99",
+    "precoPor": "R$ 22,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71y1o6ee9IL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4zn1XuB",
+    "linkWhatsapp": "https://amzn.to/4zn1XuB",
+    "timestamp": 1791734134000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "NIVEA MEN Desodorante Antitranspirante Aerossol Sensitive Protect 150ml - Proteção prolongada de 48h, peles sensíveis, com óleo de abacate e extrato de camomila, minimiza a irritação",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2UN3zdv",
     "linkWhatsapp": "https://meli.la/2UN3zdv",
     "timestamp": 1791644362000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Relógio Masculino Technos Steel Cinza",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 419,00",
-    "precoPor": "R$ 272,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_990337-MLA116265830114_092026-O.jpg",
-    "link": "https://meli.la/1768Wz5",
-    "linkWhatsapp": "https://meli.la/1768Wz5",
-    "timestamp": 1791644278000,
     "imagemIlustrativa": false
   }
 ]
