@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila sem gênero, impermeável, reforçada, com capacidade ampliada de",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 216,00",
+    "precoPor": "R$ 89,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_718229-MLA113595305320_072026-O.jpg",
+    "link": "https://meli.la/2Ljz87w",
+    "linkWhatsapp": "https://meli.la/2Ljz87w",
+    "timestamp": 1791776557000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Relógio Inteligente Smartwatch GPS Autônomo Chamadas Bluetooth NOVANTE",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2DmSPY7",
     "linkWhatsapp": "https://meli.la/2DmSPY7",
     "timestamp": 1791667872000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Gillette Mach3 Carga para Aparelho de Barbear 16 Unidades",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 151,92",
-    "precoPor": "R$ 74,20",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71trWiva9mL._AC_SL1000_.jpg",
-    "link": "https://amzn.to/4hI2m3g",
-    "linkWhatsapp": "https://amzn.to/4hI2m3g",
-    "timestamp": 1791667716000,
     "imagemIlustrativa": false
   }
 ]
