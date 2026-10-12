@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 24,24",
+    "precoPor": "R$ 20,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61TpbR+3gCL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4hYGy3H",
+    "linkWhatsapp": "https://amzn.to/4hYGy3H",
+    "timestamp": 1791763582000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Heinz Mostarda Tradicional 255g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1staWnn",
     "linkWhatsapp": "https://meli.la/1staWnn",
     "timestamp": 1791663571000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Celular Samsung Galaxy S25 Fe Icyblue 256gb SM-S731bdbmltp",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 4.499,00",
-    "precoPor": "R$ 2.969,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_866330-MLA92889896360_092025-O.jpg",
-    "link": "https://meli.la/1Ds75eC",
-    "linkWhatsapp": "https://meli.la/1Ds75eC",
-    "timestamp": 1791663449000,
     "imagemIlustrativa": false
   }
 ]
