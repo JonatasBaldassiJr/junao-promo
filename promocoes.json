@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Café Campos Altos Especial em Grão 1kg, Arábica Catuaí Vermelho, 84+ Pontos",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 182,27",
+    "precoPor": "R$ 85,41",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71ZneM+AxXL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/4idIFBY",
+    "linkWhatsapp": "https://amzn.to/4idIFBY",
+    "timestamp": 1791766095000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Pack de Coca-Cola sem Açúcar 350Ml 6 unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/32kuLXr",
     "linkWhatsapp": "https://meli.la/32kuLXr",
     "timestamp": 1791663897000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo De Lençol 400 Fios Ponto Palito Cama Queen 3 Pçs Saldão",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 400,00",
-    "precoPor": "R$ 25,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_833331-MLB91182119648_092025-O.jpg",
-    "link": "https://meli.la/1staWnn",
-    "linkWhatsapp": "https://meli.la/1staWnn",
-    "timestamp": 1791663571000,
     "imagemIlustrativa": false
   }
 ]
