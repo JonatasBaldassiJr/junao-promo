@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Britânia Sanduicheira e Grill Press 127V, BGR27I classico/moderno Plástico e Metal",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 121,95",
+    "precoPor": "R$ 90,14",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/5136pVcmWhL._AC_SL1000_.jpg",
+    "link": "https://amzn.to/4y8g99I",
+    "linkWhatsapp": "https://amzn.to/4y8g99I",
+    "timestamp": 1791767672000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Cadeira De Escritório Itália Presidente Ergonômica Couro Sintético Encosto Ajustável Com Trava E Apoio Para Pés Cor Preta Luvinco",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 933,00",
+    "precoPor": "R$ 579,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_629145-MLA96567996718_112025-O.jpg",
+    "link": "https://meli.la/2jx8zci",
+    "linkWhatsapp": "https://meli.la/2jx8zci",
+    "timestamp": 1791767665000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Gillette Mach3 Carbono Carga para Aparelho de Barbear com Carvão 8 Unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2L1EHMB",
     "linkWhatsapp": "https://meli.la/2L1EHMB",
     "timestamp": 1791664504000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Escova Elétrica de Limpeza DeckCasa JY-6010 3000mAh 137 cm",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 6.010,00",
-    "precoPor": "R$ 67,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824959-MLA99446279174_112025-O.jpg",
-    "link": "https://meli.la/232XLbq",
-    "linkWhatsapp": "https://meli.la/232XLbq",
-    "timestamp": 1791664413000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Deo Colônia Masculino Natura Homem Cor.agio 100 ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 319,00",
-    "precoPor": "R$ 136,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_801512-MLU73128452386_122023-O.jpg",
-    "link": "https://meli.la/1Bb9RMn",
-    "linkWhatsapp": "https://meli.la/1Bb9RMn",
-    "timestamp": 1791664017000,
     "imagemIlustrativa": false
   }
 ]
