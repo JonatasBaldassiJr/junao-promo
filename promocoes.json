@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Código do Cupom: `VELHO`",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 55,23",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://www.mercadolivre.com.br/cupons?source_page=mperfil&matt_word=jonatasbaldassijr&matt_tool=45911196#nav-header",
+    "linkWhatsapp": "https://www.mercadolivre.com.br/cupons?source_page=mperfil&matt_word=jonatasbaldassijr&matt_tool=45911196#nav-header",
+    "timestamp": 1791813818000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Perfume Masculino Voker Vulkan 100ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2XfAtKw",
     "linkWhatsapp": "https://meli.la/2XfAtKw",
     "timestamp": 1791667993000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mercusys MC210 Câmera Segurança Wifi 2K 3MP 360° por TP-Link",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 159,90",
-    "precoPor": "R$ 94,92",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_949687-MLA107423093255_022026-O.jpg",
-    "link": "https://meli.la/2JhL2Kg",
-    "linkWhatsapp": "https://meli.la/2JhL2Kg",
-    "timestamp": 1791667924000,
     "imagemIlustrativa": false
   }
 ]
