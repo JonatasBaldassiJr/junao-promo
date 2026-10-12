@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Feminino Barreda adidas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 400,00",
+    "precoPor": "R$ 269,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_769703-MLA99336696262_112025-O.jpg",
+    "link": "https://meli.la/1nhWwbN",
+    "linkWhatsapp": "https://meli.la/1nhWwbN",
+    "timestamp": 1791770764000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2jD5vgs",
     "linkWhatsapp": "https://meli.la/2jD5vgs",
     "timestamp": 1791666165000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Robô aspirador Robot W90 varre aspira e passa pano 30w Wap cor preto",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 514,00",
-    "precoPor": "R$ 265,00",
-    "desconto": "",
-    "detalheExtra": "⚡ Oferta Relâmpago",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_748103-MLA99906601653_112025-O.jpg",
-    "link": "https://meli.la/2yhQycR",
-    "linkWhatsapp": "https://meli.la/2yhQycR",
-    "timestamp": 1791666103000,
     "imagemIlustrativa": false
   }
 ]
