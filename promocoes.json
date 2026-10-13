@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Top Basic New Horizon Alpha",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 59,99",
+    "precoPor": "R$ 44,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_862279-MLB109033193642_032026-O.jpg",
+    "link": "https://meli.la/1WpTorP",
+    "linkWhatsapp": "https://meli.la/1WpTorP",
+    "timestamp": 1791930337000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Balança Digital Precisão 10kg Cozinha Fitness Dieta Confeitaria",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4jzx0hS",
     "linkWhatsapp": "https://amzn.to/4jzx0hS",
     "timestamp": 1791672612000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 100,53",
-    "precoPor": "R$ 89,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-O.jpg",
-    "link": "https://meli.la/2ZRXGkr",
-    "linkWhatsapp": "https://meli.la/2ZRXGkr",
-    "timestamp": 1791672534000,
     "imagemIlustrativa": false
   }
 ]
