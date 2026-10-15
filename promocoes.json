@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Daily T-shirt Insider",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,00",
+    "precoPor": "R$ 69,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_616903-MLB115107953006_082026-O.jpg",
+    "link": "https://meli.la/1N3yjbR",
+    "linkWhatsapp": "https://meli.la/1N3yjbR",
+    "timestamp": 1792097335000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1J6HY2c",
     "linkWhatsapp": "https://meli.la/1J6HY2c",
     "timestamp": 1791735789000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Frigideira Tramontina Antiaderente Tampa 16, 20 E 24 Bege",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,90",
-    "precoPor": "R$ 159,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_718723-MLA111868808077_052026-O.jpg",
-    "link": "https://meli.la/19bNAFU",
-    "linkWhatsapp": "https://meli.la/19bNAFU",
-    "timestamp": 1791735640000,
     "imagemIlustrativa": false
   }
 ]
