@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Mochila feminina, reforçada, impermeável, com capacidade para laptop",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 198,00",
+    "precoPor": "R$ 79,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_755204-MLA113564929198_072026-O.jpg",
+    "link": "https://meli.la/2bBpjBm",
+    "linkWhatsapp": "https://meli.la/2bBpjBm",
+    "timestamp": 1792028484000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Cadeira Espreguicadeira Dobravel De Praia Reforcada Preto",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://amzn.to/4iNBktG",
     "linkWhatsapp": "https://amzn.to/4iNBktG",
     "timestamp": 1791684336000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 110,00",
-    "precoPor": "R$ 55,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_910476-MLB113033587620_072026-O.jpg",
-    "link": "https://meli.la/29zxu11",
-    "linkWhatsapp": "https://meli.la/29zxu11",
-    "timestamp": 1791684076000,
     "imagemIlustrativa": false
   }
 ]
