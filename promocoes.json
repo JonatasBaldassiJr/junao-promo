@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Tênis Nike Promina Feminino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 549,99",
+    "precoPor": "R$ 439,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_752180-MLB113519906819_062026-O.jpg",
+    "link": "https://meli.la/1TdBcWX",
+    "linkWhatsapp": "https://meli.la/1TdBcWX",
+    "timestamp": 1792027838000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Tenis Democrata Knit Brad Ultra Light Casual Confortavel",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 458,83",
+    "precoPor": "R$ 270,75",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_779351-MLB94548718266_102025-O.jpg",
+    "link": "https://meli.la/16dujHn",
+    "linkWhatsapp": "https://meli.la/16dujHn",
+    "timestamp": 1792027744000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Headphone Basike Over-Ear com Bluetooth 5.4, ANC e Microfone, Rosa",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2YKwUMY",
     "linkWhatsapp": "https://meli.la/2YKwUMY",
     "timestamp": 1791683558000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Branco Feminino Vili Para Caminhada Academia Treino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 172,00",
-    "precoPor": "R$ 80,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_771243-MLB118312209117_092026-O.jpg",
-    "link": "https://meli.la/1sXm3rw",
-    "linkWhatsapp": "https://meli.la/1sXm3rw",
-    "timestamp": 1791683446000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit C/12 Utensílios De Cozinha Silicone Cabo Madeira",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 60,47",
-    "precoPor": "R$ 39,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_853637-MLB74931305887_032024-O.jpg",
-    "link": "https://meli.la/1Awd5DF",
-    "linkWhatsapp": "https://meli.la/1Awd5DF",
-    "timestamp": 1791683378000,
     "imagemIlustrativa": false
   }
 ]
