@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Camiseta Nike Dry-fit Academy Masculina",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 149,99",
+    "precoPor": "R$ 90,24",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738004-MLB100879755061_122025-O.jpg",
+    "link": "https://meli.la/2jcVJLg",
+    "linkWhatsapp": "https://meli.la/2jcVJLg",
+    "timestamp": 1792177983000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Mochila Para Notebook Impermeável com Porta USB e Senha Homem",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1WpTorP",
     "linkWhatsapp": "https://meli.la/1WpTorP",
     "timestamp": 1791930337000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Balança Digital Precisão 10kg Cozinha Fitness Dieta Confeitaria",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 13,79",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_903703-MLA116666984711_082026-O.jpg",
-    "link": "https://meli.la/28jYu58",
-    "linkWhatsapp": "https://meli.la/28jYu58",
-    "timestamp": 1791930225000,
     "imagemIlustrativa": false
   }
 ]
