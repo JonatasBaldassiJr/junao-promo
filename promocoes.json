@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Percarbonato 1kg + Alvejante 1kg",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 16,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-ms5x5qk8zj7q36",
+    "link": "https://s.shopee.com.br/9zyYpymrVb",
+    "linkWhatsapp": "https://s.shopee.com.br/9zyYpymrVb",
+    "timestamp": 1792169716000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1iAhSMs",
     "linkWhatsapp": "https://meli.la/1iAhSMs",
     "timestamp": 1791860980000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Shorts De Compressão P/ Corrida Masculino Térmica",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 76,00",
-    "precoPor": "R$ 55,77",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_906889-MLB88368149898_072025-O.jpg",
-    "link": "https://meli.la/2btzFtd",
-    "linkWhatsapp": "https://meli.la/2btzFtd",
-    "timestamp": 1791860495000,
     "imagemIlustrativa": false
   }
 ]
