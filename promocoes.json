@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Interruptor Inteligente Matter",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 99,99",
+    "precoPor": "R$ 65,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636598-MLA116823679927_082026-O.jpg",
+    "link": "https://meli.la/2tYRrKG",
+    "linkWhatsapp": "https://meli.la/2tYRrKG",
+    "timestamp": 1792246439000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Jaqueta Masc. Sarja Capuz Broken Rules 510075 Preto P Liso",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/1NQePAA",
     "linkWhatsapp": "https://meli.la/1NQePAA",
     "timestamp": 1792079201000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camisa Gola Polo Masculina Premium Piquet",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 79,00",
-    "precoPor": "R$ 34,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_613677-MLB86162484250_062025-O.jpg",
-    "link": "https://meli.la/2BiDCeK",
-    "linkWhatsapp": "https://meli.la/2BiDCeK",
-    "timestamp": 1792078353000,
     "imagemIlustrativa": false
   }
 ]
