@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Lite Racer 4.0 adidas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 299,99",
+    "precoPor": "R$ 229,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_991099-MLB82050147897_012025-O.jpg",
+    "link": "https://meli.la/1fABfkm",
+    "linkWhatsapp": "https://meli.la/1fABfkm",
+    "timestamp": 1792202698000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis adidas Feminino Corrida Caminhada Leve Confortável",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2rPV497",
     "linkWhatsapp": "https://meli.la/2rPV497",
     "timestamp": 1792059301000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Conjunto Sala de Jantar 4 Lugares com Cadeiras Estofadas Mesa",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 999,90",
-    "precoPor": "R$ 412,03",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_738947-MLA87770245934_072025-O.jpg",
-    "link": "https://meli.la/2CfnnGq",
-    "linkWhatsapp": "https://meli.la/2CfnnGq",
-    "timestamp": 1792059247000,
     "imagemIlustrativa": false
   }
 ]
