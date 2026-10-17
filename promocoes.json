@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cerveja Premium 5L Barril Heineken",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 99,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-821fn-mh6nhxobu1vzc7",
+    "link": "https://s.shopee.com.br/60SRuH2dBE",
+    "linkWhatsapp": "https://s.shopee.com.br/60SRuH2dBE",
+    "timestamp": 1792269005000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Sorveteira Ninja Creami 7 Opções Diferentes de Sorvete Fácil de Usar",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/318d5P8",
     "linkWhatsapp": "https://meli.la/318d5P8",
     "timestamp": 1792145824000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Under Armour Charged Wing 2 Esportivo Academia Fitness",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 399,99",
-    "precoPor": "R$ 279,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_831282-MLB119449998675_102026-O.jpg",
-    "link": "https://meli.la/2zmPpUz",
-    "linkWhatsapp": "https://meli.la/2zmPpUz",
-    "timestamp": 1792145817000,
     "imagemIlustrativa": false
   }
 ]
