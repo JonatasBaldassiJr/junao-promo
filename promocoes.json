@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Gloss Fran By Franciny Ehlke Liphoney Mel Liphoney-mel",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,99",
+    "precoPor": "R$ 19,87",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_855365-MLB95050151929_102025-O.jpg",
+    "link": "https://meli.la/1BsVuF4",
+    "linkWhatsapp": "https://meli.la/1BsVuF4",
+    "timestamp": 1792244994000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Smartphone Motorola Moto G77 5g - 256gb 8gb Ram + 16gb Ram Boost",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/32Q6zWG",
     "linkWhatsapp": "https://meli.la/32Q6zWG",
     "timestamp": 1792075961000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vestido Longo Casual Festa Alça Grossa Fenda Moda Elegante",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,99",
-    "precoPor": "R$ 38,78",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_728592-MLB93300933428_092025-O.jpg",
-    "link": "https://meli.la/1hGxqAU",
-    "linkWhatsapp": "https://meli.la/1hGxqAU",
-    "timestamp": 1792075629000,
     "imagemIlustrativa": false
   }
 ]
