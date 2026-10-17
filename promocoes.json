@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.099,00",
+    "precoPor": "R$ 549,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_998097-MLA115435101684_082026-O.jpg",
+    "link": "https://meli.la/2H7rHzj",
+    "linkWhatsapp": "https://meli.la/2H7rHzj",
+    "timestamp": 1792247295000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Feminino Court 90 Fila Verde Mar /bege Liso 36 Br",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2LjXH39",
     "linkWhatsapp": "https://meli.la/2LjXH39",
     "timestamp": 1792080584000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vittak Barra Fixa para Porta Ajustável de Aço Prateado",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 50,00",
-    "precoPor": "R$ 39,56",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_987254-MLA110163562620_042026-O.jpg",
-    "link": "https://meli.la/2ooAKrQ",
-    "linkWhatsapp": "https://meli.la/2ooAKrQ",
-    "timestamp": 1792080452000,
     "imagemIlustrativa": false
   }
 ]
