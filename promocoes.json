@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Camiseta Feminina Daily Insider",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 149,00",
+    "precoPor": "R$ 53,97",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636739-MLB110309361060_052026-O.jpg",
+    "link": "https://meli.la/21bGM9V",
+    "linkWhatsapp": "https://meli.la/21bGM9V",
+    "timestamp": 1792260275000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Monitor Gigabyte Gs24f14 23.8 Pol Full Hd Ips 144hz 1ms",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 799,00",
+    "precoPor": "R$ 530,95",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_872401-MLA113528429319_062026-O.jpg",
+    "link": "https://meli.la/2uvXcz6",
+    "linkWhatsapp": "https://meli.la/2uvXcz6",
+    "timestamp": 1792260204000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Britânia BAS1295P Aspirador de Pó 2 em 1 1250W Preto – Potência",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2D6SqL1",
     "linkWhatsapp": "https://meli.la/2D6SqL1",
     "timestamp": 1792108074000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jogo De Cama Solteiro Buddemeyer Cotton Essential Cor Branco",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,90",
-    "precoPor": "R$ 170,12",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_617964-MLA99505928034_112025-O.jpg",
-    "link": "https://meli.la/2MXqGup",
-    "linkWhatsapp": "https://meli.la/2MXqGup",
-    "timestamp": 1792107916000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Óculos De Sol Rb3025l Aviador Cores Variadas Verde Preto Dourado 58mm",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 639,00",
-    "precoPor": "R$ 235,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_806390-MLB114941638528_082026-O.jpg",
-    "link": "https://meli.la/1fgG5Xw",
-    "linkWhatsapp": "https://meli.la/1fgG5Xw",
-    "timestamp": 1792107816000,
     "imagemIlustrativa": false
   }
 ]
