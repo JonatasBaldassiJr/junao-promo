@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Fritadeira airfryer XL Philips Walita HD9206",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 699,90",
+    "precoPor": "R$ 320,00",
+    "desconto": "",
+    "detalheExtra": "⚡ Oferta Relâmpago",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_793048-MLA99873504395_112025-O.jpg",
+    "link": "https://meli.la/118rwBy",
+    "linkWhatsapp": "https://meli.la/118rwBy",
+    "timestamp": 1792234963000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Calça Jogger Tactel Soltinha Moda Fitness Joggings Esportiva",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/2e1oG5a",
     "linkWhatsapp": "https://meli.la/2e1oG5a",
     "timestamp": 1792066689000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Vitamina C 120 Cápsulas Growth Supplements Natural",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 39,90",
-    "precoPor": "R$ 29,52",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_973855-MLA112115430468_062026-O.jpg",
-    "link": "https://meli.la/27imzk7",
-    "linkWhatsapp": "https://meli.la/27imzk7",
-    "timestamp": 1792066373000,
     "imagemIlustrativa": false
   }
 ]
