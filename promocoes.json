@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "Tênis Flyer Runner Mesh Bdp Puma",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 349,99",
+    "precoPor": "R$ 189,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_730513-MLB80451340719_112024-O.jpg",
+    "link": "https://meli.la/1iAhSMs",
+    "linkWhatsapp": "https://meli.la/1iAhSMs",
+    "timestamp": 1792243746000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 2 Travesseiros 70x50 Antialérgico Lavável Fibra Siliconada Toque",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -5982,21 +5997,6 @@
     "link": "https://meli.la/24dk7Q9",
     "linkWhatsapp": "https://meli.la/24dk7Q9",
     "timestamp": 1792074845000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Garrafa De Água Termica 800ml Café Inox Copo Frio E Quente Preto",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 42,90",
-    "precoPor": "R$ 34,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_947382-MLB115292418199_072026-O.jpg",
-    "link": "https://meli.la/181XZVt",
-    "linkWhatsapp": "https://meli.la/181XZVt",
-    "timestamp": 1792074476000,
     "imagemIlustrativa": false
   }
 ]
