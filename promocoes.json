@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Camiseta Aramis Básica Branca",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,90",
+    "precoPor": "R$ 78,83",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_824137-MLB93447822932_102025-O.jpg",
+    "link": "https://meli.la/2boRbif",
+    "linkWhatsapp": "https://meli.la/2boRbif",
+    "timestamp": 1792540294000,
+    "imagemIlustrativa": false
+  },
+  {
+    "titulo": "Ralador de Mesa PRIMEX de Aço Inoxidável 4 Faces para Legumes",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 38,33",
+    "precoPor": "R$ 21,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_933941-MLA105980667897_012026-O.jpg",
+    "link": "https://meli.la/31r7niJ",
+    "linkWhatsapp": "https://meli.la/31r7niJ",
+    "timestamp": 1792540075000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 10 Cuecas Algodão Polo Wear Sortido",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -5967,36 +5997,6 @@
     "link": "https://meli.la/2RLR3Mo",
     "linkWhatsapp": "https://meli.la/2RLR3Mo",
     "timestamp": 1792433370000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Samsung Galaxy S25+ 5g, 256gb, 12gb, Câmera Tripla - Azul marinho",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 4.221,00",
-    "precoPor": "R$ 4.030,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_606581-MLA99463575630_112025-O.jpg",
-    "link": "https://meli.la/2gxC1Fs",
-    "linkWhatsapp": "https://meli.la/2gxC1Fs",
-    "timestamp": 1792433261000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 10 Cueca Boxer Microfibra Sem Costura Adulto Usee Brasil",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,90",
-    "precoPor": "R$ 78,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_764265-MLB95975419796_102025-O.jpg",
-    "link": "https://meli.la/2CKq7hs",
-    "linkWhatsapp": "https://meli.la/2CKq7hs",
-    "timestamp": 1792433110000,
     "imagemIlustrativa": false
   }
 ]
