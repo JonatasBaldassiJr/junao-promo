@@ -77,6 +77,8 @@
     .link-afiliado-aviso{margin-top:8px;font-size:9px;color:#697680;line-height:1.35}
     .botao-oferta{display:block;text-align:center;margin-top:5px;padding:12px 8px;border-radius:9px;background:linear-gradient(#ffe466,#ffcb1f);color:#151515;font-size:12px;font-weight:900}
     .botao-oferta:hover{background:#ffbe00}
+    .endereco-oferta{margin-top:9px;color:#52616e;font-size:10px;line-height:1.45;min-width:0}
+    .endereco-oferta a{display:block;color:#345e85;text-decoration:underline;overflow-wrap:anywhere;word-break:break-word}
     .vazio{grid-column:1/-1;text-align:center;padding:45px 20px;border:1px dashed #46515a;border-radius:12px;color:#c9d1d6}
 
     .paginacao{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:7px;margin:24px 0 4px}
@@ -173,6 +175,12 @@
     <div class="filtros" id="filtrosLoja">
       <button class="filtro ativo" data-loja="todas">Todas as lojas</button>
       <button class="filtro" data-loja="Amazon">Amazon</button>
+      <button class="filtro" data-loja="Netshoes">Netshoes</button>
+      <button class="filtro" data-loja="Mizuno">Mizuno</button>
+      <button class="filtro" data-loja="Nike">Nike</button>
+      <button class="filtro" data-loja="AliExpress">AliExpress</button>
+      <button class="filtro" data-loja="SHEIN">SHEIN</button>
+      <button class="filtro" data-loja="KaBuM!">KaBuM!</button>
       <button class="filtro" data-loja="Mercado Livre">Mercado Livre</button>
       <button class="filtro" data-loja="Shopee">Shopee</button>
       <button class="filtro" data-loja="Magazine Luiza">Magalu</button>
@@ -203,6 +211,12 @@
       <div class="loja-card ml">mercado livre</div>
       <div class="loja-card shp">🛍 Shopee</div>
       <div class="loja-card mgl">magalu</div>
+      <div class="loja-card">Netshoes</div>
+      <div class="loja-card">Mizuno</div>
+      <div class="loja-card">Nike</div>
+      <div class="loja-card">AliExpress</div>
+      <div class="loja-card">SHEIN</div>
+      <div class="loja-card">KaBuM!</div>
     </div>
   </section>
 </main>
@@ -389,11 +403,28 @@ function nomeLoja(valor, item){
       return ["amzn.to","link.amazon","a.co"].includes(h) || /(^|\.)amazon\.com(\.br)?$/.test(h);
     } catch { return false; }
   })) return "Amazon";
+  // O domínio da loja prevalece sobre marcas no rótulo; intermediários genéricos não identificam a loja.
+  for(const link of links){
+    try {
+      const u = new URL(link);
+      if(!["http:","https:"].includes(u.protocol) || u.username || u.password) continue;
+      const h = u.hostname.toLowerCase();
+      for(const [dominio,nome] of [["netshoes.com.br","Netshoes"],["mizuno.com.br","Mizuno"],["nike.com.br","Nike"],["aliexpress.com","AliExpress"],["aliexpress.us","AliExpress"],["shein.com","SHEIN"],["shein.com.br","SHEIN"],["kabum.com.br","KaBuM!"]]){
+        if(h === dominio || h.endsWith(`.${dominio}`)) return nome;
+      }
+    } catch { /* Não inferir loja por texto solto na URL. */ }
+  }
   const loja = normalizar(valor);
   if(loja.includes("mercado livre") || loja.includes("mercadolivre")) return "Mercado Livre";
   if(loja.includes("amazon")) return "Amazon";
   if(loja.includes("shopee")) return "Shopee";
   if(loja.includes("magalu") || loja.includes("magazine luiza")) return "Magazine Luiza";
+  if(loja.includes("netshoes")) return "Netshoes";
+  if(loja.includes("mizuno")) return "Mizuno";
+  if(loja.includes("nike")) return "Nike";
+  if(loja.replace(/\s/g,"").includes("aliexpress")) return "AliExpress";
+  if(loja.includes("shein")) return "SHEIN";
+  if(loja.includes("kabum")) return "KaBuM!";
   return String(valor || "Loja");
 }
 
@@ -576,6 +607,7 @@ function criarCard(item){
     <div class="loja">${escapar(loja)}</div>
     <div class="link-afiliado-aviso">Publicidade • link de afiliado. O Junão Promoção pode receber comissão se houver compra elegível.</div>
     <a class="botao-oferta" href="${escapar(link || "#")}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Ver oferta em ${escapar(loja)} - link de afiliado">Ver oferta ↗</a>
+    ${link ? `<div class="endereco-oferta">Link da oferta:<a href="${escapar(link)}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Link completo da oferta em ${escapar(loja)}">${escapar(link)}</a></div>` : ""}
   `;
 
   card.querySelector(".fav").addEventListener("click",()=>alternarFavorito(link));
