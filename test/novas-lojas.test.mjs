@@ -28,7 +28,7 @@ test('botão e URL visível usam o mesmo endereço completo e preservam atribui�
   assert.ok(!rendered.includes('<teste>'));
   assert.ok(!card({titulo:'Inválido',link:'javascript:alert(1)',timestamp:Date.now()}).innerHTML.includes('class="endereco-oferta"'));
 });
-test('Amazon permanece bloqueada mesmo com tag atual e reconhecimento dos novos intermediários',()=>{
-  assert.equal(active({loja:'Amazon',link:'https://www.amazon.com.br/dp/B000000000?tag=junaopromobr-20',timestamp:Date.now()-1000},Date.now()),false);
+test('Amazon com ID atual é aceita na retomada',()=>{
+  assert.equal(active({loja:'Amazon',link:'https://www.amazon.com.br/dp/B000000000?tag=junaopromobr-20',timestamp:Date.now()-1000},Date.now()),true);
 });
 

@@ -199,7 +199,7 @@
 
   <section class="parceiras">
     <h2>🏬 Lojas com ofertas divulgadas</h2>
-    <p>As lojas abaixo podem fazer parte da divulgação do Junão Promoção. A nova inscrição Amazon está em preparação para divulgação; as ofertas Amazon continuam pausadas até a validação dos links e das fontes de conteúdo. As marcas não administram nem patrocinam este site.</p>
+    <p>As lojas abaixo podem fazer parte da divulgação do Junão Promoção. Os anúncios podem conter links de afiliado, identificados como publicidade. As marcas não administram nem patrocinam este site.</p>
     <div class="lojas">
       <div class="loja-card amz">amazon</div>
       <div class="loja-card ml">mercado livre</div>
@@ -224,7 +224,6 @@
       <h3>Transparência sobre links de afiliado</h3>
       <p>Os links comerciais deste site são identificados como <span class="legal-destaque">PUBLICIDADE</span> e podem gerar comissão ao Junão Promoção quando uma compra elegível é realizada, sem custo adicional para o visitante.</p>
       <p><strong>Amazon:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</p>
-      <p>As ofertas Amazon estão temporariamente indisponíveis nesta vitrine.</p>
       <p><strong>Mercado Livre:</strong> O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado ao divulgar links do programa.</p>
       <p><strong>Shopee:</strong> O Junão Promoção participa do Programa de Afiliados da Shopee e pode receber comissão por transações elegíveis originadas de links de afiliado.</p>
       <p><strong>Magalu:</strong> Os links comerciais para o Magalu podem gerar bonificação ou comissão por compras elegíveis. Este é um site independente de divulgação.</p>
@@ -253,9 +252,9 @@
 "use strict";
 
 const CONFIG = {
-  // Nova inscrição: somente o ID atual pode ser usado. A pausa permanece até validar a fonte de conteúdo.
+  // Retomada solicitada pelo proprietário: mantém o ID atual e valida a atribuição dos links curtos.
   amazonTag: "junaopromobr-20",
-  amazonPausada: true,
+  amazonPausada: false,
   // Ordem = desempate: o arquivo da Vercel (atualiza a cada deploy) vem antes do raw do GitHub (cache de até 5 min).
   fontes: [
     "/promocoes.json",
@@ -387,7 +386,7 @@ function nomeLoja(valor, item){
   if(links.some(link=>{
     try {
       const h = new URL(link).hostname.toLowerCase();
-      return ["amzn.to","link.amazon","a.co"].includes(h) || /(^|\.)amazon\.com(\.br)?$/.test(h);
+      return ["amzn.to","link.amazon","a.co","amzlink.to"].includes(h) || /(^|\.)amazon\.com(\.br)?$/.test(h);
     } catch { return false; }
   })) return "Amazon";
   // O domínio da loja prevalece sobre marcas no rótulo; intermediários genéricos não identificam a loja.
@@ -463,10 +462,18 @@ function expiraEm(item){
 function ofertaAtiva(item, agora = Date.now()){
   if(nomeLoja(item.loja,item) === "Amazon"){
     if(CONFIG.amazonPausada) return false;
-    // Links antigos/curtos sem atribuição comprovada não voltam ao tirar a pausa.
+    // O endereço exibido é exatamente o enviado no grupo; encurtadores precisam do destino registrado.
     try {
-      const u = new URL(item.link);
-      if(u.protocol !== "https:" || u.username || u.password || !/(^|\.)amazon\.com\.br$/.test(u.hostname)) return false;
+      const link = item.linkWhatsapp || item.link;
+      if(link !== item.link) return false;
+      let u = new URL(link);
+      if(u.protocol !== "https:" || u.username || u.password || u.port) return false;
+      if(["link.amazon","amzn.to","a.co","amzlink.to"].includes(u.hostname)){
+        const prova = item.amazonTracking;
+        if(!prova || prova.url !== link || prova.associateTag !== CONFIG.amazonTag) return false;
+        u = new URL(prova.destination);
+      }
+      if(u.protocol !== "https:" || u.username || u.password || u.port || !/(^|\.)amazon\.com\.br$/.test(u.hostname)) return false;
       if(u.searchParams.getAll("tag").length !== 1 || u.searchParams.get("tag") !== CONFIG.amazonTag) return false;
     } catch { return false; }
   }
@@ -588,13 +595,15 @@ function criarCard(item){
     <div class="categoria">${escapar(item.categoriaNome || "Ofertas")}</div>
     ${precoDe && precoDe !== precoPor ? `<div class="preco-antigo">${escapar(precoDe)}</div>` : ""}
     <div class="preco">${escapar(precoPor || "Confira o preço")}</div>
+    ${loja === "Amazon" && item.condicoes ? `<div class="link-afiliado-aviso" style="white-space:pre-line;overflow-wrap:anywhere"><strong>Condições da publicação:</strong> ${escapar(item.condicoes)}</div>` : ""}
+    ${loja === "Amazon" ? `<div class="imagem-tipo">Preço informado em ${escapar(new Date(timestampOferta(item)).toLocaleString("pt-BR",{timeZone:"America/Sao_Paulo"}))} (Brasília). Confira o preço e a disponibilidade na Amazon antes de comprar.</div>` : ""}
     <div class="imagem-tipo">${ilustrativa ? "Imagem ilustrativa" : (item.imagem ? "Imagem do produto" : "")}</div>
     <div class="timer-oferta" data-expira="${expiraEm(item)}">⏳ Sai da vitrine em <strong>${formatarTempoRestante(expiraEm(item) - Date.now())}</strong></div>
     <div class="imagem-tipo">Prazo da publicação; não confirma a duração da oferta na loja.</div>
     <div class="loja">${escapar(loja)}</div>
     ${loja === "KaBuM!" ? `<div class="link-afiliado-aviso">Oferta válida enquanto durarem os estoques. Cupons, quando indicados, sujeitos à disponibilidade do lote e às condições da campanha.</div>` : ""}
     <div class="link-afiliado-aviso">Publicidade • link de afiliado. O Junão Promoção pode receber comissão se houver compra elegível.</div>
-    <a class="botao-oferta" href="${escapar(link || "#")}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Ver oferta em ${escapar(loja)} - link de afiliado">Ver oferta ↗</a>
+    <a class="botao-oferta" href="${escapar(link || "#")}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Ver oferta em ${escapar(loja)} - link de afiliado">${loja === "Amazon" ? "Ver na Amazon ↗" : "Ver oferta ↗"}</a>
     ${link ? `<div class="endereco-oferta">Link da oferta:<a href="${escapar(link)}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Link completo da oferta em ${escapar(loja)}">${escapar(link)}</a></div>` : ""}
   `;
 
