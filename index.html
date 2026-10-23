@@ -146,7 +146,7 @@
 
 <main class="container">
   <section class="hero">
-    <img src="banner-jp.png" alt="Junão Promoção: as melhores promoções em um só lugar">
+    <img src="banner-jp-revisado.png" alt="Junão Promoção: compare preço e frete, compre no site da loja e confira as condições">
     <a href="#ofertas" aria-label="Ver todas as promoções"></a>
   </section>
 
@@ -183,9 +183,21 @@
     <nav class="paginacao" id="paginacao" aria-label="Navegação entre páginas de ofertas"></nav>
   </section>
 
+  <section class="rodape-box" aria-labelledby="guiasTitulo">
+    <h2 id="guiasTitulo">Guias para comparar antes de comprar</h2>
+    <p>O preço do anúncio é só uma parte da comparação. O total com frete, a quantidade de produto e as regras de um cupom podem mudar o resultado.</p>
+    <p>Preparamos dez guias com contas explicadas, critérios de comparação e limites das informações da vitrine. Os exemplos numéricos são hipotéticos, não ofertas de produtos. O conteúdo fica disponível mesmo sem os anúncios.</p>
+    <div class="rodape-links">
+      <a class="rodape-link" href="/guias/preco-final-com-frete.html">Preço final com frete</a>
+      <a class="rodape-link" href="/guias/cupom-percentual-com-teto.html">Cupom com limite de desconto</a>
+      <a class="rodape-link" href="/guias/publicacao-e-validade.html">Publicação × validade comercial</a>
+      <a class="rodape-link" href="/guias/">Ver os 10 guias →</a>
+    </div>
+  </section>
+
   <section class="parceiras">
     <h2>🏬 Lojas com ofertas divulgadas</h2>
-    <p>As lojas abaixo podem fazer parte da divulgação do Junão Promoção. A divulgação Amazon está pausada enquanto a participação no programa é regularizada. As marcas não administram nem patrocinam este site.</p>
+    <p>As lojas abaixo podem fazer parte da divulgação do Junão Promoção. A nova inscrição Amazon está em preparação para divulgação; as ofertas Amazon continuam pausadas até a validação dos links e das fontes de conteúdo. As marcas não administram nem patrocinam este site.</p>
     <div class="lojas">
       <div class="loja-card amz">amazon</div>
       <div class="loja-card ml">mercado livre</div>
@@ -203,7 +215,8 @@
     <div class="rodape-box">
       <h3>Transparência sobre links de afiliado</h3>
       <p>Os links comerciais deste site são identificados como <span class="legal-destaque">PUBLICIDADE</span> e podem gerar comissão ao Junão Promoção quando uma compra elegível é realizada, sem custo adicional para o visitante.</p>
-      <p><strong>Amazon:</strong> Divulgação e links de associado pausados enquanto a participação no programa é regularizada.</p>
+      <p><strong>Amazon:</strong> Como associado da Amazon, eu ganho com compras qualificadas.</p>
+      <p>A nova inscrição não representa aprovação final. A divulgação Amazon permanece pausada enquanto validamos os links e as fontes de conteúdo.</p>
       <p><strong>Mercado Livre:</strong> O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado ao divulgar links do programa.</p>
       <p><strong>Shopee:</strong> O Junão Promoção participa do Programa de Afiliados da Shopee e pode receber comissão por transações elegíveis originadas de links de afiliado.</p>
       <p><strong>Magalu:</strong> O Junão Promoção pode divulgar ofertas por meio do programa Influenciador Magalu/Divulgador, recebendo bonificação ou comissão quando uma compra elegível é concluída pelos links divulgados.</p>
@@ -213,6 +226,7 @@
     <p>Preços, cupons, condições de pagamento, frete, prazo, estoque e disponibilidade podem mudar sem aviso. Em caso de divergência, prevalecem as informações exibidas na página da loja no momento da compra. Imagens marcadas como “Imagem ilustrativa” não representam necessariamente o produto exato.</p>
 
     <div class="rodape-links">
+      <a class="rodape-link" href="/guias/">Guias de compra</a>
       <button class="rodape-link" id="abrirAfiliados" type="button">Transparência de afiliados</button>
       <button class="rodape-link" id="abrirPrivacidade" type="button">Privacidade</button>
       <a class="rodape-link" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer">Grupo do WhatsApp ↗</a>
@@ -238,7 +252,8 @@
 "use strict";
 
 const CONFIG = {
-  // A conta anterior foi encerrada. Um novo ID, sozinho, não autoriza retomar publicações.
+  // Nova inscrição: somente o ID atual pode ser usado. A pausa permanece até validar a fonte de conteúdo.
+  amazonTag: "junaopromobr-20",
   amazonPausada: true,
   // Ordem = desempate: o arquivo da Vercel (atualiza a cada deploy) vem antes do raw do GitHub (cache de até 5 min).
   fontes: [
@@ -428,7 +443,15 @@ function expiraEm(item){
 }
 
 function ofertaAtiva(item, agora = Date.now()){
-  if(CONFIG.amazonPausada && nomeLoja(item.loja,item) === "Amazon") return false;
+  if(nomeLoja(item.loja,item) === "Amazon"){
+    if(CONFIG.amazonPausada) return false;
+    // Links antigos/curtos sem atribuição comprovada não voltam ao tirar a pausa.
+    try {
+      const u = new URL(item.link);
+      if(u.protocol !== "https:" || u.username || u.password || !/(^|\.)amazon\.com\.br$/.test(u.hostname)) return false;
+      if(u.searchParams.getAll("tag").length !== 1 || u.searchParams.get("tag") !== CONFIG.amazonTag) return false;
+    } catch { return false; }
+  }
   if(!timestampOferta(item) || timestampOferta(item) > agora) return false;
   if(item.ativo === false || item.disponivel === false) return false;
   if(["expirada","expired","indisponivel","unavailable","out_of_stock","esgotado","esgotada","cupom_expirado","coupon_expired","cancelled"].includes(normalizar(item.status))) return false;
@@ -672,7 +695,7 @@ function renderizar(){
 
   if(!itens.length){
     listaProdutos.innerHTML = lojaAtual === "Amazon" && CONFIG.amazonPausada
-      ? `<div class="vazio"><h3>Divulgação Amazon pausada</h3><p>Os links Amazon estão pausados enquanto a participação no Programa de Associados é regularizada.</p></div>`
+      ? `<div class="vazio"><h3>Divulgação Amazon pausada</h3><p>A nova inscrição está em preparação. As ofertas serão retomadas após a validação dos links e das fontes de conteúdo.</p></div>`
       : `<div class="vazio"><h3>Nenhuma oferta encontrada</h3><p>Não há publicações recentes e elegíveis para este filtro.</p></div>`;
     return;
   }
@@ -753,8 +776,8 @@ document.getElementById("abrirAfiliados").addEventListener("click",()=>{
   abrirModal("Transparência de afiliados",`
     <p><strong>O Junão Promoção é um site independente.</strong> Alguns links publicados são links de afiliado. Quando o visitante clica voluntariamente e conclui uma compra elegível na loja, o Junão Promoção pode receber comissão ou bonificação, sem acréscimo no preço por causa do link.</p>
     <h3>Amazon</h3>
-    <p>Divulgação e links de associado pausados enquanto a participação no programa é regularizada.</p>
-    <p>Uma retomada depende de participação válida, novo ID atribuído pela Amazon e validação dos links e das fontes de conteúdo.</p>
+    <p>Como associado da Amazon, eu ganho com compras qualificadas.</p>
+    <p>A nova inscrição não representa aprovação final. A divulgação Amazon permanece pausada enquanto validamos os links e as fontes de conteúdo.</p>
     <h3>Mercado Livre</h3>
     <p>O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado quando divulga links do programa.</p>
     <h3>Shopee</h3>
