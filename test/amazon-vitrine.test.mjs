@@ -9,11 +9,11 @@ const ctx=vm.createContext({URL,Date,document:{getElementById:element,createElem
 vm.runInContext(script.slice(0,script.indexOf('document.getElementById("formBusca").addEventListener')),ctx);
 const {ofertaAtiva:active,criarCard:card,CONFIG:cfg}=vm.runInContext('({ofertaAtiva,criarCard,CONFIG})',ctx);
 const now=Date.now(),long='https://www.amazon.com.br/dp/B000000001?tag=junaopromobr-20',short='https://link.amazon/TESTELOCAL';
-const item={titulo:'Produto local',loja:'Amazon',link:long,linkWhatsapp:long,timestamp:now-60000,expiresAt:now+3600000,precoPor:'R$ 50,00',imagem:'https://example.test/foto-enviada.jpg'};
+const item={titulo:'Produto local',loja:'Amazon',link:long,linkWhatsapp:long,timestamp:now-60000,expiresAt:now+3600000,precoPor:'R$ 50,00',condicoes:'Use o cupom TESTELOCAL',imagem:'https://example.test/foto-enviada.jpg'};
 test('retomada ativa exibe foto, preço, horário e link original',()=>{
   assert.equal(active(item,now),true);
   const rendered=card(item).innerHTML;
-  for(const expected of [item.imagem,item.precoPor,'Preço informado em','(Brasília)','Ver na Amazon','Link da oferta:']) assert.ok(rendered.includes(expected));
+  for(const expected of [item.imagem,item.precoPor,item.condicoes,'Preço informado em','(Brasília)','Ver na Amazon','Link da oferta:']) assert.ok(rendered.includes(expected));
   assert.equal(rendered.split(`href="${long}"`).length-1,2);
 });
 test('link curto só passa com registro do mesmo endereço e destino do ID atual',()=>{

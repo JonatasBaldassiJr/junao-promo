@@ -595,6 +595,7 @@ function criarCard(item){
     <div class="categoria">${escapar(item.categoriaNome || "Ofertas")}</div>
     ${precoDe && precoDe !== precoPor ? `<div class="preco-antigo">${escapar(precoDe)}</div>` : ""}
     <div class="preco">${escapar(precoPor || "Confira o preço")}</div>
+    ${loja === "Amazon" && item.condicoes ? `<div class="link-afiliado-aviso" style="white-space:pre-line;overflow-wrap:anywhere"><strong>Condições da publicação:</strong> ${escapar(item.condicoes)}</div>` : ""}
     ${loja === "Amazon" ? `<div class="imagem-tipo">Preço informado em ${escapar(new Date(timestampOferta(item)).toLocaleString("pt-BR",{timeZone:"America/Sao_Paulo"}))} (Brasília). Confira o preço e a disponibilidade na Amazon antes de comprar.</div>` : ""}
     <div class="imagem-tipo">${ilustrativa ? "Imagem ilustrativa" : (item.imagem ? "Imagem do produto" : "")}</div>
     <div class="timer-oferta" data-expira="${expiraEm(item)}">⏳ Sai da vitrine em <strong>${formatarTempoRestante(expiraEm(item) - Date.now())}</strong></div>
