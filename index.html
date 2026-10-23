@@ -93,7 +93,8 @@
     .parceiras{padding:34px 0 20px}.parceiras h2{margin:0 0 5px}.parceiras p{margin:0 0 15px;color:var(--muted);font-size:12px}
     .lojas{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.loja-card{min-height:68px;display:grid;place-items:center;border:1px solid #584615;border-radius:10px;background:linear-gradient(135deg,#171a1d,#100e08);font-size:20px;font-weight:900}.amz{color:#fff}.ml{color:#ffe400}.shp{color:#ff6728}.mgl{color:#17baff}
 
-    footer{margin-top:20px;border-top:1px solid #5b4814;padding:30px 0 90px;color:#a8b2b8;font-size:11px;line-height:1.7}footer strong{color:#fff}
+    footer{margin-top:20px;border-top:1px solid #5b4814;padding:30px 0 90px;color:#a8b2b8;font-size:12px;line-height:1.7}footer strong{color:#fff}
+    footer p a{color:var(--gold);text-decoration:underline}
     .rodape-box{margin:16px 0;padding:16px;border:1px solid #514116;border-radius:12px;background:linear-gradient(145deg,#17150d,#0d1114)}
     .rodape-box h3{margin:0 0 10px;color:var(--gold);font-size:14px}
     .rodape-box p{margin:8px 0}
@@ -102,13 +103,6 @@
     .rodape-link:hover{border-color:var(--gold);color:var(--gold)}
     .legal-destaque{color:#fff;font-weight:800}
     .whatsapp-flutuante{position:fixed;right:18px;bottom:18px;z-index:60;background:#12c766;color:#fff;padding:14px 17px;border-radius:999px;font-weight:900;font-size:12px;box-shadow:0 8px 30px rgba(18,199,102,.3)}
-    .modal-fundo{position:fixed;inset:0;z-index:100;display:none;place-items:center;padding:20px;background:rgba(0,0,0,.82)}
-    .modal-fundo.aberto{display:grid}
-    .modal{width:min(720px,100%);max-height:86vh;overflow:auto;background:#11181e;border:1px solid #80651a;border-radius:15px;padding:22px;box-shadow:0 20px 70px rgba(0,0,0,.5)}
-    .modal-topo{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-bottom:8px}.modal-topo h2{margin:0;font-size:20px}
-    .modal-fechar{border:0;background:#202a31;color:#fff;border-radius:9px;width:38px;height:38px;font-size:24px}
-    .modal-conteudo{color:#c2cbd1;font-size:12px;line-height:1.75}.modal-conteudo strong{color:#fff}.modal-conteudo h3{color:var(--gold);margin:18px 0 6px}.modal-conteudo a{color:var(--gold);text-decoration:underline}
-
     @media(max-width:1200px){.produtos{grid-template-columns:repeat(4,1fr)}}
     @media(max-width:900px){.topo-inner{flex-wrap:wrap;padding:9px 0}.busca{order:5;flex-basis:100%;max-width:none;margin:0}.produtos{grid-template-columns:repeat(3,1fr)}.vip{flex-wrap:wrap}.vip a{width:100%;text-align:center}}
     @media(max-width:620px){.container{width:calc(100% - 20px)}.marca img{width:54px;height:44px}.marca-texto{font-size:17px}.whatsapp-topo{padding:11px 10px;font-size:9px}.favoritos-topo{padding:10px;font-size:10px}.hero img{min-height:190px;object-fit:cover;object-position:center}.produtos{grid-template-columns:repeat(2,1fr);gap:9px}.produto{padding:9px}.produto-img{height:145px}.produto h3{font-size:11px;min-height:48px}.preco{font-size:18px}.lojas{grid-template-columns:repeat(2,1fr)}.vip-texto strong{font-size:15px}.pagina-botao{min-width:36px;height:36px;padding:0 9px;font-size:10px}}
@@ -229,11 +223,12 @@
     <div class="rodape-box">
       <h3>Transparência sobre links de afiliado</h3>
       <p>Os links comerciais deste site são identificados como <span class="legal-destaque">PUBLICIDADE</span> e podem gerar comissão ao Junão Promoção quando uma compra elegível é realizada, sem custo adicional para o visitante.</p>
-      <p><strong>Amazon:</strong> Como associado da Amazon, eu ganho com compras qualificadas.</p>
-      <p>A nova inscrição não representa aprovação final. A divulgação Amazon permanece pausada enquanto validamos os links e as fontes de conteúdo.</p>
+      <p><strong>Amazon:</strong> Como participante do Programa de Associados da Amazon, sou remunerado pelas compras qualificadas efetuadas.</p>
+      <p>As ofertas Amazon estão temporariamente indisponíveis nesta vitrine.</p>
       <p><strong>Mercado Livre:</strong> O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado ao divulgar links do programa.</p>
       <p><strong>Shopee:</strong> O Junão Promoção participa do Programa de Afiliados da Shopee e pode receber comissão por transações elegíveis originadas de links de afiliado.</p>
-      <p><strong>Magalu:</strong> O Junão Promoção pode divulgar ofertas por meio do programa Influenciador Magalu/Divulgador, recebendo bonificação ou comissão quando uma compra elegível é concluída pelos links divulgados.</p>
+      <p><strong>Magalu:</strong> Os links comerciais para o Magalu podem gerar bonificação ou comissão por compras elegíveis. Este é um site independente de divulgação.</p>
+      <p><strong>KaBuM!, Netshoes, Mizuno, Nike, AliExpress e SHEIN:</strong> os anúncios dessas lojas também podem conter links de afiliado. A elegibilidade das compras e a remuneração seguem as condições de cada programa.</p>
     </div>
 
     <p>Amazon, Mercado Livre, Shopee, Magalu e demais marcas, nomes e sinais distintivos pertencem aos respectivos titulares. A citação ou exibição de uma loja não significa patrocínio, aprovação, administração ou propriedade deste site por essa empresa.</p>
@@ -241,24 +236,16 @@
 
     <div class="rodape-links">
       <a class="rodape-link" href="/guias/">Guias de compra</a>
-      <button class="rodape-link" id="abrirAfiliados" type="button">Transparência de afiliados</button>
-      <button class="rodape-link" id="abrirPrivacidade" type="button">Privacidade</button>
+      <a class="rodape-link" href="/transparencia/">Transparência de afiliados</a>
+      <a class="rodape-link" href="/privacidade/">Privacidade e cookies</a>
+      <a class="rodape-link" href="/contato/">Contato e correções</a>
       <a class="rodape-link" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer">Grupo do WhatsApp ↗</a>
     </div>
 
+    <p>Contato para correções e privacidade: <a href="mailto:junaopromocao@gmail.com">junaopromocao@gmail.com</a>.</p>
     <p>© <span id="ano"></span> Junão Promoção. Todos os direitos reservados.</p>
   </div>
 </footer>
-
-<div class="modal-fundo" id="modalFundo" aria-hidden="true">
-  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitulo">
-    <div class="modal-topo">
-      <h2 id="modalTitulo">Informações</h2>
-      <button class="modal-fechar" id="modalFechar" type="button" aria-label="Fechar">×</button>
-    </div>
-    <div class="modal-conteudo" id="modalConteudo"></div>
-  </div>
-</div>
 
 <a class="whatsapp-flutuante" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer">✆ Grupo VIP</a>
 
@@ -605,6 +592,7 @@ function criarCard(item){
     <div class="timer-oferta" data-expira="${expiraEm(item)}">⏳ Sai da vitrine em <strong>${formatarTempoRestante(expiraEm(item) - Date.now())}</strong></div>
     <div class="imagem-tipo">Prazo da publicação; não confirma a duração da oferta na loja.</div>
     <div class="loja">${escapar(loja)}</div>
+    ${loja === "KaBuM!" ? `<div class="link-afiliado-aviso">Oferta válida enquanto durarem os estoques. Cupons, quando indicados, sujeitos à disponibilidade do lote e às condições da campanha.</div>` : ""}
     <div class="link-afiliado-aviso">Publicidade • link de afiliado. O Junão Promoção pode receber comissão se houver compra elegível.</div>
     <a class="botao-oferta" href="${escapar(link || "#")}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Ver oferta em ${escapar(loja)} - link de afiliado">Ver oferta ↗</a>
     ${link ? `<div class="endereco-oferta">Link da oferta:<a href="${escapar(link)}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Link completo da oferta em ${escapar(loja)}">${escapar(link)}</a></div>` : ""}
@@ -727,7 +715,7 @@ function renderizar(){
 
   if(!itens.length){
     listaProdutos.innerHTML = lojaAtual === "Amazon" && CONFIG.amazonPausada
-      ? `<div class="vazio"><h3>Divulgação Amazon pausada</h3><p>A nova inscrição está em preparação. As ofertas serão retomadas após a validação dos links e das fontes de conteúdo.</p></div>`
+      ? `<div class="vazio"><h3>Divulgação Amazon pausada</h3><p>As ofertas Amazon estão temporariamente indisponíveis nesta vitrine. Confira as demais lojas.</p></div>`
       : `<div class="vazio"><h3>Nenhuma oferta encontrada</h3><p>Não há publicações recentes e elegíveis para este filtro.</p></div>`;
     return;
   }
@@ -783,53 +771,6 @@ document.getElementById("botaoFavoritos").addEventListener("click",()=>{
 });
 
 document.getElementById("botaoAtualizar").addEventListener("click",carregarPromocoes);
-
-const modalFundo = document.getElementById("modalFundo");
-const modalTitulo = document.getElementById("modalTitulo");
-const modalConteudo = document.getElementById("modalConteudo");
-
-function abrirModal(titulo,html){
-  modalTitulo.textContent = titulo;
-  modalConteudo.innerHTML = html;
-  modalFundo.classList.add("aberto");
-  modalFundo.setAttribute("aria-hidden","false");
-}
-
-function fecharModal(){
-  modalFundo.classList.remove("aberto");
-  modalFundo.setAttribute("aria-hidden","true");
-}
-
-document.getElementById("modalFechar").addEventListener("click",fecharModal);
-modalFundo.addEventListener("click",e=>{if(e.target===modalFundo) fecharModal();});
-document.addEventListener("keydown",e=>{if(e.key==="Escape") fecharModal();});
-
-document.getElementById("abrirAfiliados").addEventListener("click",()=>{
-  abrirModal("Transparência de afiliados",`
-    <p><strong>O Junão Promoção é um site independente.</strong> Alguns links publicados são links de afiliado. Quando o visitante clica voluntariamente e conclui uma compra elegível na loja, o Junão Promoção pode receber comissão ou bonificação, sem acréscimo no preço por causa do link.</p>
-    <h3>Amazon</h3>
-    <p>Como associado da Amazon, eu ganho com compras qualificadas.</p>
-    <p>A nova inscrição não representa aprovação final. A divulgação Amazon permanece pausada enquanto validamos os links e as fontes de conteúdo.</p>
-    <h3>Mercado Livre</h3>
-    <p>O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado quando divulga links do programa.</p>
-    <h3>Shopee</h3>
-    <p>O Junão Promoção participa do Programa de Afiliados da Shopee. O clique no link é voluntário; este site não faz redirecionamento automático para a Shopee nem instala cookies de afiliado por conta própria.</p>
-    <h3>Magalu</h3>
-    <p>O Junão Promoção pode atuar como divulgador no programa Influenciador Magalu. A compra e o pagamento são feitos diretamente no ambiente disponibilizado pela loja.</p>
-    <h3>Importante</h3>
-    <p>As lojas podem alterar as regras de seus programas. Preço, disponibilidade, estoque, frete, prazo, cupom e elegibilidade de comissão são definidos pelas respectivas plataformas e podem mudar.</p>
-  `);
-});
-
-document.getElementById("abrirPrivacidade").addEventListener("click",()=>{
-  abrirModal("Privacidade",`
-    <p><strong>Dados solicitados pelo Junão Promoção:</strong> este site não possui cadastro, checkout ou formulário de pagamento e não solicita nome, CPF, endereço, dados bancários ou cartão para visualizar ofertas.</p>
-    <p><strong>Favoritos:</strong> quando você usa o recurso de favoritos, os links escolhidos são guardados somente no armazenamento local do seu próprio navegador (localStorage), para lembrar suas escolhas nesse dispositivo.</p>
-    <p><strong>Infraestrutura:</strong> o site é hospedado por serviço de hospedagem e pode consultar o arquivo público de ofertas no GitHub. Esses provedores podem registrar dados técnicos de acesso, como endereço IP e informações do navegador, de acordo com as políticas deles.</p>
-    <p><strong>Links externos:</strong> ao clicar em uma oferta ou no grupo do WhatsApp, você sai do Junão Promoção e passa a utilizar serviços de terceiros, que possuem suas próprias políticas de privacidade, cookies e termos.</p>
-    <p><strong>Afiliados:</strong> o Junão Promoção não executa redirecionamento automático de afiliados nem define cookies de afiliado sem uma ação voluntária do visitante. A navegação para a loja ocorre quando você clica no botão da oferta.</p>
-  `);
-});
 
 document.getElementById("ano").textContent = new Date().getFullYear();
 
