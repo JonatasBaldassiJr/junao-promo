@@ -7,106 +7,7 @@
   <title>Junão Promoção | As melhores promoções em um só lugar</title>
   <meta name="description" content="Ofertas de Amazon, Mercado Livre, Shopee e Magalu selecionadas pelo Junão Promoção.">
 
-  <style>
-    :root{
-      --bg:#070a0c;--bg2:#0d1216;--panel:#11181e;--panel2:#172129;
-      --gold:#ffd22e;--gold2:#ffab00;--green:#16c86a;--text:#f7f9fb;
-      --muted:#a9b3bc;--line:#313b44;--danger:#ff5a68;
-    }
-    *{box-sizing:border-box}
-    html{scroll-behavior:smooth}
-    body{margin:0;background:radial-gradient(circle at 50% 0,rgba(255,177,0,.08),transparent 32%),var(--bg);color:var(--text);font-family:Arial,Helvetica,sans-serif}
-    a{color:inherit;text-decoration:none}
-    button,input{font:inherit}
-    button{cursor:pointer}
-    .container{width:min(1390px,calc(100% - 32px));margin:auto}
-
-    .topo{position:sticky;top:0;z-index:50;background:rgba(7,10,12,.96);border-bottom:1px solid rgba(255,210,46,.35);backdrop-filter:blur(14px)}
-    .topo-inner{min-height:78px;display:flex;align-items:center;gap:18px}
-    .marca{display:flex;align-items:center;gap:12px;flex:none}
-    .marca img{width:70px;height:54px;object-fit:contain}
-    .marca-texto{font-size:22px;font-weight:900;line-height:.95}.marca-texto span{display:block;color:var(--gold)}
-    .busca{display:flex;flex:1;max-width:600px;margin-left:auto;background:#182229;border:1px solid #3b4650;border-radius:10px;overflow:hidden;height:46px}
-    .busca input{width:100%;border:0;outline:0;background:transparent;color:#fff;padding:0 15px}
-    .busca button{width:54px;border:0;background:var(--gold);font-weight:900;color:#161616}
-    .whatsapp-topo{background:linear-gradient(135deg,#1fd473,#069c4b);padding:14px 18px;border-radius:10px;font-size:12px;font-weight:900;white-space:nowrap;box-shadow:0 5px 22px rgba(15,206,102,.22)}
-    .favoritos-topo{border:1px solid #39444c;background:#131b21;color:#fff;border-radius:10px;padding:12px 14px;font-weight:800}
-
-    .nav{border-bottom:1px solid #5b4814;background:#0a0f12}
-    .nav-scroll{display:flex;gap:7px;overflow-x:auto;padding:9px 0;scrollbar-width:none}.nav-scroll::-webkit-scrollbar{display:none}
-    .cat{flex:none;border:1px solid #303b43;background:#141c22;color:#fff;border-radius:9px;padding:9px 12px;font-size:11px;font-weight:800}
-    .cat.ativo{background:#3b2e04;border-color:var(--gold);color:var(--gold)}
-
-    .hero{position:relative;margin-top:14px;border:1px solid #b98d00;border-radius:14px;overflow:hidden;background:#090806;box-shadow:0 18px 45px rgba(0,0,0,.35)}
-    .hero img{display:block;width:100%;height:auto}
-    .hero a{position:absolute;left:3%;top:61%;width:28%;height:17%;border-radius:14px}
-
-    .vip{margin:18px 0 8px;display:flex;align-items:center;gap:16px;padding:18px 20px;border:1px solid #27de80;border-radius:14px;background:linear-gradient(110deg,#064023,#075f37 55%,#092f20);box-shadow:0 8px 25px rgba(0,205,94,.12)}
-    .vip-icone{display:grid;place-items:center;width:48px;height:48px;border-radius:13px;background:rgba(255,255,255,.1);font-size:28px}
-    .vip-texto{flex:1}.vip-texto strong{display:block;font-size:18px}.vip-texto span{display:block;margin-top:4px;color:#d6ffe6;font-size:12px}
-    .vip a{background:#fff;color:#08713c;padding:13px 17px;border-radius:9px;font-size:12px;font-weight:900}
-
-    .ofertas{padding:25px 0 10px}
-    .titulo-area{display:flex;align-items:end;justify-content:space-between;gap:15px;margin-bottom:13px}
-    .titulo-area h2{margin:0 0 5px;font-size:24px}.titulo-area p{margin:0;color:var(--muted);font-size:12px}
-    .atualizar{border:1px solid #6b571b;background:#19160c;color:var(--gold);border-radius:9px;padding:10px 13px;font-weight:900;font-size:11px}
-
-    .aviso{border:1px solid #6b571b;background:rgba(255,196,0,.05);border-radius:9px;padding:13px 15px;color:#e2d6ae;font-size:11px;line-height:1.55}.aviso strong{color:var(--gold)}
-    .filtros{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}
-    .filtro{border:1px solid #34414a;background:#172027;color:#fff;padding:9px 13px;border-radius:8px;font-size:11px;font-weight:900}
-    .filtro.ativo{background:#3a2d05;border-color:var(--gold);color:var(--gold)}
-
-    .status{margin:8px 0 15px;color:#9cabb5;font-size:11px}.status.ok::before{content:"●";color:#1dda7b;margin-right:7px}.status.erro::before{content:"●";color:var(--danger);margin-right:7px}
-
-    .produtos{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
-    .produto{position:relative;display:flex;flex-direction:column;min-width:0;background:#fff;color:#17212b;border-radius:12px;padding:11px;border:1px solid #e4e8ed;box-shadow:0 3px 14px rgba(0,0,0,.12);transition:.2s}
-    .produto:hover{transform:translateY(-3px);box-shadow:0 10px 28px rgba(255,193,0,.15)}
-    .pub{position:absolute;left:9px;top:9px;z-index:2;background:var(--gold);color:#111;border-radius:5px;padding:5px 7px;font-size:8px;font-weight:900}
-    .fav{position:absolute;right:9px;top:9px;z-index:2;width:34px;height:34px;border:0;border-radius:50%;background:#fff;color:#1a252d;font-size:22px;box-shadow:0 1px 8px rgba(0,0,0,.15)}.fav.salvo{color:#e72d4d}
-    .produto-img{height:185px;display:grid;place-items:center;background:#f4f6f8;border-radius:9px;overflow:hidden;margin-bottom:11px}
-    .produto-img img{width:100%;height:100%;object-fit:contain}
-    .sem-img{text-align:center;color:#7d8790;font-size:11px;padding:15px}.sem-img b{display:block;font-size:38px;margin-bottom:7px}
-    .produto h3{font-size:13px;line-height:1.4;margin:0 0 7px;min-height:55px;font-weight:900}
-    .categoria{color:#7c6690;font-size:10px;margin-bottom:7px}
-    .preco-antigo{text-decoration:line-through;color:#89939b;font-size:11px;margin-top:auto}
-    .preco{color:#0c9c4b;font-size:22px;font-weight:900;margin:2px 0 5px}
-    .imagem-tipo{font-size:9px;color:#89939b;min-height:14px}
-    .timer-oferta{display:flex;align-items:center;gap:5px;min-height:18px;margin:4px 0 2px;color:#596673;font-size:9px;font-weight:700;font-variant-numeric:tabular-nums}
-    .timer-oferta strong{color:#26333d;font-size:10px}
-    .loja{font-size:11px;font-weight:900;margin-top:10px;padding-top:9px;border-top:1px solid #edf0f2}.loja::before{content:"●";color:#ffc400;margin-right:6px}
-    .link-afiliado-aviso{margin-top:8px;font-size:9px;color:#697680;line-height:1.35}
-    .botao-oferta{display:block;text-align:center;margin-top:5px;padding:12px 8px;border-radius:9px;background:linear-gradient(#ffe466,#ffcb1f);color:#151515;font-size:12px;font-weight:900}
-    .botao-oferta:hover{background:#ffbe00}
-    .endereco-oferta{margin-top:9px;color:#52616e;font-size:10px;line-height:1.45;min-width:0}
-    .endereco-oferta a{display:block;color:#345e85;text-decoration:underline;overflow-wrap:anywhere;word-break:break-word}
-    .vazio{grid-column:1/-1;text-align:center;padding:45px 20px;border:1px dashed #46515a;border-radius:12px;color:#c9d1d6}
-
-    .paginacao{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:7px;margin:24px 0 4px}
-    .pagina-botao{min-width:40px;height:38px;padding:0 12px;border:1px solid #3a4650;border-radius:9px;background:#141d23;color:#fff;font-size:11px;font-weight:900;transition:.18s}
-    .pagina-botao:hover:not(:disabled){border-color:var(--gold);color:var(--gold);transform:translateY(-1px)}
-    .pagina-botao.ativo{background:linear-gradient(#ffe466,#ffcb1f);border-color:var(--gold);color:#161616}
-    .pagina-botao:disabled{opacity:.35;cursor:not-allowed}
-    .pagina-reticencias{color:#78858f;font-weight:900;padding:0 2px}
-    .pagina-info{width:100%;text-align:center;margin-top:3px;color:#8f9ca5;font-size:10px}
-    .paginacao:empty{display:none}
-
-    .parceiras{padding:34px 0 20px}.parceiras h2{margin:0 0 5px}.parceiras p{margin:0 0 15px;color:var(--muted);font-size:12px}
-    .lojas{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.loja-card{min-height:68px;display:grid;place-items:center;border:1px solid #584615;border-radius:10px;background:linear-gradient(135deg,#171a1d,#100e08);font-size:20px;font-weight:900}.amz{color:#fff}.ml{color:#ffe400}.shp{color:#ff6728}.mgl{color:#17baff}
-
-    footer{margin-top:20px;border-top:1px solid #5b4814;padding:30px 0 90px;color:#a8b2b8;font-size:12px;line-height:1.7}footer strong{color:#fff}
-    footer p a{color:var(--gold);text-decoration:underline}
-    .rodape-box{margin:16px 0;padding:16px;border:1px solid #514116;border-radius:12px;background:linear-gradient(145deg,#17150d,#0d1114)}
-    .rodape-box h3{margin:0 0 10px;color:var(--gold);font-size:14px}
-    .rodape-box p{margin:8px 0}
-    .rodape-links{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}
-    .rodape-link{border:1px solid #46515a;background:#141c22;color:#fff;border-radius:8px;padding:9px 11px;font-size:10px;font-weight:800}
-    .rodape-link:hover{border-color:var(--gold);color:var(--gold)}
-    .legal-destaque{color:#fff;font-weight:800}
-    .whatsapp-flutuante{position:fixed;right:18px;bottom:18px;z-index:60;background:#12c766;color:#fff;padding:14px 17px;border-radius:999px;font-weight:900;font-size:12px;box-shadow:0 8px 30px rgba(18,199,102,.3)}
-    @media(max-width:1200px){.produtos{grid-template-columns:repeat(4,1fr)}}
-    @media(max-width:900px){.topo-inner{flex-wrap:wrap;padding:9px 0}.busca{order:5;flex-basis:100%;max-width:none;margin:0}.produtos{grid-template-columns:repeat(3,1fr)}.vip{flex-wrap:wrap}.vip a{width:100%;text-align:center}}
-    @media(max-width:620px){.container{width:calc(100% - 20px)}.marca img{width:54px;height:44px}.marca-texto{font-size:17px}.whatsapp-topo{padding:11px 10px;font-size:9px}.favoritos-topo{padding:10px;font-size:10px}.hero img{min-height:190px;object-fit:cover;object-position:center}.produtos{grid-template-columns:repeat(2,1fr);gap:9px}.produto{padding:9px}.produto-img{height:145px}.produto h3{font-size:11px;min-height:48px}.preco{font-size:18px}.lojas{grid-template-columns:repeat(2,1fr)}.vip-texto strong{font-size:15px}.pagina-botao{min-width:36px;height:36px;padding:0 9px;font-size:10px}}
-  </style>
+  <link rel="stylesheet" href="/vitrine.css">
 </head>
 <body>
 
@@ -118,32 +19,41 @@
     </a>
 
     <form class="busca" id="formBusca">
-      <input id="campoBusca" type="search" placeholder="Buscar promoções, produtos ou marcas..." autocomplete="off">
+      <input id="campoBusca" type="search" aria-label="Buscar ofertas" placeholder="Buscar produtos, marcas ou lojas" autocomplete="off">
       <button type="submit" aria-label="Buscar">⌕</button>
     </form>
 
-    <a class="whatsapp-topo" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer">✆ GRUPO VIP • GRÁTIS</a>
-    <button class="favoritos-topo" id="botaoFavoritos" type="button">♡ Favoritos</button>
+    <a class="whatsapp-topo" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer" aria-label="Entrar no grupo VIP gratuito">✆ Grupo VIP<span class="desktop-texto"> • grátis</span></a>
+    <button class="favoritos-topo" id="botaoFavoritos" type="button" aria-label="Filtrar ofertas favoritas" aria-pressed="false">♡ Favoritos</button>
   </div>
 </header>
 
 <nav class="nav">
   <div class="container nav-scroll" id="categorias">
-    <button class="cat ativo" data-categoria="todas">🔥 Todas</button>
-    <button class="cat" data-categoria="eletronicos">⚡ Eletrônicos</button>
-    <button class="cat" data-categoria="casa">🏠 Casa & Lazer</button>
-    <button class="cat" data-categoria="cozinha">🍳 Cozinha</button>
-    <button class="cat" data-categoria="mercado">🛒 Mercado</button>
-    <button class="cat" data-categoria="moda">👗 Beleza & Moda</button>
-    <button class="cat" data-categoria="automotivo">🚗 Automotivo</button>
-    <button class="cat" data-categoria="pet">🐶 Pet</button>
+    <button class="cat ativo" data-categoria="todas" aria-pressed="true">Todas</button>
+    <button class="cat" data-categoria="eletronicos" aria-pressed="false">Eletrônicos</button>
+    <button class="cat" data-categoria="casa" aria-pressed="false">Casa & Lazer</button>
+    <button class="cat" data-categoria="cozinha" aria-pressed="false">Cozinha</button>
+    <button class="cat" data-categoria="mercado" aria-pressed="false">Mercado</button>
+    <button class="cat" data-categoria="moda" aria-pressed="false">Beleza & Moda</button>
+    <button class="cat" data-categoria="automotivo" aria-pressed="false">Automotivo</button>
+    <button class="cat" data-categoria="pet" aria-pressed="false">Pet</button>
   </div>
 </nav>
 
 <main class="container">
-  <section class="hero">
-    <img src="banner-jp-revisado.png" alt="Junão Promoção: compare preço e frete, compre no site da loja e confira as condições">
-    <a href="#ofertas" aria-label="Ver todas as promoções"></a>
+  <section class="hero" aria-labelledby="tituloHero">
+    <div class="hero-texto">
+      <span class="sobretitulo">Junão Promoção • Ofertas & cupons</span>
+      <h1 id="tituloHero">Seu próximo achado<br><span>começa aqui.</span></h1>
+      <p>Explore as ofertas, compare preços e confira as condições. A próxima boa escolha pode estar nesta vitrine.</p>
+      <div class="hero-acoes">
+        <a class="acao-principal" href="#ofertas" aria-label="Ver todas as promoções">Explorar ofertas <span aria-hidden="true">↗</span></a>
+        <a class="acao-secundaria" href="/guias/">Guias de compra</a>
+      </div>
+      <div class="hero-notas"><span>Compare preço e frete</span><span>Compre no site da loja</span></div>
+    </div>
+    <div class="hero-marca"><img src="logo.jpg" alt="Junão Promoção" width="1248" height="832"><p>UMA VITRINE. VÁRIAS POSSIBILIDADES.</p></div>
   </section>
 
   <aside class="vip">
@@ -158,7 +68,8 @@
   <section class="ofertas" id="ofertas">
     <div class="titulo-area">
       <div>
-        <h2>🔥 Ofertas em destaque</h2>
+        <span class="sobretitulo">A vitrine do Junão</span>
+        <h2>Ofertas em destaque</h2>
         <p>Produtos selecionados pelo Junão Promoção.</p>
       </div>
       <button class="atualizar" id="botaoAtualizar" type="button">↻ Atualizar ofertas</button>
@@ -166,7 +77,8 @@
 
     <div class="aviso"><strong>PUBLICIDADE • LINKS DE AFILIADO.</strong> Alguns links desta página são links de afiliado. Se você comprar por eles, o Junão Promoção poderá receber comissão sem custo adicional para você. Cada oferta com link comercial é identificada como publicidade. Preços, cupons, frete, estoque e condições podem mudar; confira sempre os dados finais diretamente na loja antes de comprar.</div>
 
-    <div class="filtros" id="filtrosLoja">
+    <p class="filtros-rotulo" id="filtrosRotulo">Filtrar por loja</p>
+    <div class="filtros" id="filtrosLoja" role="group" aria-labelledby="filtrosRotulo">
       <button class="filtro ativo" data-loja="todas">Todas as lojas</button>
       <button class="filtro" data-loja="Amazon">Amazon</button>
       <button class="filtro" data-loja="Netshoes">Netshoes</button>
@@ -185,7 +97,8 @@
     <nav class="paginacao" id="paginacao" aria-label="Navegação entre páginas de ofertas"></nav>
   </section>
 
-  <section class="rodape-box" aria-labelledby="guiasTitulo">
+  <section class="guias" aria-labelledby="guiasTitulo">
+    <span class="sobretitulo">Antes de decidir</span>
     <h2 id="guiasTitulo">Guias para comparar antes de comprar</h2>
     <p>O preço do anúncio é só uma parte da comparação. O total com frete, a quantidade de produto e as regras de um cupom podem mudar o resultado.</p>
     <p>Preparamos dez guias com contas explicadas, critérios de comparação e limites das informações da vitrine. Os exemplos numéricos são hipotéticos, não ofertas de produtos. O conteúdo fica disponível mesmo sem os anúncios.</p>
@@ -197,20 +110,21 @@
     </div>
   </section>
 
-  <section class="parceiras">
-    <h2>🏬 Lojas com ofertas divulgadas</h2>
+  <section class="parceiras" aria-labelledby="lojasTitulo">
+    <span class="sobretitulo">Explore por loja</span>
+    <h2 id="lojasTitulo">Suas lojas, em um só lugar.</h2>
     <p>As lojas abaixo podem fazer parte da divulgação do Junão Promoção. Os anúncios podem conter links de afiliado, identificados como publicidade. As marcas não administram nem patrocinam este site.</p>
-    <div class="lojas">
-      <div class="loja-card amz">amazon</div>
-      <div class="loja-card ml">mercado livre</div>
-      <div class="loja-card shp">🛍 Shopee</div>
-      <div class="loja-card mgl">magalu</div>
-      <div class="loja-card">Netshoes</div>
-      <div class="loja-card">Mizuno</div>
-      <div class="loja-card">Nike</div>
-      <div class="loja-card">AliExpress</div>
-      <div class="loja-card">SHEIN</div>
-      <div class="loja-card">KaBuM!</div>
+    <div class="lojas" aria-label="Navegar pelas ofertas das lojas">
+      <a class="loja-card" href="#ofertas" data-loja="Amazon"><span><strong>Amazon</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="Mercado Livre"><span><strong>Mercado Livre</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="Shopee"><span><strong>Shopee</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="Magazine Luiza"><span><strong>Magalu</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="Netshoes"><span><strong>Netshoes</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="Mizuno"><span><strong>Mizuno</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="Nike"><span><strong>Nike</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="AliExpress"><span><strong>AliExpress</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="SHEIN"><span><strong>SHEIN</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
+      <a class="loja-card" href="#ofertas" data-loja="KaBuM!"><span><strong>KaBuM!</strong><small>Ver ofertas</small></span><span class="loja-seta" aria-hidden="true">↗</span></a>
     </div>
   </section>
 </main>
@@ -245,8 +159,6 @@
     <p>© <span id="ano"></span> Junão Promoção. Todos os direitos reservados.</p>
   </div>
 </footer>
-
-<a class="whatsapp-flutuante" href="https://chat.whatsapp.com/D8dS9M8ugnw3cI9DxT2LaQ" target="_blank" rel="noopener noreferrer">✆ Grupo VIP</a>
 
 <script>
 "use strict";
@@ -588,23 +500,29 @@ function criarCard(item){
   const card = document.createElement("article");
   card.className = "produto";
   card.innerHTML = `
-    <span class="pub">PUBLICIDADE</span>
-    <button class="fav ${salvo ? "salvo" : ""}" type="button" aria-label="Favoritar">${salvo ? "♥" : "♡"}</button>
+    <div class="produto-topo"><span class="pub">PUBLICIDADE</span>
+    <button class="fav ${salvo ? "salvo" : ""}" type="button" aria-label="${salvo ? "Remover dos favoritos" : "Favoritar"}" aria-pressed="${salvo}">${salvo ? "♥" : "♡"}</button></div>
     <div class="produto-img">${criarImagem(item)}</div>
-    <h3>${escapar(item.titulo || "Oferta especial")}</h3>
+    <div class="produto-resumo">
     <div class="categoria">${escapar(item.categoriaNome || "Ofertas")}</div>
-    ${precoDe && precoDe !== precoPor ? `<div class="preco-antigo">${escapar(precoDe)}</div>` : ""}
-    <div class="preco">${escapar(precoPor || "Confira o preço")}</div>
-    ${loja === "Amazon" && item.condicoes ? `<div class="link-afiliado-aviso" style="white-space:pre-line;overflow-wrap:anywhere"><strong>Condições da publicação:</strong> ${escapar(item.condicoes)}</div>` : ""}
+    <h3>${escapar(item.titulo || "Oferta especial")}</h3>
+    </div>
+    <div class="precos"><div class="preco-antigo">${precoDe && precoDe !== precoPor ? escapar(precoDe) : ""}</div>
+    <div class="preco">${escapar(precoPor || "Confira o preço")}</div></div>
+    ${loja === "Amazon" && item.condicoes ? `<div class="condicoes-oferta"><strong>Condições da publicação:</strong>${escapar(item.condicoes)}</div>` : ""}
+    <div class="detalhes-oferta">
     ${loja === "Amazon" ? `<div class="imagem-tipo">Preço informado em ${escapar(new Date(timestampOferta(item)).toLocaleString("pt-BR",{timeZone:"America/Sao_Paulo"}))} (Brasília). Confira o preço e a disponibilidade na Amazon antes de comprar.</div>` : ""}
     <div class="imagem-tipo">${ilustrativa ? "Imagem ilustrativa" : (item.imagem ? "Imagem do produto" : "")}</div>
     <div class="timer-oferta" data-expira="${expiraEm(item)}">⏳ Sai da vitrine em <strong>${formatarTempoRestante(expiraEm(item) - Date.now())}</strong></div>
     <div class="imagem-tipo">Prazo da publicação; não confirma a duração da oferta na loja.</div>
+    </div>
+    <div class="produto-rodape">
     <div class="loja">${escapar(loja)}</div>
     ${loja === "KaBuM!" ? `<div class="link-afiliado-aviso">Oferta válida enquanto durarem os estoques. Cupons, quando indicados, sujeitos à disponibilidade do lote e às condições da campanha.</div>` : ""}
     <div class="link-afiliado-aviso">Publicidade • link de afiliado. O Junão Promoção pode receber comissão se houver compra elegível.</div>
     <a class="botao-oferta" href="${escapar(link || "#")}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Ver oferta em ${escapar(loja)} - link de afiliado">${loja === "Amazon" ? "Ver na Amazon ↗" : "Ver oferta ↗"}</a>
     ${link ? `<div class="endereco-oferta">Link da oferta:<a href="${escapar(link)}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Link completo da oferta em ${escapar(loja)}">${escapar(link)}</a></div>` : ""}
+    </div>
   `;
 
   card.querySelector(".fav").addEventListener("click",()=>alternarFavorito(link));
@@ -753,19 +671,51 @@ campoBusca.addEventListener("input",()=>{
 });
 
 document.querySelectorAll("[data-loja]").forEach(botao=>{
-  botao.addEventListener("click",()=>{
+  botao.addEventListener("click",e=>{
+    const atalho = botao.classList.contains("loja-card");
+    if(atalho){
+      e.preventDefault();
+      categoriaAtual = "todas";
+      buscaAtual = "";
+      campoBusca.value = "";
+      mostrarFavoritos = false;
+      document.getElementById("botaoFavoritos").textContent = "♡ Favoritos";
+      document.getElementById("botaoFavoritos").setAttribute("aria-pressed","false");
+      document.querySelectorAll("[data-categoria]").forEach(x=>{
+        const ativo = x.dataset.categoria === "todas";
+        x.classList.toggle("ativo",ativo);
+        x.setAttribute("aria-pressed",String(ativo));
+      });
+    }
     lojaAtual = botao.dataset.loja;
     paginaAtual = 1;
-    document.querySelectorAll("[data-loja]").forEach(x=>x.classList.toggle("ativo",x===botao));
+    document.querySelectorAll("[data-loja]").forEach(x=>{
+      const ativo = x.dataset.loja === lojaAtual;
+      x.classList.toggle("ativo",ativo);
+      if(x.tagName === "BUTTON") x.setAttribute("aria-pressed",String(ativo));
+      else if(ativo) x.setAttribute("aria-current","true");
+      else x.removeAttribute("aria-current");
+    });
     renderizar();
+    if(atalho){
+      document.getElementById("ofertas").scrollIntoView({behavior:"smooth",block:"start"});
+      const filtros = document.getElementById("filtrosLoja");
+      const selecionado = filtros.querySelector(".ativo");
+      filtros.scrollLeft += selecionado.getBoundingClientRect().left - filtros.getBoundingClientRect().left - 12;
+      selecionado.focus({preventScroll:true});
+    }
   });
+  if(botao.tagName === "BUTTON") botao.setAttribute("aria-pressed",String(botao.dataset.loja === lojaAtual));
 });
 
 document.querySelectorAll("[data-categoria]").forEach(botao=>{
   botao.addEventListener("click",()=>{
     categoriaAtual = botao.dataset.categoria;
     paginaAtual = 1;
-    document.querySelectorAll("[data-categoria]").forEach(x=>x.classList.toggle("ativo",x===botao));
+    document.querySelectorAll("[data-categoria]").forEach(x=>{
+      x.classList.toggle("ativo",x===botao);
+      x.setAttribute("aria-pressed",String(x===botao));
+    });
     renderizar();
     document.getElementById("ofertas").scrollIntoView({behavior:"smooth"});
   });
@@ -774,7 +724,8 @@ document.querySelectorAll("[data-categoria]").forEach(botao=>{
 document.getElementById("botaoFavoritos").addEventListener("click",()=>{
   mostrarFavoritos = !mostrarFavoritos;
   paginaAtual = 1;
-  document.getElementById("botaoFavoritos").textContent = mostrarFavoritos ? "♥ Mostrando favoritos" : "♡ Favoritos";
+  document.getElementById("botaoFavoritos").textContent = mostrarFavoritos ? "♥ Favoritos" : "♡ Favoritos";
+  document.getElementById("botaoFavoritos").setAttribute("aria-pressed",String(mostrarFavoritos));
   renderizar();
   document.getElementById("ofertas").scrollIntoView({behavior:"smooth"});
 });
