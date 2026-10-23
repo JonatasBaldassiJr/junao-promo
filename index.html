@@ -185,7 +185,7 @@
 
   <section class="parceiras">
     <h2>🏬 Lojas com ofertas divulgadas</h2>
-    <p>O Junão Promoção participa de programas de afiliados e divulgação dessas plataformas. A presença das marcas abaixo não significa que elas administrem, patrocinem ou sejam proprietárias deste site.</p>
+    <p>As lojas abaixo podem fazer parte da divulgação do Junão Promoção. A divulgação Amazon está pausada enquanto a participação no programa é regularizada. As marcas não administram nem patrocinam este site.</p>
     <div class="lojas">
       <div class="loja-card amz">amazon</div>
       <div class="loja-card ml">mercado livre</div>
@@ -203,7 +203,7 @@
     <div class="rodape-box">
       <h3>Transparência sobre links de afiliado</h3>
       <p>Os links comerciais deste site são identificados como <span class="legal-destaque">PUBLICIDADE</span> e podem gerar comissão ao Junão Promoção quando uma compra elegível é realizada, sem custo adicional para o visitante.</p>
-      <p><strong>Amazon:</strong> Como associado da Amazon, eu ganho com compras qualificadas.</p>
+      <p><strong>Amazon:</strong> Divulgação e links de associado pausados enquanto a participação no programa é regularizada.</p>
       <p><strong>Mercado Livre:</strong> O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado ao divulgar links do programa.</p>
       <p><strong>Shopee:</strong> O Junão Promoção participa do Programa de Afiliados da Shopee e pode receber comissão por transações elegíveis originadas de links de afiliado.</p>
       <p><strong>Magalu:</strong> O Junão Promoção pode divulgar ofertas por meio do programa Influenciador Magalu/Divulgador, recebendo bonificação ou comissão quando uma compra elegível é concluída pelos links divulgados.</p>
@@ -238,6 +238,8 @@
 "use strict";
 
 const CONFIG = {
+  // A conta anterior foi encerrada. Um novo ID, sozinho, não autoriza retomar publicações.
+  amazonPausada: true,
   // Ordem = desempate: o arquivo da Vercel (atualiza a cada deploy) vem antes do raw do GitHub (cache de até 5 min).
   fontes: [
     "/promocoes.json",
@@ -364,7 +366,14 @@ function parseJsonSeguro(texto){
   return dados;
 }
 
-function nomeLoja(valor){
+function nomeLoja(valor, item){
+  const links = item ? [item.linkWhatsapp, item.link] : [];
+  if(links.some(link=>{
+    try {
+      const h = new URL(link).hostname.toLowerCase();
+      return ["amzn.to","link.amazon","a.co"].includes(h) || /(^|\.)amazon\.com(\.br)?$/.test(h);
+    } catch { return false; }
+  })) return "Amazon";
   const loja = normalizar(valor);
   if(loja.includes("mercado livre") || loja.includes("mercadolivre")) return "Mercado Livre";
   if(loja.includes("amazon")) return "Amazon";
@@ -389,26 +398,40 @@ function iconeCategoria(item){
   return mapa[categoriaItem(item)] || "🛒";
 }
 
-function timestampOferta(item){
-  const bruto = item?.timestamp;
+function lerInstante(bruto){
   if(bruto === null || bruto === undefined || bruto === "") return 0;
-
-  let valor = Number(bruto);
-  if(Number.isFinite(valor)){
+  if(typeof bruto !== "number" && typeof bruto !== "string") return 0;
+  let valor = typeof bruto === "number" || /^\d+(\.\d+)?$/.test(bruto) ? Number(bruto) : NaN;
+  if(Number.isFinite(valor) && valor > 0){
     if(valor > 0 && valor < 100000000000) valor *= 1000;
     return valor;
   }
-
+  // Data textual só com fuso explícito; nunca reinterpretar horário de Brasília no fuso do visitante.
+  if(typeof bruto !== "string" || !/^\d{4}-\d{2}-\d{2}T.*(?:Z|[+-]\d{2}:\d{2})$/i.test(bruto)) return 0;
   const convertido = Date.parse(String(bruto));
   return Number.isFinite(convertido) ? convertido : 0;
 }
 
+function timestampOferta(item){ return lerInstante(item?.timestamp); }
+
 function expiraEm(item){
   const inicio = timestampOferta(item);
-  return inicio ? inicio + CONFIG.duracaoOferta : 0;
+  if(!inicio) return 0;
+  let fim = inicio + CONFIG.duracaoOferta;
+  for(const valor of [item.expiresAt, item.expires_at, item.expiraEm]){
+    if(valor === null || valor === undefined || valor === "") continue;
+    const prazo = lerInstante(valor);
+    if(!prazo) return 0;
+    fim = Math.min(fim, prazo);
+  }
+  return fim;
 }
 
 function ofertaAtiva(item, agora = Date.now()){
+  if(CONFIG.amazonPausada && nomeLoja(item.loja,item) === "Amazon") return false;
+  if(!timestampOferta(item) || timestampOferta(item) > agora) return false;
+  if(item.ativo === false || item.disponivel === false) return false;
+  if(["expirada","expired","indisponivel","unavailable","out_of_stock","esgotado","esgotada","cupom_expirado","coupon_expired","cancelled"].includes(normalizar(item.status))) return false;
   const expira = expiraEm(item);
   return expira > agora;
 }
@@ -465,7 +488,7 @@ async function carregarPromocoes(){
       renderizar();
 
       statusEl.className = "status ok";
-      statusEl.textContent = `${ativas.length} oferta(s) ativa(s) nas últimas 24h${ocultadas ? ` • ${ocultadas} antiga(s) removida(s) da vitrine` : ""} • atualizado às ${new Date().toLocaleTimeString("pt-BR")}`;
+      statusEl.textContent = `${ativas.length} publicação(ões) na vitrine de até 24h${ocultadas ? ` • ${ocultadas} fora da vitrine` : ""} • catálogo consultado às ${new Date().toLocaleTimeString("pt-BR")} • confirme preço e disponibilidade na loja`;
       carregando = false;
       return;
     }catch(erro){
@@ -507,7 +530,7 @@ function criarImagem(item){
 
 function criarCard(item){
   const link = urlSegura(item.linkWhatsapp || item.link);
-  const loja = nomeLoja(item.loja);
+  const loja = nomeLoja(item.loja,item);
   const listaFav = favoritos();
   const salvo = listaFav.includes(link);
   const precoDe = String(item.precoDe || "").trim();
@@ -525,7 +548,8 @@ function criarCard(item){
     ${precoDe && precoDe !== precoPor ? `<div class="preco-antigo">${escapar(precoDe)}</div>` : ""}
     <div class="preco">${escapar(precoPor || "Confira o preço")}</div>
     <div class="imagem-tipo">${ilustrativa ? "Imagem ilustrativa" : (item.imagem ? "Imagem do produto" : "")}</div>
-    <div class="timer-oferta" data-expira="${expiraEm(item)}">⏳ Termina em <strong>${formatarTempoRestante(expiraEm(item) - Date.now())}</strong></div>
+    <div class="timer-oferta" data-expira="${expiraEm(item)}">⏳ Sai da vitrine em <strong>${formatarTempoRestante(expiraEm(item) - Date.now())}</strong></div>
+    <div class="imagem-tipo">Prazo da publicação; não confirma a duração da oferta na loja.</div>
     <div class="loja">${escapar(loja)}</div>
     <div class="link-afiliado-aviso">Publicidade • link de afiliado. O Junão Promoção pode receber comissão se houver compra elegível.</div>
     <a class="botao-oferta" href="${escapar(link || "#")}" target="_blank" rel="sponsored noopener noreferrer" aria-label="Ver oferta em ${escapar(loja)} - link de afiliado">Ver oferta ↗</a>
@@ -628,7 +652,7 @@ function renderizar(){
   const favs = favoritos();
   let itens = todasPromocoes.filter(item=>ofertaAtiva(item));
 
-  if(lojaAtual !== "todas") itens = itens.filter(x=>nomeLoja(x.loja) === lojaAtual);
+  if(lojaAtual !== "todas") itens = itens.filter(x=>nomeLoja(x.loja,x) === lojaAtual);
   if(categoriaAtual !== "todas") itens = itens.filter(x=>categoriaItem(x) === categoriaAtual);
   if(buscaAtual){
     itens = itens.filter(x=>normalizar([x.titulo,x.loja,x.categoriaNome].join(" ")).includes(buscaAtual));
@@ -647,7 +671,9 @@ function renderizar(){
   paginacaoEl.innerHTML = "";
 
   if(!itens.length){
-    listaProdutos.innerHTML = `<div class="vazio"><h3>Nenhuma oferta encontrada</h3><p>Não há ofertas ativas nas últimas 24 horas para este filtro. Aguarde novas promoções.</p></div>`;
+    listaProdutos.innerHTML = lojaAtual === "Amazon" && CONFIG.amazonPausada
+      ? `<div class="vazio"><h3>Divulgação Amazon pausada</h3><p>Os links Amazon estão pausados enquanto a participação no Programa de Associados é regularizada.</p></div>`
+      : `<div class="vazio"><h3>Nenhuma oferta encontrada</h3><p>Não há publicações recentes e elegíveis para este filtro.</p></div>`;
     return;
   }
 
@@ -727,8 +753,8 @@ document.getElementById("abrirAfiliados").addEventListener("click",()=>{
   abrirModal("Transparência de afiliados",`
     <p><strong>O Junão Promoção é um site independente.</strong> Alguns links publicados são links de afiliado. Quando o visitante clica voluntariamente e conclui uma compra elegível na loja, o Junão Promoção pode receber comissão ou bonificação, sem acréscimo no preço por causa do link.</p>
     <h3>Amazon</h3>
-    <p><strong>Como associado da Amazon, eu ganho com compras qualificadas.</strong></p>
-    <p>Links comerciais da Amazon são identificados como publicidade/link de afiliado próximos ao botão de saída para a loja.</p>
+    <p>Divulgação e links de associado pausados enquanto a participação no programa é regularizada.</p>
+    <p>Uma retomada depende de participação válida, novo ID atribuído pela Amazon e validação dos links e das fontes de conteúdo.</p>
     <h3>Mercado Livre</h3>
     <p>O Junão Promoção participa do Programa de Afiliados e Criadores do Mercado Livre e se identifica como afiliado quando divulga links do programa.</p>
     <h3>Shopee</h3>
