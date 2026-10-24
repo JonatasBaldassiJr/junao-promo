@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Lacta Oreo - Wafer Recheado Sabor Chocolate Pacote 540g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 51,03",
+    "precoPor": "R$ 26,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71GFgZMDwmL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B043RBED4",
+    "linkWhatsapp": "https://link.amazon/B043RBED4",
+    "timestamp": 1792810132000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792896531090,
+    "amazonTracking": {
+      "url": "https://link.amazon/B043RBED4",
+      "destination": "https://www.amazon.com.br/dp/B0DM6M3V28?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&linkId=38055b49a4da7e26d1f5a33f6a64d5cb&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 51,03 ➜ R$ 26,99 no Programe e Poupe"
+  },
+  {
     "titulo": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6439,21 +6461,6 @@
     "link": "https://meli.la/2ed9QtN",
     "linkWhatsapp": "https://meli.la/2ed9QtN",
     "timestamp": 1792704804000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Fone Bluetooth 5.4 Sem Fio Tws Kaidi Kd780 Graves Potentes Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 39,42",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_827212-MLB104466894488_012026-O.jpg",
-    "link": "https://meli.la/2n2HesD",
-    "linkWhatsapp": "https://meli.la/2n2HesD",
-    "timestamp": 1792703967000,
     "imagemIlustrativa": false
   }
 ]
