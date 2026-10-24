@@ -1,5 +1,90 @@
 [
   {
+    "titulo": "Electrolux Kit 8 Potes Herméticos Plástico Multiuso Vedação Silicone",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 89,90",
+    "precoPor": "R$ 56,31",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51wgNlpJxjL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0aLiJUqX",
+    "linkWhatsapp": "https://link.amazon/B0aLiJUqX",
+    "timestamp": 1792883334000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792969733199,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0aLiJUqX",
+      "destination": "https://www.amazon.com.br/dp/B09XJK1XS1?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Dove Leave-In Nutrição + Tri-Óleos 110ml Pump",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 46,44",
+    "precoPor": "R$ 29,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51Q02b4ARfL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0cQCMRpL",
+    "linkWhatsapp": "https://link.amazon/B0cQCMRpL",
+    "timestamp": 1792882823000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792969221592,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0cQCMRpL",
+      "destination": "https://www.amazon.com.br/dp/B0FG1S3F4G?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Colgate Sensitive Pro Alívio Imediato Xtreme Creme Dental, 3x90g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,88",
+    "precoPor": "R$ 23,44",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/714O0BAOA+L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B005p0F1A",
+    "linkWhatsapp": "https://link.amazon/B005p0F1A",
+    "timestamp": 1792882705000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792969104098,
+    "amazonTracking": {
+      "url": "https://link.amazon/B005p0F1A",
+      "destination": "https://www.amazon.com.br/dp/B0DPGHBLMY?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Personal Papel Higiênico Vip Folha Dupla, 16 Unidades Branco",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 28,79",
+    "precoPor": "R$ 19,47",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71KaKveIWNL._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B07D5LTDT4?tag=junaopromobr-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B07D5LTDT4?tag=junaopromobr-20",
+    "timestamp": 1792882602000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792968999952,
+    "amazonTracking": {
+      "url": "https://www.amazon.com.br/dp/B07D5LTDT4?tag=junaopromobr-20",
+      "destination": "https://www.amazon.com.br/dp/B07D5LTDT4?tag=junaopromobr-20",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 28,79 ➜ R$ 19,47 no Programe e Poupe"
+  },
+  {
     "titulo": "Brinox - Panela com Tampa 16X8Cm 1,3L Ceramic Life Suprema - Vanilla",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6793,66 +6878,6 @@
     "link": "https://meli.la/2ag7u8Q",
     "linkWhatsapp": "https://meli.la/2ag7u8Q",
     "timestamp": 1792775000000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "iPhone 17 Pro 256GB - Azul-profundo - Distribuidor Autorizado",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 11.499,00",
-    "precoPor": "R$ 7.999,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_955993-MLA95356227225_102025-O.jpg",
-    "link": "https://meli.la/2RR88Cb",
-    "linkWhatsapp": "https://meli.la/2RR88Cb",
-    "timestamp": 1792774831000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Paleta De Sombras Refresh Bt Coca-cola Bruna Tavares",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 146,90",
-    "precoPor": "R$ 41,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_839286-MLA100852698024_122025-O.jpg",
-    "link": "https://meli.la/19wVJZs",
-    "linkWhatsapp": "https://meli.la/19wVJZs",
-    "timestamp": 1792774542000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Blush Stick - Bruna Tavares - Bt Coca Cola - Multifuncional Flush",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 89,90",
-    "precoPor": "R$ 42,25",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_995144-MLA111283373086_052026-O.jpg",
-    "link": "https://meli.la/2Lf2VZr",
-    "linkWhatsapp": "https://meli.la/2Lf2VZr",
-    "timestamp": 1792774468000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Whey Isolado Isofreak 900g Sabor: Chocolate - Fórmula Avançada Com 23g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 179,99",
-    "precoPor": "R$ 78,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_901913-MLA99553813558_122025-O.jpg",
-    "link": "https://meli.la/19x9PXg",
-    "linkWhatsapp": "https://meli.la/19x9PXg",
-    "timestamp": 1792774389000,
     "imagemIlustrativa": false
   }
 ]
