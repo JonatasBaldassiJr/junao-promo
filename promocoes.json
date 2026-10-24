@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "Brinox - Panela com Tampa 16X8Cm 1,3L Ceramic Life Suprema - Vanilla",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 97,04",
+    "precoPor": "R$ 44,92",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/412PVLUxDlL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B06WQRIsq",
+    "linkWhatsapp": "https://link.amazon/B06WQRIsq",
+    "timestamp": 1792881653000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792968051360,
+    "amazonTracking": {
+      "url": "https://link.amazon/B06WQRIsq",
+      "destination": "https://www.amazon.com.br/dp/B0CYNYRY52?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Sparta Maleta de ferramentas kit com 165 peças",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 165,00",
+    "precoPor": "R$ 69,92",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61eTsWLcHpL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0bLoH9yU",
+    "linkWhatsapp": "https://link.amazon/B0bLoH9yU",
+    "timestamp": 1792881530000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792967928697,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0bLoH9yU",
+      "destination": "https://www.amazon.com.br/dp/B0BBJPCMQM?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Cadeira Escritório Ergonômica Suporte Lombar Encosto Cabeça Regulável",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 227,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61tZpPJamFL._AC_SL1024_.jpg",
+    "link": "https://link.amazon/B09V19QGH",
+    "linkWhatsapp": "https://link.amazon/B09V19QGH",
+    "timestamp": 1792881372000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792967770600,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09V19QGH",
+      "destination": "https://www.amazon.com.br/dp/B0HHJT4LLF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom CUPOM15BR"
+  },
+  {
     "titulo": "Attracione Men perfume Masculino Com Feromônios Ativados 25 mL",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6789,51 +6853,6 @@
     "link": "https://meli.la/19x9PXg",
     "linkWhatsapp": "https://meli.la/19x9PXg",
     "timestamp": 1792774389000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Sapateira 4 Andares 8 Pares de calçados Multiuso Para Casa Organizador",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 18,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m2b0n8f8bfjl1d",
-    "link": "https://s.shopee.com.br/1W0BsMW5D5",
-    "linkWhatsapp": "https://s.shopee.com.br/1W0BsMW5D5",
-    "timestamp": 1792774312000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "4 Caixas Organizadora De Guarda Roupa Cesto Gaveta Dobrável Cinza",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,80",
-    "precoPor": "R$ 57,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_692222-MLB82403235469_022025-O.jpg",
-    "link": "https://meli.la/1mTC5tk",
-    "linkWhatsapp": "https://meli.la/1mTC5tk",
-    "timestamp": 1792774216000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Jaqueta Penalty Treino Essencial Print Preto G Lisa",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 340,49",
-    "precoPor": "R$ 179,53",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_754581-MLB113346712881_062026-O.jpg",
-    "link": "https://meli.la/32km1fT",
-    "linkWhatsapp": "https://meli.la/32km1fT",
-    "timestamp": 1792773715000,
     "imagemIlustrativa": false
   }
 ]
