@@ -1,5 +1,70 @@
 [
   {
+    "titulo": "WAP Mixer Elétrico 3 em 1 com Processador, Miniprocessador e Batedor",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 329,90",
+    "precoPor": "R$ 169,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61JZvofH46L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0gDzO7Yp",
+    "linkWhatsapp": "https://link.amazon/B0gDzO7Yp",
+    "timestamp": 1792809936000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792896335299,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0gDzO7Yp",
+      "destination": "https://www.amazon.com.br/dp/B0DCPBKT3Q?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&linkId=721c2c7c3979c3ba6b1d05c6d8f027c3&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Downy Amaciante Concentrado Líquido Brisa Intenso 3L – Rende 12L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 71,16",
+    "precoPor": "R$ 44,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61a1dtQPN5L._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B04UMMD03",
+    "linkWhatsapp": "https://link.amazon/B04UMMD03",
+    "timestamp": 1792809469000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792895868068,
+    "amazonTracking": {
+      "url": "https://link.amazon/B04UMMD03",
+      "destination": "https://www.amazon.com.br/dp/B0C6NJWJ11?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&linkId=33002ecf1bb598931776a3112f7e2fe5&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 71,16 ➜ R$ 44,64 no Programe e Poupe"
+  },
+  {
+    "titulo": "Nescau Cereal Matinal Tradicional Leve 770G Embalagem Econômica",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 26,19",
+    "precoPor": "R$ 16,11",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81+KO3iN3SL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B06pt8G3N",
+    "linkWhatsapp": "https://link.amazon/B06pt8G3N",
+    "timestamp": 1792809109000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792895506368,
+    "amazonTracking": {
+      "url": "https://link.amazon/B06pt8G3N",
+      "destination": "https://www.amazon.com.br/dp/B0CJ9Z5V7L?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&linkId=a121a21a433cead03552fd32d5f9f57f&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 26,19 ➜ R$ 16,11 no Programe e Poupe"
+  },
+  {
     "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6389,51 +6454,6 @@
     "link": "https://meli.la/2n2HesD",
     "linkWhatsapp": "https://meli.la/2n2HesD",
     "timestamp": 1792703967000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Cozinha Pérola Com Rodapé 5 Peças Torre Quente Cc Branco",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.372,00",
-    "precoPor": "R$ 1.929,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_799917-MLA105879825594_022026-O.jpg",
-    "link": "https://meli.la/1DhBd4f",
-    "linkWhatsapp": "https://meli.la/1DhBd4f",
-    "timestamp": 1792703703000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Mercusys MC510 Câmera de Segurança Wi-Fi Externa 2K 3MP, Rotação 360°",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 219,90",
-    "precoPor": "R$ 134,25",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_840426-MLA104261970721_012026-O.jpg",
-    "link": "https://meli.la/2iysEAu",
-    "linkWhatsapp": "https://meli.la/2iysEAu",
-    "timestamp": 1792703620000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Micro-ondas Consul 32L Branco com Menu Fácil - CMS46AB",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 639,00",
-    "precoPor": "R$ 557,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_676017-MLA100033381819_122025-O.jpg",
-    "link": "https://meli.la/2MUp9vE",
-    "linkWhatsapp": "https://meli.la/2MUp9vE",
-    "timestamp": 1792703014000,
     "imagemIlustrativa": false
   }
 ]
