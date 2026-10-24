@@ -1,5 +1,64 @@
 [
   {
+    "titulo": "Camiseta Dry-fit Preta Caveira Unisex Dark Lab",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,31",
+    "precoPor": "R$ 29,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_706587-MLB115944612831_082026-F.jpg",
+    "link": "https://meli.la/1qkG3Yr",
+    "linkWhatsapp": "https://meli.la/1qkG3Yr",
+    "timestamp": 1792884963000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792971361970
+  },
+  {
+    "titulo": "Pringles Pack Promo Salgadinho de Batata Frita 3 Sabores - Original",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 29,99",
+    "precoPor": "R$ 23,66",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/712GQBGRaHL._AC_SL1280_.jpg",
+    "link": "https://link.amazon/B0f9DfDj0",
+    "linkWhatsapp": "https://link.amazon/B0f9DfDj0",
+    "timestamp": 1792884502000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792970900469,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0f9DfDj0",
+      "destination": "https://www.amazon.com.br/dp/B0F35GPLGV?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "NIVEA Creme Hidratante Lata 56g, Hidratação Profunda 24h, Corporal",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 24,26",
+    "precoPor": "R$ 18,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/617+4smiitL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0hRTrj9R",
+    "linkWhatsapp": "https://link.amazon/B0hRTrj9R",
+    "timestamp": 1792884440000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792970838089,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0hRTrj9R",
+      "destination": "https://www.amazon.com.br/dp/B079VTJLMZ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom 15CUPOM"
+  },
+  {
     "titulo": "Electrolux Kit 8 Potes Herméticos Plástico Multiuso Vedação Silicone",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6833,51 +6892,6 @@
     "link": "https://meli.la/2s7NCsj",
     "linkWhatsapp": "https://meli.la/2s7NCsj",
     "timestamp": 1792775272000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Camisa Gola Polo Masculina Pique Premium Algodão Confortável",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 54,90",
-    "precoPor": "R$ 33,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_804138-MLB113502958558_072026-O.jpg",
-    "link": "https://meli.la/1QXq189",
-    "linkWhatsapp": "https://meli.la/1QXq189",
-    "timestamp": 1792775211000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Tênis Kappa Park 2.0 Original Unissex Caminhada Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,99",
-    "precoPor": "R$ 85,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_636204-MLB92283366432_092025-O.jpg",
-    "link": "https://meli.la/2seWsDW",
-    "linkWhatsapp": "https://meli.la/2seWsDW",
-    "timestamp": 1792775126000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Creatina Dark Lab Premium Pure em pó Sem sabor x 500g",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,80",
-    "precoPor": "R$ 49,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_734286-MLA115263082370_082026-O.jpg",
-    "link": "https://meli.la/2ag7u8Q",
-    "linkWhatsapp": "https://meli.la/2ag7u8Q",
-    "timestamp": 1792775000000,
     "imagemIlustrativa": false
   }
 ]
