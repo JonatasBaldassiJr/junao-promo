@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "MONDIAL Batedeira Prática, Preto, 400W, 110V - B-44-B",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 139,90",
+    "precoPor": "R$ 75,94",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71a-aiH-n+L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0bnPwUX9",
+    "linkWhatsapp": "https://link.amazon/B0bnPwUX9",
+    "timestamp": 1792836693000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792923091486,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0bnPwUX9",
+      "destination": "https://www.amazon.com.br/dp/B08BXBFCTN?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&linkId=cc270b25a3fcae61b9f202a4aa7a6975&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Lacta Oreo - Wafer Recheado Sabor Chocolate Pacote 540g",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6446,21 +6467,6 @@
     "link": "https://meli.la/1ojMwUj",
     "linkWhatsapp": "https://meli.la/1ojMwUj",
     "timestamp": 1792705073000,
-    "imagemIlustrativa": false
-  },
-  {
-    "titulo": "Kit 2 Blusa Academia Feminina Life Style",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 69,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_742431-MLB112260417030_062026-O.jpg",
-    "link": "https://meli.la/2ed9QtN",
-    "linkWhatsapp": "https://meli.la/2ed9QtN",
-    "timestamp": 1792704804000,
     "imagemIlustrativa": false
   }
 ]
