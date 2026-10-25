@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "Heinz Ketchup Sache Tradicional 2KG",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 57,79",
+    "precoPor": "R$ 35,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/619-ZuoeA2L._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0eFQQ1Ci",
+    "linkWhatsapp": "https://link.amazon/B0eFQQ1Ci",
+    "timestamp": 1792972097000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793058495397,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0eFQQ1Ci",
+      "destination": "https://www.amazon.com.br/dp/B07XSK9BHQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 57,79 ➜ R$ 35,90 no Programe e Poupe"
+  },
+  {
+    "titulo": "Deo Colônia Natura Humor Da Minha Vida 75ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 164,90",
+    "precoPor": "R$ 60,67",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822266-MLA100853725617_122025-F.jpg",
+    "link": "https://meli.la/2cVB2dg",
+    "linkWhatsapp": "https://meli.la/2cVB2dg",
+    "timestamp": 1792971330000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793057728079
+  },
+  {
     "titulo": "Kit Jarra De Vidro 1 Litro Com Tampa + 4 Copos Choppinho Kit E 4",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6879,37 +6917,5 @@
     "timestamp": 1792871162000,
     "imagemIlustrativa": false,
     "expiresAt": 1792957560890
-  },
-  {
-    "titulo": "Kit 2 Cobertor Mantinha Microfibra Casal Manta Macia Diversas Cores",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 58,90",
-    "precoPor": "R$ 43,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_802073-MLA100073102841_122025-F.jpg",
-    "link": "https://meli.la/2UyAUJi",
-    "linkWhatsapp": "https://meli.la/2UyAUJi",
-    "timestamp": 1792871093000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792957491954
-  },
-  {
-    "titulo": "Espremedor Premium Mondial 30W E-02",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 104,90",
-    "precoPor": "R$ 61,29",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_852738-MLA99700511468_122025-F.jpg",
-    "link": "https://meli.la/1X1cPKy",
-    "linkWhatsapp": "https://meli.la/1X1cPKy",
-    "timestamp": 1792870292000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792956690590
   }
 ]
