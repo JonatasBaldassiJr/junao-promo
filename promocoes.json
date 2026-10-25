@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Kit 30 Cabides de Madeira Antiderrapantes IRSINA com Gancho Giratório",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 199,00",
+    "precoPor": "R$ 117,36",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_763202-MLA99983293037_112025-F.jpg",
+    "link": "https://meli.la/21QN4G1",
+    "linkWhatsapp": "https://meli.la/21QN4G1",
+    "timestamp": 1792891502000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792977900402
+  },
+  {
+    "titulo": "Chiclete Trident X Gamers Citrus Mix - Caixa com 6 unid de 48,3g",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 83,94",
+    "precoPor": "R$ 48,48",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/714CYh+DiYL._AC_SL1500_.jpg",
+    "link": "https://www.amazon.com.br/dp/B0DXQYHD2F?tag=junaopromobr-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B0DXQYHD2F?tag=junaopromobr-20",
+    "timestamp": 1792891016000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792977414553,
+    "amazonTracking": {
+      "url": "https://www.amazon.com.br/dp/B0DXQYHD2F?tag=junaopromobr-20",
+      "destination": "https://www.amazon.com.br/dp/B0DXQYHD2F?tag=junaopromobr-20",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Argan Óleo Reparador 50ml, Lola Cosmetics",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6924,37 +6961,5 @@
     "timestamp": 1792778977000,
     "imagemIlustrativa": false,
     "expiresAt": 1792865376158
-  },
-  {
-    "titulo": "Controle Gamer Sem Fio Compatível Pc Ps4 Bluetooth Joystick Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 82,88",
-    "precoPor": "R$ 47,80",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_923769-MLB117905634363_092026-F.jpg",
-    "link": "https://meli.la/15GG3ta",
-    "linkWhatsapp": "https://meli.la/15GG3ta",
-    "timestamp": 1792778913000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792865312956
-  },
-  {
-    "titulo": "VITAMINA B12 Metilcobalamina - Fórmula com Máxima Pureza",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 71,77",
-    "precoPor": "R$ 42,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_680174-MLA114764067791_072026-F.jpg",
-    "link": "https://meli.la/14kNNnY",
-    "linkWhatsapp": "https://meli.la/14kNNnY",
-    "timestamp": 1792778849000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792865248060
   }
 ]
