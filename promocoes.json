@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Kit Growth: Whey Protein Basic Chocolate 1kg + Coqueteleira Shaker",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 85,31",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_761536-MLB114206150934_082026-F.jpg",
+    "link": "https://meli.la/2mbNMFv",
+    "linkWhatsapp": "https://meli.la/2mbNMFv",
+    "timestamp": 1792923048000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793009446357
+  },
+  {
     "titulo": "Percabonato de Sódio 1 kg Alvejante sem Cloro em Pó com Oxigênio Ativo",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6995,21 +7011,5 @@
     "timestamp": 1792781515000,
     "imagemIlustrativa": false,
     "expiresAt": 1792867914674
-  },
-  {
-    "titulo": "Samsung Smart TV 58\" Crystal UHD 4K 2026 + Soundbar HW-B400F",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 2.999,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_619198-MLA113462666416_072026-F.jpg",
-    "link": "https://meli.la/2a8pN1f",
-    "linkWhatsapp": "https://meli.la/2a8pN1f",
-    "timestamp": 1792781461000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792867859664
   }
 ]
