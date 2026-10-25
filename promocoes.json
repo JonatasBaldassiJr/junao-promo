@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 35,90",
+    "precoPor": "R$ 21,74",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/612MPCMzhxL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B08KAUFyP",
+    "linkWhatsapp": "https://link.amazon/B08KAUFyP",
+    "timestamp": 1792896216000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792982614253,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08KAUFyP",
+      "destination": "https://www.amazon.com.br/dp/B0CPTB83ZW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Bombom GAROTO Serenata de Amor 825g",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 96,59",
+    "precoPor": "R$ 52,72",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61dxr1V8-ZL._AC_SL1000_.jpg",
+    "link": "https://www.amazon.com.br/dp/B08636ZVJ9?tag=junaopromobr-20",
+    "linkWhatsapp": "https://www.amazon.com.br/dp/B08636ZVJ9?tag=junaopromobr-20",
+    "timestamp": 1792895684000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792982081961,
+    "amazonTracking": {
+      "url": "https://www.amazon.com.br/dp/B08636ZVJ9?tag=junaopromobr-20",
+      "destination": "https://www.amazon.com.br/dp/B08636ZVJ9?tag=junaopromobr-20",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit 2 Travesseiros 70x50 Antialérgico Lavável Fibra Siliconada Toque",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6964,37 +7006,5 @@
     "timestamp": 1792781257000,
     "imagemIlustrativa": false,
     "expiresAt": 1792867655986
-  },
-  {
-    "titulo": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.149,00",
-    "precoPor": "R$ 1.649,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_739870-MLA117019190220_102026-F.jpg",
-    "link": "https://meli.la/2TbvoBV",
-    "linkWhatsapp": "https://meli.la/2TbvoBV",
-    "timestamp": 1792781198000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792867596874
-  },
-  {
-    "titulo": "Kit Wella Professionals Invigo Nutri-enrich + Oil Reflection",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 481,70",
-    "precoPor": "R$ 219,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_801899-MLB106543148142_022026-F.jpg",
-    "link": "https://meli.la/15mXjkT",
-    "linkWhatsapp": "https://meli.la/15mXjkT",
-    "timestamp": 1792780662000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792867061572
   }
 ]
