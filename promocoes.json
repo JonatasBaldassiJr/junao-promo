@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Percabonato de Sódio 1 kg Alvejante sem Cloro em Pó com Oxigênio Ativo",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 21,99",
+    "precoPor": "R$ 19,79",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81RN7nVpxmL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B02nF4y6q",
+    "linkWhatsapp": "https://link.amazon/B02nF4y6q",
+    "timestamp": 1792897127000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1792983525376,
+    "amazonTracking": {
+      "url": "https://link.amazon/B02nF4y6q",
+      "destination": "https://www.amazon.com.br/dp/B0HKWXB7RW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Pampers Sabonete Liquido Glicerina 400ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6990,21 +7011,5 @@
     "timestamp": 1792781461000,
     "imagemIlustrativa": false,
     "expiresAt": 1792867859664
-  },
-  {
-    "titulo": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.395,00",
-    "precoPor": "R$ 1.471,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_741946-MLA107875422514_032026-F.jpg",
-    "link": "https://meli.la/2pHZdrS",
-    "linkWhatsapp": "https://meli.la/2pHZdrS",
-    "timestamp": 1792781257000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792867655986
   }
 ]
