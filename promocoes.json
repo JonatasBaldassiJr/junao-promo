@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Tênis Mizuno Wave Dynasty Masculino Corrida Caminhada Treino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,90",
+    "precoPor": "R$ 324,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_629407-MLB115385016263_072026-F.jpg",
+    "link": "https://meli.la/2KiqMVF",
+    "linkWhatsapp": "https://meli.la/2KiqMVF",
+    "timestamp": 1793013310000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793099709056
+  },
+  {
+    "titulo": "Kit 50 Cabide Adulto Preto Reforçado Organizador Combate",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 32,99",
+    "precoPor": "R$ 26,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_878093-MLA117972500644_102026-F.jpg",
+    "link": "https://meli.la/1CS3SuK",
+    "linkWhatsapp": "https://meli.la/1CS3SuK",
+    "timestamp": 1793013150000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793099548287
+  },
+  {
+    "titulo": "Copo Térmico para Cerveja Stanley Pint Adventure Black 2.0 354ml",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 135,00",
+    "precoPor": "R$ 71,20",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_788189-MLA105021307493_012026-F.jpg",
+    "link": "https://meli.la/2fzyF6J",
+    "linkWhatsapp": "https://meli.la/2fzyF6J",
+    "timestamp": 1793012331000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793098729067
+  },
+  {
     "titulo": "Brilhante Limpeza Total - Lava Roupas Líquido 3L",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6827,59 +6875,5 @@
       "destination": "https://www.amazon.com.br/dp/B07Z55NZ7G?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Calça Linho Masculino Social Casual C/bolsos Tecido Premium",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,90",
-    "precoPor": "R$ 45,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_746712-MLB98490566812_112025-F.jpg",
-    "link": "https://meli.la/1ZWeoEE",
-    "linkWhatsapp": "https://meli.la/1ZWeoEE",
-    "timestamp": 1792885608000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792972006917
-  },
-  {
-    "titulo": "Pisca Cortina 300 Leds 3x3m Usb Ip44 8 Modos Iluminação Luzes Fada",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,87",
-    "precoPor": "R$ 25,67",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_918412-MLA116956756594_092026-F.jpg",
-    "link": "https://meli.la/1V2RB3M",
-    "linkWhatsapp": "https://meli.la/1V2RB3M",
-    "timestamp": 1792885489000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792971887053
-  },
-  {
-    "titulo": "Nescau Cereal Matinal Tradicional 770G",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 31,19",
-    "precoPor": "R$ 17,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/81NbjYdeO9L._AC_SL1500_.jpg",
-    "link": "https://www.amazon.com.br/dp/B081QVY2TD?tag=junaopromobr-20",
-    "linkWhatsapp": "https://www.amazon.com.br/dp/B081QVY2TD?tag=junaopromobr-20",
-    "timestamp": 1792885424000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792971822896,
-    "amazonTracking": {
-      "url": "https://www.amazon.com.br/dp/B081QVY2TD?tag=junaopromobr-20",
-      "destination": "https://www.amazon.com.br/dp/B081QVY2TD?tag=junaopromobr-20",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 31,19 ➜ R$ 17,00 no Programe e Poupe"
   }
 ]
