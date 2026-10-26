@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Blusa Moletom Canguru Liso Básico Premium Várias Cores G Preto",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 48,99",
+    "precoPor": "R$ 38,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_976126-MLB116427917021_082026-F.jpg",
+    "link": "https://meli.la/2WFUiwp",
+    "linkWhatsapp": "https://meli.la/2WFUiwp",
+    "timestamp": 1792976687000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793063085183
+  },
+  {
     "titulo": "Bolsa Para Marmita Zíper Meimi Amores Preto Nylon Semi Impermeável",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6907,21 +6923,5 @@
     "timestamp": 1792872172000,
     "imagemIlustrativa": false,
     "expiresAt": 1792958570752
-  },
-  {
-    "titulo": "Kit 8 Peças Dry Fit 4 Camisetas + 4 Shorts Academia Sandrini Sortidos",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 310,38",
-    "precoPor": "R$ 126,09",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_765923-MLB110376576985_042026-F.jpg",
-    "link": "https://meli.la/2CczjN3",
-    "linkWhatsapp": "https://meli.la/2CczjN3",
-    "timestamp": 1792871911000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792958309677
   }
 ]
