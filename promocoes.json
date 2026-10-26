@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Cadeira Escritório Astrella Vega Ergonômica E Giratória Preto Malha",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 999,00",
+    "precoPor": "R$ 371,47",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_752499-MLA107901004448_032026-F.jpg",
+    "link": "https://meli.la/2GkYW4z",
+    "linkWhatsapp": "https://meli.la/2GkYW4z",
+    "timestamp": 1792978671000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793065069753
+  },
+  {
     "titulo": "Blusa Moletom Canguru Liso Básico Premium Várias Cores G Preto",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6907,21 +6923,5 @@
       "destination": "https://www.amazon.com.br/dp/B0DZ34RB8H?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Capacete Para Moto Aberto Pro Tork New Liberty Three",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 129,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_721052-MLB119273145937_102026-F.jpg",
-    "link": "https://meli.la/1hiaLst",
-    "linkWhatsapp": "https://meli.la/1hiaLst",
-    "timestamp": 1792872172000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792958570752
   }
 ]
