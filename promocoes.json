@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Powermaid Mop Spray com Gatilho e Dispenser para Produtos",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 61,02",
+    "precoPor": "R$ 38,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/31PMnQfWw5L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0gcj2ngs",
+    "linkWhatsapp": "https://link.amazon/B0gcj2ngs",
+    "timestamp": 1793009431000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793095829567,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0gcj2ngs",
+      "destination": "https://www.amazon.com.br/dp/B0BPK5SJW6?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6913,21 +6934,5 @@
       "destination": "https://www.amazon.com.br/dp/B07MBXDB51?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Kit 3 Calças Jogger Masculinas De Tactel Com Elastano Ziper",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 185,57",
-    "precoPor": "R$ 99,39",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_623337-MLB93314572313_092025-F.jpg",
-    "link": "https://meli.la/1ekU7fW",
-    "linkWhatsapp": "https://meli.la/1ekU7fW",
-    "timestamp": 1792876427000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792962825765
   }
 ]
