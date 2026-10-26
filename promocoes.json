@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Robô Aspirador E Passa Pano 8000pa 3 Em 1 Bivolt Preto 127/220v",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.999,00",
+    "precoPor": "R$ 602,06",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_726027-MLB114720003960_082026-F.jpg",
+    "link": "https://meli.la/1d9cV4u",
+    "linkWhatsapp": "https://meli.la/1d9cV4u",
+    "timestamp": 1792979253000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793065651462
+  },
+  {
     "titulo": "Cadeira Escritório Astrella Vega Ergonômica E Giratória Preto Malha",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6902,26 +6918,5 @@
     "timestamp": 1792872863000,
     "imagemIlustrativa": false,
     "expiresAt": 1792959262268
-  },
-  {
-    "titulo": "The Perfect Top Feminino",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 119,00",
-    "precoPor": "R$ 75,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51Y0tiLZObL._AC_SL1100_.jpg",
-    "link": "https://link.amazon/B00V3OS49",
-    "linkWhatsapp": "https://link.amazon/B00V3OS49",
-    "timestamp": 1792872304000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1792958702498,
-    "amazonTracking": {
-      "url": "https://link.amazon/B00V3OS49",
-      "destination": "https://www.amazon.com.br/dp/B0DZ34RB8H?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
