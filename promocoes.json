@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "Sabonete em Barra NIVEA Creme Care, 90g, Pack com 6 Unidades",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 24,90",
+    "precoPor": "R$ 17,81",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61w8-DHgOOL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B08ojlLsq",
+    "linkWhatsapp": "https://link.amazon/B08ojlLsq",
+    "timestamp": 1793114356000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793200754769,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08ojlLsq",
+      "destination": "https://www.amazon.com.br/dp/B08VGBZGWV?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 24,90 ➜ R$ 17,81 no Programe e Poupe\n🎟️ Ative o cupom na página"
+  },
+  {
+    "titulo": "Perfume Arabe Yara Elixir Feminino Eau De Parfum 100ml Lipx",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 299,00",
+    "precoPor": "R$ 188,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_817473-MLA112456600092_062026-F.jpg",
+    "link": "https://meli.la/1VKAGnR",
+    "linkWhatsapp": "https://meli.la/1VKAGnR",
+    "timestamp": 1793114261000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793200659958
+  },
+  {
     "titulo": "4em1 Kit Vassoura E Pá Multiuso Ajustável Limpeza Piso Pelos",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6762,43 +6800,5 @@
     "timestamp": 1793025520000,
     "imagemIlustrativa": false,
     "expiresAt": 1793111918969
-  },
-  {
-    "titulo": "NIVEA Kit Loção Hidratante Milk Pele Seca a Extrasseca 400ml (2",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 43,90",
-    "precoPor": "R$ 31,41",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71Exl60wVRL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B01nDeNfr",
-    "linkWhatsapp": "https://link.amazon/B01nDeNfr",
-    "timestamp": 1793025451000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793111850174,
-    "amazonTracking": {
-      "url": "https://link.amazon/B01nDeNfr",
-      "destination": "https://www.amazon.com.br/dp/B0DK4975DJ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 43,90 ➜ R$ 31,41 no Programe e Poupe"
-  },
-  {
-    "titulo": "Perfume CK IN2U EDT Feminino 100ml Calvin Klein",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 174,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_812604-MLA45825009443_052021-F.jpg",
-    "link": "https://meli.la/32MfVhG",
-    "linkWhatsapp": "https://meli.la/32MfVhG",
-    "timestamp": 1793025247000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793111645586
   }
 ]
