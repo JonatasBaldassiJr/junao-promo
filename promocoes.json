@@ -1,5 +1,49 @@
 [
   {
+    "titulo": "Gillette Mach3, Carga para Aparelho de Barbear com 3 Lâminas 8",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 68,77",
+    "precoPor": "R$ 50,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71cPzNeGU4L._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B03Kyec1k",
+    "linkWhatsapp": "https://link.amazon/B03Kyec1k",
+    "timestamp": 1793095990000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793182389375,
+    "amazonTracking": {
+      "url": "https://link.amazon/B03Kyec1k",
+      "destination": "https://www.amazon.com.br/dp/B07BKBTMLY?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 68,77 ➜ R$ 50,05 no Programe e Poupe"
+  },
+  {
+    "titulo": "Papel Higiênico Neve Supreme Folha Tripla Leve 24 Pague 21 20 Metros",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 54,99",
+    "precoPor": "R$ 37,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/711CVZnpmiL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B05dKxae7",
+    "linkWhatsapp": "https://link.amazon/B05dKxae7",
+    "timestamp": 1793095943000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793182341391,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05dKxae7",
+      "destination": "https://www.amazon.com.br/dp/B07FNFPSWL?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 54,99 ➜ R$ 37,99 no Programe e Poupe"
+  },
+  {
     "titulo": "Cotonetes de Algodão com Hastes Flexíveis, Retangular, 300 Unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6731,43 +6775,5 @@
     "timestamp": 1792972785000,
     "imagemIlustrativa": false,
     "expiresAt": 1793059183372
-  },
-  {
-    "titulo": "Heinz Ketchup Sache Tradicional 2KG",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 57,79",
-    "precoPor": "R$ 35,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/619-ZuoeA2L._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B0eFQQ1Ci",
-    "linkWhatsapp": "https://link.amazon/B0eFQQ1Ci",
-    "timestamp": 1792972097000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793058495397,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0eFQQ1Ci",
-      "destination": "https://www.amazon.com.br/dp/B07XSK9BHQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 57,79 ➜ R$ 35,90 no Programe e Poupe"
-  },
-  {
-    "titulo": "Deo Colônia Natura Humor Da Minha Vida 75ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 164,90",
-    "precoPor": "R$ 60,67",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_822266-MLA100853725617_122025-F.jpg",
-    "link": "https://meli.la/2cVB2dg",
-    "linkWhatsapp": "https://meli.la/2cVB2dg",
-    "timestamp": 1792971330000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793057728079
   }
 ]
