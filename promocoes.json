@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Kit 4 Pacotes Café Especial Torrado e Moído Coffee Mais Variedades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 99,15",
+    "precoPor": "R$ 84,98",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61uSw3RHxpL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B04fT1QTa",
+    "linkWhatsapp": "https://link.amazon/B04fT1QTa",
+    "timestamp": 1793099287000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793185685462,
+    "amazonTracking": {
+      "url": "https://link.amazon/B04fT1QTa",
+      "destination": "https://www.amazon.com.br/dp/B0CJT5FJ97?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Kit 4 Tops Alcinha Sem Bojo Academia Fitness Roupas Feminina",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 53,90",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_988963-MLB115248654963_072026-F.jpg",
+    "link": "https://meli.la/1BL7yw4",
+    "linkWhatsapp": "https://meli.la/1BL7yw4",
+    "timestamp": 1793099209000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793185607173
+  },
+  {
     "titulo": "Escrivaninha/mesa Escritório De Canto Multimóveis Vcr25064",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6725,43 +6762,5 @@
     "timestamp": 1793010873000,
     "imagemIlustrativa": false,
     "expiresAt": 1793097271578
-  },
-  {
-    "titulo": "Lava-Roupas Líquido Omo Ciclo Rápido Ação Cuidado Frasco 1,4l",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 27,90",
-    "precoPor": "R$ 21,18",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61osZ399QCL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0e5xvFLY",
-    "linkWhatsapp": "https://link.amazon/B0e5xvFLY",
-    "timestamp": 1793010698000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793097095654,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0e5xvFLY",
-      "destination": "https://www.amazon.com.br/dp/B0FJ7VY7Q1?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 27,90 ➜ R$ 21,18 no Programe e Poupe"
-  },
-  {
-    "titulo": "AR CONDICIONADO SPLIT HISENSE 12000BTUS INVERTER WIFI 220V",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 1.929,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825b5-mudy9rz9jmyof2",
-    "link": "https://s.shopee.com.br/1W0GEpgebY",
-    "linkWhatsapp": "https://s.shopee.com.br/1W0GEpgebY",
-    "timestamp": 1793010622000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793097019871
   }
 ]
