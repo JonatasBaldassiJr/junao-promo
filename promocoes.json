@@ -1,5 +1,49 @@
 [
   {
+    "titulo": "Água Micelar Demaquilante 7 em 1 Neutrogena Hydro Boost, 200ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 46,99",
+    "precoPor": "R$ 32,29",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41svIXtqFwL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B01SxSPSZ",
+    "linkWhatsapp": "https://link.amazon/B01SxSPSZ",
+    "timestamp": 1793127190000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793213588874,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01SxSPSZ",
+      "destination": "https://www.amazon.com.br/dp/B08FDS9JT9?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 46,99 ➜ R$ 32,29 no Programe e Poupe"
+  },
+  {
+    "titulo": "Goma de Mascar de Morango Trident, 8g, Pack com 21 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 33,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/616qBmw7zCL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0aAR2eoe",
+    "linkWhatsapp": "https://link.amazon/B0aAR2eoe",
+    "timestamp": 1793126952000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793213351678,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0aAR2eoe",
+      "destination": "https://www.amazon.com.br/dp/B07XRG825H?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 49,90 ➜ R$ 33,64 no Programe e Poupe"
+  },
+  {
     "titulo": "Kit 3 Body Plus Size Regata Decote Quadrado Conforto Estilo",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6806,37 +6850,5 @@
     "timestamp": 1793037736000,
     "imagemIlustrativa": false,
     "expiresAt": 1793124135490
-  },
-  {
-    "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.500,00",
-    "precoPor": "R$ 2.199,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_884169-MLA106908124660_022026-F.jpg",
-    "link": "https://meli.la/27UxSmq",
-    "linkWhatsapp": "https://meli.la/27UxSmq",
-    "timestamp": 1793037671000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793124069583
-  },
-  {
-    "titulo": "Jogo Toalhas Banho Grossas Macias Algodão 4pç Absorventes",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,90",
-    "precoPor": "R$ 74,73",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_785463-MLB89373964059_082025-F.jpg",
-    "link": "https://meli.la/2DutCzU",
-    "linkWhatsapp": "https://meli.la/2DutCzU",
-    "timestamp": 1793037568000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793123966686
   }
 ]
