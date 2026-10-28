@@ -1,5 +1,64 @@
 [
   {
+    "titulo": "Colgate Plax Fresh Mint Enxaguante Bucal Sem Álcool, 500ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 18,90",
+    "precoPor": "R$ 10,25",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61uYq-9xWWL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B00ZXoq0G",
+    "linkWhatsapp": "https://link.amazon/B00ZXoq0G",
+    "timestamp": 1793148549000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793234948252,
+    "amazonTracking": {
+      "url": "https://link.amazon/B00ZXoq0G",
+      "destination": "https://www.amazon.com.br/dp/B01018ZXHA?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 18,90 ➜ R$ 10,25 no Programe e Poupe"
+  },
+  {
+    "titulo": "Luminária De Teto Moderna,plafon Sobrepor Lustre Led 3 Em 1 127/220v",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 197,40",
+    "precoPor": "R$ 57,60",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_993253-MLB109886631874_042026-F.jpg",
+    "link": "https://meli.la/1KLHPnp",
+    "linkWhatsapp": "https://meli.la/1KLHPnp",
+    "timestamp": 1793147969000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793234368778
+  },
+  {
+    "titulo": "Danos Vorazes Óleo Reparador 50ml, Lola Cosmetics",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 44,90",
+    "precoPor": "R$ 17,23",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71AMqfOXdAL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B043kKNBd",
+    "linkWhatsapp": "https://link.amazon/B043kKNBd",
+    "timestamp": 1793147743000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793234141803,
+    "amazonTracking": {
+      "url": "https://link.amazon/B043kKNBd",
+      "destination": "https://www.amazon.com.br/dp/B09GHN14FP?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Panela De Arroz Elétrica Midea 7 Xícaras Cozimento Á Vapor Com Tampa",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6815,53 +6874,5 @@
     "timestamp": 1793059268000,
     "imagemIlustrativa": false,
     "expiresAt": 1793145667252
-  },
-  {
-    "titulo": "Kit 3 Camisetas Térmicas Masculina Segunda Pele Camisa Uv50",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 122,90",
-    "precoPor": "R$ 67,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_992466-MLB116831200087_082026-F.jpg",
-    "link": "https://meli.la/1wu5y4k",
-    "linkWhatsapp": "https://meli.la/1wu5y4k",
-    "timestamp": 1793059163000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793145562093
-  },
-  {
-    "titulo": "Power Bank 20.000mAh 22.5W Carga Rápida Com Display Digital Carregador",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 109,90",
-    "precoPor": "R$ 72,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_703252-MLA99485758076_112025-F.jpg",
-    "link": "https://meli.la/2Mqmjc2",
-    "linkWhatsapp": "https://meli.la/2Mqmjc2",
-    "timestamp": 1793058854000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793145253566
-  },
-  {
-    "titulo": "iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 7.580,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2",
-    "link": "https://s.shopee.com.br/BUtX2KfDY",
-    "linkWhatsapp": "https://s.shopee.com.br/BUtX2KfDY",
-    "timestamp": 1793058371000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793144770083
   }
 ]
