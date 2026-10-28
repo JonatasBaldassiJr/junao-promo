@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "NIVEA Sabonete Vegetal Nutrição Da Natureza Manteiga De Karité & Lima",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 24,30",
+    "precoPor": "R$ 17,81",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/716yFV3WR9L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B07SHL7ve",
+    "linkWhatsapp": "https://link.amazon/B07SHL7ve",
+    "timestamp": 1793182334000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793268732878,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07SHL7ve",
+      "destination": "https://www.amazon.com.br/dp/B0F3BDZGL5?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 24,30 ➜ R$ 17,81 no Programe e Poupe\n🎟️ Ative o cupom na página"
+  },
+  {
     "titulo": "Processador de Alimentos Mini 3 Laminas Aço Inoxidável 500 ml Manual",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6868,26 +6890,5 @@
     "timestamp": 1793064365000,
     "imagemIlustrativa": false,
     "expiresAt": 1793150764195
-  },
-  {
-    "titulo": "Perfume Masculino Eau de Parfum Carolina Herrera, 100ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 382,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61CyegfVmHL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B01CvmzBB",
-    "linkWhatsapp": "https://link.amazon/B01CvmzBB",
-    "timestamp": 1793064143000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793150541656,
-    "amazonTracking": {
-      "url": "https://link.amazon/B01CvmzBB",
-      "destination": "https://www.amazon.com.br/dp/B074Z9QH5F?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
