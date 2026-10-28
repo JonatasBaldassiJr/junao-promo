@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Processador Amd Ryzen 5 5500, 6-core, 12-threads, 3.6ghz",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 999,00",
+    "precoPor": "R$ 539,57",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_616052-MLB71903820573_092023-F.jpg",
+    "link": "https://meli.la/1vccRkx",
+    "linkWhatsapp": "https://meli.la/1vccRkx",
+    "timestamp": 1793223205000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793309603064
+  },
+  {
+    "titulo": "Fone De Ouvido Bluetooth 5.3 Par Sem Fio Duplo Todos Celular",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 79,00",
+    "precoPor": "R$ 55,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_704435-MLB117685120160_102026-F.jpg",
+    "link": "https://meli.la/2Qdjexk",
+    "linkWhatsapp": "https://meli.la/2Qdjexk",
+    "timestamp": 1793222639000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793309038476
+  },
+  {
     "titulo": "Lacoste Essential EDT 125 Ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6763,37 +6795,5 @@
       "destination": "https://www.amazon.com.br/dp/B0F35GPLGV?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Creatina Monohidratada 500g Pouch - Growth Supplements Sem Sabor",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 139,90",
-    "precoPor": "R$ 58,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_923658-MLB117765624789_092026-F.jpg",
-    "link": "https://meli.la/2q25PpB",
-    "linkWhatsapp": "https://meli.la/2q25PpB",
-    "timestamp": 1793140857000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793227255377
-  },
-  {
-    "titulo": "ISDIN Hidratante para os Pés Ureadin Podos - 80,25g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 68,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_889509-MLA88480725720_072025-F.jpg",
-    "link": "https://meli.la/2HLsCG4",
-    "linkWhatsapp": "https://meli.la/2HLsCG4",
-    "timestamp": 1793140719000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793227117557
   }
 ]
