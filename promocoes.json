@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Cadeira de escritório ergonômica com estofado de mesh (Preto profundo)",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 331,55",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71J7uvwqzWL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B09XKKCAf",
+    "linkWhatsapp": "https://link.amazon/B09XKKCAf",
+    "timestamp": 1793240836000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793327235592,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09XKKCAf",
+      "destination": "https://www.amazon.com.br/dp/B0FP4XDWHF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom AMAZON15VEM"
+  },
+  {
     "titulo": "Churrasqueira Elétrica Elgin Bbq Show 2000w Chu20 Preto",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6727,21 +6749,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "R$ 44,89 ➜ R$ 18,46 no Programe e Poupe"
-  },
-  {
-    "titulo": "Quebra Sol Para Brisa Carro Protetor Solar Chuva(olho Preto)",
-    "categoria": "automotivo",
-    "categoriaNome": "Automotivo",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 34,80",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_866498-MLB114584034111_072026-F.jpg",
-    "link": "https://meli.la/2gYrRYm",
-    "linkWhatsapp": "https://meli.la/2gYrRYm",
-    "timestamp": 1793152640000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793239039873
   }
 ]
