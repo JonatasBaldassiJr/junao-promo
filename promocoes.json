@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 3.799,00",
+    "precoPor": "R$ 1.899,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_953261-MLA114603178675_072026-F.jpg",
+    "link": "https://meli.la/28a8YgN",
+    "linkWhatsapp": "https://meli.la/28a8YgN",
+    "timestamp": 1793280296000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793366694853
+  },
+  {
     "titulo": "Cadeira de escritório ergonômica com estofado de mesh (Preto profundo)",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6727,27 +6743,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "R$ 13,86 no Programe e Poupe"
-  },
-  {
-    "titulo": "L'Oréal Paris Elseve Glycolic Gloss, Sérum Finalizador Antiporosidade",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 44,89",
-    "precoPor": "R$ 18,46",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61OVHzo7nEL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B04hqY6ii",
-    "linkWhatsapp": "https://link.amazon/B04hqY6ii",
-    "timestamp": 1793152917000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793239315771,
-    "amazonTracking": {
-      "url": "https://link.amazon/B04hqY6ii",
-      "destination": "https://www.amazon.com.br/dp/B0CQKB4VMG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 44,89 ➜ R$ 18,46 no Programe e Poupe"
   }
 ]
