@@ -1,5 +1,85 @@
 [
   {
+    "titulo": "MSI Notebook Prestige 16 AI EVO, Intel Ultra 7-155H, Arc Graphics",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 749,43",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/710UZwmEWkL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0gwLWnza",
+    "linkWhatsapp": "https://link.amazon/B0gwLWnza",
+    "timestamp": 1793311965000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793398364781,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0gwLWnza",
+      "destination": "https://www.amazon.com.br/dp/B0DBMNGH6D?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "INVICTA Relógio",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 233,33",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/618Mi5IBmFL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B04TQ199Y",
+    "linkWhatsapp": "https://link.amazon/B04TQ199Y",
+    "timestamp": 1793311709000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793398108469,
+    "amazonTracking": {
+      "url": "https://link.amazon/B04TQ199Y",
+      "destination": "https://www.amazon.com.br/dp/B0D4681GC3?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "TESTO ESSENCIAL - Fórmula Exclusiva com Feno Grego + Boro + Arginina +",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 91,77",
+    "precoPor": "R$ 61,77",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_949131-MLA114764498645_072026-F.jpg",
+    "link": "https://meli.la/1Vu3EW4",
+    "linkWhatsapp": "https://meli.la/1Vu3EW4",
+    "timestamp": 1793311532000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793397931299
+  },
+  {
+    "titulo": "Jogo de Panelas BLACK DECKER 10 Peças Ceramic Line - Red Stone",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 599,00",
+    "precoPor": "R$ 474,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71C73o0AD6L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0fPJnTsv",
+    "linkWhatsapp": "https://link.amazon/B0fPJnTsv",
+    "timestamp": 1793310829000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793397228302,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0fPJnTsv",
+      "destination": "https://www.amazon.com.br/dp/B0GV5ZHMZ3?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom OUTLETPRIME"
+  },
+  {
     "titulo": "Câmera instax mini 13 Dreamy Purple",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6921,80 +7001,5 @@
     "timestamp": 1793203628000,
     "imagemIlustrativa": false,
     "expiresAt": 1793290026767
-  },
-  {
-    "titulo": "Monitor Gamer Samsung 24\" FHD,100 Hz, HDMI, VGA,Preto, S3",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 899,00",
-    "precoPor": "R$ 569,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_931100-MLA99973037971_112025-F.jpg",
-    "link": "https://meli.la/1F7mkjF",
-    "linkWhatsapp": "https://meli.la/1F7mkjF",
-    "timestamp": 1793203535000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793289933796
-  },
-  {
-    "titulo": "Camisa Básica Masculina Manga Longa Slim Hering",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 99,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_979625-MLB115382118167_072026-F.jpg",
-    "link": "https://meli.la/2nMutxT",
-    "linkWhatsapp": "https://meli.la/2nMutxT",
-    "timestamp": 1793203485000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793289884178
-  },
-  {
-    "titulo": "Truss Óleo Capilar Nutritivo Nutri Infusion | Nutrição Profunda",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 70,00",
-    "precoPor": "R$ 50,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61hvGte+MJL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B04KLnoPQ",
-    "linkWhatsapp": "https://link.amazon/B04KLnoPQ",
-    "timestamp": 1793203350000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793289749090,
-    "amazonTracking": {
-      "url": "https://link.amazon/B04KLnoPQ",
-      "destination": "https://www.amazon.com.br/dp/B0F1VV3NKP?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Shampoo Johnson's Baby Cabelos Claros, 200ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 24,79",
-    "precoPor": "R$ 16,43",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61rSw0vPAEL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B03PJE8AA",
-    "linkWhatsapp": "https://link.amazon/B03PJE8AA",
-    "timestamp": 1793203118000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793289516685,
-    "amazonTracking": {
-      "url": "https://link.amazon/B03PJE8AA",
-      "destination": "https://www.amazon.com.br/dp/B07DHRH4ZH?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 24,79 ➜ R$ 16,43 no Programe e Poupe"
   }
 ]
