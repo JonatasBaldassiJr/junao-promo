@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "Guarda-Roupa Casal Branco 7 Portas 2 Gavetas Aramóveis com Corrediças",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 732,23",
+    "precoPor": "R$ 626,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_948504-MLA98889927393_112025-F.jpg",
+    "link": "https://meli.la/1WTjGs7",
+    "linkWhatsapp": "https://meli.la/1WTjGs7",
+    "timestamp": 1793235764000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793322163297
+  },
+  {
+    "titulo": "Tramontina 43200016, Serrote Utility 16''",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 42,83",
+    "precoPor": "R$ 19,38",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://link.amazon/B09yWPgpd",
+    "linkWhatsapp": "https://link.amazon/B09yWPgpd",
+    "timestamp": 1793235593000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793321991451,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09yWPgpd",
+      "destination": "https://www.amazon.com.br/dp/B076MB7QL9?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Ative o cupom na página"
+  },
+  {
     "titulo": "Mousepad Extra Grande Preto 90x40 cm Deskpad Couro Antiderrapante Mesa",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6717,37 +6755,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "R$ 62,91 ➜ R$ 38,63 no Programe e Poupe"
-  },
-  {
-    "titulo": "Mochila College Letter Fila",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 145,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_810048-MLA100952866789_122025-F.jpg",
-    "link": "https://meli.la/26z5bxi",
-    "linkWhatsapp": "https://meli.la/26z5bxi",
-    "timestamp": 1793150092000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793236491359
-  },
-  {
-    "titulo": "Gel De Limpeza Acne Control Para Pele Oleosa 340g Cerave",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 115,90",
-    "precoPor": "R$ 58,55",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_667295-MLA75417882354_042024-F.jpg",
-    "link": "https://meli.la/2EYP6yY",
-    "linkWhatsapp": "https://meli.la/2EYP6yY",
-    "timestamp": 1793149991000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793236389776
   }
 ]
