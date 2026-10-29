@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "aweshine Compressor de Ar Portátil 150PSI Automotivo com Auxiliar",
+    "categoria": "automotivo",
+    "categoriaNome": "Automotivo",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 399,00",
+    "precoPor": "R$ 299,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_760506-MLA115642129375_082026-F.jpg",
+    "link": "https://meli.la/21SETn4",
+    "linkWhatsapp": "https://meli.la/21SETn4",
+    "timestamp": 1793233388000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793319786883
+  },
+  {
+    "titulo": "Torneira Gourmet Cozinha 50cm Metal Spray Duo Monocomando Acabamento",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 209,26",
+    "precoPor": "R$ 143,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_966817-MLA95497071988_102025-F.jpg",
+    "link": "https://meli.la/318FHsc",
+    "linkWhatsapp": "https://meli.la/318FHsc",
+    "timestamp": 1793233217000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793319616282
+  },
+  {
     "titulo": "Fone Bluetooth Samsung Galaxy Buds Core Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6722,37 +6754,5 @@
     "timestamp": 1793146932000,
     "imagemIlustrativa": false,
     "expiresAt": 1793233331400
-  },
-  {
-    "titulo": "Panela de Pressão Elétrica Mecânica 11 Funções 6L 1000W GO50",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 399,90",
-    "precoPor": "R$ 304,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_779834-MLA116200729795_082026-F.jpg",
-    "link": "https://meli.la/2GGz8EY",
-    "linkWhatsapp": "https://meli.la/2GGz8EY",
-    "timestamp": 1793146918000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793233317451
-  },
-  {
-    "titulo": "Chocochilli Gloss Fran By Franciny Ehlke Acabamento Brilhant Chocolate",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,99",
-    "precoPor": "R$ 22,30",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_920032-MLB91335295656_092025-F.jpg",
-    "link": "https://meli.la/2hVh21m",
-    "linkWhatsapp": "https://meli.la/2hVh21m",
-    "timestamp": 1793146804000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793233203562
   }
 ]
