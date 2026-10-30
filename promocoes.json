@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 351,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258r-mudiw5r2ihoj26",
+    "link": "https://s.shopee.com.br/9APnjBUDOp",
+    "linkWhatsapp": "https://s.shopee.com.br/9APnjBUDOp",
+    "timestamp": 1793355084000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793441483187
+  },
+  {
+    "titulo": "Kit Camiseta Caveira Dry-Fit + Coqueteleira Fuse 700ml Preta Dark Lab",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 59,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820m7-mrivndoqhvk7f1",
+    "link": "https://s.shopee.com.br/W7pPFXAJy",
+    "linkWhatsapp": "https://s.shopee.com.br/W7pPFXAJy",
+    "timestamp": 1793355078000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793441475995
+  },
+  {
     "titulo": "Kit 10 Calcinhas Algodão Tanga Lisa Conforto Basica Feminina",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6986,37 +7018,5 @@
     "timestamp": 1793217763000,
     "imagemIlustrativa": false,
     "expiresAt": 1793304161783
-  },
-  {
-    "titulo": "Smartphone Realme C75 5g 256gb 8gb Ram Dual Sim",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.099,00",
-    "precoPor": "R$ 1.398,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_790562-MLA99474070790_112025-F.jpg",
-    "link": "https://meli.la/2VXBUwR",
-    "linkWhatsapp": "https://meli.la/2VXBUwR",
-    "timestamp": 1793217585000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793303983689
-  },
-  {
-    "titulo": "Camisa Camiseta Polo Masculina Texturizada Sem Botão",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 159,00",
-    "precoPor": "R$ 47,53",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_882766-MLB109285049987_032026-F.jpg",
-    "link": "https://meli.la/1G64SCw",
-    "linkWhatsapp": "https://meli.la/1G64SCw",
-    "timestamp": 1793217215000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793303614376
   }
 ]
