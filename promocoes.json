@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Kit Perfume Masculino Hugo Boss Bottled Parfum, Amadeirado Âmbar, 3",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 859,00",
+    "precoPor": "R$ 479,71",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71V3WBIg10L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0bffjlk7",
+    "linkWhatsapp": "https://link.amazon/B0bffjlk7",
+    "timestamp": 1793360366000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793446765262,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0bffjlk7",
+      "destination": "https://www.amazon.com.br/dp/B0FT5XQVRC?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Sachê Golden Gourmet p/ Gatos - Caixa c/ 20 un 70g– Alimento Úmido",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 51,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825a7-mq5851qr2vpqc8",
+    "link": "https://s.shopee.com.br/7AejQKZdO2",
+    "linkWhatsapp": "https://s.shopee.com.br/7AejQKZdO2",
+    "timestamp": 1793359298000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793445695874
+  },
+  {
     "titulo": "Cooktop de Indução Cinco Bocas EOS 90cm Preto 9500W ECI05EP",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6995,37 +7032,5 @@
     "timestamp": 1793228027000,
     "imagemIlustrativa": false,
     "expiresAt": 1793314426293
-  },
-  {
-    "titulo": "Maquina Acabamento Cortar Cabelo Barba E Pelos Kemei 032 Prateado",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,90",
-    "precoPor": "R$ 38,41",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_982676-MLB116824390769_082026-F.jpg",
-    "link": "https://meli.la/2EqyD3S",
-    "linkWhatsapp": "https://meli.la/2EqyD3S",
-    "timestamp": 1793227363000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793313762788
-  },
-  {
-    "titulo": "The Icon The Perfume Antonio Banderas Masculino 100ml EDP Eau",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 289,00",
-    "precoPor": "R$ 135,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_871228-MLU74389131528_022024-F.jpg",
-    "link": "https://meli.la/1C88WXY",
-    "linkWhatsapp": "https://meli.la/1C88WXY",
-    "timestamp": 1793227188000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793313587098
   }
 ]
