@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Mochila Infantil Stitch com Estojo Triplo Azul",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 52,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61mldV7rm5L._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0aqCpnfw",
+    "linkWhatsapp": "https://link.amazon/B0aqCpnfw",
+    "timestamp": 1793408614000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793495013781,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0aqCpnfw",
+      "destination": "https://www.amazon.com.br/dp/B0FRB26LM3?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit 3 Camisetas Masculina 100% Algodão Premium Verão Casual Preto",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6673,21 +6694,5 @@
     "timestamp": 1793321085000,
     "imagemIlustrativa": false,
     "expiresAt": 1793407483401
-  },
-  {
-    "titulo": "Relógio Masculino Clássico Couro Unissex Original",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,20",
-    "precoPor": "R$ 39,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_639896-MLB89776259465_082025-F.jpg",
-    "link": "https://meli.la/1CNxZeL",
-    "linkWhatsapp": "https://meli.la/1CNxZeL",
-    "timestamp": 1793320901000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793407299999
   }
 ]
