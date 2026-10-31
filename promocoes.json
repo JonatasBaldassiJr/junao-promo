@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 59,90",
+    "precoPor": "R$ 36,95",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_906529-MLA115584916886_092026-F.jpg",
+    "link": "https://meli.la/2W9kPb1",
+    "linkWhatsapp": "https://meli.la/2W9kPb1",
+    "timestamp": 1793487725000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793574124082
+  },
+  {
     "titulo": "Mochila Esportiva Defender adidas",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6616,21 +6632,5 @@
     "timestamp": 1793389826000,
     "imagemIlustrativa": false,
     "expiresAt": 1793476225062
-  },
-  {
-    "titulo": "Cadeira De Escritório Ergonômica Giratória B100 Boston Preta Laudo",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 588,12",
-    "precoPor": "R$ 446,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_995819-MLA97023751053_112025-F.jpg",
-    "link": "https://meli.la/2FCQY7V",
-    "linkWhatsapp": "https://meli.la/2FCQY7V",
-    "timestamp": 1793389746000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793476145495
   }
 ]
