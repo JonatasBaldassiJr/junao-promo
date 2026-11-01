@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Pilha AA Panasonic, Comum, 4 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 5,66",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61sfR1a-7eL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B05RwbA37",
+    "linkWhatsapp": "https://link.amazon/B05RwbA37",
+    "timestamp": 1793499911000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793586310856,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05RwbA37",
+      "destination": "https://www.amazon.com.br/dp/B075XFDPL2?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Tênis Converse Sem Gênero Taylor Curto Nude Bege/gengibre/amendoa Liso",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 339,90",
+    "precoPor": "R$ 322,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_708728-MLB115292664230_082026-F.jpg",
+    "link": "https://meli.la/2zaLtvs",
+    "linkWhatsapp": "https://meli.la/2zaLtvs",
+    "timestamp": 1793499271000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793585669854
+  },
+  {
     "titulo": "Tênis Feminino Aira Com Recortes Anacapri Multineutro Liso 38",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6632,37 +6669,5 @@
     "timestamp": 1793392130000,
     "imagemIlustrativa": false,
     "expiresAt": 1793478528766
-  },
-  {
-    "titulo": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort Sortidos",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 109,99",
-    "precoPor": "R$ 59,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_910476-MLB113033587620_072026-F.jpg",
-    "link": "https://meli.la/2Hc9So3",
-    "linkWhatsapp": "https://meli.la/2Hc9So3",
-    "timestamp": 1793392044000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793478443653
-  },
-  {
-    "titulo": "Notebook Positivo Vision N15M Intel N100 8GB RAM 128GB SSD, Windows 11",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.855,00",
-    "precoPor": "R$ 2.499,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_665757-MLA107686818832_032026-F.jpg",
-    "link": "https://meli.la/2DeoLUP",
-    "linkWhatsapp": "https://meli.la/2DeoLUP",
-    "timestamp": 1793391909000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793478308298
   }
 ]
