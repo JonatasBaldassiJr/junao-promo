@@ -1,5 +1,64 @@
 [
   {
+    "titulo": "Protetor Solar Facial Neutrogena Sun Fresh, FPS 70, 40g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 72,99",
+    "precoPor": "R$ 46,03",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51cb8j36uqL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0fAt5hXG",
+    "linkWhatsapp": "https://link.amazon/B0fAt5hXG",
+    "timestamp": 1793491553000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793577952882,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0fAt5hXG",
+      "destination": "https://www.amazon.com.br/dp/B08NVML21R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 72,99 ➜ R$ 46,03 no Programe e Poupe"
+  },
+  {
+    "titulo": "Jack Daniel's Tennessee Honey 1L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 174,90",
+    "precoPor": "R$ 136,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/712aZkRXdML._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0hnwNW3F",
+    "linkWhatsapp": "https://link.amazon/B0hnwNW3F",
+    "timestamp": 1793490971000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793577369992,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0hnwNW3F",
+      "destination": "https://www.amazon.com.br/dp/B00C12TAB0?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Pré Treino Core 150g Growth Supplements Limonada Rosa",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 99,90",
+    "precoPor": "R$ 49,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_605808-MLB118148457823_092026-F.jpg",
+    "link": "https://meli.la/1DA4FGo",
+    "linkWhatsapp": "https://meli.la/1DA4FGo",
+    "timestamp": 1793490802000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793577201162
+  },
+  {
     "titulo": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Prata",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6589,53 +6648,5 @@
     "timestamp": 1793390788000,
     "imagemIlustrativa": false,
     "expiresAt": 1793477185794
-  },
-  {
-    "titulo": "Kit 3 Camisetas Masculina Dry Alpha Lobo Geométrico",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 149,70",
-    "precoPor": "R$ 73,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_619645-MLB103998556775_012026-F.jpg",
-    "link": "https://meli.la/2ZziDbu",
-    "linkWhatsapp": "https://meli.la/2ZziDbu",
-    "timestamp": 1793390232000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793476630964
-  },
-  {
-    "titulo": "Eps-6905 BaIança Epsilon Inteligente Bluetooth Com App, Lcd, Vidro",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 59,99",
-    "precoPor": "R$ 26,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_941738-MLA106814881195_022026-F.jpg",
-    "link": "https://meli.la/24WcLes",
-    "linkWhatsapp": "https://meli.la/24WcLes",
-    "timestamp": 1793390131000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793476529882
-  },
-  {
-    "titulo": "Tênis Nike Sb Chron 2 Canvas Masculino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 449,99",
-    "precoPor": "R$ 200,09",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_811731-MLB100382039232_122025-F.jpg",
-    "link": "https://meli.la/2MtQrcm",
-    "linkWhatsapp": "https://meli.la/2MtQrcm",
-    "timestamp": 1793390005000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793476403801
   }
 ]
