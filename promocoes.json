@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Cama Box Queen Modern Sigma Branco com Colchão Molas Ensacadas Euro",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.519,00",
+    "precoPor": "R$ 1.257,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_645799-MLU77665127684_072024-F.jpg",
+    "link": "https://meli.la/2stArkg",
+    "linkWhatsapp": "https://meli.la/2stArkg",
+    "timestamp": 1793531404000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793617803160
+  },
+  {
+    "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Finalizador Capilar, Nutrição",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 26,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61bsBAPQB7L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B09A3U2L7",
+    "linkWhatsapp": "https://link.amazon/B09A3U2L7",
+    "timestamp": 1793531264000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793617663491,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09A3U2L7",
+      "destination": "https://www.amazon.com.br/dp/B07H113TPQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "La Roche-Posay, Kit Protetor Solar Facial Anthelios Airlicium+ Gel",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6625,37 +6662,5 @@
     "timestamp": 1793399683000,
     "imagemIlustrativa": false,
     "expiresAt": 1793486082152
-  },
-  {
-    "titulo": "Quadro Decorativo Trio Folhagem Botânica Com Moldura Grande Bege",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 179,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_797998-MLB115049340204_082026-F.jpg",
-    "link": "https://meli.la/2G1orU8",
-    "linkWhatsapp": "https://meli.la/2G1orU8",
-    "timestamp": 1793399458000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793485857600
-  },
-  {
-    "titulo": "Kit Churrasco Personalizado - 8 Peças",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 162,00",
-    "precoPor": "R$ 157,14",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_718579-MLB120136277035_102026-F.jpg",
-    "link": "https://meli.la/1ovjurt",
-    "linkWhatsapp": "https://meli.la/1ovjurt",
-    "timestamp": 1793399404000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793485802961
   }
 ]
