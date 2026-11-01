@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 25,00 OFF em produtos selecionados!",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 25,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/BV1iumBB1",
+    "linkWhatsapp": "https://s.shopee.com.br/BV1iumBB1",
+    "timestamp": 1793502100000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis De Corrida Masculino Corre Vento 3 Olympikus Marbri Liso 37 Br",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6653,21 +6668,5 @@
     "timestamp": 1793392720000,
     "imagemIlustrativa": false,
     "expiresAt": 1793479119960
-  },
-  {
-    "titulo": "Ssd Kingston A400 240gb Sa400s37/240g P/ Pc E Notebook Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 599,90",
-    "precoPor": "R$ 315,83",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_608526-MLB117365358991_092026-F.jpg",
-    "link": "https://meli.la/2nhKiwv",
-    "linkWhatsapp": "https://meli.la/2nhKiwv",
-    "timestamp": 1793392621000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793479019965
   }
 ]
