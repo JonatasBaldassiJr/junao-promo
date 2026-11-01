@@ -1,5 +1,63 @@
 [
   {
+    "titulo": "Vichy, Dercos Shampoo Anticaspa para Cabelos Normais a Oleosos",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 129,90",
+    "precoPor": "R$ 81,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41SQlDQhNQL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0fglfwon",
+    "linkWhatsapp": "https://link.amazon/B0fglfwon",
+    "timestamp": 1793534332000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793620731280,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0fglfwon",
+      "destination": "https://www.amazon.com.br/dp/B0CZ4BTRYR?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Palmilha De Gel Anatomica Confortável",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 26,90",
+    "precoPor": "R$ 23,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_688971-MLB90551657526_082025-F.jpg",
+    "link": "https://meli.la/1ZzRyEt",
+    "linkWhatsapp": "https://meli.la/1ZzRyEt",
+    "timestamp": 1793533893000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793620292666
+  },
+  {
+    "titulo": "La Roche-Posay Effaclar Concentrado Gel de Limpeza Facial Profunda",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 121,90",
+    "precoPor": "R$ 64,41",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41E+81rtwuL._AC_SX679_.jpg",
+    "link": "https://link.amazon/B08VXNjUJ",
+    "linkWhatsapp": "https://link.amazon/B08VXNjUJ",
+    "timestamp": 1793533295000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793619692463,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08VXNjUJ",
+      "destination": "https://www.amazon.com.br/dp/B0HB7MSL2K?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit Conjunto Marinex 7 peças jogo de Travessas Variadas Assadeiras",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6613,64 +6671,5 @@
     "timestamp": 1793401273000,
     "imagemIlustrativa": false,
     "expiresAt": 1793487671978
-  },
-  {
-    "titulo": "Conjunto Linho Feminino Camisa E Short Linha Premium",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 156,78",
-    "precoPor": "R$ 59,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_837707-MLB89364631929_082025-F.jpg",
-    "link": "https://meli.la/2JMmcGg",
-    "linkWhatsapp": "https://meli.la/2JMmcGg",
-    "timestamp": 1793401140000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793487538973
-  },
-  {
-    "titulo": "Creality Ender 3 V3 SE Impressora 3D - 250mm/s de Alta Velocidade",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.601,00",
-    "precoPor": "R$ 1.344,46",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61efQaqXstL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B01fuWuj0",
-    "linkWhatsapp": "https://link.amazon/B01fuWuj0",
-    "timestamp": 1793400587000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793486985871,
-    "amazonTracking": {
-      "url": "https://link.amazon/B01fuWuj0",
-      "destination": "https://www.amazon.com.br/dp/B0GYNSLGMQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Kit Morte Súbita - Shampoo e Máscara - Edição comemorativa - Lola From",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 89,90",
-    "precoPor": "R$ 56,28",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/8148kkYPYUL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B03yBaSW2",
-    "linkWhatsapp": "https://link.amazon/B03yBaSW2",
-    "timestamp": 1793400474000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793486872655,
-    "amazonTracking": {
-      "url": "https://link.amazon/B03yBaSW2",
-      "destination": "https://www.amazon.com.br/dp/B0GZWH9D3W?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Use o cupom MAIS10OFF"
   }
 ]
