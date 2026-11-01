@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Tabua De Carne Personalizada",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 139,90",
+    "precoPor": "R$ 116,33",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_672649-MLB118518573709_092026-F.jpg",
+    "link": "https://meli.la/1ymPVck",
+    "linkWhatsapp": "https://meli.la/1ymPVck",
+    "timestamp": 1793495886000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793582285553
+  },
+  {
+    "titulo": "Blusão Masc Capuz Calvin Klein Intense Power Gg Preto Liso",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 499,00",
+    "precoPor": "R$ 263,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_620616-MLB112016543890_062026-F.jpg",
+    "link": "https://meli.la/1NbAE9j",
+    "linkWhatsapp": "https://meli.la/1NbAE9j",
+    "timestamp": 1793495552000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793581950973
+  },
+  {
     "titulo": "Chinelo Havaianas Masculino Power 2.0 Anatômica Massageadora",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6616,37 +6648,5 @@
     "timestamp": 1793391462000,
     "imagemIlustrativa": false,
     "expiresAt": 1793477860652
-  },
-  {
-    "titulo": "Monitor LG UltraFine - Tela IPS UHD 4K 27\", HDR10, DCI-P3 90%, Dynamic",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.645,00",
-    "precoPor": "R$ 1.179,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_912843-MLA99938852799_112025-F.jpg",
-    "link": "https://meli.la/1AAea6S",
-    "linkWhatsapp": "https://meli.la/1AAea6S",
-    "timestamp": 1793391390000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793477788800
-  },
-  {
-    "titulo": "Tênis Kappa Run 200 Original Caminhada Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,99",
-    "precoPor": "R$ 68,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_781737-MLB114704959730_082026-F.jpg",
-    "link": "https://meli.la/1qiUA73",
-    "linkWhatsapp": "https://meli.la/1qiUA73",
-    "timestamp": 1793391311000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793477709966
   }
 ]
