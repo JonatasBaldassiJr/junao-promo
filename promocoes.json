@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Samsung Combo Smart TV 43\" QLED Full HD Q5F + Soundbar HW B400F",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 3.806,00",
+    "precoPor": "R$ 1.984,59",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/513sHm9G9XL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0172Px73",
+    "linkWhatsapp": "https://link.amazon/B0172Px73",
+    "timestamp": 1793582126000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793668524884,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0172Px73",
+      "destination": "https://www.amazon.com.br/dp/B0GVW8464B?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Bolsa Mala De Mão 10kg Feminina De Bordo Viagem Grande Cor Vinho",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 46,12",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_741298-MLA99555232904_122025-F.jpg",
+    "link": "https://meli.la/1vzyZxz",
+    "linkWhatsapp": "https://meli.la/1vzyZxz",
+    "timestamp": 1793581776000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793668175192
+  },
+  {
     "titulo": "Perfume Nautica Colors Green Eau de Toilette 50ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6901,43 +6938,5 @@
     "timestamp": 1793483637000,
     "imagemIlustrativa": false,
     "expiresAt": 1793570036363
-  },
-  {
-    "titulo": "Proteína Bodybuilders Whey em pó sabor Baunilha x 2.3kg de 4 un",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 129,99",
-    "precoPor": "R$ 78,98",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_897771-MLA99581931402_122025-F.jpg",
-    "link": "https://meli.la/1NxvXYU",
-    "linkWhatsapp": "https://meli.la/1NxvXYU",
-    "timestamp": 1793483545000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793569944577
-  },
-  {
-    "titulo": "Limpador Antioleosidade Sallve, Com Niacinamida, 300ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 59,90",
-    "precoPor": "R$ 35,85",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51PUlCR6r5L._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B0cIbNIpN",
-    "linkWhatsapp": "https://link.amazon/B0cIbNIpN",
-    "timestamp": 1793483462000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793569860775,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0cIbNIpN",
-      "destination": "https://www.amazon.com.br/dp/B0DC8KT1L3?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 59,90 ➜ R$ 35,85 no Programe e Poupe"
   }
 ]
