@@ -1,5 +1,48 @@
 [
   {
+    "titulo": "NIVEA Hidratante Labial Torta de Amora Ed. Limitada Bridgerton 4,8g",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 26,30",
+    "precoPor": "R$ 12,98",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81JHqGFqfbL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0dx42hrS",
+    "linkWhatsapp": "https://link.amazon/B0dx42hrS",
+    "timestamp": 1793617866000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793704265269,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dx42hrS",
+      "destination": "https://www.amazon.com.br/dp/B0GCNRVGG8?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Personal VIP - Papel Higiênico Folha Dupla, Branco 24 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 46,01",
+    "precoPor": "R$ 38,44",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81hFxU8EMjL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0eN1bgL7",
+    "linkWhatsapp": "https://link.amazon/B0eN1bgL7",
+    "timestamp": 1793616940000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793703338495,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0eN1bgL7",
+      "destination": "https://www.amazon.com.br/dp/B07D5LZZCC?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 46,01 ➜ R$ 38,44 no Programe e Poupe"
+  },
+  {
     "titulo": "Panificadora 19 Programas Gallant 600w 220v Branca (GPA1E19A220BR)",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6931,37 +6974,5 @@
     "timestamp": 1793528604000,
     "imagemIlustrativa": false,
     "expiresAt": 1793615002795
-  },
-  {
-    "titulo": "Mouse Gamer Sem Fio KYSONA Jupiter X Ultra PAW3950 8000Hz 54L15 MCU",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "AliExpress",
-    "precoDe": "R$ 537,88",
-    "precoPor": "R$ 263,56",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se7affb1aa47f4a53a0062e5a5cdd8a31G.jpg",
-    "link": "https://s.click.aliexpress.com/e/_c3Bya0g3",
-    "linkWhatsapp": "https://s.click.aliexpress.com/e/_c3Bya0g3",
-    "timestamp": 1793528507000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793614906958
-  },
-  {
-    "titulo": "Impressora 3D ANYCUBIC Kobra 4/Kobra 4 Combo FDM com Impressão",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "AliExpress",
-    "precoDe": "R$ 3.134,55",
-    "precoPor": "R$ 2.352,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S66ee0bab649c4d2b8d7527e6cdf1e7ddq.jpg",
-    "link": "https://s.click.aliexpress.com/e/_c3BmjZMf",
-    "linkWhatsapp": "https://s.click.aliexpress.com/e/_c3BmjZMf",
-    "timestamp": 1793528490000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793614889263
   }
 ]
