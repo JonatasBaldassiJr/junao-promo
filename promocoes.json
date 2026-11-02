@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Suéter pullover Asteria Fz Midlayer Women HEADFeminino",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 1.049,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51CYsfrCDQL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B05OEiizR",
+    "linkWhatsapp": "https://link.amazon/B05OEiizR",
+    "timestamp": 1793614249000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793700648055,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05OEiizR",
+      "destination": "https://www.amazon.com.br/dp/B0FMZNZFXM?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Mochila Masculina Tatica 50l Impermeavel Militar Reforçada Preto",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6947,26 +6968,5 @@
     "timestamp": 1793490802000,
     "imagemIlustrativa": false,
     "expiresAt": 1793577201162
-  },
-  {
-    "titulo": "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Prata",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 499,00",
-    "precoPor": "R$ 200,84",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/519JmdzFSBL._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B09NfouMO",
-    "linkWhatsapp": "https://link.amazon/B09NfouMO",
-    "timestamp": 1793489322000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793575721270,
-    "amazonTracking": {
-      "url": "https://link.amazon/B09NfouMO",
-      "destination": "https://www.amazon.com.br/dp/B0CW976R89?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
