@@ -1,5 +1,49 @@
 [
   {
+    "titulo": "Ricca Kit de Viagem",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 38,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51+MSIUNGPL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0d4gVs4y",
+    "linkWhatsapp": "https://link.amazon/B0d4gVs4y",
+    "timestamp": 1793578904000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793665303677,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0d4gVs4y",
+      "destination": "https://www.amazon.com.br/dp/B07CML9W9X?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom DOMINGO40OFF"
+  },
+  {
+    "titulo": "Oikos - Frigideira 20cm Indução Antiaderente Titânio Kosmos Marte",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 119,90",
+    "precoPor": "R$ 107,70",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Dz-uz2zDL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B03uiSyp5",
+    "linkWhatsapp": "https://link.amazon/B03uiSyp5",
+    "timestamp": 1793578499000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793664898677,
+    "amazonTracking": {
+      "url": "https://link.amazon/B03uiSyp5",
+      "destination": "https://www.amazon.com.br/dp/B0GXMR31C2?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom DOMINGO40OFF"
+  },
+  {
     "titulo": "Controlador de Jogos Sem Fio EasySMX D05 com Base de Carregamento",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6888,37 +6932,5 @@
       "destination": "https://www.amazon.com.br/dp/B0DPJC6Q1B?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Knit Sapatênis Slip On Tênis Casual Macio Leve Confortável",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,89",
-    "precoPor": "R$ 167,32",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_805965-MLB113619886650_072026-F.jpg",
-    "link": "https://meli.la/1D2UeRt",
-    "linkWhatsapp": "https://meli.la/1D2UeRt",
-    "timestamp": 1793482391000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793568789300
-  },
-  {
-    "titulo": "Mochila Escolar Feminina Jiesipote de 24L Impermeável para Notebook",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 198,00",
-    "precoPor": "R$ 79,19",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_660681-MLA114422693250_082026-F.jpg",
-    "link": "https://meli.la/2S6t18G",
-    "linkWhatsapp": "https://meli.la/2S6t18G",
-    "timestamp": 1793482154000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793568553452
   }
 ]
