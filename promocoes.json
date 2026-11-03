@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "Kit Máquina de Cortar Cabelo Sem Fio Profissional Ablevaz, com Display",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 399,00",
+    "precoPor": "R$ 139,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_631007-MLA115671113272_092026-F.jpg",
+    "link": "https://meli.la/1Rt5mmU",
+    "linkWhatsapp": "https://meli.la/1Rt5mmU",
+    "timestamp": 1793715860000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793802258090
+  },
+  {
+    "titulo": "Kérastase Óleo Elixir Ultime L'Huile Originale |Todos os tipos",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 188,43",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51lRDF0gL4L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B02a2SORk",
+    "linkWhatsapp": "https://link.amazon/B02a2SORk",
+    "timestamp": 1793715360000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793801759165,
+    "amazonTracking": {
+      "url": "https://link.amazon/B02a2SORk",
+      "destination": "https://www.amazon.com.br/dp/B0D2LWFF2P?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom LPRO25"
+  },
+  {
     "titulo": "Mala De Viagem Bordo Mão Pequena 10kg Abs Cadeado 360",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6515,41 +6553,5 @@
       "destination": "https://www.amazon.com.br/dp/B076QS31ZW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Oikos - Jogo 8 Panelas Antiaderente Cerâmico em Alumínio Bege Terrara",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 659,90",
-    "precoPor": "R$ 460,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51lEScBIRDL._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B09ooJmmp",
-    "linkWhatsapp": "https://link.amazon/B09ooJmmp",
-    "timestamp": 1793616075000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793702473786,
-    "amazonTracking": {
-      "url": "https://link.amazon/B09ooJmmp",
-      "destination": "https://www.amazon.com.br/dp/B0DLY6SLL2?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Cama Box com Colchão Queen Sigma Molas Ensacadas (22x158x198) Branco e",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 1.373,11",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdj-m6ml3padz9u187",
-    "link": "https://s.shopee.com.br/9zyzXOm7kr",
-    "linkWhatsapp": "https://s.shopee.com.br/9zyzXOm7kr",
-    "timestamp": 1793616043000,
-    "imagemIlustrativa": false
   }
 ]
