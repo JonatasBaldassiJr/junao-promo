@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Smartphone Samsung Galaxy A17 8GB 256GB 50MP 6.7\"",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 1.699,00",
+    "precoPor": "R$ 1.083,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_781103-MLA99983064831_112025-F.jpg",
+    "link": "https://meli.la/25ny33L",
+    "linkWhatsapp": "https://meli.la/25ny33L",
+    "timestamp": 1793703399000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793789798279
+  },
+  {
     "titulo": "Tênis Kappa Run 200 Original Caminhada Academia",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6575,28 +6591,6 @@
     "amazonTracking": {
       "url": "https://link.amazon/B0d4gVs4y",
       "destination": "https://www.amazon.com.br/dp/B07CML9W9X?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Use o cupom DOMINGO40OFF"
-  },
-  {
-    "titulo": "Oikos - Frigideira 20cm Indução Antiaderente Titânio Kosmos Marte",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 119,90",
-    "precoPor": "R$ 107,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61Dz-uz2zDL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B03uiSyp5",
-    "linkWhatsapp": "https://link.amazon/B03uiSyp5",
-    "timestamp": 1793578499000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793664898677,
-    "amazonTracking": {
-      "url": "https://link.amazon/B03uiSyp5",
-      "destination": "https://www.amazon.com.br/dp/B0GXMR31C2?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "🎟️ Use o cupom DOMINGO40OFF"
