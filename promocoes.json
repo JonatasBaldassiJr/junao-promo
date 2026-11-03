@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Suplemento em pasta Dr. Peanut Melhor de Amendoim amentoim cremosa",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 62,50",
+    "precoPor": "R$ 42,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_721792-MLA112549027343_062026-F.jpg",
+    "link": "https://meli.la/2RMWuY5",
+    "linkWhatsapp": "https://meli.la/2RMWuY5",
+    "timestamp": 1793704817000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793791213461
+  },
+  {
     "titulo": "Smartphone Samsung Galaxy A17 8GB 256GB 50MP 6.7\"",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6572,27 +6588,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "R$ 69,90 ➜ R$ 33,77 no Programe e Poupe"
-  },
-  {
-    "titulo": "Ricca Kit de Viagem",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 38,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51+MSIUNGPL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B0d4gVs4y",
-    "linkWhatsapp": "https://link.amazon/B0d4gVs4y",
-    "timestamp": 1793578904000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793665303677,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0d4gVs4y",
-      "destination": "https://www.amazon.com.br/dp/B07CML9W9X?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Use o cupom DOMINGO40OFF"
   }
 ]
