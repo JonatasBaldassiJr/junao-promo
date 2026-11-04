@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Aspirador de Pó Vertical Britânia 2 em 1 1400W BAS1450A 220V",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 128,52",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41eiR0PJieL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B09dOxWZj",
+    "linkWhatsapp": "https://link.amazon/B09dOxWZj",
+    "timestamp": 1793787031000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793873425973,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09dOxWZj",
+      "destination": "https://www.amazon.com.br/dp/B0H4P43CKG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Ative o cupom na página"
+  },
+  {
     "titulo": "Integralmedica Whey Protein Crisp Bar Ovomaltine 12 Unidades",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6854,21 +6876,5 @@
     "timestamp": 1793652022000,
     "imagemIlustrativa": false,
     "expiresAt": 1793738420554
-  },
-  {
-    "titulo": "Edredom Queen 400 Fios Dupla Face Pluma Extra Macia Luxo Bege",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 275,00",
-    "precoPor": "R$ 241,15",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_667580-MLA96173594069_102025-F.jpg",
-    "link": "https://meli.la/2cUbRWn",
-    "linkWhatsapp": "https://meli.la/2cUbRWn",
-    "timestamp": 1793651944000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793738343076
   }
 ]
