@@ -1,5 +1,63 @@
 [
   {
+    "titulo": "Protetor Eletrônico Filtro de Linha com 5 tomadas EPE 205 Preto",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 41,45",
+    "precoPor": "R$ 23,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/514UiwyoBQL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B09KzgDdR",
+    "linkWhatsapp": "https://link.amazon/B09KzgDdR",
+    "timestamp": 1793791956000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793878353501,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09KzgDdR",
+      "destination": "https://www.amazon.com.br/dp/B08BKZCHGM?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "CeraVe, Gel de Limpeza Facial para pele oleosa, com Ácido Hialurônico",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 99,90",
+    "precoPor": "R$ 66,17",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51WmbYxevwL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0deFV1y4",
+    "linkWhatsapp": "https://link.amazon/B0deFV1y4",
+    "timestamp": 1793791637000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793878034874,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0deFV1y4",
+      "destination": "https://www.amazon.com.br/dp/B07XP6N3BC?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Lustre Pendente Moderna Led,luminaria Dourado Redondo Sala 127/220v",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 169,99",
+    "precoPor": "R$ 74,60",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_762811-MLB91071468801_082025-F.jpg",
+    "link": "https://meli.la/2NdywqM",
+    "linkWhatsapp": "https://meli.la/2NdywqM",
+    "timestamp": 1793791152000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793877549898
+  },
+  {
     "titulo": "Pais & Filhos - Caiu Perdeu, 54 Pçs, idade mínima recomendada - 6 anos",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6936,53 +6994,5 @@
     "timestamp": 1793668139000,
     "imagemIlustrativa": false,
     "expiresAt": 1793754538157
-  },
-  {
-    "titulo": "Kit 10 Calcinhas Algodão Tanga Lisa Conforto Basica Feminina",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,90",
-    "precoPor": "R$ 39,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_787121-MLB87574985017_072025-F.jpg",
-    "link": "https://meli.la/1s83Lqc",
-    "linkWhatsapp": "https://meli.la/1s83Lqc",
-    "timestamp": 1793667752000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793754150978
-  },
-  {
-    "titulo": "Creatina Integralmédica Hardcore em cápsula Sem sabor x 105g de 120 un",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 58,00",
-    "precoPor": "R$ 30,22",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_833789-MLA100590939374_122025-F.jpg",
-    "link": "https://meli.la/2mnQnpS",
-    "linkWhatsapp": "https://meli.la/2mnQnpS",
-    "timestamp": 1793667377000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793753775091
-  },
-  {
-    "titulo": "Espelho Florença 90x40cm Corpo Inteiro Grande Moderno Luxo Suporte",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 69,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_694720-MLA113968063573_062026-F.jpg",
-    "link": "https://meli.la/2Te4RZ4",
-    "linkWhatsapp": "https://meli.la/2Te4RZ4",
-    "timestamp": 1793666507000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793752905754
   }
 ]
