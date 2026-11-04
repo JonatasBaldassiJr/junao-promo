@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Integralmedica Whey Protein Crisp Bar Ovomaltine 12 Unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 145,44",
+    "precoPor": "R$ 84,32",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Jk+5azw0L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B00EHUlkn",
+    "linkWhatsapp": "https://link.amazon/B00EHUlkn",
+    "timestamp": 1793760978000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793847376190,
+    "amazonTracking": {
+      "url": "https://link.amazon/B00EHUlkn",
+      "destination": "https://www.amazon.com.br/dp/B0F2GMT6T3?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Kit 10 Cuecas Boxer Polo Wear Microfibra Original Conforto",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 199,90",
+    "precoPor": "R$ 135,93",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_798567-MLB89469183373_082025-F.jpg",
+    "link": "https://meli.la/1ndBc5H",
+    "linkWhatsapp": "https://meli.la/1ndBc5H",
+    "timestamp": 1793760837000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793847236355
+  },
+  {
     "titulo": "Relógio Masculino Casio G-shock Original Ga-100-1a1dr Preto",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6833,37 +6870,5 @@
     "timestamp": 1793651944000,
     "imagemIlustrativa": false,
     "expiresAt": 1793738343076
-  },
-  {
-    "titulo": "Mochila De Trilha Impermeável 35l Para Viagem Com Porta Usb",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 318,99",
-    "precoPor": "R$ 152,37",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_928125-MLB115044188935_072026-F.jpg",
-    "link": "https://meli.la/2Vws6iS",
-    "linkWhatsapp": "https://meli.la/2Vws6iS",
-    "timestamp": 1793651864000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793738262754
-  },
-  {
-    "titulo": "Conjunto Assadeiras 6 Peças de Vidro com Tampa Cinza - Marinex",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 119,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_680923-MLA99452904082_112025-F.jpg",
-    "link": "https://meli.la/2VqaYZX",
-    "linkWhatsapp": "https://meli.la/2VqaYZX",
-    "timestamp": 1793651729000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793738128285
   }
 ]
