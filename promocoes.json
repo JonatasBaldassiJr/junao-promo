@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Placa Mãe MSI A520M-A PRO Chipset A520, AMD AM4, mATX, DDR4",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 389,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bb-muw5mwn32ole90",
+    "link": "https://s.shopee.com.br/8AXQ6fsWu6",
+    "linkWhatsapp": "https://s.shopee.com.br/8AXQ6fsWu6",
+    "timestamp": 1793873471000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793959869365
+  },
+  {
+    "titulo": "Jaqueta Decoy Hooded Shirt Jacket Field & Streammasculino",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 690,57",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81CMa56+KNL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B07kjw4GE",
+    "linkWhatsapp": "https://link.amazon/B07kjw4GE",
+    "timestamp": 1793873462000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1793959860252,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07kjw4GE",
+      "destination": "https://www.amazon.com.br/dp/B0FC6F2T7C?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Ventilador de Pé FANSVENTO Turbo Silencioso 3 em 1 de 16” com 5 Pás",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -7006,37 +7043,5 @@
     "timestamp": 1793788642000,
     "imagemIlustrativa": false,
     "expiresAt": 1793875041096
-  },
-  {
-    "titulo": "Universo Das Torneiras Banheiro Alta Preta Fosco Lavatório Cuba Pia",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 75,50",
-    "precoPor": "R$ 49,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_761640-MLA87580570520_072025-F.jpg",
-    "link": "https://meli.la/22rUMLh",
-    "linkWhatsapp": "https://meli.la/22rUMLh",
-    "timestamp": 1793788608000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793875006870
-  },
-  {
-    "titulo": "Galaxy A57 5G (256GB) - Cinza + Buds Core - Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 2.716,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825aq-muwbw03z9yx204",
-    "link": "https://s.shopee.com.br/4LKfyQhndD",
-    "linkWhatsapp": "https://s.shopee.com.br/4LKfyQhndD",
-    "timestamp": 1793788550000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793874946377
   }
 ]
