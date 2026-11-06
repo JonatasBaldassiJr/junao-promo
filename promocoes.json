@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Whey protein Musclebox Iso Blend Complex zero açucar Low em pó sabor",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 109,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_609354-MLA106754876157_022026-F.jpg",
+    "link": "https://meli.la/16snHKw",
+    "linkWhatsapp": "https://meli.la/16snHKw",
+    "timestamp": 1793995281000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794081680371
+  },
+  {
+    "titulo": "Smart TV 32WDSNMX 32'' HD LED",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 969,00",
+    "precoPor": "R$ 836,07",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_824259-MLA99939289013_112025-F.jpg",
+    "link": "https://meli.la/2QBxXsA",
+    "linkWhatsapp": "https://meli.la/2QBxXsA",
+    "timestamp": 1793994838000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794081236655
+  },
+  {
+    "titulo": "Kit Lavagem Shampoo Cera Tok Final Intense Sintra Fast Vonixx",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 167,79",
+    "precoPor": "R$ 142,62",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_659633-MLA117032776949_092026-F.jpg",
+    "link": "https://meli.la/32basSL",
+    "linkWhatsapp": "https://meli.la/32basSL",
+    "timestamp": 1793994601000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794081000590
+  },
+  {
     "titulo": "Celular Samsung Galaxy A17 5G Com IA, 128gb, 4gb Ram, Câm De 50mp",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6619,59 +6667,5 @@
       "destination": "https://www.amazon.com.br/dp/B07GMDZX9M?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Kit 3 Bermudas Jeans Masculina Lycra Elastano Sortidos Liso 46",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,90",
-    "precoPor": "R$ 119,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_655254-MLB109038375617_032026-F.jpg",
-    "link": "https://meli.la/1Xpd7WX",
-    "linkWhatsapp": "https://meli.la/1Xpd7WX",
-    "timestamp": 1793903157000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793989555459
-  },
-  {
-    "titulo": "Stages Nutrition Sh + Cd + Máscara + Leave-in - Braé",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,82",
-    "precoPor": "R$ 132,18",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_707070-MLA111293414575_052026-F.jpg",
-    "link": "https://meli.la/19YTACs",
-    "linkWhatsapp": "https://meli.la/19YTACs",
-    "timestamp": 1793903012000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793989410768
-  },
-  {
-    "titulo": "Danos Vorazes Máscara de Tratamento 450g, Lola Cosmetics",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 64,90",
-    "precoPor": "R$ 24,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61C0iM4H-iL._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B00tvflWm",
-    "linkWhatsapp": "https://link.amazon/B00tvflWm",
-    "timestamp": 1793902960000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1793989358176,
-    "amazonTracking": {
-      "url": "https://link.amazon/B00tvflWm",
-      "destination": "https://www.amazon.com.br/dp/B09XFLHJ1S?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 64,90 ➜ R$ 24,70 no Programe e Poupe"
   }
 ]
