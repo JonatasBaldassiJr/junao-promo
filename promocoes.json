@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Balança Corporal Bioimpedância Premium Com Visor Inteligente Bluetooth",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 29,90",
+    "precoPor": "R$ 25,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51LURfjjxbL._SL1024_.jpg",
+    "link": "https://link.amazon/B005kag1H",
+    "linkWhatsapp": "https://link.amazon/B005kag1H",
+    "timestamp": 1794046389000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794132786554,
+    "amazonTracking": {
+      "url": "https://link.amazon/B005kag1H",
+      "destination": "https://www.amazon.com.br/dp/B0F8C4M33R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Notebook",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6721,21 +6742,5 @@
     "timestamp": 1793960388000,
     "imagemIlustrativa": false,
     "expiresAt": 1794046787063
-  },
-  {
-    "titulo": "Capa Para Notebook Mouse Sem Fio Suporte Mousepad Preto 15.6",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 125,41",
-    "precoPor": "R$ 99,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_675587-MLB117110242076_102026-F.jpg",
-    "link": "https://meli.la/2c4XwLW",
-    "linkWhatsapp": "https://meli.la/2c4XwLW",
-    "timestamp": 1793960363000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794046761482
   }
 ]
