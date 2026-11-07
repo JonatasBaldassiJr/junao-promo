@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Cafeteira Espresso Oster PrimaLatte Touch Red - 127V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.999,00",
+    "precoPor": "R$ 737,27",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Nwem6YkSL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0gCtXFzv",
+    "linkWhatsapp": "https://link.amazon/B0gCtXFzv",
+    "timestamp": 1794094029000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794180427366,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0gCtXFzv",
+      "destination": "https://www.amazon.com.br/dp/B0C7FBYDFP?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Pokémon TCG: Coleção Ilustração Parceiro Inicial do (Série 3)",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6743,21 +6764,5 @@
       "destination": "https://www.amazon.com.br/dp/B0GZ7535SW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Mouse Gamer Sem Fio Fire Phoenix 24000dpi Paw3311 Bk-r3x Cor Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 133,00",
-    "precoPor": "R$ 98,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_849014-MLA99977250743_112025-F.jpg",
-    "link": "https://meli.la/1PPEtEA",
-    "linkWhatsapp": "https://meli.la/1PPEtEA",
-    "timestamp": 1794012389000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794098788392
   }
 ]
