@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "L'Oréal Paris Dermo Expertise BB Cream, Creme Milagroso 5 em 1",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 71,99",
+    "precoPor": "R$ 35,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_986027-MLA116432890539_082026-F.jpg",
+    "link": "https://meli.la/19fMgx1",
+    "linkWhatsapp": "https://meli.la/19fMgx1",
+    "timestamp": 1794179077000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794265475988
+  },
+  {
+    "titulo": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 349,00",
+    "precoPor": "R$ 185,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_694546-MLA117038112537_092026-F.jpg",
+    "link": "https://meli.la/2BRkhaf",
+    "linkWhatsapp": "https://meli.la/2BRkhaf",
+    "timestamp": 1794179064000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794265462789
+  },
+  {
     "titulo": "Máscara Vegana Hidratação Profunda Profissional Food For Soft Matrix",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6737,37 +6769,5 @@
     "timestamp": 1794066310000,
     "imagemIlustrativa": false,
     "expiresAt": 1794152709560
-  },
-  {
-    "titulo": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 4.999,00",
-    "precoPor": "R$ 2.349,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_646395-MLA116823736237_082026-F.jpg",
-    "link": "https://meli.la/2fhYqqf",
-    "linkWhatsapp": "https://meli.la/2fhYqqf",
-    "timestamp": 1794066251000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794152650062
-  },
-  {
-    "titulo": "Monitor Gamer ASUS TUF 23.8\", Full HD, 260Hz, 0.3ms, Fast IPS, VRR",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 785,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825ak-muc6yp62upsacf",
-    "link": "https://s.shopee.com.br/8pn8VixjQl",
-    "linkWhatsapp": "https://s.shopee.com.br/8pn8VixjQl",
-    "timestamp": 1794066170000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794152567973
   }
 ]
