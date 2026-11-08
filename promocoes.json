@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Casa Dona Tapete Retangular Felpudo Charme 150x200cm Bege",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 279,99",
+    "precoPor": "R$ 104,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/713ts97DuwL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B08GeCYKZ",
+    "linkWhatsapp": "https://link.amazon/B08GeCYKZ",
+    "timestamp": 1794132668000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794219060367,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08GeCYKZ",
+      "destination": "https://www.amazon.com.br/dp/B07X1SN2VH?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Cafeteira Espresso Oster PrimaLatte Touch Red - 127V",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6743,26 +6764,5 @@
     "timestamp": 1794012737000,
     "imagemIlustrativa": false,
     "expiresAt": 1794099134961
-  },
-  {
-    "titulo": "Secret Clinical Desodorante Antitranspirante em Gel Lavanda Invisível",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 37,90",
-    "precoPor": "R$ 14,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61BSPY0tXhL._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B0iN7s37e",
-    "linkWhatsapp": "https://link.amazon/B0iN7s37e",
-    "timestamp": 1794012452000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794098849252,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0iN7s37e",
-      "destination": "https://www.amazon.com.br/dp/B0GZ7535SW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
