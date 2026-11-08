@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Relógio De Pulso Casio Youth W-218H-1AV",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 259,00",
+    "precoPor": "R$ 132,05",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_734707-MLA114937003722_082026-F.jpg",
+    "link": "https://meli.la/2aC4pVq",
+    "linkWhatsapp": "https://meli.la/2aC4pVq",
+    "timestamp": 1794176011000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794262409463
+  },
+  {
+    "titulo": "Kit 2 Calças Pantalona Wide Leg Feminino Cintura Alta",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 129,99",
+    "precoPor": "R$ 113,09",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_932321-MLB83993401214_052025-F.jpg",
+    "link": "https://meli.la/2YTND3n",
+    "linkWhatsapp": "https://meli.la/2YTND3n",
+    "timestamp": 1794175954000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794262352676
+  },
+  {
     "titulo": "Deo Parfum Essencial Natura Masculino 100 ml",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6737,42 +6769,5 @@
     "timestamp": 1794065198000,
     "imagemIlustrativa": false,
     "expiresAt": 1794151596700
-  },
-  {
-    "titulo": "LG UltraGear Monitor Gamer 27\" IPS, 144Hz Nativo, 1ms (MBR), Full HD",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.039,00",
-    "precoPor": "R$ 728,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_896633-MLA120723721883_112026-F.jpg",
-    "link": "https://meli.la/1ZeaQ8o",
-    "linkWhatsapp": "https://meli.la/1ZeaQ8o",
-    "timestamp": 1794064623000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794151021759
-  },
-  {
-    "titulo": "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 3.748,50",
-    "precoPor": "R$ 3.372,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61ypIBTp6vL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B04MgMLkF",
-    "linkWhatsapp": "https://link.amazon/B04MgMLkF",
-    "timestamp": 1794064372000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794150770564,
-    "amazonTracking": {
-      "url": "https://link.amazon/B04MgMLkF",
-      "destination": "https://www.amazon.com.br/dp/B0DSXX6XB3?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
