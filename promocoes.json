@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Kit Wella Professionals Fusion Shampoo Condicionador",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 514,90",
+    "precoPor": "R$ 310,32",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_712119-MLA99415103216_112025-F.jpg",
+    "link": "https://meli.la/2gu9F6K",
+    "linkWhatsapp": "https://meli.la/2gu9F6K",
+    "timestamp": 1794169970000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794256365671
+  },
+  {
+    "titulo": "Loção Hidratante Corporal Dorah Provence Flowers 400ml Vegana",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 9,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820mc-mp738k833v9de1",
+    "link": "https://s.shopee.com.br/1BndD9kk0",
+    "linkWhatsapp": "https://s.shopee.com.br/1BndD9kk0",
+    "timestamp": 1794157908000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794244295063
+  },
+  {
     "titulo": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6742,37 +6774,5 @@
     "timestamp": 1794063294000,
     "imagemIlustrativa": false,
     "expiresAt": 1794149692478
-  },
-  {
-    "titulo": "Kit 4 Cesto Organizador De Guarda Roupa Caixa Organizadora Padrão",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 108,00",
-    "precoPor": "R$ 74,68",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_714373-MLB110574477027_042026-F.jpg",
-    "link": "https://meli.la/2ZSW1Jr",
-    "linkWhatsapp": "https://meli.la/2ZSW1Jr",
-    "timestamp": 1794063226000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794149624062
-  },
-  {
-    "titulo": "Tênis Masculino New Balance 413v3 Corrida E Academia",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 429,99",
-    "precoPor": "R$ 186,20",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_625314-MLB90818286371_082025-F.jpg",
-    "link": "https://meli.la/1XENdeG",
-    "linkWhatsapp": "https://meli.la/1XENdeG",
-    "timestamp": 1794063117000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794149515684
   }
 ]
