@@ -1,5 +1,68 @@
 [
   {
+    "titulo": "Vodka Absolut 750ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 117,90",
+    "precoPor": "R$ 64,96",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61K6fX-wiML._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0dPmfwAz",
+    "linkWhatsapp": "https://link.amazon/B0dPmfwAz",
+    "timestamp": 1794167095000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794253493165,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dPmfwAz",
+      "destination": "https://www.amazon.com.br/dp/B0F6B9J986?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Electrolux Kit 16 Potes Herméticos Plástico Multiuso Vedação Silicone",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 142,00",
+    "precoPor": "R$ 99,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71PuXdjXGSL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B09gJwQIS",
+    "linkWhatsapp": "https://link.amazon/B09gJwQIS",
+    "timestamp": 1794167079000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794253477570,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09gJwQIS",
+      "destination": "https://www.amazon.com.br/dp/B0FVJWQ3PX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Apple iPhone 15 (128 GB) — Preto",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 5.999,00",
+    "precoPor": "R$ 3.779,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/416MG51rNgL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B02WW1TfL",
+    "linkWhatsapp": "https://link.amazon/B02WW1TfL",
+    "timestamp": 1794167045000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794253441169,
+    "amazonTracking": {
+      "url": "https://link.amazon/B02WW1TfL",
+      "destination": "https://www.amazon.com.br/dp/B0CP6CVJSG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Essencial Atrai Deo Parfum Masculino 100 Ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6700,59 +6763,5 @@
     "timestamp": 1794071170000,
     "imagemIlustrativa": false,
     "expiresAt": 1794157569295
-  },
-  {
-    "titulo": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 550,00",
-    "precoPor": "R$ 274,55",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_746691-MLA118789821329_102026-F.jpg",
-    "link": "https://meli.la/2XmHXza",
-    "linkWhatsapp": "https://meli.la/2XmHXza",
-    "timestamp": 1794071120000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794157518882
-  },
-  {
-    "titulo": "Cadeira Escritório Ergonômica Python Fly B07 Cinza Com Suporte Lombar",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 699,00",
-    "precoPor": "R$ 499,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_655101-MLA114169346640_082026-F.jpg",
-    "link": "https://meli.la/1k4QZaR",
-    "linkWhatsapp": "https://meli.la/1k4QZaR",
-    "timestamp": 1794070884000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794157282601
-  },
-  {
-    "titulo": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 50,03",
-    "precoPor": "R$ 23,65",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61+-OgmlRlL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0a6gMZuA",
-    "linkWhatsapp": "https://link.amazon/B0a6gMZuA",
-    "timestamp": 1794070829000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794157226861,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0a6gMZuA",
-      "destination": "https://www.amazon.com.br/dp/B0CXBJMSQF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 50,03 ➜ R$ 23,65 no Programe e Poupe"
   }
 ]
