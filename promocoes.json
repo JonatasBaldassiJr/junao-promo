@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Hair Vintage Girl Creme Alisante 850g, Lola Cosmetics",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 149,90",
+    "precoPor": "R$ 53,09",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/619Y5opifoL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0c0Hhotv",
+    "linkWhatsapp": "https://link.amazon/B0c0Hhotv",
+    "timestamp": 1794221820000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794308215254,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0c0Hhotv",
+      "destination": "https://www.amazon.com.br/dp/B074LWHJ2H?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 149,90 ➜ R$ 53,09 no Programe e Poupe"
+  },
+  {
     "titulo": "Danos Vorazes Máscara de Tratamento 450g, Lola Cosmetics",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6672,26 +6694,5 @@
     "timestamp": 1794085772000,
     "imagemIlustrativa": false,
     "expiresAt": 1794172170465
-  },
-  {
-    "titulo": "Teclado Mecânico Gamer Husky Prince, Switch Huano Brown",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 99,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51mzMhE7CYL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B0ingEKTJ",
-    "linkWhatsapp": "https://link.amazon/B0ingEKTJ",
-    "timestamp": 1794084642000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794171040797,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0ingEKTJ",
-      "destination": "https://www.amazon.com.br/dp/B0HP42CL8R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
