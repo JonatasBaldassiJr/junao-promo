@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Danos Vorazes Máscara de Tratamento 450g, Lola Cosmetics",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 64,90",
+    "precoPor": "R$ 24,70",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61C0iM4H-iL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B00tvflWm",
+    "linkWhatsapp": "https://link.amazon/B00tvflWm",
+    "timestamp": 1794221646000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794308042574,
+    "amazonTracking": {
+      "url": "https://link.amazon/B00tvflWm",
+      "destination": "https://www.amazon.com.br/dp/B09XFLHJ1S?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 64,90 ➜ R$ 24,70 no Programe e Poupe"
+  },
+  {
     "titulo": "Kit 2 Esteiras Para Sofá Porta Copos Bandeja Protetora Master Elegance",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6671,21 +6693,5 @@
       "destination": "https://www.amazon.com.br/dp/B0HP42CL8R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Calça Preta Feminina Cintura Alta Com Elastano Empina Bumbum",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 99,90",
-    "precoPor": "R$ 69,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_873478-MLB97328838793_112025-F.jpg",
-    "link": "https://meli.la/1KSEPrk",
-    "linkWhatsapp": "https://meli.la/1KSEPrk",
-    "timestamp": 1794084586000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794170983868
   }
 ]
