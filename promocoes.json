@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Monitor Gamer Alienware 25\", Full Hd (1920 x 1080), 320 Hz",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.999,00",
+    "precoPor": "R$ 1.589,98",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/6106dbww1XL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0difiFNC",
+    "linkWhatsapp": "https://link.amazon/B0difiFNC",
+    "timestamp": 1794221106000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794307502058,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0difiFNC",
+      "destination": "https://www.amazon.com.br/dp/B0FH5NMXHK?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom BLACK150OFF"
+  },
+  {
     "titulo": "WAP Aspirador Automotivo Portátil 12V, 420ML Sólido, Filto Hepa, cabo",
     "categoria": "automotivo",
     "categoriaNome": "Automotivo",
@@ -6665,21 +6687,5 @@
     "timestamp": 1794084352000,
     "imagemIlustrativa": false,
     "expiresAt": 1794170750866
-  },
-  {
-    "titulo": "Secador De Cabelo Redroad Com Íons Negativos E Alta Velocida",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 299,00",
-    "precoPor": "R$ 192,60",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_918569-MLB116355742935_082026-F.jpg",
-    "link": "https://meli.la/1mNAfsz",
-    "linkWhatsapp": "https://meli.la/1mNAfsz",
-    "timestamp": 1794084271000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794170669087
   }
 ]
