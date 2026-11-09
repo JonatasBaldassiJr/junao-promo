@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "WAP Aspirador Automotivo Portátil 12V, 420ML Sólido, Filto Hepa, cabo",
+    "categoria": "automotivo",
+    "categoriaNome": "Automotivo",
+    "loja": "Amazon",
+    "precoDe": "R$ 119,90",
+    "precoPor": "R$ 69,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71K2Aq3G60L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0cb8lYia",
+    "linkWhatsapp": "https://link.amazon/B0cb8lYia",
+    "timestamp": 1794220557000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794306956263,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0cb8lYia",
+      "destination": "https://www.amazon.com.br/dp/B0G5Z3PZPW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6660,21 +6681,5 @@
     "timestamp": 1794084271000,
     "imagemIlustrativa": false,
     "expiresAt": 1794170669087
-  },
-  {
-    "titulo": "Fone de Ouvido TWS Bluetooth Basike Esportivo com Som DT6.0 e Graves",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 171,00",
-    "precoPor": "R$ 105,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_712339-MLA113179192242_072026-F.jpg",
-    "link": "https://meli.la/2TPjkch",
-    "linkWhatsapp": "https://meli.la/2TPjkch",
-    "timestamp": 1794084213000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794170612185
   }
 ]
