@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Downy Amaciante Concentrado Brisa de Verão 3L Rende 12L",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 73,75",
+    "precoPor": "R$ 41,83",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61NJbm2a9tL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B04F3vduo",
+    "linkWhatsapp": "https://link.amazon/B04F3vduo",
+    "timestamp": 1794223972000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794310368671,
+    "amazonTracking": {
+      "url": "https://link.amazon/B04F3vduo",
+      "destination": "https://www.amazon.com.br/dp/B07MBXDB51?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Aparelho de Pressão Digital Automático de Pulso G-Tech GP400",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 148,90",
+    "precoPor": "R$ 60,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/712ym4DyVoL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0bjARWvv",
+    "linkWhatsapp": "https://link.amazon/B0bjARWvv",
+    "timestamp": 1794223947000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794310343477,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0bjARWvv",
+      "destination": "https://www.amazon.com.br/dp/B0B2SKGJ79?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit Tapete Cozinha Passadeira Jogo Tear 3 Peças Kit De",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6682,43 +6724,5 @@
       "destination": "https://www.amazon.com.br/dp/B0C7FBYDFP?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Pokémon TCG: Coleção Ilustração Parceiro Inicial do (Série 3)",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 145,82",
-    "precoPor": "R$ 130,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/81byBoWs9FL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0daBd9Pb",
-    "linkWhatsapp": "https://link.amazon/B0daBd9Pb",
-    "timestamp": 1794093344000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794179742102,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0daBd9Pb",
-      "destination": "https://www.amazon.com.br/dp/B0H7XF3LJL?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Use o cupom BRINQU3DOS20"
-  },
-  {
-    "titulo": "Rapidmove Go Trainer M adidas",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 599,99",
-    "precoPor": "R$ 291,55",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_997493-MLB114320590970_082026-F.jpg",
-    "link": "https://meli.la/33GxA7N",
-    "linkWhatsapp": "https://meli.la/33GxA7N",
-    "timestamp": 1794093232000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794179631452
   }
 ]
