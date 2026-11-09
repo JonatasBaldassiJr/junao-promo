@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Pantene Sérum Leave-in Bambu Força Nutrição Controle de Frizz 95 ml",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 49,90",
+    "precoPor": "R$ 23,38",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51z1aGNsVvL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0dMWASuc",
+    "linkWhatsapp": "https://link.amazon/B0dMWASuc",
+    "timestamp": 1794176144000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794262542954,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dMWASuc",
+      "destination": "https://www.amazon.com.br/dp/B0GKCCZ7CY?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Stanley Copo Texturizado com Tampa Everyday Tumbler Black 473ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 199,00",
+    "precoPor": "R$ 104,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51BDp66ZOoL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B07PeGffd",
+    "linkWhatsapp": "https://link.amazon/B07PeGffd",
+    "timestamp": 1794176058000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794262448174,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07PeGffd",
+      "destination": "https://www.amazon.com.br/dp/B0GC93XGR6?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Sabão Líquido Brilhante Alta Performance Concentrado Profissional 7L",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6731,37 +6773,5 @@
     "timestamp": 1794071627000,
     "imagemIlustrativa": false,
     "expiresAt": 1794158025298
-  },
-  {
-    "titulo": "Kit Ferramenta Jogo Soquete 57 Peças Para Oficinas",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 231,00",
-    "precoPor": "R$ 169,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_755829-MLA99533776596_122025-F.jpg",
-    "link": "https://meli.la/1bRfk4Y",
-    "linkWhatsapp": "https://meli.la/1bRfk4Y",
-    "timestamp": 1794071367000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794157765760
-  },
-  {
-    "titulo": "Garrafa Térmica Stanley Aerolight Fast Flow Cream Chevron 710ml",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 309,00",
-    "precoPor": "R$ 144,72",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_632334-MLA112638211624_062026-F.jpg",
-    "link": "https://meli.la/2egkcK7",
-    "linkWhatsapp": "https://meli.la/2egkcK7",
-    "timestamp": 1794071233000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794157631460
   }
 ]
