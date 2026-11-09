@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Densidade Acidificante Capilar 250g, Lola Cosmetics",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 59,90",
+    "precoPor": "R$ 18,70",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71oJz+tFG8L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B01IV2yzs",
+    "linkWhatsapp": "https://link.amazon/B01IV2yzs",
+    "timestamp": 1794221974000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794308370752,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01IV2yzs",
+      "destination": "https://www.amazon.com.br/dp/B09KCYYZNG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 59,90 ➜ R$ 18,70 no Programe e Poupe"
+  },
+  {
     "titulo": "Hair Vintage Girl Creme Alisante 850g, Lola Cosmetics",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6678,21 +6700,5 @@
     "timestamp": 1794086031000,
     "imagemIlustrativa": false,
     "expiresAt": 1794172429159
-  },
-  {
-    "titulo": "Tênis Freeday Combat White Line Unissex | Preto Branco 36 Br",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 249,90",
-    "precoPor": "R$ 148,81",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_916453-MLB114931644576_082026-F.jpg",
-    "link": "https://meli.la/2qw6BJ5",
-    "linkWhatsapp": "https://meli.la/2qw6BJ5",
-    "timestamp": 1794085772000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794172170465
   }
 ]
