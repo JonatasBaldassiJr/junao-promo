@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Gato Negro Vinho Pinot Noir 750Ml",
+    "categoria": "pet",
+    "categoriaNome": "Pet",
+    "loja": "Amazon",
+    "precoDe": "R$ 47,67",
+    "precoPor": "R$ 28,46",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/414i3vw9aPL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B08acEG1n",
+    "linkWhatsapp": "https://link.amazon/B08acEG1n",
+    "timestamp": 1794222224000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794308621074,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08acEG1n",
+      "destination": "https://www.amazon.com.br/dp/B07HMCT2BH?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Densidade Acidificante Capilar 250g, Lola Cosmetics",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6684,21 +6705,5 @@
     "timestamp": 1794086384000,
     "imagemIlustrativa": false,
     "expiresAt": 1794172781452
-  },
-  {
-    "titulo": "Tapete De Pilates Xpe De Yoga Com Redução De Ruído",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 169,00",
-    "precoPor": "R$ 90,18",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_837469-MLB118058213339_092026-F.jpg",
-    "link": "https://meli.la/1chzQyF",
-    "linkWhatsapp": "https://meli.la/1chzQyF",
-    "timestamp": 1794086031000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794172429159
   }
 ]
