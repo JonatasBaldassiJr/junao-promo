@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 110,90",
+    "precoPor": "R$ 81,82",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0gbjdLHV",
+    "linkWhatsapp": "https://link.amazon/B0gbjdLHV",
+    "timestamp": 1794220086000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794306485162,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0gbjdLHV",
+      "destination": "https://www.amazon.com.br/dp/B07RK4HST7?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6655,21 +6676,5 @@
     "timestamp": 1794084213000,
     "imagemIlustrativa": false,
     "expiresAt": 1794170612185
-  },
-  {
-    "titulo": "Hiddra Copo Térmico 1,2l Personalizado Seu Nome Canudo Inox",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 78,99",
-    "precoPor": "R$ 67,14",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_641913-MLB116664106299_082026-F.jpg",
-    "link": "https://meli.la/1NHCCnW",
-    "linkWhatsapp": "https://meli.la/1NHCCnW",
-    "timestamp": 1794084146000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794170544472
   }
 ]
