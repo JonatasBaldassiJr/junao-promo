@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Mega Dha - 120 Cápsulas - Vitafor",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 235,56",
+    "precoPor": "R$ 120,52",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51W-+cHPyjL._AC_SL1080_.jpg",
+    "link": "https://link.amazon/B08MpUwU8",
+    "linkWhatsapp": "https://link.amazon/B08MpUwU8",
+    "timestamp": 1794229991000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794316389589,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08MpUwU8",
+      "destination": "https://www.amazon.com.br/dp/B07L5V8FFF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 235,56 ➜ R$ 120,52 no Programe e Poupe"
+  },
+  {
     "titulo": "Mochila Lenovo Casual B210 Preta para Notebook 15,6\" - GX40Q17225",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6703,27 +6725,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "R$ 74,99 ➜ R$ 58,89 no Programe e Poupe"
-  },
-  {
-    "titulo": "Gel de Limpeza Dermatológico Facial Darrow Actine",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 64,99",
-    "precoPor": "R$ 43,69",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71W6y0jyEnL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0cBtpVKb",
-    "linkWhatsapp": "https://link.amazon/B0cBtpVKb",
-    "timestamp": 1794134064000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220463171,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0cBtpVKb",
-      "destination": "https://www.amazon.com.br/dp/B0BT86GL3F?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 64,99 ➜ R$ 43,69 no Programe e Poupe"
   }
 ]
