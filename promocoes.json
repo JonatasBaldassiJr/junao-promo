@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Smart TV TCL 55 Polegadas QLED 4K P8LS WiFi Bluetooth Google TV HDR10+",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 3.199,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_774238-MLA118844425793_102026-F.jpg",
+    "link": "https://meli.la/25Z8QYD",
+    "linkWhatsapp": "https://meli.la/25Z8QYD",
+    "timestamp": 1794352536000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794438934993
+  },
+  {
     "titulo": "Adizero Drive Rc M adidas",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6726,27 +6742,6 @@
     "amazonTracking": {
       "url": "https://link.amazon/B09gJwQIS",
       "destination": "https://www.amazon.com.br/dp/B0FVJWQ3PX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Apple iPhone 15 (128 GB) — Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 5.999,00",
-    "precoPor": "R$ 3.779,10",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/416MG51rNgL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B02WW1TfL",
-    "linkWhatsapp": "https://link.amazon/B02WW1TfL",
-    "timestamp": 1794167045000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794253441169,
-    "amazonTracking": {
-      "url": "https://link.amazon/B02WW1TfL",
-      "destination": "https://www.amazon.com.br/dp/B0CP6CVJSG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
   }
