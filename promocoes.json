@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Grand Theft Auto Vi - Playstation 5",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 449,90",
+    "precoPor": "R$ 413,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_851016-MLB116174445930_092026-F.jpg",
+    "link": "https://meli.la/1QeYXmN",
+    "linkWhatsapp": "https://meli.la/1QeYXmN",
+    "timestamp": 1794327697000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794414095388
+  },
+  {
+    "titulo": "Mala Wilson Viagem Rodinhas 19' Rodas Removíveis 10kg Anac",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 699,00",
+    "precoPor": "R$ 239,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_685370-MLB84391208861_052025-F.jpg",
+    "link": "https://meli.la/1AFzRQ5",
+    "linkWhatsapp": "https://meli.la/1AFzRQ5",
+    "timestamp": 1794327066000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794413463763
+  },
+  {
     "titulo": "Fritadeira Air Fryer 5,5l Widemax Com Interior De Alumínio 1900w Midea",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6671,37 +6703,5 @@
     "timestamp": 1794140235000,
     "imagemIlustrativa": false,
     "expiresAt": 1794226633370
-  },
-  {
-    "titulo": "Camiseta Light T-shirt Insider Masculino",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 189,00",
-    "precoPor": "R$ 54,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_943072-MLB119113754480_112026-F.jpg",
-    "link": "https://meli.la/2ipj7XS",
-    "linkWhatsapp": "https://meli.la/2ipj7XS",
-    "timestamp": 1794140157000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794226556297
-  },
-  {
-    "titulo": "Liquidificador Power Mix Arno Lq11",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 99,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_872419-MLB89455898996_082025-F.jpg",
-    "link": "https://meli.la/2g1Edsx",
-    "linkWhatsapp": "https://meli.la/2g1Edsx",
-    "timestamp": 1794139651000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794226050252
   }
 ]
