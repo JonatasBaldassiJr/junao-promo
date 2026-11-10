@@ -1,5 +1,68 @@
 [
   {
+    "titulo": "Café Torrado e Moído 3 Corações Portinari, Notas Frutadas",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 34,90",
+    "precoPor": "R$ 17,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61CEUh7PvyL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0dXQtC2C",
+    "linkWhatsapp": "https://link.amazon/B0dXQtC2C",
+    "timestamp": 1794244987000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794331381971,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dXQtC2C",
+      "destination": "https://www.amazon.com.br/dp/B0B7K57T8Z?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Electrolux, Pote Hermetico, 12 unidades, A23122901, cinza",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 129,90",
+    "precoPor": "R$ 72,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51uccv-jBiL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B00AlOlCQ",
+    "linkWhatsapp": "https://link.amazon/B00AlOlCQ",
+    "timestamp": 1794241964000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794328359599,
+    "amazonTracking": {
+      "url": "https://link.amazon/B00AlOlCQ",
+      "destination": "https://www.amazon.com.br/dp/B09XJL4B9H?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Secret Clinical Desodorante Antitranspirante em Gel Lavanda Invisível",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 37,90",
+    "precoPor": "R$ 17,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61BSPY0tXhL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0iN7s37e",
+    "linkWhatsapp": "https://link.amazon/B0iN7s37e",
+    "timestamp": 1794238994000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794325391062,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0iN7s37e",
+      "destination": "https://www.amazon.com.br/dp/B0GZ7535SW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Porto Brasil Conjunto com 6 Xícaras de Café com Pires Roma Branco",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6670,59 +6733,5 @@
       "destination": "https://www.amazon.com.br/dp/B0B5FHVL3R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Micro-ondas Philco 28L Branco Pintura Limpa Fácil PMO30B",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 450,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8257u-mudikhjl7t3b10",
-    "link": "https://s.shopee.com.br/80E4j3NBRk",
-    "linkWhatsapp": "https://s.shopee.com.br/80E4j3NBRk",
-    "timestamp": 1794134433000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220828261
-  },
-  {
-    "titulo": "Seca Sem Frizz Leave-In Finalizador 180ml | Amend Essencial",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 61,90",
-    "precoPor": "R$ 26,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/4148qMkHJNL._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B08Ci1yAl",
-    "linkWhatsapp": "https://link.amazon/B08Ci1yAl",
-    "timestamp": 1794134392000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220790475,
-    "amazonTracking": {
-      "url": "https://link.amazon/B08Ci1yAl",
-      "destination": "https://www.amazon.com.br/dp/B0DJHCX662?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 61,90 ➜ R$ 26,40 no Programe e Poupe"
-  },
-  {
-    "titulo": "Fone Ouvido Sem Fio Bluetooth Para Xiaomi Samsung Motorola Preto",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 112,25",
-    "precoPor": "R$ 81,72",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_840333-MLB92327212617_092025-F.jpg",
-    "link": "https://meli.la/1T2srpf",
-    "linkWhatsapp": "https://meli.la/1T2srpf",
-    "timestamp": 1794134325000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220724284
   }
 ]
