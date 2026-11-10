@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Depurador de Ar Suggar Slim com Manta 60 cm Cor Preto",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 449,90",
+    "precoPor": "R$ 329,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_990053-MLA99889046743_112025-F.jpg",
+    "link": "https://meli.la/2GG2Svb",
+    "linkWhatsapp": "https://meli.la/2GG2Svb",
+    "timestamp": 1794325273000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794411671461
+  },
+  {
+    "titulo": "Ar Condicionado Split LG Ai Dual Inverter Compact 9000 Btu/h 220v",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 2.584,00",
+    "precoPor": "R$ 1.938,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_743173-MLB110269620771_042026-F.jpg",
+    "link": "https://meli.la/2NUEuxe",
+    "linkWhatsapp": "https://meli.la/2NUEuxe",
+    "timestamp": 1794324644000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794411042964
+  },
+  {
+    "titulo": "Lava E Seca Samsung Wd11m Com Digital Inverter Branca 11kg Cor Branco",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 3.399,00",
+    "precoPor": "R$ 3.067,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_707477-MLA99987270185_112025-F.jpg",
+    "link": "https://meli.la/1jKzvDg",
+    "linkWhatsapp": "https://meli.la/1jKzvDg",
+    "timestamp": 1794324099000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794410497062
+  },
+  {
     "titulo": "Kérastase Nutritive Bain Satin, Shampoo Hidratante para Cabelos Secos",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6671,63 +6719,5 @@
     "timestamp": 1794137536000,
     "imagemIlustrativa": false,
     "expiresAt": 1794223934672
-  },
-  {
-    "titulo": "Apple iPhone 16 (128 GB) – Verde-acinzentado",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 6.799,00",
-    "precoPor": "R$ 4.549,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71kMdztVHLL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B08gsjDvQ",
-    "linkWhatsapp": "https://link.amazon/B08gsjDvQ",
-    "timestamp": 1794137460000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794223858900,
-    "amazonTracking": {
-      "url": "https://link.amazon/B08gsjDvQ",
-      "destination": "https://www.amazon.com.br/dp/B0DJFSTQHX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 135,41",
-    "precoPor": "R$ 54,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_626928-MLB82004918446_022025-F.jpg",
-    "link": "https://meli.la/2TaVQ9N",
-    "linkWhatsapp": "https://meli.la/2TaVQ9N",
-    "timestamp": 1794137428000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794223827672
-  },
-  {
-    "titulo": "KIKO MILANO, 3D Hydra Lipgloss, Gloss Hidratante Para Os Lábios",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 99,90",
-    "precoPor": "R$ 84,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71wb2c0SIlL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B01HtHeyz",
-    "linkWhatsapp": "https://link.amazon/B01HtHeyz",
-    "timestamp": 1794137380000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794223778659,
-    "amazonTracking": {
-      "url": "https://link.amazon/B01HtHeyz",
-      "destination": "https://www.amazon.com.br/dp/B06XTZKYZG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
