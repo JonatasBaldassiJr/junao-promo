@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "L'Oréal Professionnel Máscara Capilar Absolut Repair, Tratamento",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 214,90",
+    "precoPor": "R$ 127,30",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71OFq92+6rL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B08z7aSZb",
+    "linkWhatsapp": "https://link.amazon/B08z7aSZb",
+    "timestamp": 1794251070000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794337467686,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08z7aSZb",
+      "destination": "https://www.amazon.com.br/dp/B09GSR58JF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "KIT SHAMPOO V-FLOC CERA TOK FINAL REVITALIZADOR INTENSE 240ML VONIXX",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 102,79",
+    "precoPor": "R$ 80,67",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71ZSd8p1KZL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B05LGGbSr",
+    "linkWhatsapp": "https://link.amazon/B05LGGbSr",
+    "timestamp": 1794251043000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794337441180,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05LGGbSr",
+      "destination": "https://www.amazon.com.br/dp/B0F9Z3D8TZ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Café Torrado e Moído 3 Corações Portinari, Notas Frutadas",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6696,42 +6738,5 @@
     "timestamp": 1794134643000,
     "imagemIlustrativa": false,
     "expiresAt": 1794221041602
-  },
-  {
-    "titulo": "Kit 2 Conjuntos Fitness Feminino De Academia Alta Qualidade",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 189,84",
-    "precoPor": "R$ 180,35",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_655987-MLB109268332834_042026-F.jpg",
-    "link": "https://meli.la/2Ay4h8A",
-    "linkWhatsapp": "https://meli.la/2Ay4h8A",
-    "timestamp": 1794134615000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794221013978
-  },
-  {
-    "titulo": "Lâmpada LED Smart Elgin 30W",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 139,90",
-    "precoPor": "R$ 41,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61XJY8yEABL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0a3wodEy",
-    "linkWhatsapp": "https://link.amazon/B0a3wodEy",
-    "timestamp": 1794134554000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220952186,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0a3wodEy",
-      "destination": "https://www.amazon.com.br/dp/B0B5FHVL3R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
