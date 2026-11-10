@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 5 Peças",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 440,00",
+    "precoPor": "R$ 344,87",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61nYWmn3EOL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B00Xfva8i",
+    "linkWhatsapp": "https://link.amazon/B00Xfva8i",
+    "timestamp": 1794235990000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794322387875,
+    "amazonTracking": {
+      "url": "https://link.amazon/B00Xfva8i",
+      "destination": "https://www.amazon.com.br/dp/B076JKZ2CT?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Mega Dha - 120 Cápsulas - Vitafor",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6703,27 +6724,5 @@
       "destination": "https://www.amazon.com.br/dp/B0FKTRMVL4?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Max Titanium Top Whey Bar 12 Unidades De 41G (Chocolate Com Avelã)",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 74,99",
-    "precoPor": "R$ 58,89",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/81FBhEtb-XL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0fZqcZe9",
-    "linkWhatsapp": "https://link.amazon/B0fZqcZe9",
-    "timestamp": 1794134085000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220483395,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0fZqcZe9",
-      "destination": "https://www.amazon.com.br/dp/B0B321TDNX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 74,99 ➜ R$ 58,89 no Programe e Poupe"
   }
 ]
