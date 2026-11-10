@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Porto Brasil Conjunto com 6 Xícaras de Café com Pires Roma Branco",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 129,70",
+    "precoPor": "R$ 81,94",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41MkhU0q9mL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B01CSZhiy",
+    "linkWhatsapp": "https://link.amazon/B01CSZhiy",
+    "timestamp": 1794238955000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794325352991,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01CSZhiy",
+      "destination": "https://www.amazon.com.br/dp/B076MKDWKQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 5 Peças",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6703,26 +6724,5 @@
     "timestamp": 1794134325000,
     "imagemIlustrativa": false,
     "expiresAt": 1794220724284
-  },
-  {
-    "titulo": "Óleo Capilar Nutritivo 3 em 1 Ox Nutre para Controle de Frizz 120 ml",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 29,18",
-    "precoPor": "R$ 24,52",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61UO6KqFjZL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0ihyWX6B",
-    "linkWhatsapp": "https://link.amazon/B0ihyWX6B",
-    "timestamp": 1794134265000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220663954,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0ihyWX6B",
-      "destination": "https://www.amazon.com.br/dp/B0FKTRMVL4?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
