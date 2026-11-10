@@ -1,5 +1,63 @@
 [
   {
+    "titulo": "Camiseta Dry-fit Preta Caveira Unisex Dark Lab",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 69,31",
+    "precoPor": "R$ 29,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_706587-MLB115944612831_082026-F.jpg",
+    "link": "https://meli.la/2CHqrQV",
+    "linkWhatsapp": "https://meli.la/2CHqrQV",
+    "timestamp": 1794346774000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794433172155
+  },
+  {
+    "titulo": "Cafeteira Elétrica 15 Xícaras Elgin Coffee Break Sistema Corta-pingos",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 63,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61VMK7FWZ+L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B01FmCPyf",
+    "linkWhatsapp": "https://link.amazon/B01FmCPyf",
+    "timestamp": 1794307898000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794394295398,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01FmCPyf",
+      "destination": "https://www.amazon.com.br/dp/B0DB2KSYPY?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Geladeira Panasonic NR-BB65GV7BC Frost Free Inverter 467L Black Glass",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 6.199,00",
+    "precoPor": "R$ 4.078,98",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/31MGeDBQ3QL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0hk90MJd",
+    "linkWhatsapp": "https://link.amazon/B0hk90MJd",
+    "timestamp": 1794307534000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794393930852,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0hk90MJd",
+      "destination": "https://www.amazon.com.br/dp/B0HCPNDK21?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit 6 Pote Vidro Porta Temperos Hermético Cozinha Organiza Vidro/tampa",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6691,53 +6749,5 @@
     "timestamp": 1794188142000,
     "imagemIlustrativa": false,
     "expiresAt": 1794274541186
-  },
-  {
-    "titulo": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 349,90",
-    "precoPor": "R$ 179,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_828936-MLB88748640584_082025-F.jpg",
-    "link": "https://meli.la/18n52GV",
-    "linkWhatsapp": "https://meli.la/18n52GV",
-    "timestamp": 1794188130000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794274528999
-  },
-  {
-    "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 288,63",
-    "precoPor": "R$ 119,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_600424-MLB119244521316_112026-F.jpg",
-    "link": "https://meli.la/1Tw4efQ",
-    "linkWhatsapp": "https://meli.la/1Tw4efQ",
-    "timestamp": 1794188101000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794274499861
-  },
-  {
-    "titulo": "Tênis Esportivo Tryd Ultimate Sprint 1 - Corrida E Fitness",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 176,88",
-    "precoPor": "R$ 96,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_733245-MLB82843791982_032025-F.jpg",
-    "link": "https://meli.la/11kR5zt",
-    "linkWhatsapp": "https://meli.la/11kR5zt",
-    "timestamp": 1794188088000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794274487458
   }
 ]
