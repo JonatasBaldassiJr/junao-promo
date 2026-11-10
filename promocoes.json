@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Lowell Fluido Termoativado Liso Magico 200 Ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 119,90",
+    "precoPor": "R$ 67,46",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51XKGAgW+sL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0hgGKfhz",
+    "linkWhatsapp": "https://link.amazon/B0hgGKfhz",
+    "timestamp": 1794253970000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794340367256,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0hgGKfhz",
+      "destination": "https://www.amazon.com.br/dp/B077C3LTZR?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "L'Oréal Professionnel Máscara Capilar Absolut Repair, Tratamento",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6722,21 +6743,5 @@
       "destination": "https://www.amazon.com.br/dp/B0G3YGYW4Z?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Fritadeira Air Fryer 5,5l Widemax Com Interior De Alumínio 1900w Midea",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 739,68",
-    "precoPor": "R$ 255,55",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_916338-MLA100014649407_122025-F.jpg",
-    "link": "https://meli.la/1z4WmZm",
-    "linkWhatsapp": "https://meli.la/1z4WmZm",
-    "timestamp": 1794134643000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794221041602
   }
 ]
