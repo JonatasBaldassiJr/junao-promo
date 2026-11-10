@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Máquina de Lavar Brastemp 17Kg Cinza Platinum - BW17LTA",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 3.649,00",
+    "precoPor": "R$ 3.345,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_631632-MLA99990478583_112025-F.jpg",
+    "link": "https://meli.la/2ymRF6v",
+    "linkWhatsapp": "https://meli.la/2ymRF6v",
+    "timestamp": 1794310772000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794397171464
+  },
+  {
     "titulo": "Monitor Gamer 27\" Acer Nitro KG3 com Tela Full HD 120Hz IPS Resposta",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6722,21 +6738,5 @@
     "timestamp": 1794134906000,
     "imagemIlustrativa": false,
     "expiresAt": 1794221304881
-  },
-  {
-    "titulo": "Tênis Corrida Response 2 adidas",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 499,99",
-    "precoPor": "R$ 313,59",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_771081-MLB114290576780_082026-F.jpg",
-    "link": "https://meli.la/2hawVu6",
-    "linkWhatsapp": "https://meli.la/2hawVu6",
-    "timestamp": 1794134856000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794221254270
   }
 ]
