@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 149,90",
+    "precoPor": "R$ 40,50",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_733667-MLA95696781618_102025-F.jpg",
+    "link": "https://meli.la/218cgwQ",
+    "linkWhatsapp": "https://meli.la/218cgwQ",
+    "timestamp": 1794336429000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794422826955
+  },
+  {
     "titulo": "Kit Camisetas Aramis Basic Lisa Branca/azul Azul-marinho Xxxl/gggg",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6728,27 +6744,5 @@
     "timestamp": 1794144138000,
     "imagemIlustrativa": false,
     "expiresAt": 1794230536578
-  },
-  {
-    "titulo": "Pink Cheeks Stick 15Km 14G",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 119,90",
-    "precoPor": "R$ 62,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/5195gr4lHwL._AC_SL1200_.jpg",
-    "link": "https://link.amazon/B0aDB4G74",
-    "linkWhatsapp": "https://link.amazon/B0aDB4G74",
-    "timestamp": 1794144035000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794230431661,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0aDB4G74",
-      "destination": "https://www.amazon.com.br/dp/B07F46GN3Q?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 119,90 ➜ R$ 62,91 no Programe e Poupe"
   }
 ]
