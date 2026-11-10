@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "KOOTION M2 NVMe SSD 1TB Gen4 7200 MB/s PCIe4.0x4 M.2 SSD Drive",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "AliExpress",
+    "precoDe": "R$ 1.666,55",
+    "precoPor": "R$ 720,75",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sbd501c32615b4a84af0d8ddec385d0d7W.jpg",
+    "link": "https://s.click.aliexpress.com/e/_c4krSBnv",
+    "linkWhatsapp": "https://s.click.aliexpress.com/e/_c4krSBnv",
+    "timestamp": 1794254035000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794340432865
+  },
+  {
+    "titulo": "Flash Limp MOP7800 - Mop Spray com Dispenser de 400 ml, (Borrifa",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 76,58",
+    "precoPor": "R$ 56,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/413PU3VfiRL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B07TOIHTd",
+    "linkWhatsapp": "https://link.amazon/B07TOIHTd",
+    "timestamp": 1794254007000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794340403961,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07TOIHTd",
+      "destination": "https://www.amazon.com.br/dp/B07CHRZX7X?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Lowell Fluido Termoativado Liso Magico 200 Ml",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6701,47 +6738,5 @@
     "timestamp": 1794134734000,
     "imagemIlustrativa": false,
     "expiresAt": 1794221132759
-  },
-  {
-    "titulo": "Vichy, Dercos Shampoo Anticaspa para Cabelos Normais a Oleosos",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 129,90",
-    "precoPor": "R$ 81,19",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41SQlDQhNQL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B0fglfwon",
-    "linkWhatsapp": "https://link.amazon/B0fglfwon",
-    "timestamp": 1794134677000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794221075371,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0fglfwon",
-      "destination": "https://www.amazon.com.br/dp/B0CZ4BTRYR?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Sérum Leave-in Cabelos Finos Elseve L'Oréal Paris Colágeno Encorpador",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 55,09",
-    "precoPor": "R$ 25,19",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71fF+WE75FL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0hMShmhi",
-    "linkWhatsapp": "https://link.amazon/B0hMShmhi",
-    "timestamp": 1794134654000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794221052471,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0hMShmhi",
-      "destination": "https://www.amazon.com.br/dp/B0G3YGYW4Z?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
