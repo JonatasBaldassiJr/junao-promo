@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Mochila Lenovo Casual B210 Preta para Notebook 15,6\" - GX40Q17225",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 162,27",
+    "precoPor": "R$ 64,61",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/6157zAcYYVL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0aVqo2NT",
+    "linkWhatsapp": "https://link.amazon/B0aVqo2NT",
+    "timestamp": 1794229965000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794316363661,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0aVqo2NT",
+      "destination": "https://www.amazon.com.br/dp/B075Y72PHZ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Philips OneBlade Intimate Aparador de Pelos Íntimos para Mulheres",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 209,90",
+    "precoPor": "R$ 130,69",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61En6Zv7-CL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0iHWcrkz",
+    "linkWhatsapp": "https://link.amazon/B0iHWcrkz",
+    "timestamp": 1794229941000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794316339394,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0iHWcrkz",
+      "destination": "https://www.amazon.com.br/dp/B0FDBJZ8DF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Fritadeira Elétrica Air Fryer 8 em 1 Wap Barbecue Heat Digital Wc",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6683,43 +6725,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "R$ 64,99 ➜ R$ 43,69 no Programe e Poupe"
-  },
-  {
-    "titulo": "Garrafa Isotérmica Inox Vácuo Premium Antivazamento 1 Litro Chumbo",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 59,70",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_705971-MLB94149163553_102025-F.jpg",
-    "link": "https://meli.la/1B1CjYF",
-    "linkWhatsapp": "https://meli.la/1B1CjYF",
-    "timestamp": 1794133972000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220370557
-  },
-  {
-    "titulo": "Protetor Solar Corporal em Loção Neutrogena Sun Fresh, FPS 50, 200ml",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "R$ 89,99",
-    "precoPor": "R$ 46,54",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/517yDtlJjhL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B01KTRA05",
-    "linkWhatsapp": "https://link.amazon/B01KTRA05",
-    "timestamp": 1794133922000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794220320881,
-    "amazonTracking": {
-      "url": "https://link.amazon/B01KTRA05",
-      "destination": "https://www.amazon.com.br/dp/B079ZS4Z5Z?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "R$ 89,99 ➜ R$ 46,54 no Programe e Poupe"
   }
 ]
