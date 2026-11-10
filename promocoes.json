@@ -1,5 +1,92 @@
 [
   {
+    "titulo": "Sanduicheira Elétrica Cadence Click - 220V",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 159,90",
+    "precoPor": "R$ 89,91",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51UxR8FHe-L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0dSQfWEZ",
+    "linkWhatsapp": "https://link.amazon/B0dSQfWEZ",
+    "timestamp": 1794262704000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794349102477,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dSQfWEZ",
+      "destination": "https://www.amazon.com.br/dp/B0CDJ5DQ7M?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom BLACK25OFF"
+  },
+  {
+    "titulo": "Ar-Condicionado Split HW Inverter Daikin Full 9.000 BTUs R-32 Só Frio",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 3.139,00",
+    "precoPor": "R$ 2.674,80",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51qtxtIsd4L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B07Ue2QxQ",
+    "linkWhatsapp": "https://link.amazon/B07Ue2QxQ",
+    "timestamp": 1794262615000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794349013780,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07Ue2QxQ",
+      "destination": "https://www.amazon.com.br/dp/B0FJL6DDMW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Cafeteira Elétrica Electrolux inox filtro permanente removivel",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 369,90",
+    "precoPor": "R$ 249,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51rsO-NkHVL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0cV87dVj",
+    "linkWhatsapp": "https://link.amazon/B0cV87dVj",
+    "timestamp": 1794262435000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794348832779,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0cV87dVj",
+      "destination": "https://www.amazon.com.br/dp/B09CC3QFDX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom BLACK25OFF"
+  },
+  {
+    "titulo": "Micro-ondas Philco 20L Branco Pintura Limpa Fácil PMO24B 127v",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 612,00",
+    "precoPor": "R$ 370,64",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51Eq-KbImRL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B06rREqID",
+    "linkWhatsapp": "https://link.amazon/B06rREqID",
+    "timestamp": 1794262344000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794348742401,
+    "amazonTracking": {
+      "url": "https://link.amazon/B06rREqID",
+      "destination": "https://www.amazon.com.br/dp/B0H5LWHFMZ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom BLACK25OFF"
+  },
+  {
     "titulo": "Chuveiro Eletrônico Zagonel Moment Branco 7500W",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6645,74 +6732,5 @@
     "timestamp": 1794142057000,
     "imagemIlustrativa": false,
     "expiresAt": 1794228456166
-  },
-  {
-    "titulo": "Teclado Mecânico Sem Fio Com Tela, Tri-Mode Bt5.0/2.4 G/Usb-C, Rgb",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 766,65",
-    "precoPor": "R$ 364,52",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_901298-MLA119843913741_102026-F.jpg",
-    "link": "https://meli.la/1mhB5Ki",
-    "linkWhatsapp": "https://meli.la/1mhB5Ki",
-    "timestamp": 1794141932000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794228331060
-  },
-  {
-    "titulo": "Estação Carregamento Sem Fio Basike WXC279 para iPhone, Apple Watch",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 216,98",
-    "precoPor": "R$ 149,71",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_642157-MLA106117194324_022026-F.jpg",
-    "link": "https://meli.la/2iD3Q1g",
-    "linkWhatsapp": "https://meli.la/2iD3Q1g",
-    "timestamp": 1794141821000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794228219773
-  },
-  {
-    "titulo": "Notebook ASUS Vivobook 15, Intel Core 5, 8 GB, 512 GB SSD, W11 Home",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 2.999,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71yFmZInYqL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0bTbeLw1",
-    "linkWhatsapp": "https://link.amazon/B0bTbeLw1",
-    "timestamp": 1794141746000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794228144089,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0bTbeLw1",
-      "destination": "https://www.amazon.com.br/dp/B0HF8NYPNF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Notebook Asus Vivobook Bq301 Core 5 Série 3 8gb 256gb Linux Cool",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 3.699,00",
-    "precoPor": "R$ 2.998,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_640574-MLB119048594917_102026-F.jpg",
-    "link": "https://meli.la/1mfXTSf",
-    "linkWhatsapp": "https://meli.la/1mfXTSf",
-    "timestamp": 1794141665000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794228064073
   }
 ]
