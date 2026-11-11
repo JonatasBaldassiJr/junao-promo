@@ -1,5 +1,36 @@
 [
   {
+    "titulo": "Ar-condicionado Split 9000 Btu/h Prime Air 9qc Quente E Frio Branco",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 2.299,00",
+    "precoPor": "R$ 1.548,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_676464-MLA99989458879_112025-F.jpg",
+    "link": "https://meli.la/1ArSnwb",
+    "linkWhatsapp": "https://meli.la/1ArSnwb",
+    "timestamp": 1794387733000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794474131160
+  },
+  {
+    "titulo": "R$ 10,00 OFF em produtos selecionados!",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 10,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/10stAzGFob",
+    "linkWhatsapp": "https://s.shopee.com.br/10stAzGFob",
+    "timestamp": 1794315719000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 3 Shorts Linho Bermuda Masculina Estilo Urbano Cadarço",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6702,37 +6733,5 @@
     "timestamp": 1794222257000,
     "imagemIlustrativa": false,
     "expiresAt": 1794308653771
-  },
-  {
-    "titulo": "Óculos Esportivo Pace Premium Proteção Uv400 Baixa Ciclismo",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,99",
-    "precoPor": "R$ 99,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_630123-MLB113939874086_072026-F.jpg",
-    "link": "https://meli.la/2seNCZM",
-    "linkWhatsapp": "https://meli.la/2seNCZM",
-    "timestamp": 1794222180000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794308574760
-  },
-  {
-    "titulo": "Mochila Trekking 40l Usb Impermeável Trilha Camp Viagem Preto Florido",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 319,99",
-    "precoPor": "R$ 156,75",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_757421-MLB112792250441_062026-F.jpg",
-    "link": "https://meli.la/22Loy8x",
-    "linkWhatsapp": "https://meli.la/22Loy8x",
-    "timestamp": 1794222138000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794308535458
   }
 ]
