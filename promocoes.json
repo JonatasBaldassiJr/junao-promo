@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Tênis Ultimashow 2.0 adidas",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 379,99",
+    "precoPor": "R$ 211,84",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_827781-MLB119155394029_102026-F.jpg",
+    "link": "https://meli.la/19BFmAZ",
+    "linkWhatsapp": "https://meli.la/19BFmAZ",
+    "timestamp": 1794357039000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794443437292
+  },
+  {
+    "titulo": "Forno Elétrico Philco 44L Preto Dupla Resistência PFE44P",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 429,00",
+    "precoPor": "R$ 213,39",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_657673-MLA104675674989_012026-F.jpg",
+    "link": "https://meli.la/1pgVQEm",
+    "linkWhatsapp": "https://meli.la/1pgVQEm",
+    "timestamp": 1794356677000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794443075475
+  },
+  {
     "titulo": "Cervejeira Titanium Czd12mt 83l Cinza Escuro Consul 220v",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6702,37 +6734,5 @@
     "timestamp": 1794220065000,
     "imagemIlustrativa": false,
     "expiresAt": 1794306463352
-  },
-  {
-    "titulo": "Tapete Moderno 2,0x1,5m Antiderrapante Alto Relevo Sala 2 M 1.5 M Bege",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 160,00",
-    "precoPor": "R$ 142,40",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_743183-MLB112495928239_052026-F.jpg",
-    "link": "https://meli.la/2BNysH3",
-    "linkWhatsapp": "https://meli.la/2BNysH3",
-    "timestamp": 1794219953000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794306351177
-  },
-  {
-    "titulo": "Calça Masculina Tactel Jogger Esportiva Academia Slim Treino Cinza",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 79,97",
-    "precoPor": "R$ 57,97",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_850014-MLB97207596461_112025-F.jpg",
-    "link": "https://meli.la/1x1jHzZ",
-    "linkWhatsapp": "https://meli.la/1x1jHzZ",
-    "timestamp": 1794219886000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794306284794
   }
 ]
