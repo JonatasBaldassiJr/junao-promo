@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Micro-ondas Brastemp 23l Branco Com Multi Preparos - Bms23ab",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 573,00",
+    "precoPor": "R$ 527,16",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_948080-MLA111392535507_052026-F.jpg",
+    "link": "https://meli.la/1tKGK25",
+    "linkWhatsapp": "https://meli.la/1tKGK25",
+    "timestamp": 1794366664000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794453063964
+  },
+  {
+    "titulo": "Cooktop Indução 2 Bocas Brinox 220v",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "R$ 649,99",
+    "precoPor": "R$ 499,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_737516-MLA119453481617_102026-F.jpg",
+    "link": "https://meli.la/2aFQLWa",
+    "linkWhatsapp": "https://meli.la/2aFQLWa",
+    "timestamp": 1794366658000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794453057758
+  },
+  {
     "titulo": "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6692,37 +6724,5 @@
     "timestamp": 1794221383000,
     "imagemIlustrativa": false,
     "expiresAt": 1794307777862
-  },
-  {
-    "titulo": "Bicicleta Elétrica Scooter Bikelete Mt2 500w Bateria 48v",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 5.199,00",
-    "precoPor": "R$ 3.099,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_707904-MLB96517092225_102025-F.jpg",
-    "link": "https://meli.la/2VhVZX9",
-    "linkWhatsapp": "https://meli.la/2VhVZX9",
-    "timestamp": 1794221376000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794307767359
-  },
-  {
-    "titulo": "Carregador de Bateria 12V 6A Bivolt Inteligente Carro Moto Caminhão",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 89,90",
-    "precoPor": "R$ 39,47",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_619340-MLA118865793331_102026-F.jpg",
-    "link": "https://meli.la/1fthnZf",
-    "linkWhatsapp": "https://meli.la/1fthnZf",
-    "timestamp": 1794221337000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794307734163
   }
 ]
