@@ -1,5 +1,69 @@
 [
   {
+    "titulo": "NAUTICA ROSE ISLAND EDP 100ML",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 229,99",
+    "precoPor": "R$ 118,75",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51MktaQG0wL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B07FbxlCV",
+    "linkWhatsapp": "https://link.amazon/B07FbxlCV",
+    "timestamp": 1794349846000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794436243660,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07FbxlCV",
+      "destination": "https://www.amazon.com.br/dp/B0DNQRQDF2?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Vodka Absolut Raspberri, 750 ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 117,90",
+    "precoPor": "R$ 62,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Eb2qGG4zL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B09HaGtys",
+    "linkWhatsapp": "https://link.amazon/B09HaGtys",
+    "timestamp": 1794349805000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794436203474,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09HaGtys",
+      "destination": "https://www.amazon.com.br/dp/B09W65NNN6?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "+Mu Chocowheyfer Proteico Sabor Baunilha - Display com 12 unidades",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 87,88",
+    "precoPor": "R$ 47,70",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81VOwSFjv5L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0j0Bx2QA",
+    "linkWhatsapp": "https://link.amazon/B0j0Bx2QA",
+    "timestamp": 1794349791000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794436189486,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0j0Bx2QA",
+      "destination": "https://www.amazon.com.br/dp/B08DRHBKPW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "R$ 87,88 ➜ R$ 47,70 no Programe e Poupe"
+  },
+  {
     "titulo": "Smart TV 98\" TCL 4K UHD QD-Mini LED 98A400M Google TV 2026",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6753,57 +6817,5 @@
     "timestamp": 1794305448000,
     "imagemIlustrativa": false,
     "expiresAt": 1794391845966
-  },
-  {
-    "titulo": "Smart TV HD 32\" LG LB650 AI 2026",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "R$ 1.154,71",
-    "precoPor": "R$ 935,74",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61hY++B4tnL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B033Zans7",
-    "linkWhatsapp": "https://link.amazon/B033Zans7",
-    "timestamp": 1794305437000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794391835001,
-    "amazonTracking": {
-      "url": "https://link.amazon/B033Zans7",
-      "destination": "https://www.amazon.com.br/dp/B0H5F85BZC?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Cama Box com Colchão Queen Sigma Molas Ensacadas (22x158x198) Branco e",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 965,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rcdj-m6ml3padz9u187",
-    "link": "https://s.shopee.com.br/4LKpW29iK0",
-    "linkWhatsapp": "https://s.shopee.com.br/4LKpW29iK0",
-    "timestamp": 1794305431000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794391826069
-  },
-  {
-    "titulo": "20% OFF (até R$ 80,00) em produtos selecionados!",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 80,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "",
-    "link": "https://www.mercadolivre.com.br/cupons?source_page=mperfil&matt_word=rebelorenan20230327080139&matt_tool=68318021#nav-header",
-    "linkWhatsapp": "https://www.mercadolivre.com.br/cupons?source_page=mperfil&matt_word=rebelorenan20230327080139&matt_tool=68318021#nav-header",
-    "timestamp": 1794279910000,
-    "imagemIlustrativa": false
   }
 ]
