@@ -1,5 +1,49 @@
 [
   {
+    "titulo": "Monitor Gamer AOC AGON QUAD 27\" QHD 180Hz 0.5ms IPS HDR10 Base",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.299,00",
+    "precoPor": "R$ 1.061,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71sEhnd0beL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0itmpn6M",
+    "linkWhatsapp": "https://link.amazon/B0itmpn6M",
+    "timestamp": 1794398929000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794485326464,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0itmpn6M",
+      "destination": "https://www.amazon.com.br/dp/B0FGDK8DJM?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom CURTE11DO11"
+  },
+  {
+    "titulo": "Monitor Gamer Samsung Odyssey G5 27, Resolução QHD, Taxa",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.299,00",
+    "precoPor": "R$ 926,10",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Jv+Gj6aBL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0cKCSIYz",
+    "linkWhatsapp": "https://link.amazon/B0cKCSIYz",
+    "timestamp": 1794398923000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794485320569,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0cKCSIYz",
+      "destination": "https://www.amazon.com.br/dp/B0DWQK1Q8S?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom CURTE11DO11"
+  },
+  {
     "titulo": "Monitor Gamer TCL 25G64 25\" Full HD Preto",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -7198,37 +7242,5 @@
     "timestamp": 1794396938000,
     "imagemIlustrativa": false,
     "expiresAt": 1794483336665
-  },
-  {
-    "titulo": "Filtro de Linha Betahome com 6 Tomadas e 3 USB para 2500W Bivolt",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 49,87",
-    "precoPor": "R$ 35,14",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_619788-MLA117861739925_092026-F.jpg",
-    "link": "https://meli.la/2gDtKdx",
-    "linkWhatsapp": "https://meli.la/2gDtKdx",
-    "timestamp": 1794396741000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794483140179
-  },
-  {
-    "titulo": "Smart Tv Semp 32 Polegadas Led Full Hd S42r Roku Tv Wi-Fi Dolby Audio",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 2.217,00",
-    "precoPor": "R$ 869,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_778226-MLA114547893248_082026-F.jpg",
-    "link": "https://meli.la/33rBEaY",
-    "linkWhatsapp": "https://meli.la/33rBEaY",
-    "timestamp": 1794396655000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794483054592
   }
 ]
