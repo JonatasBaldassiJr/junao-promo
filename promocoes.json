@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Fogão 5 Bocas Electrolux Inox Cinza Efficient FE5IG",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.994,80",
+    "precoPor": "R$ 1.738,06",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41l96ZLdmkL._AC_SX679_.jpg",
+    "link": "https://link.amazon/B0dhiRlhp",
+    "linkWhatsapp": "https://link.amazon/B0dhiRlhp",
+    "timestamp": 1794401521000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794487919396,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dhiRlhp",
+      "destination": "https://www.amazon.com.br/dp/B0GXXBDWG7?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Processador AMD Ryzen 7 8700F AM5 100100001590BOX",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "R$ 2.326,13",
+    "precoPor": "R$ 849,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61yQUh5F6zL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0h0YLMeW",
+    "linkWhatsapp": "https://link.amazon/B0h0YLMeW",
+    "timestamp": 1794401511000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794487909463,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0h0YLMeW",
+      "destination": "https://www.amazon.com.br/dp/B0D2JCMP34?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Fogão Brastemp 5 Bocas Cor Inox Com Botões Removíveis E Exclusivo Aro",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -7264,37 +7306,5 @@
     "timestamp": 1794399116000,
     "imagemIlustrativa": false,
     "expiresAt": 1794485514998
-  },
-  {
-    "titulo": "Kit 24 Pares Meia Soquete Cano Curto Unissex Atacado Cores",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 44,90",
-    "precoPor": "R$ 40,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_711325-MLB87897230083_072025-F.jpg",
-    "link": "https://meli.la/279QQKx",
-    "linkWhatsapp": "https://meli.la/279QQKx",
-    "timestamp": 1794399110000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794485508954
-  },
-  {
-    "titulo": "Esteira Ergométrica Elétrica Dobrável Residencial Cardio Preto",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.499,00",
-    "precoPor": "R$ 696,05",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_773728-MLB116246249633_082026-F.jpg",
-    "link": "https://meli.la/2MbcP1A",
-    "linkWhatsapp": "https://meli.la/2MbcP1A",
-    "timestamp": 1794398917000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794485315874
   }
 ]
