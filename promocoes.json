@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "Smart TV AIWA 50” Android 4K Borda Ultrafina HDR10 Dolby Áudio",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 1.935,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260e-mjzycowf3nd3cf",
+    "link": "https://s.shopee.com.br/5AtyN0SaGw",
+    "linkWhatsapp": "https://s.shopee.com.br/5AtyN0SaGw",
+    "timestamp": 1794406292000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794492686481
+  },
+  {
+    "titulo": "Samsung Smart TV 65\" Crystal UHD 4K U8000H 26/2027, Vision AI",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 4.499,00",
+    "precoPor": "R$ 3.199,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51Sg1BAA14L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B07xOmFmD",
+    "linkWhatsapp": "https://link.amazon/B07xOmFmD",
+    "timestamp": 1794406273000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794492671577,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07xOmFmD",
+      "destination": "https://www.amazon.com.br/dp/B0HBYBB54N?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom CURTE11DO11"
+  },
+  {
     "titulo": "R$ 10,00 OFF em produtos selecionados!",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -7340,37 +7378,5 @@
     "timestamp": 1794401359000,
     "imagemIlustrativa": false,
     "expiresAt": 1794487757390
-  },
-  {
-    "titulo": "Kit Camisetas Tommy Hilfiger Masculina Essential Preta 3un",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 539,99",
-    "precoPor": "R$ 322,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_814370-MLB79458396688_102024-F.jpg",
-    "link": "https://meli.la/2ath2h4",
-    "linkWhatsapp": "https://meli.la/2ath2h4",
-    "timestamp": 1794401356000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794487754552
-  },
-  {
-    "titulo": "Kit 10 Cuecas Boxer Box Dorbe Microfibra Qualidade Masculina",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 159,50",
-    "precoPor": "R$ 144,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_780962-MLB49775827228_042022-F.jpg",
-    "link": "https://meli.la/11g9JLb",
-    "linkWhatsapp": "https://meli.la/11g9JLb",
-    "timestamp": 1794401207000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794487606559
   }
 ]
