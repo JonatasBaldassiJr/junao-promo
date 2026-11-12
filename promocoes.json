@@ -1,5 +1,48 @@
 [
   {
+    "titulo": "Truss Condicionador Miracle | Hidratação, Brilho 3D e Reconstrução",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 109,99",
+    "precoPor": "R$ 66,40",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61iFw50dIGL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B01N1xMfa",
+    "linkWhatsapp": "https://link.amazon/B01N1xMfa",
+    "timestamp": 1794399497000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794485895865,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01N1xMfa",
+      "destination": "https://www.amazon.com.br/dp/B085JG63HF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Downy Amaciante Concentrado Perfume Collection Místico 3L",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 74,00",
+    "precoPor": "R$ 42,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61Wufq5br8L._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0aQRiy12",
+    "linkWhatsapp": "https://link.amazon/B0aQRiy12",
+    "timestamp": 1794399472000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794485870570,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0aQRiy12",
+      "destination": "https://www.amazon.com.br/dp/B098CL79W1?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom BOMDIA25OFF"
+  },
+  {
     "titulo": "Smart TV LG 55\" 4K UHD HDR10 Pro AI Gen8 webOS 25",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -7210,37 +7253,5 @@
     "timestamp": 1794397647000,
     "imagemIlustrativa": false,
     "expiresAt": 1794484046417
-  },
-  {
-    "titulo": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 752,00",
-    "precoPor": "R$ 559,49",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_644387-MLA119786973369_102026-F.jpg",
-    "link": "https://meli.la/1b8GsWA",
-    "linkWhatsapp": "https://meli.la/1b8GsWA",
-    "timestamp": 1794397570000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794483968776
-  },
-  {
-    "titulo": "Pasta De Amendoim Integral Torrado 1kg Growth Supplements Natural",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 69,90",
-    "precoPor": "R$ 33,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_738150-MLA117461043569_092026-F.jpg",
-    "link": "https://meli.la/27UK9nF",
-    "linkWhatsapp": "https://meli.la/27UK9nF",
-    "timestamp": 1794397565000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794483964155
   }
 ]
