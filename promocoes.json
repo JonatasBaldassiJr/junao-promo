@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Óleo Capilar Oil Reflections Wella 100ml",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 104,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825bb-mq68q1plsfta2e",
+    "link": "https://s.shopee.com.br/6VPLpqXiKb",
+    "linkWhatsapp": "https://s.shopee.com.br/6VPLpqXiKb",
+    "timestamp": 1794399639000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794486037052
+  },
+  {
     "titulo": "Truss Condicionador Miracle | Hidratação, Brilho 3D e Reconstrução",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -7237,21 +7253,5 @@
     "timestamp": 1794397740000,
     "imagemIlustrativa": false,
     "expiresAt": 1794484138970
-  },
-  {
-    "titulo": "Polo Regular Piquet New Basic Reserva Azul-escuro M",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,00",
-    "precoPor": "R$ 137,19",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_869352-MLB119045365525_102026-F.jpg",
-    "link": "https://meli.la/2s6Po9M",
-    "linkWhatsapp": "https://meli.la/2s6Po9M",
-    "timestamp": 1794397647000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794484046417
   }
 ]
