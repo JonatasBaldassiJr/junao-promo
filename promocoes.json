@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Grafite",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 549,00",
+    "precoPor": "R$ 185,25",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61o3-pf41tL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B085GgWCK",
+    "linkWhatsapp": "https://link.amazon/B085GgWCK",
+    "timestamp": 1794407882000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794494281191,
+    "amazonTracking": {
+      "url": "https://link.amazon/B085GgWCK",
+      "destination": "https://www.amazon.com.br/dp/B0CVCLGV1W?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Fischer Cooktop Gás 5 Bocas TC Infinity Mesa Inox Bivolt 23678-54121",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "R$ 1.199,00",
+    "precoPor": "R$ 878,98",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71OM7XG9BbL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0dlClvXU",
+    "linkWhatsapp": "https://link.amazon/B0dlClvXU",
+    "timestamp": 1794407830000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794494228365,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0dlClvXU",
+      "destination": "https://www.amazon.com.br/dp/B07GWXBGYS?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, AI, Câmera Tripla",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -7388,37 +7430,5 @@
     "timestamp": 1794404595000,
     "imagemIlustrativa": false,
     "expiresAt": 1794490994271
-  },
-  {
-    "titulo": "Conjunto Sala de Jantar 4 Lugares com Cadeiras Estofadas Mesa",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 999,90",
-    "precoPor": "R$ 422,91",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_738947-MLA87770245934_072025-F.jpg",
-    "link": "https://meli.la/1LJupQv",
-    "linkWhatsapp": "https://meli.la/1LJupQv",
-    "timestamp": 1794404568000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794490967256
-  },
-  {
-    "titulo": "Central Multimídia First Option 7810h Com Espelhamento E Bluetooth Cor",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 193,00",
-    "precoPor": "R$ 158,26",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_689737-MLA99935946203_112025-F.jpg",
-    "link": "https://meli.la/1jJMxz8",
-    "linkWhatsapp": "https://meli.la/1jJMxz8",
-    "timestamp": 1794404441000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794490840462
   }
 ]
