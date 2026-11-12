@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Smart TV LG 55\" 4K UHD HDR10 Pro AI Gen8 webOS 25",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 2.099,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lp-mts56ghhkz5s54",
+    "link": "https://s.shopee.com.br/9V2xOwwmaQ",
+    "linkWhatsapp": "https://s.shopee.com.br/9V2xOwwmaQ",
+    "timestamp": 1794399282000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794485679721
+  },
+  {
     "titulo": "Purificador Água E-due Equilibrium Grafite Ibbl Bivolt 🔥🚨",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -7226,21 +7242,5 @@
     "timestamp": 1794397565000,
     "imagemIlustrativa": false,
     "expiresAt": 1794483964155
-  },
-  {
-    "titulo": "Hidratante Facial Neutrogena Hydro Boost Water Gel, 50g",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 102,99",
-    "precoPor": "R$ 50,23",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_672438-MLA99599575504_122025-F.jpg",
-    "link": "https://meli.la/33RTMay",
-    "linkWhatsapp": "https://meli.la/33RTMay",
-    "timestamp": 1794397115000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794483514159
   }
 ]
