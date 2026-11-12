@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 10,00 OFF em produtos selecionados!",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 10,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/6fikPW1XYz",
+    "linkWhatsapp": "https://s.shopee.com.br/6fikPW1XYz",
+    "timestamp": 1794406023000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Jogo Grand Theft Auto GTA VI, PS5 - TT000272PS5",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -7357,21 +7372,5 @@
     "timestamp": 1794401207000,
     "imagemIlustrativa": false,
     "expiresAt": 1794487606559
-  },
-  {
-    "titulo": "Celular Motorola Moto G06 128gb 4gb Ram Orange",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 1.544,00",
-    "precoPor": "R$ 689,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_651353-MLA115768418107_082026-F.jpg",
-    "link": "https://meli.la/2W3zFxm",
-    "linkWhatsapp": "https://meli.la/2W3zFxm",
-    "timestamp": 1794401201000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794487600354
   }
 ]
