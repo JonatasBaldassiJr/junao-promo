@@ -1,5 +1,48 @@
 [
   {
+    "titulo": "Origem Shampoo Infantil Xô Embaraço 2 Em 1 Grupy Kids 500 Ml",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "R$ 22,93",
+    "precoPor": "R$ 9,52",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/519ZwVRzDOL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B09pKd7Qd",
+    "linkWhatsapp": "https://link.amazon/B09pKd7Qd",
+    "timestamp": 1794400261000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794486659167,
+    "amazonTracking": {
+      "url": "https://link.amazon/B09pKd7Qd",
+      "destination": "https://www.amazon.com.br/dp/B084GY29LG?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Headset Gamer com Microfone Havit H2002d, 53mm, Conector 3,5mm",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "R$ 219,00",
+    "precoPor": "R$ 148,74",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71sV-QnV8TL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B05PCMsbv",
+    "linkWhatsapp": "https://link.amazon/B05PCMsbv",
+    "timestamp": 1794400116000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794486514482,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05PCMsbv",
+      "destination": "https://www.amazon.com.br/dp/B07Y2G7VX5?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Use o cupom BOMDIA25OFF"
+  },
+  {
     "titulo": "Philips OneBlade Intimate Aparador de Pelos Íntimos para Mulheres",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -7227,37 +7270,5 @@
     "timestamp": 1794397912000,
     "imagemIlustrativa": false,
     "expiresAt": 1794484311172
-  },
-  {
-    "titulo": "Fritadeira Air Fryer Oven 11 Litros 1800w 8 Funções Philco PAF11B",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 899,00",
-    "precoPor": "R$ 328,95",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_633098-MLA92276027266_092025-F.jpg",
-    "link": "https://meli.la/2m9E45k",
-    "linkWhatsapp": "https://meli.la/2m9E45k",
-    "timestamp": 1794397842000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794484241086
-  },
-  {
-    "titulo": "Kit 10 Cuecas Masculinas Boxer Microfibra Polo Wear Sortido",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "R$ 199,90",
-    "precoPor": "R$ 82,64",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_703205-MLB89664660440_082025-F.jpg",
-    "link": "https://meli.la/1Nt4ZbG",
-    "linkWhatsapp": "https://meli.la/1Nt4ZbG",
-    "timestamp": 1794397838000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794484236780
   }
 ]
