@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Sparta Maleta de ferramentas kit com 129 peças 🔥🚨",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 140,45",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61ZmjmMLsRL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B02f0fb3h",
+    "linkWhatsapp": "https://link.amazon/B02f0fb3h",
+    "timestamp": 1794479446000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794565843695,
+    "amazonTracking": {
+      "url": "https://link.amazon/B02f0fb3h",
+      "destination": "https://www.amazon.com.br/dp/B076N2S8FV?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "Vaporizador de Roupas Arno Pure Pop Azul, Higieniza e Desodoriza, 1100W, Aquece em 15s, Portátil, HS20 220V 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 389,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/41EYpzhRM9L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B05KH1pZH",
+    "linkWhatsapp": "https://link.amazon/B05KH1pZH",
+    "timestamp": 1794478909000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794565304069,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05KH1pZH",
+      "destination": "https://www.amazon.com.br/dp/B0DCWXHFNZ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "25% OFF (até R$ 50,00) em produtos selecionados!",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6838,42 +6880,5 @@
     "timestamp": 1794369336000,
     "imagemIlustrativa": false,
     "expiresAt": 1794455734153
-  },
-  {
-    "titulo": "Micro-ondas Britânia 33L Pintura Limpa Fácil BMO38",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 449,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258l-mut6ykvr4u0w3e",
-    "link": "https://s.shopee.com.br/8pnG3RDi4B",
-    "linkWhatsapp": "https://s.shopee.com.br/8pnG3RDi4B",
-    "timestamp": 1794369325000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794455723262
-  },
-  {
-    "titulo": "Smart TV LG OLED evo AI 4K C6 55 polegadas 2026",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 5.609,15",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61tiDiU0uQL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B08TV8xup",
-    "linkWhatsapp": "https://link.amazon/B08TV8xup",
-    "timestamp": 1794369132000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794455530766,
-    "amazonTracking": {
-      "url": "https://link.amazon/B08TV8xup",
-      "destination": "https://www.amazon.com.br/dp/B0H4HKXMFH?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
