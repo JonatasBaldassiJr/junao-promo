@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Blender Zoop Contrast Cadence com 2 Jarras - 220V 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 269,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51RNm3SWxKL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0e3oaqlW",
+    "linkWhatsapp": "https://link.amazon/B0e3oaqlW",
+    "timestamp": 1794480708000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794567104082,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0e3oaqlW",
+      "destination": "https://www.amazon.com.br/dp/B09J1LCZL2?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Tira-Manchas em Pó Vanish Oxi Action Crystal White Refil, 1kg 🔥🚨",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6861,27 +6882,6 @@
     "amazonTracking": {
       "url": "https://link.amazon/B04PAZXFf",
       "destination": "https://www.amazon.com.br/dp/B06XY6FSZN?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Ar-Condicionado Split HW Inverter Elgin Eco III Wi-Fi 12.000 BTUs R-32",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.249,00",
-    "precoPor": "R$ 1.895,15",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/51UKZIPu7PL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B0dtjhbH0",
-    "linkWhatsapp": "https://link.amazon/B0dtjhbH0",
-    "timestamp": 1794369494000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794455893257,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0dtjhbH0",
-      "destination": "https://www.amazon.com.br/dp/B0GNZVSQ34?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
   }
