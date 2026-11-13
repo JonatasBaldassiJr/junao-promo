@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "25% OFF (até R$ 50,00) em produtos selecionados!",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 50,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://www.mercadolivre.com.br/cupons?source_page=mperfil&matt_word=rebelorenan20230327080139&matt_tool=68318021#nav-header",
+    "linkWhatsapp": "https://www.mercadolivre.com.br/cupons?source_page=mperfil&matt_word=rebelorenan20230327080139&matt_tool=68318021#nav-header",
+    "timestamp": 1794478639000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Tênis Casual Masculino Court 80 Fila Branco/preto Liso 39 Br 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6858,27 +6873,6 @@
     "amazonTracking": {
       "url": "https://link.amazon/B08TV8xup",
       "destination": "https://www.amazon.com.br/dp/B0H4HKXMFH?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "Rinnai E33-32,5 litros GLP Preto - Aquecedor de Água a Gás Digital",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "R$ 5.960,00",
-    "precoPor": "R$ 3.764,65",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/41QO+tLGV0L._AC_SL1400_.jpg",
-    "link": "https://link.amazon/B06tv64XW",
-    "linkWhatsapp": "https://link.amazon/B06tv64XW",
-    "timestamp": 1794369124000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794455523300,
-    "amazonTracking": {
-      "url": "https://link.amazon/B06tv64XW",
-      "destination": "https://www.amazon.com.br/dp/B0BXV1WNHW?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
   }
