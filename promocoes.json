@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Tira-Manchas em Pó Vanish Oxi Action Crystal White Refil, 1kg 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 61,19",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81KuHym-92L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0d45jRKx",
+    "linkWhatsapp": "https://link.amazon/B0d45jRKx",
+    "timestamp": 1794480083000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794566481560,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0d45jRKx",
+      "destination": "https://www.amazon.com.br/dp/B07PNK7TZK?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "WD-40 Fórmula Original - Produto Multiusos Aerossol 300ml, 200g - Desengripa, lubrifica e protege contra ferrugem 🔥🚨",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6863,27 +6884,5 @@
       "destination": "https://www.amazon.com.br/dp/B0GNZVSQ34?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Cafeteira Espresso Oster Xpert Perfect Brew - 127V",
-    "categoria": "cozinha",
-    "categoriaNome": "Cozinha",
-    "loja": "Amazon",
-    "precoDe": "R$ 2.114,10",
-    "precoPor": "R$ 1.799,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61Lp9lSrMOL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B07r33LXn",
-    "linkWhatsapp": "https://link.amazon/B07r33LXn",
-    "timestamp": 1794369349000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794455747983,
-    "amazonTracking": {
-      "url": "https://link.amazon/B07r33LXn",
-      "destination": "https://www.amazon.com.br/dp/B09BDF8WGX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Ative o cupom na página"
   }
 ]
