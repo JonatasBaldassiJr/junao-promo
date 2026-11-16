@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Eudora SIàge Promopack Nutri Rose Shampoo 250ml + Condicionador 125ml + Leave-in 30ml 🔥🚨",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 89,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61sXFXzUkUL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0fYi3i36",
+    "linkWhatsapp": "https://link.amazon/B0fYi3i36",
+    "timestamp": 1794833359000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794919756476,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0fYi3i36",
+      "destination": "https://www.amazon.com.br/dp/B0CN7HYFLC?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "LA ROCHE-POSAY CICAPLAST BAUME B5 PLUS 80ml 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 164,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_768137-MLA117538130117_092026-F.jpg",
+    "link": "https://meli.la/22aiH4U",
+    "linkWhatsapp": "https://meli.la/22aiH4U",
+    "timestamp": 1794832724000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794919122699
+  },
+  {
     "titulo": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto 🔥🚨",
     "categoria": "eletronicos",
     "categoriaNome": "Eletrônicos",
@@ -6495,37 +6532,5 @@
     "timestamp": 1794609936000,
     "imagemIlustrativa": false,
     "expiresAt": 1794696330768
-  },
-  {
-    "titulo": "Cortina Blackout Em Tecido 4 00 X 2 70 Corta Luz Com Ilhós 🔥🚨",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 169,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_936554-MLB87554127007_072025-F.jpg",
-    "link": "https://meli.la/1TNDnG7",
-    "linkWhatsapp": "https://meli.la/1TNDnG7",
-    "timestamp": 1794609006000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794695401767
-  },
-  {
-    "titulo": "Cortina De Voil Voal 5.00x2.80 Para Varão Sala E Quarto 🔥🚨",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 110,50",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_997055-MLB119564019558_112026-F.jpg",
-    "link": "https://meli.la/2j3qEGS",
-    "linkWhatsapp": "https://meli.la/2j3qEGS",
-    "timestamp": 1794608967000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794695365464
   }
 ]
