@@ -1,5 +1,47 @@
 [
   {
+    "titulo": "Philips OneBlade Intimate Aparador de Pelos Íntimos para Mulheres 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 209,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61En6Zv7-CL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0iHWcrkz",
+    "linkWhatsapp": "https://link.amazon/B0iHWcrkz",
+    "timestamp": 1794790609000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794877007594,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0iHWcrkz",
+      "destination": "https://www.amazon.com.br/dp/B0FDBJZ8DF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "WAAW by Alok Fone de Ouvido Sense 210 Bluetooth Over Ear com Conectividade P2 e Bateria de Até 40 Horas 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 199,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51Stix2X1fL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B020RoT3y",
+    "linkWhatsapp": "https://link.amazon/B020RoT3y",
+    "timestamp": 1794790525000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1794876921970,
+    "amazonTracking": {
+      "url": "https://link.amazon/B020RoT3y",
+      "destination": "https://www.amazon.com.br/dp/B0DPXHRYK4?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Camiseta Básica Masculina Algodão Lisa Malha Peruana Premium 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6382,37 +6424,5 @@
     "timestamp": 1794599652000,
     "imagemIlustrativa": false,
     "expiresAt": 1794686050569
-  },
-  {
-    "titulo": "Tênis Nike Sb Force 58 Masculino 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 599,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_930878-MLB99367495130_112025-F.jpg",
-    "link": "https://meli.la/1HyLCUq",
-    "linkWhatsapp": "https://meli.la/1HyLCUq",
-    "timestamp": 1794599606000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794686005255
-  },
-  {
-    "titulo": "Daily T-shirt Feminina Insider 🔥🚨",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 149,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_967236-MLB111239542509_052026-F.jpg",
-    "link": "https://meli.la/1Aqonng",
-    "linkWhatsapp": "https://meli.la/1Aqonng",
-    "timestamp": 1794599591000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794685988291
   }
 ]
