@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "Monitor LG UltraGear, Tela IPS FHD de 27”, 300Hz, 1ms (GtG), sRGB, NVIDIA G-Sync, AMD FreeSync Premium, HDR10, HDMI, Preto - 27G550B 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 1.599,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61eN1ggtVdL._AC_SL1200_.jpg",
+    "link": "https://link.amazon/B0eFEqyzZ",
+    "linkWhatsapp": "https://link.amazon/B0eFEqyzZ",
+    "timestamp": 1794946144000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795032542553,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0eFEqyzZ",
+      "destination": "https://www.amazon.com.br/dp/B0HB7RVZWQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Cupom: BLACKPRIME15"
+  },
+  {
+    "titulo": "Coenzima Q10 200mg Pura Alta Concentração 60 Cápsulas - Forged Nutrition Sem Sabor 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 139,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_855051-MLA121484298893_112026-F.jpg",
+    "link": "https://meli.la/2H9g1D1",
+    "linkWhatsapp": "https://meli.la/2H9g1D1",
+    "timestamp": 1794945924000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795032323411
+  },
+  {
     "titulo": "NIVEA KIT Hidratante Labial Original Care (4,8g) + Amora Shine (4,8g) + Cereja Shine (4,8g) + Morango Shine (4,8g), Kit Hidratação Labial 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6910,37 +6948,5 @@
     "timestamp": 1794857173000,
     "imagemIlustrativa": false,
     "expiresAt": 1794943572486
-  },
-  {
-    "titulo": "Kit Playground Parede Gato Mdf 8 Peças Nicho Ponte Arranhado 🔥🚨",
-    "categoria": "pet",
-    "categoriaNome": "Pet",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 147,47",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_844239-MLB116116153145_082026-F.jpg",
-    "link": "https://meli.la/14qdXqu",
-    "linkWhatsapp": "https://meli.la/14qdXqu",
-    "timestamp": 1794856991000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794943390803
-  },
-  {
-    "titulo": "Kit 3 Calça Jeans Feminina Cintura Alta C/ Elastano Lycra 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 161,07",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_865696-MLB77521156933_072024-F.jpg",
-    "link": "https://meli.la/24XKwtK",
-    "linkWhatsapp": "https://meli.la/24XKwtK",
-    "timestamp": 1794856824000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794943222357
   }
 ]
