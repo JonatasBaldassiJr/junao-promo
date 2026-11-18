@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Cadeira de Escritório Presidente Ergonômica Giratória Modelo Toledo Cor Preta Certificada NR17 🔥🚨",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 729,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mf1nbmaty22v6a",
+    "link": "https://ofertou.dev.br/r/nR3JYVyL",
+    "linkWhatsapp": "https://ofertou.dev.br/r/nR3JYVyL",
+    "timestamp": 1795015533000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795101931656
+  },
+  {
+    "titulo": "Panela de Pressão Ceramic Life Pressure 5,4L com Indução Vanilla Brinox 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 268,37",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71Ht0qPHlyL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0hisGbAC",
+    "linkWhatsapp": "https://link.amazon/B0hisGbAC",
+    "timestamp": 1795015290000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795101688160,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0hisGbAC",
+      "destination": "https://www.amazon.com.br/dp/B0F9ZTSFFX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Salvação capilar para quem abusa da chapinha sem piedade 😅",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6928,47 +6965,5 @@
     "timestamp": 1794914668000,
     "imagemIlustrativa": false,
     "expiresAt": 1795001066858
-  },
-  {
-    "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 110,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61vyW3Dl-7L._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0gbjdLHV",
-    "linkWhatsapp": "https://link.amazon/B0gbjdLHV",
-    "timestamp": 1794914639000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795000995688,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0gbjdLHV",
-      "destination": "https://www.amazon.com.br/dp/B07RK4HST7?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
-  },
-  {
-    "titulo": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 84,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/51gNBxSK22L._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B0cvmoYJD",
-    "linkWhatsapp": "https://link.amazon/B0cvmoYJD",
-    "timestamp": 1794914638000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795000520403,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0cvmoYJD",
-      "destination": "https://www.amazon.com.br/dp/B0CYVJYTDL?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    }
   }
 ]
