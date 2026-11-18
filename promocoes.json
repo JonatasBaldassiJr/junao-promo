@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Furadeira e Parafusadeira à Bateria, Mondial, Vermelho, Bivolt - FPF-06M 🔥🚨",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 99,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/81f0lP0WdIL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B01JJwKaJ",
+    "linkWhatsapp": "https://link.amazon/B01JJwKaJ",
+    "timestamp": 1795001007000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795087405198,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01JJwKaJ",
+      "destination": "https://www.amazon.com.br/dp/B077VW15YL?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit 3 Pares Meias Kappa Sapatilha Soquete Invisível Original Preto 34-38 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -7007,27 +7028,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "🎯 R$ 28,49 no Programe e Poupe"
-  },
-  {
-    "titulo": "Armani Beauty, Stronger With You Eau de Toilette, Giorgio Armani Perfume Masculino, Fragrância Fougère Amadeirada com Notas Sálvia, Castanha, Baunilha e Lavanda 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 549,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/71eKjHBuTVL._AC_SL1500_.jpg",
-    "link": "https://link.amazon/B0ihL5g8C",
-    "linkWhatsapp": "https://link.amazon/B0ihL5g8C",
-    "timestamp": 1794873923000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1794960322579,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0ihL5g8C",
-      "destination": "https://www.amazon.com.br/dp/B0719S9TPB?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Cupom: BLACKPRIME10"
   }
 ]
