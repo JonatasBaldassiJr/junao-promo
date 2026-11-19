@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Lubrificante Íntimo 2 em 1 K-Med 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 38,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51bAty-DcYL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B04RhrxAZ",
+    "linkWhatsapp": "https://link.amazon/B04RhrxAZ",
+    "timestamp": 1795057072000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795143470098,
+    "amazonTracking": {
+      "url": "https://link.amazon/B04RhrxAZ",
+      "destination": "https://www.amazon.com.br/dp/B07GG1FBCX?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎯 R$ 17,95 no Programe e Poupe"
+  },
+  {
     "titulo": "Tênis Masculino Infinite Mvmnt Under Armour 003-black/white/m.silver Liso 41 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6905,27 +6927,5 @@
     "timestamp": 1794933709000,
     "imagemIlustrativa": false,
     "expiresAt": 1795020107998
-  },
-  {
-    "titulo": "Celular Samsung Galaxy S25 Ultra 5G, 512GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Jetblack 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 6.332,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41dv7LltRmL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B00k1uFiO",
-    "linkWhatsapp": "https://link.amazon/B00k1uFiO",
-    "timestamp": 1794933645000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795020043351,
-    "amazonTracking": {
-      "url": "https://link.amazon/B00k1uFiO",
-      "destination": "https://www.amazon.com.br/dp/B0DTMCLTKV?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Resgate o cupom no anúncio"
   }
 ]
