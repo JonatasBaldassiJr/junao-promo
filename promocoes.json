@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Tramontina Jogo de Facas Inox 4 Peças Plenus Preto 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 44,57",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/719FUiUuSTL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0c4OO4Fm",
+    "linkWhatsapp": "https://link.amazon/B0c4OO4Fm",
+    "timestamp": 1795052738000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795139135561,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0c4OO4Fm",
+      "destination": "https://www.amazon.com.br/dp/B09XFD2YMF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
+    "titulo": "750ml Garrafa Térmica Emborrachada Squeeze Canudo Premium Preto 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 53,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_636558-MLB115623255960_092026-F.jpg",
+    "link": "https://meli.la/1oRkFUE",
+    "linkWhatsapp": "https://meli.la/1oRkFUE",
+    "timestamp": 1795052203000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795138601652
+  },
+  {
     "titulo": "Limpa Tenis Premium Limpeza Profunda Spray A Seco Sapato Azul-claro 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6895,37 +6932,5 @@
     "timestamp": 1794932718000,
     "imagemIlustrativa": false,
     "expiresAt": 1795019116572
-  },
-  {
-    "titulo": "Samsung Smart Tv 50 4k U8000h + Samsung Soundbar B400f 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 2.408,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_657242-MLB119511023736_112026-F.jpg",
-    "link": "https://meli.la/25KQn4Q",
-    "linkWhatsapp": "https://meli.la/25KQn4Q",
-    "timestamp": 1794932491000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795018890460
-  },
-  {
-    "titulo": "Tênis Masculino Delta 122 Olympikus Preto/vermelho Liso 38 Br 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 229,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_782305-MLB110596757326_052026-F.jpg",
-    "link": "https://meli.la/1tQLG5H",
-    "linkWhatsapp": "https://meli.la/1tQLG5H",
-    "timestamp": 1794932426000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795018824366
   }
 ]
