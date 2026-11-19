@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Philips OneBlade Barbeador e Aparador Elétrico: Raspa, Apara e Contorna 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 244,74",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71QS7WTTChL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0ay7jkqo",
+    "linkWhatsapp": "https://link.amazon/B0ay7jkqo",
+    "timestamp": 1795047523000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795133920354,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0ay7jkqo",
+      "destination": "https://www.amazon.com.br/dp/B0C2J8DQC1?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Cupom: BF26OFF10"
+  },
+  {
     "titulo": "Toalha De Banho Banhão Praia Piscina Gigante 80x150cm Verão Jubarte 🔥🚨",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6921,21 +6943,5 @@
       "destination": "https://www.amazon.com.br/dp/B0BDZWR7NP?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V 🔥🚨",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 575,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_969245-MLA99639655414_122025-F.jpg",
-    "link": "https://meli.la/2xHvCch",
-    "linkWhatsapp": "https://meli.la/2xHvCch",
-    "timestamp": 1794931339000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795017737260
   }
 ]
