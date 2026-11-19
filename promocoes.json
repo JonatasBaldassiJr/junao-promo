@@ -1,5 +1,43 @@
 [
   {
+    "titulo": "PHILIPS, Smart TV Ambilight 65\" 4K, Titan OS, 65PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 2.902,49",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/61-b5p1Qg-L._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B03gvwjfT",
+    "linkWhatsapp": "https://link.amazon/B03gvwjfT",
+    "timestamp": 1795126531000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795212929457,
+    "amazonTracking": {
+      "url": "https://link.amazon/B03gvwjfT",
+      "destination": "https://www.amazon.com.br/dp/B0FPBPDWZQ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Resgate o cupom de 15% OFF no anúncio"
+  },
+  {
+    "titulo": "Parafusadeira e Furadeira a Bateria 12V 25Nm WF 12K3.2 com Maleta e Acessórios WAP 🔥🚨",
+    "categoria": "casa",
+    "categoriaNome": "Casa & Lazer",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 124,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://cf.shopee.com.br/file/sg-11134201-82582-mto6hokrg4xv56",
+    "link": "https://ofertou.dev.br/r/Bure5mH7",
+    "linkWhatsapp": "https://ofertou.dev.br/r/Bure5mH7",
+    "timestamp": 1795126273000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795212670888
+  },
+  {
     "titulo": "Jogo De Panelas Brinox Cerâmico 5 Pçs Carbon Ceramic Indução Cor Preto 🔥🚨",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6796,37 +6834,5 @@
     "timestamp": 1795009260000,
     "imagemIlustrativa": false,
     "expiresAt": 1795095659569
-  },
-  {
-    "titulo": "Tênis Lite Racer 4.0 adidas 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 299,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_991099-MLB82050147897_012025-F.jpg",
-    "link": "https://meli.la/2XziQTr",
-    "linkWhatsapp": "https://meli.la/2XziQTr",
-    "timestamp": 1795009078000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795095477891
-  },
-  {
-    "titulo": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 269,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_680341-MLA118784298481_102026-F.jpg",
-    "link": "https://meli.la/1QBYsJZ",
-    "linkWhatsapp": "https://meli.la/1QBYsJZ",
-    "timestamp": 1795008864000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795095262074
   }
 ]
