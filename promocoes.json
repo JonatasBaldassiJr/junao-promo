@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Brinox - Frigideira 20X4Cm 0,8L Ceramic Life Suprema - Vanilla 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 67,31",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://link.amazon/B01iUhkMs",
+    "linkWhatsapp": "https://link.amazon/B01iUhkMs",
+    "timestamp": 1795143062000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795229459011,
+    "amazonTracking": {
+      "url": "https://link.amazon/B01iUhkMs",
+      "destination": "https://www.amazon.com.br/dp/B0CYP2141M?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Enxaguante Bucal de Melancia e Hortelã Listerine, Antibacteriano, 1L 🔥🚨",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6869,21 +6890,5 @@
     "timestamp": 1795012103000,
     "imagemIlustrativa": false,
     "expiresAt": 1795098500861
-  },
-  {
-    "titulo": "Mesa Reta Escritorio 120x60 Tampo De 30mm, Á Pronta Entrega Marrom 🔥🚨",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 722,25",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_643831-MLB115595933940_092026-F.jpg",
-    "link": "https://meli.la/2PK8mnw",
-    "linkWhatsapp": "https://meli.la/2PK8mnw",
-    "timestamp": 1795011959000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795098358569
   }
 ]
