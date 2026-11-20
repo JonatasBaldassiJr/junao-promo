@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Protetor Solar Facial Neutrogena Sun Fresh, FPS 70, 40g 🔥🚨",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 72,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/51cb8j36uqL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0fAt5hXG",
+    "linkWhatsapp": "https://link.amazon/B0fAt5hXG",
+    "timestamp": 1795140149000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795226547304,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0fAt5hXG",
+      "destination": "https://www.amazon.com.br/dp/B08NVML21R?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎯 R$ 36,53 no Programe e Poupe"
+  },
+  {
     "titulo": "Fechadura Digital Inteligente Biometria Lyra Wifi Ekaza Alumínio Prateado 🔥🚨",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6846,21 +6868,5 @@
     "timestamp": 1795011368000,
     "imagemIlustrativa": false,
     "expiresAt": 1795097766670
-  },
-  {
-    "titulo": "Chave De Impacto Kinetx 68vf Brushless 880nm 2 Baterias Kit Azul 127/220v 🔥🚨",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 312,33",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_694253-MLB113894567221_062026-F.jpg",
-    "link": "https://meli.la/2rQLt27",
-    "linkWhatsapp": "https://meli.la/2rQLt27",
-    "timestamp": 1795011277000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795097675766
   }
 ]
