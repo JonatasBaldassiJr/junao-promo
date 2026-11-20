@@ -1,5 +1,49 @@
 [
   {
+    "titulo": "YoPRO Bebida Láctea UHT Chocolate Líquida Caixinha 250ml - 23g de Proteínas - Sem Lactose - Pack com 24 Unidades 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 228,79",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71LXa5K-wqL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B079ZEK9Y",
+    "linkWhatsapp": "https://link.amazon/B079ZEK9Y",
+    "timestamp": 1795215916000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795302314689,
+    "amazonTracking": {
+      "url": "https://link.amazon/B079ZEK9Y",
+      "destination": "https://www.amazon.com.br/dp/B0FSP1H9CF?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎯 R$ 186,96 no Programe e Poupe\n🎟️ Resgate o cupom de 15% no anúncio"
+  },
+  {
+    "titulo": "Sanduicheira Elétrica Mallory Classic Grill – 2 em 1, Grelha e Assa Pães, Carnes, Peixes e Legumes, Placas Antiaderentes, Luzes LED- 127V 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 119,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61vQNNzWSxL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B07fAtCsy",
+    "linkWhatsapp": "https://link.amazon/B07fAtCsy",
+    "timestamp": 1795215388000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795301787589,
+    "amazonTracking": {
+      "url": "https://link.amazon/B07fAtCsy",
+      "destination": "https://www.amazon.com.br/dp/B0C34DF7RH?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Cupom: 20BF26PRIME"
+  },
+  {
     "titulo": "Dove Óleo + Sérum Bifásico Bond Intense Repair 110 ml 🔥🚨",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6926,37 +6970,5 @@
     "timestamp": 1795098763000,
     "imagemIlustrativa": false,
     "expiresAt": 1795185148396
-  },
-  {
-    "titulo": "Controlador De Jogos Sem Fio Gamepad Machenike G5 Pro Elite Hall Gatilho Joystick Botões Mecha-Táteis Para Switch PC Android IOS 🔥🚨",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "AliExpress",
-    "precoDe": "",
-    "precoPor": "R$ 459,20",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sce898bf2475d4834ba5d1b7846b8ef9cm.jpg",
-    "link": "https://ofertou.dev.br/r/n93LZrma",
-    "linkWhatsapp": "https://ofertou.dev.br/r/n93LZrma",
-    "timestamp": 1795098662000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795185060482
-  },
-  {
-    "titulo": "Monitor Gamer TCL 25 Polegadas QD-Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 1.159,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/br-11134207-820lr-msbxq2aadlhh9c",
-    "link": "https://ofertou.dev.br/r/ZrcbKazk",
-    "linkWhatsapp": "https://ofertou.dev.br/r/ZrcbKazk",
-    "timestamp": 1795098433000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795184826589
   }
 ]
