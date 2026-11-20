@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml 🔥🚨",
+    "categoria": "moda",
+    "categoriaNome": "Beleza & Moda",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 31,99",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71cW-39wjXL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B08syPujh",
+    "linkWhatsapp": "https://link.amazon/B08syPujh",
+    "timestamp": 1795170348000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795256745978,
+    "amazonTracking": {
+      "url": "https://link.amazon/B08syPujh",
+      "destination": "https://www.amazon.com.br/dp/B07LFGWRC7?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Brinox - Frigideira 20X4Cm 0,8L Ceramic Life Suprema - Vanilla 🔥🚨",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6874,21 +6895,5 @@
       "associateTag": "junaopromobr-20"
     },
     "condicoes": "🎟️ Cupom: BLACK100OFF"
-  },
-  {
-    "titulo": "Colcha Mariah Casal Padrão Box 🔥🚨",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 199,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_618750-MLB112261772193_052026-F.jpg",
-    "link": "https://meli.la/2D83otR",
-    "linkWhatsapp": "https://meli.la/2D83otR",
-    "timestamp": 1795012103000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795098500861
   }
 ]
