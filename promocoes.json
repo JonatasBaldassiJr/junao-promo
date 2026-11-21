@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Aquela escova secadora que finalmente dá jeito no volume rebelde antes de encarar a rua",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 124,32",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_653169-MLA99851166997_112025-F.jpg",
+    "link": "https://meli.la/15BNN2M",
+    "linkWhatsapp": "https://meli.la/15BNN2M",
+    "timestamp": 1795256324000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795342722081
+  },
+  {
     "titulo": "Pasta De Amendoim Power One 1kg Integral Natural 🔥🚨",
     "categoria": "mercado",
     "categoriaNome": "Mercado",
@@ -6962,21 +6978,5 @@
     "timestamp": 1795101641000,
     "imagemIlustrativa": false,
     "expiresAt": 1795188039871
-  },
-  {
-    "titulo": "Kit 6 Cesto Organizador De Guarda Roupa Caixa Organizadora Cáqui 🔥🚨",
-    "categoria": "casa",
-    "categoriaNome": "Casa & Lazer",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 139,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_881320-MLB108851917219_032026-F.jpg",
-    "link": "https://meli.la/2yV1Ctz",
-    "linkWhatsapp": "https://meli.la/2yV1Ctz",
-    "timestamp": 1795101549000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795187948481
   }
 ]
