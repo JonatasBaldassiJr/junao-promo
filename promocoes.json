@@ -1,5 +1,37 @@
 [
   {
+    "titulo": "Liquidificador portátil Oster, Gomax, capacidade de 590 ml 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 499,90",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_969778-MLA113145793086_072026-F.jpg",
+    "link": "https://meli.la/1WX38G7",
+    "linkWhatsapp": "https://meli.la/1WX38G7",
+    "timestamp": 1795303744000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795390142863
+  },
+  {
+    "titulo": "Fritadeira Air Fryer 3l Sem Óleo 1200w Antiaderente 110/220v 🔥🚨",
+    "categoria": "cozinha",
+    "categoriaNome": "Cozinha",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 258,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_993431-MLB89690416728_082025-F.jpg",
+    "link": "https://meli.la/2Jz3yHA",
+    "linkWhatsapp": "https://meli.la/2Jz3yHA",
+    "timestamp": 1795303313000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795389711355
+  },
+  {
     "titulo": "Philco PAF15C Fritadeira Air Fryer Oven 15 Litros Revestimento Redstone Porta Removível Luz Interna 10 Funções Preta 🔥🚨",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6776,43 +6808,5 @@
       "destination": "https://www.amazon.com.br/dp/B0DG5JXLHB?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
       "associateTag": "junaopromobr-20"
     }
-  },
-  {
-    "titulo": "Caramelo de Creatina +Mu 100% Pura com 40 unidades - 260g 🔥🚨",
-    "categoria": "mercado",
-    "categoriaNome": "Mercado",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 179,99",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/61y1Pr7uLoL._AC_SL1300_.jpg",
-    "link": "https://link.amazon/B0g4yNtgq",
-    "linkWhatsapp": "https://link.amazon/B0g4yNtgq",
-    "timestamp": 1795185157000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795271555580,
-    "amazonTracking": {
-      "url": "https://link.amazon/B0g4yNtgq",
-      "destination": "https://www.amazon.com.br/dp/B0DL2DSR9T?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Cupom: 20BLACKPRIME"
-  },
-  {
-    "titulo": "Kit Com 10 Cuecas Boxer Branca Microfibra Box Masculina Lisa Kit 10 Brancas Lisas G 🔥🚨",
-    "categoria": "moda",
-    "categoriaNome": "Beleza & Moda",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 78,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_824033-MLB116096600888_092026-F.jpg",
-    "link": "https://meli.la/1hdJjnG",
-    "linkWhatsapp": "https://meli.la/1hdJjnG",
-    "timestamp": 1795184988000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795271386582
   }
 ]
