@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 749,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/71RpoYhSWJL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B05yegLmL",
+    "linkWhatsapp": "https://link.amazon/B05yegLmL",
+    "timestamp": 1795261425000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795347823793,
+    "amazonTracking": {
+      "url": "https://link.amazon/B05yegLmL",
+      "destination": "https://www.amazon.com.br/dp/B0FLKGNYJ8?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Resgate o cupom no anúncio"
+  },
+  {
     "titulo": "Cesto para Roupas Bambu Dobrável com Tampa Bege 60L Texfine 🔥🚨",
     "categoria": "casa",
     "categoriaNome": "Casa & Lazer",
@@ -6968,21 +6990,5 @@
     "timestamp": 1795102475000,
     "imagemIlustrativa": false,
     "expiresAt": 1795188873463
-  },
-  {
-    "titulo": "Mouse Gamer Multi Warrior 7 botões Rush Rgb 12000dpi - Mo392 Cor Preto 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 139,90",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_997323-MLA113944613520_072026-F.jpg",
-    "link": "https://meli.la/2vTBW4M",
-    "linkWhatsapp": "https://meli.la/2vTBW4M",
-    "timestamp": 1795102311000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795188710051
   }
 ]
