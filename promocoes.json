@@ -1,5 +1,27 @@
 [
   {
+    "titulo": "Teclado Mecânico Redragon Dark Avenger Preto Iluminação Rainbow Switch Marrom USB-A K568R 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 379,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/61O+xK4F6aL._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0imEdhVm",
+    "linkWhatsapp": "https://link.amazon/B0imEdhVm",
+    "timestamp": 1795228446000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795314844758,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0imEdhVm",
+      "destination": "https://www.amazon.com.br/dp/B089B7Z8ZD?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    },
+    "condicoes": "🎟️ Cupom: BF10"
+  },
+  {
     "titulo": "Air Fryer Britânia 8L Redstone Visor Glass BAF80A 🔥🚨",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6956,21 +6978,5 @@
     "timestamp": 1795101463000,
     "imagemIlustrativa": false,
     "expiresAt": 1795187861853
-  },
-  {
-    "titulo": "Carro de Controle Remoto Fallove 4x4 para Drift e Corrida com 3 Baterias e 2 Jogos de Pneus 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 149,98",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_776498-MLA119727819300_112026-F.jpg",
-    "link": "https://meli.la/2tpYyDr",
-    "linkWhatsapp": "https://meli.la/2tpYyDr",
-    "timestamp": 1795101232000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795187631376
   }
 ]
