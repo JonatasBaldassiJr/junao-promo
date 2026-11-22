@@ -1,5 +1,26 @@
 [
   {
+    "titulo": "Apple iPhone 16e de 128 GB — Preto 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 5.799,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/412RWxKFt8L._AC_SL1000_.jpg",
+    "link": "https://link.amazon/B0bhNd13A",
+    "linkWhatsapp": "https://link.amazon/B0bhNd13A",
+    "timestamp": 1795315727000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795402124183,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0bhNd13A",
+      "destination": "https://www.amazon.com.br/dp/B0DXR7GNWJ?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Kit 3 Regata Dry-fit Lisa Masculina Sandrini Academia Casual 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6763,27 +6784,5 @@
     "timestamp": 1795191896000,
     "imagemIlustrativa": false,
     "expiresAt": 1795278294774
-  },
-  {
-    "titulo": "Apple iPhone 17e de 512 GB — Branco 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Amazon",
-    "precoDe": "",
-    "precoPor": "R$ 7.299,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://m.media-amazon.com/images/I/41Qt5voMacL._AC_SL1000_.jpg",
-    "link": "https://link.amazon/B06pNRZuH",
-    "linkWhatsapp": "https://link.amazon/B06pNRZuH",
-    "timestamp": 1795191687000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795278085194,
-    "amazonTracking": {
-      "url": "https://link.amazon/B06pNRZuH",
-      "destination": "https://www.amazon.com.br/dp/B0GTRPYH9M?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
-      "associateTag": "junaopromobr-20"
-    },
-    "condicoes": "🎟️ Cupom: 20BLACKPRIME"
   }
 ]
