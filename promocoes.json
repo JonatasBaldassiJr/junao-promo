@@ -1,5 +1,42 @@
 [
   {
+    "titulo": "Kit Xícara e Pires de Café Street em Porcelana Decorada 70 ml 12 Peças Branco Tramontina 🔥🚨",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Mercado Livre",
+    "precoDe": "",
+    "precoPor": "R$ 189,44",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_603933-MLA95600333249_102025-F.jpg",
+    "link": "https://meli.la/173Dgmj",
+    "linkWhatsapp": "https://meli.la/173Dgmj",
+    "timestamp": 1795310386000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795396783980
+  },
+  {
+    "titulo": "Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\" - Violeta 🔥🚨",
+    "categoria": "eletronicos",
+    "categoriaNome": "Eletrônicos",
+    "loja": "Amazon",
+    "precoDe": "",
+    "precoPor": "R$ 7.999,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "https://m.media-amazon.com/images/I/614+p9UDDGL._AC_SL1500_.jpg",
+    "link": "https://link.amazon/B0hksk4sB",
+    "linkWhatsapp": "https://link.amazon/B0hksk4sB",
+    "timestamp": 1795310099000,
+    "imagemIlustrativa": false,
+    "expiresAt": 1795396498280,
+    "amazonTracking": {
+      "url": "https://link.amazon/B0hksk4sB",
+      "destination": "https://www.amazon.com.br/dp/B0GKQX8ZPN?th=1&psc=1&linkCode=sl2&tag=junaopromobr-20&ref_=as_li_ss_tl",
+      "associateTag": "junaopromobr-20"
+    }
+  },
+  {
     "titulo": "Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea 🔥🚨",
     "categoria": "cozinha",
     "categoriaNome": "Cozinha",
@@ -6759,37 +6796,5 @@
     "timestamp": 1795188678000,
     "imagemIlustrativa": false,
     "expiresAt": 1795275076306
-  },
-  {
-    "titulo": "Fone De Ouvido Esportivo Sem Fio Bluetooth Par Todos Celular 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 72,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_887237-MLB117525158882_102026-F.jpg",
-    "link": "https://meli.la/2kzzu4t",
-    "linkWhatsapp": "https://meli.la/2kzzu4t",
-    "timestamp": 1795188617000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795275015073
-  },
-  {
-    "titulo": "Caixa de Som Philco PCX6700 Amplificada 650W Ex Bass 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Mercado Livre",
-    "precoDe": "",
-    "precoPor": "R$ 899,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_977921-MLA96972461760_112025-F.jpg",
-    "link": "https://meli.la/11agLq8",
-    "linkWhatsapp": "https://meli.la/11agLq8",
-    "timestamp": 1795188503000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795274901394
   }
 ]
