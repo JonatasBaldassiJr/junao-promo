@@ -1,5 +1,20 @@
 [
   {
+    "titulo": "R$ 30,00 OFF em produtos selecionados!",
+    "categoria": "mercado",
+    "categoriaNome": "Mercado",
+    "loja": "Shopee",
+    "precoDe": "",
+    "precoPor": "R$ 30,00",
+    "desconto": "",
+    "detalheExtra": "🔥 Oferta Imperdível",
+    "imagem": "",
+    "link": "https://s.shopee.com.br/9AQY2idsF5",
+    "linkWhatsapp": "https://s.shopee.com.br/9AQY2idsF5",
+    "timestamp": 1795864638000,
+    "imagemIlustrativa": false
+  },
+  {
     "titulo": "Kit 8 Peças Dry Fit 4 Camisetas + 4 Shorts Academia Sandrini Sortidos Liso M 🔥🚨",
     "categoria": "moda",
     "categoriaNome": "Beleza & Moda",
@@ -6381,21 +6396,5 @@
     "timestamp": 1795795451000,
     "imagemIlustrativa": false,
     "expiresAt": 1795881848472
-  },
-  {
-    "titulo": "Smart TV DLED 32\" Philco P32CRB HD - HDMI, USB, LCD, Roku, Dolby Áudio, 60Hz 🔥🚨",
-    "categoria": "eletronicos",
-    "categoriaNome": "Eletrônicos",
-    "loja": "Shopee",
-    "precoDe": "",
-    "precoPor": "R$ 814,00",
-    "desconto": "",
-    "detalheExtra": "🔥 Oferta Imperdível",
-    "imagem": "https://cf.shopee.com.br/file/sg-11134201-825af-mvwalp63pxc778",
-    "link": "https://ofertou.dev.br/r/FABdc62A",
-    "linkWhatsapp": "https://ofertou.dev.br/r/FABdc62A",
-    "timestamp": 1795795442000,
-    "imagemIlustrativa": false,
-    "expiresAt": 1795881839557
   }
 ]
